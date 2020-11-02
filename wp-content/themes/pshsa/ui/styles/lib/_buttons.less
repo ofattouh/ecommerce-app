@@ -1,0 +1,20 @@
+.buttonStyle {
+  border: none !important;
+  border-radius: 0px !important;
+  padding: 10px !important;
+  background-color: @psButtonBg !important;
+  color: @white !important;
+  .fontStyle(12, 100, 700);
+  &:hover {
+    background-color: @psButtonBgHover !important;
+  }
+}
+
+.button,
+.mp-redbtnfooter,
+.productcataloglinkcls,
+.cart a.single_add_to_cart_button,
+.woocommerce-page #main a.button,
+a.vc_btn {
+  .buttonStyle
+}

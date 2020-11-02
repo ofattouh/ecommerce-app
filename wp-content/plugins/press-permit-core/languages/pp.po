@@ -1,0 +1,2324 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Press Permit 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-01-06 17:26-0500\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Kevin Behrens\n"
+"Language-Team: Agapetry Creations LLC <kevin@agapetry.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: E:\\www\\wp44\\wp-content\\plugins\\press-permit-core\\\n"
+"X-Poedit-KeywordsList: __;_e;_c;__ngettext;_n;pp_po_trigger;_x\n"
+"X-Poedit-SearchPath-0: E:\\www\\wp44\\wp-content\\plugins\\press-permit-core\n"
+"X-Poedit-SearchPath-1: E:\\www\\wp44\\wp-content\\plugins\\press-permit-core\\admin\n"
+"X-Poedit-SearchPath-2: E:\\www\\wp44\\wp-content\\plugins\\press-permit-core\\hardway\n"
+"X-Poedit-SearchPath-3: E:\\www\\wp44\\wp-content\\plugins\\press-permit-core\\lib\n"
+"X-Poedit-SearchPath-4: E:\\www\\wp44\\wp-content\\plugins\\press-permit-core\\admin\\includes\n"
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/eyes-only-helper_pp.php:4
+msgid "Permission Group"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/groups-retrieval_pp.php:240
+msgid "{Authenticated}"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/groups-retrieval_pp.php:243
+msgid "{Anonymous}"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/groups-retrieval_pp.php:246
+msgid "{All}"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/groups-retrieval_pp.php:250
+#, php-format
+msgid "[WP %s]"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/groups-retrieval_pp.php:258
+msgid "Authenticated site users (logged in)"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/groups-retrieval_pp.php:261
+msgid "Anonymous users (not logged in)"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/groups-retrieval_pp.php:264
+msgid "All users (including anonymous)"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/groups-retrieval_pp.php:270
+#, php-format
+msgid "All users with the WordPress role of %s"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/pp_load.php:46
+msgid "Groups"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/pp_load.php:46
+msgid "Group"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/admin-help_pp.php:27
+msgid "Press Permit Help"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/admin-help_pp.php:73
+#, php-format
+msgid "%1$s Press Permit Documentation%2$s"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/admin-help_pp.php:74
+#, php-format
+msgid "%1$s Press Permit Support Forums%2$s"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/admin-help_pp.php:75
+#, php-format
+msgid "%1$s Press Permit Support Forums (with config data upload) *%2$s"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/admin-help_pp.php:80
+#, php-format
+msgid "%1$s Buy a Press Permit Support Key%2$s"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/admin-help_pp.php:85
+msgid "* to control which configuration data is uploaded, see Permissions > Settings > Install > Help"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/admin-load_pp.php:123
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/ajax-exceptions_ui_pp.php:46
+msgid "Read"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/admin-load_pp.php:123
+msgid "Reading"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/admin-load_pp.php:138
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/ajax-exceptions_ui_pp.php:79
+msgid "Only these:"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/admin-load_pp.php:139
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/ajax-exceptions_ui_pp.php:76
+msgid "Not these:"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/admin-load_pp.php:140
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/ajax-exceptions_ui_pp.php:73
+msgid "Also these:"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/admin-plugins_pp.php:54
+#, php-format
+msgid "Press Permit needs directions. Please go to %1$sPermissions > Settings%2$s and indicate which Post Types and Taxonomies should be filtered."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/admin-plugins_pp.php:114
+#, php-format
+msgid "Thanks for activating Press Permit Core. Please go to %1$sPermissions > Settings%2$s and indicate which Post Types and Taxonomies should be filtered."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/admin-roles_pp.php:66
+#, php-format
+msgid "(using default capabilities due to invalid %s definition)"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/admin-roles_pp.php:86
+#, php-format
+msgid "%1$s&nbsp;%2$s&nbsp;<span class=\"pp_nolink\">-&nbsp;%3$s</span>%4$s"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/admin-roles_pp.php:88
+#, php-format
+msgid "%1$s&nbsp;%2$s&nbsp;%3$s"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/admin-ui-roles_pp.php:68
+#, php-format
+msgid "%1$s %2$s"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/admin-ui-roles_pp.php:157
+#, php-format
+msgid "%1$s (%2$s)"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/admin-ui-roles_pp.php:165
+#, php-format
+msgid "%s, more..."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/admin-ui_pp.php:220
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/admin-ui_pp.php:239
+msgid "Permissions"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/admin-ui_pp.php:229
+msgid "Add New Permission Group"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/admin-ui_pp.php:233
+msgid "Users"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/admin-ui_pp.php:239
+msgid "Settings"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/admin-ui_pp.php:246
+msgid "Edit Permissions"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/admin-ui_pp.php:253
+msgid "About Press Permit"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/admin-ui_pp.php:253
+msgid "About"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/admin-ui_pp.php:292
+msgid "Press Permit"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/admin-ui_pp.php:320
+msgid "An improvement to permissions handling is available. Please review Permissions > Settings > Core > Permissions."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/admin-ui_pp.php:327
+msgid "Dismiss"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/agents-ajax_pp.php:19
+msgid "Select &gt;"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/agents-ajax_pp.php:19
+msgid "&lt; Unselect"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/agents-ajax_pp.php:19
+msgid "Current Selections:"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/agents-ajax_pp.php:44
+#, php-format
+msgid "Find Users by %s"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/agents-ajax_pp.php:46
+msgid "Find Users"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/agents-ajax_pp.php:49
+msgid "Select Groups"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/agents-ajax_pp.php:62
+msgid "For additional fields, define constant PP_USER_SEARCH_META_FIELDS"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/agents-ajax_pp.php:63
+msgid "First Name"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/agents-ajax_pp.php:63
+msgid "Last Name"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/agents-ajax_pp.php:63
+msgid "Nickname"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/agents-ajax_pp.php:82
+msgid "(user field)"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/agents-ajax_pp.php:101
+msgid "(any WP role)"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/agents-ajax_pp.php:116
+msgid "Search Results:"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/agents-ajax_pp.php:166
+msgid "To set date limits on group membership, activate the PP Membership plugin."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/agents-ajax_pp.php:168
+#, php-format
+msgid "To set date limits on group membership, %1$sinstall%2$s the PP Membership plugin."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/agents-ajax_pp.php:170
+#, php-format
+msgid "To set date limits on group membership, %1$senter%2$s or %3$spurchase%4$s a support key and install the PP Membership plugin."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/agents-checklist_pp.php:27
+#, php-format
+msgid "eligible (%d):"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/agents-checklist_pp.php:34
+#, php-format
+msgid "current (%d):"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/agents-checklist_pp.php:110
+msgid "view / edit group"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/agents-checklist_pp.php:111
+msgid "edit"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/ajax-exceptions_ui_pp.php:44
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/ajax-exceptions_ui_pp.php:64
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/ajax-exceptions_ui_pp.php:89
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/ajax-exceptions_ui_pp.php:137
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/ajax-exceptions_ui_pp.php:164
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/ajax-item_ui_pp.php:12
+msgid "(login timed out)"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/ajax-exceptions_ui_pp.php:56
+msgid "select..."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/ajax-exceptions_ui_pp.php:97
+msgid "selected:"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/ajax-exceptions_ui_pp.php:143
+#, php-format
+msgid "selected %s:"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/ajax-exceptions_ui_pp.php:148
+#, php-format
+msgid "sub-%s of:"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/ajax-exceptions_ui_pp.php:170
+msgid "(all)"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/ajax-exceptions_ui_pp.php:181
+#, php-format
+msgid "%s Visibility"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/ajax-ui_pp.php:36
+msgid "(invalid role definition)"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/ajax-ui_pp.php:50
+msgid "standard statuses"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/defaults-admin_pp.php:6
+msgid "Subscribers"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/defaults-admin_pp.php:6
+msgid "Subscriber"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/defaults-admin_pp.php:7
+msgid "Contributors"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/defaults-admin_pp.php:7
+msgid "Contributor"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/defaults-admin_pp.php:8
+msgid "Authors"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/defaults-admin_pp.php:8
+msgid "Author"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/defaults-admin_pp.php:9
+msgid "Editors"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/defaults-admin_pp.php:9
+msgid "Editor"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/filters-update-core_pp.php:40
+#, php-format
+msgid "%1$sPress Permit%2$s: %3$s%4$s update available%5$s"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/item-exceptions-render-ui_pp.php:10
+msgid "(default access)"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/item-exceptions-render-ui_pp.php:11
+msgid "(default: Yes)"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/item-exceptions-render-ui_pp.php:12
+msgid "(default: No)"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/item-exceptions-render-ui_pp.php:13
+msgid "(no setting)"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/item-exceptions-render-ui_pp.php:14
+msgid "Enabled"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/item-exceptions-render-ui_pp.php:15
+msgid "Blocked"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/item-exceptions-render-ui_pp.php:16
+msgid "(Blocked)"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/item-exceptions-render-ui_pp.php:17
+msgid "Unblocked"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/item-exceptions-ui-hints_pp.php:5
+msgid "To block direct access to unreadable files, activate the PP File URL Filter plugin."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/item-exceptions-ui-hints_pp.php:7
+#, php-format
+msgid "To block direct access to unreadable files, %1$sinstall%2$s the PP File URL Filter plugin."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/item-exceptions-ui-hints_pp.php:9
+#, php-format
+msgid "To block direct access to unreadable files, %1$spurchase a support key%2$s and install the PP File URL Filter plugin."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/item-exceptions-ui-hints_pp.php:16
+msgid "To customize editing permissions, activate the PP Collaborative Editing plugin."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/item-exceptions-ui-hints_pp.php:18
+#, php-format
+msgid "To customize editing permissions, %1$sinstall%2$s the PP Collaborative Editing plugin."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/item-exceptions-ui-hints_pp.php:20
+#, php-format
+msgid "To customize editing permissions, %1$spurchase a support key%2$s and install the PP Collaborative Editing plugin."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/item-exceptions-ui_pp.php:39
+msgid "WP Roles"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/item-exceptions-ui_pp.php:39
+msgid "WP Role"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/item-exceptions-ui_pp.php:41
+msgid "User"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/item-exceptions-ui_pp.php:153
+#, php-format
+msgid "This %s"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/item-exceptions-ui_pp.php:158
+#, php-format
+msgid "Sub-%s"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/item-exceptions-ui_pp.php:185
+msgid "default all"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/item-exceptions-ui_pp.php:185
+msgid "clear all"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/item-exceptions-ui_pp.php:200
+msgid "No access customizations stored."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/item-exceptions-ui_pp.php:208
+msgid "select users"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/item-exceptions-ui_pp.php:208
+msgid "select groups"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/item-exceptions-ui_pp.php:209
+msgid "close"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/item-exceptions-ui_pp.php:213
+msgid "create group"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/item-exceptions-ui_pp.php:232
+msgid "To customize <strong>for a specific post status</strong>, edit the desired role / group / user permissions directly (Permissions > Groups or Users)"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/media-ui-hints_pp.php:4
+msgid "To block direct URL access to attachments of unreadable posts, activate the PP File URL Filter plugin."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/media-ui-hints_pp.php:6
+#, php-format
+msgid "To block direct URL access to attachments of unreadable posts, %1$sinstall%2$s the PP File URL Filter plugin."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/media-ui-hints_pp.php:8
+#, php-format
+msgid "To block direct URL access to attachments of unreadable posts, %1$senter%2$s or %3$spurchase%4$s a support key and install the PP File URL Filter plugin."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/media-ui-hints_pp.php:14
+msgid "Block URL access"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-advanced_ppx.php:18
+msgid "Advanced"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-advanced_ppx.php:24
+msgid "Enable Advanced"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-advanced_ppx.php:25
+msgid "File Filtering"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-advanced_ppx.php:26
+msgid "Network-Wide Settings"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-advanced_ppx.php:31
+msgid "Content Filtering"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-advanced_ppx.php:32
+msgid "Permissions Admin"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-advanced_ppx.php:33
+msgid "PP Capabilities"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-advanced_ppx.php:34
+msgid "Role Integration"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-advanced_ppx.php:35
+msgid "Miscellaneous"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-advanced_ppx.php:45
+msgid "Enable advanced settings"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-advanced_ppx.php:49
+#, php-format
+msgid "%1$sDisable%2$s all filtering for anonymous users"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-advanced_ppx.php:50
+#, php-format
+msgid "%1$sDisable%2$s metagroup exceptions for Administrators"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-advanced_ppx.php:51
+msgid "User Search: Filter by WP role"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-advanced_ppx.php:52
+msgid "Display Administrative Hints"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-advanced_ppx.php:53
+msgid "Display Extension Hints"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-advanced_ppx.php:54
+msgid "Detect Dynamically Mapped WP Roles"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-advanced_ppx.php:55
+msgid "Non-Administrators can set Reading Exceptions for their editable posts"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-advanced_ppx.php:56
+msgid "Bulk Add / Remove Groups on Users Screen"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-advanced_ppx.php:88
+msgid "<strong>Note:</strong> if you disable these settings, the stored values (including Role Usage adjustments) are retained but ignored."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-advanced_ppx.php:90
+msgid "Most sites don't need advanced settings. But enable them if you need to work with custom WP Roles or apply performance tweaks."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-advanced_ppx.php:120
+msgid "To filter access to attached files, install the Press Permit File URL Filter extension."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-advanced_ppx.php:133
+#, php-format
+msgid "Disable PP filtering for users who are not logged in. %1$sNote that this performance enhancement will make reading exceptions ineffective%2$s."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-advanced_ppx.php:136
+msgid "If checked, pages blocked from the \"All\" or \"Authenticated\" groups will still be listed to Administrators."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-advanced_ppx.php:159
+msgid "If enabled, users with the pp_set_read_exceptions capability in the WP role can set reading exceptions for their editable posts."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-advanced_ppx.php:174
+msgid "Display a role dropdown alongside the user search input box to narrow results."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-advanced_ppx.php:177
+msgid "Display additional descriptions in role assignment and options UI."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-advanced_ppx.php:180
+msgid "Display descriptive captions for additional functionality provided by missing or deactivated extension plugins (Press Permit Pro package)."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-advanced_ppx.php:198
+#, php-format
+msgid "You can customize Press Permit administration capabilities %1$s for any WP role%2$s:"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-advanced_ppx.php:200
+#, php-format
+msgid "You can customize Press Permit administration capabilities by using a WP role editor such as %1$s:"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-advanced_ppx.php:211
+msgid "Capability Name"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-advanced_ppx.php:212
+msgid "Description"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-advanced_ppx.php:219
+msgid "Modify these Press Permit settings"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-advanced_ppx.php:220
+msgid "Press Permit does not apply any supplemental roles or exceptions to limit or expand viewing or editing access"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-advanced_ppx.php:221
+msgid "PP implicitly grants capabilities for all post types and statuses, but does not apply exceptions"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-advanced_ppx.php:222
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-advanced_ppx.php:233
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-advanced_ppx.php:236
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-advanced_ppx.php:239
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-advanced_ppx.php:240
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-advanced_ppx.php:241
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-advanced_ppx.php:242
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-advanced_ppx.php:243
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-advanced_ppx.php:244
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-advanced_ppx.php:245
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-advanced_ppx.php:252
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-advanced_ppx.php:253
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-advanced_ppx.php:254
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-advanced_ppx.php:255
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-advanced_ppx.php:256
+msgid "(PP Pro capability)"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-advanced_ppx.php:223
+msgid "Can create Permission Groups"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-advanced_ppx.php:224
+msgid "Can edit all Permission Groups (barring Exceptions)"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-advanced_ppx.php:225
+msgid "Can delete Permission Groups"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-advanced_ppx.php:226
+msgid "If group editing is allowed, can also modify group membership"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-advanced_ppx.php:227
+msgid "Assign supplemental Roles or Exceptions. Other capabilities may also be required."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-advanced_ppx.php:228
+msgid "Set Reading Exceptions for editable posts on Edit Post/Term screen (for non-Administrators lacking edit_users capability; may be disabled by PP option)"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-advanced_ppx.php:281
+msgid "Detect user roles which are appended dynamically but not stored to the WP database. May be useful for sites that sync with Active Directory or other external user registration systems."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-advanced_ppx.php:298
+msgid "To modify one or more default settings network-wide, <strong>copy</strong> the following code into your theme&apos;s <strong>functions.php</strong> file (or some other file which is always executed and not auto-updated) and modify as desired:"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-advanced_ppx.php:317
+msgid "To force the value of one or more settings network-wide, <strong>copy</strong> the following code into your theme&apos;s <strong>functions.php</strong> file (or some other file which is always executed and not auto-updated) and modify as desired:"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-core_pp.php:16
+msgid "Core"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-core_pp.php:22
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-core_pp.php:39
+msgid "Filtered Taxonomies"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-core_pp.php:23
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-core_pp.php:40
+msgid "Filtered Post Types"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-core_pp.php:25
+msgid "Front End"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-core_pp.php:26
+msgid "Admin Back End"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-core_pp.php:27
+msgid "User Management / Profile"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-core_pp.php:28
+msgid "Database Maintenance"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-core_pp.php:41
+msgid "Use create_posts capability"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-core_pp.php:42
+msgid "Suppress \"Private:\" Caption"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-core_pp.php:43
+msgid "Permission Groups on User Profile"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-core_pp.php:44
+msgid "Supplemental Roles on User Profile"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-core_pp.php:45
+msgid "Select Permission Groups at User creation"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-core_pp.php:46
+msgid "Drop old PP database indexes for better performance"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-core_pp.php:47
+msgid "Hide non-editable posts"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-core_pp.php:48
+msgid "Post-assigned Exceptions take priority"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-core_pp.php:75
+msgid "Basic settings for content filtering, management and presentation."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-core_pp.php:90
+msgid "If disabled, manually \"blocked\" posts can be unblocked by Category / Term Exceptions.  Enabling this setting will provide more intuitive behavior, but may require configuration review and testing on prior installations."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-core_pp.php:105
+msgid "Modify permissions for these Taxonomies:"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-core_pp.php:116
+msgid "Modify permissions for these Post Types:"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-core_pp.php:171
+#, php-format
+msgid "<span class=\"pp-important\">Note</span>: Type-specific capability requirements (i.e. edit_things instead of edit_posts) will be imposed. If PP filters Media or a custom type, non-Administrators <span class=\"pp-important\">will need a corresponding %1$ssupplemental role%2$s for editing</span>. Adding the type-specific capabilities directly to a WP role definition also works."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-core_pp.php:179
+msgid "To customize bbPress forum permissions, activate PP Compatibility Pack."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-core_pp.php:181
+msgid "To customize bbPress forum permissions, activate your Press Permit Pro support key."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-core_pp.php:190
+msgid "If enabled, the create_posts, create_pages, etc. capabilities will be enforced for all Filtered Post Types.  <strong>NOTE: You will also need to use a WordPress Role Editor</strong> such as Capability Manager Enhanced to add the create_posts capability to desired roles."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-core_pp.php:204
+msgid "Remove the \"Private:\" and \"Protected\" prefix from Post, Page titles"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-core_pp.php:215
+msgid "Note: To allow listing of uneditable posts in wp-admin, define constant PP_ADMIN_READONLY_LISTABLE"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-core_pp.php:232
+msgid "note: Groups and Roles are always displayed in \"Edit User\""
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:16
+msgid "Install"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:22
+msgid "Support Key"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:23
+msgid "Version"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:24
+msgid "Extensions"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:25
+msgid "Beta Updates"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:36
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:39
+msgid "settings"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:37
+msgid "Receive update info from presspermit.com"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:38
+msgid "Receive beta version updates for extensions"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:72
+msgid "Configuration data was uploaded."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:76
+msgid "Configuration data is unchanged since last upload."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:80
+msgid "Configuration data could not be uploaded."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:86
+msgid "Version info was refreshed."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:131
+#, php-format
+msgid "Your support key has expired. For information on renewal at a discounted rate, <a href=\"%s\">click here</a>."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:136
+#, php-format
+msgid "Your support key (for plugin updates) will expire today. For information on renewal at a discounted rate, <a href=\"%2$s\">click here</a>."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:138
+#, php-format
+msgid "Your support key (for plugin updates) will expire in %1$s days. For information on renewal at a discounted rate, <a href=\"%2$s\">click here</a>."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:143
+#, php-format
+msgid "Activate your support key to install Pro extensions and access the member support forums. Available at <a href=\"%s\">presspermit.com</a>."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:152
+msgid "Key Expired"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:154
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:161
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:538
+msgid "Deactivate Key"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:155
+msgid "note: Renewal does not require deactivation. If you do deactivate, re-entry of the support key will be required."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:158
+msgid "Key Activated"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:161
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:537
+msgid "Activate Key"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:171
+msgid "note: If you deactive, re-entry of the support key will be required for re-activation."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:173
+msgid "note: Your site URL and version info will be sent to presspermit.com"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:177
+msgid "reload extension info"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:225
+#, php-format
+msgid "Press Permit Core Version: %1$s %2$s"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:227
+#, php-format
+msgid "Database Schema Version: %s"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:231
+#, php-format
+msgid "WordPress Version: %s"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:234
+#, php-format
+msgid "PHP Version: %s"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:240
+msgid "Periodically query presspermit.com for available extensions. Your version info will be sent."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:252
+msgid "refresh"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:260
+msgid "Create your own WP roles or modify the capabilities defined for any WP Role."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:261
+msgid "Create your own WP roles or modify the capabilities defined for any WP Role. Not necessary for all installations, but PP interop is particularly important for bbPress and BuddyPress installations."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:280
+msgid "<strong>Change Log</strong> (since your current version)"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:282
+msgid "Active Extensions:"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:325
+#, php-format
+msgid "%1$sInactive Extensions%2$s:"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:344
+msgid "Available Pro Extensions:"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:382
+msgid "To enable one-click installation and update of extensions, please activate your Press Permit Pro support key above."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:384
+#, php-format
+msgid "Visit %1$spresspermit.com%2$s for further information on obtaining and installing extensions."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:390
+msgid "Press Permit Pro extensions supply:"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:392
+#, php-format
+msgid "%1$sContent-specific editing permissions, with Edit Flow, Revisionary and Post Forking support%2$s"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:393
+#, php-format
+msgid "%1$sCustom Post Statuses (for visibility or moderation)%2$s"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:394
+#, php-format
+msgid "%1$sCustomize bbPress forum access%2$s"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:395
+#, php-format
+msgid "%1$sFile URL filtering%2$s"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:396
+#, php-format
+msgid "%1$sRole Scoper import script%2$s"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:397
+#, php-format
+msgid "%1$s...and more%2$s"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:400
+#, php-format
+msgid "For updated availability, enable the \"update info\" option above or visit %1$spresspermit.com%2$s."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:406
+msgid "Note: Hover over descriptions for more detail. Press Permit extensions can also be maintained on the Plugins screen."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:426
+msgid "Press Permit Documentation"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:428
+msgid "Press Permit Support Forums"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:430
+msgid "Upload site configuration to presspermit.com now"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:436
+#, php-format
+msgid "%s Site configuration data selected below will be uploaded to presspermit.com:"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:447
+msgid "Version info for server, WP, bbPress, BuddyPress, PP and all extensions"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:448
+msgid "PP Settings and related WP Settings"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:449
+msgid "Theme name, version and status"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:450
+msgid "Activated plugins list"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:451
+msgid "Inactive plugins list"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:452
+msgid "WordPress Roles, Capabilities, Post Types, Taxonomies and Post Statuses"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:453
+msgid "Role Assignments and Exceptions"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:454
+msgid "Group definitions"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:455
+msgid "Group Membership (id only)"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:456
+msgid "Role Scoper / PP 1.x Configuration and PP Import Results"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:457
+msgid "Post id, status, author id, parent id, and term ids and taxonomy name (when support accessed from post or term edit form)"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:458
+msgid "PHP Error Log (recent entries, no absolute paths)"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:483
+msgid "<strong>note:</strong> user data, absolute paths, database prefix, post title, post content and post excerpt are <strong>never</strong> uploaded"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:491
+msgid "Purchase of a support key enables access to the following resources:"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:495
+msgid "Pro Documentation on presspermit.com"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:496
+msgid "Pro Support Forums on presspermit.com"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:497
+msgid "Optional uploading of your site configuration to assist troubleshooting"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:504
+msgid "Note that these resources may be unavailable or incomplete during the project's initial beta phase."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:521
+msgid "If you have already received a beta update and want to switch back to the current production version, switch off this option and click Update. Then look for an update prompt in the Plugins list."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:539
+msgid "Connecting to presspermit.com server..."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:540
+msgid "The request could not be processed due to a connection failure."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:541
+msgid "Please enter the support key shown on your order receipt."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:542
+msgid "An unidentified error occurred."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:544
+msgid "The key has been deactivated."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:545
+msgid "The key has been activated."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:546
+msgid "The key has expired."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:547
+msgid "An unknown activation error occurred."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:548
+msgid "The key provided is not valid. Please double-check your entry."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:549
+msgid "This site is not valid to activate the key."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:550
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:556
+msgid "The key provided could not be validated by presspermit.com."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:551
+msgid "The key provided is already active on another site."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:552
+msgid "The key has already been activated on the allowed number of sites."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:553
+msgid "An unknown deactivation error occurred."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:554
+msgid "Unable to deactivate because the provided key is not valid."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:555
+msgid "This site is not valid to deactivate the key."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:557
+msgid "The key provided is not active on the specified site."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:562
+#, php-format
+msgid "If this is incorrect, <a href=\"%s\">request activation help</a>."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/options-install_pp.php:563
+msgid "Please save settings before uploading site configuration."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:10
+msgid "Group Members"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:73
+msgid "n/a"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:79
+msgid "Copy Roles and Exceptions from:"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:96
+msgid "Do Clone"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:107
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:192
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:370
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:402
+msgid "Post Type"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:108
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:371
+msgid "Role"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:109
+msgid "for Statuses"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:129
+msgid "Status: Private"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:134
+msgid "Add Role"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:145
+msgid "To assign roles for custom post statuses, activate the PP Custom Post Statuses plugin."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:147
+#, php-format
+msgid "To assign roles for custom post statuses, %1$sinstall%2$s the PP Custom Post Statuses plugin."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:149
+msgid "To assign roles for custom post statuses, %1$senter%2%s or %3$spurchase%4$s a support key and install the PP Custom Post Statuses plugin."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:158
+msgid "To assign roles for bbPress forums, activate the PP Compatibility Pack plugin."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:160
+#, php-format
+msgid "To assign roles for bbPress forums, %1$sinstall%2$s the PP Compatibility Pack plugin."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:162
+#, php-format
+msgid "To assign roles for bbPress forums, %1$senter%2$s or %3$spurchase%4$s a support key and install the PP Compatibility Pack plugin."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:171
+msgid "To assign Revisionary exceptions, activate the PP Collaborative Editing and PP Compatibility Pack plugins."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:173
+#, php-format
+msgid "To assign Revisionary exceptions, %1$sinstall%2$s the PP Collaborative Editing and PP Compatibility Pack plugins."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:175
+#, php-format
+msgid "To assign Revisionary exceptions, %1$senter%2$s or %3$spurchase%4$s a support key and install the PP Collaborative Editing and PP Compatibility Pack plugins."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:193
+msgid "Post Operation"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:194
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:404
+msgid "Adjustment"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:195
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:405
+msgid "Qualification"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:196
+msgid "Statuses"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:224
+msgid "for item"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:245
+msgid "Warning: Content hidden by exceptions will be displayed if PP is deactivated. Consider setting a private Visibility on Edit Post screen instead."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:273
+msgid "To assign exceptions for editing, parent selection or term assignment, activate the PP Collaborative Editing plugin."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:275
+#, php-format
+msgid "To assign exceptions for editing, parent selection or term assignment, %1$sinstall%2$s the PP Collaborative Editing plugin."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:277
+#, php-format
+msgid "To assign exceptions for editing, parent selection or term assignment, %1$senter%2$s or %3$spurchase%4$s a support key and install the PP Collaborative Editing plugin."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:286
+msgid "To assign exceptions for bbPress forums, activate the PP Compatibility Pack plugin."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:288
+#, php-format
+msgid "To assign exceptions for bbPress forums, %1$sinstall%2$s the PP Compatibility Pack plugin."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:290
+#, php-format
+msgid "To assign exceptions for bbPress forums, %1$senter%2$s or %3$spurchase%4$s a support key and install the PP Compatibility Pack plugin."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:321
+#, php-format
+msgid "Select %s"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:372
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:407
+msgid "Status"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:384
+msgid "Save Roles"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:403
+msgid "Operation"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:419
+msgid "Save Exceptions"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:442
+msgid "Add Supplemental Roles"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:444
+msgid "Add Exceptions"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:454
+msgid "Clone"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:544
+#, php-format
+msgid "Supplemental Roles %1$s(for user)%2$s"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:544
+msgid "Supplemental Roles"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:605
+msgid "Term Management"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:609
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:612
+msgid "objects"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:610
+msgid "Direct-Assigned"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:613
+msgid "Disabled Type"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:618
+#, php-format
+msgid "%s Roles"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:655
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:993
+msgid "Apply"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:679
+#, php-format
+msgid "Exceptions %1$s(for user)%2$s"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:679
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/post-listing-ui_pp.php:56
+msgid "Exceptions"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:687
+msgid "(none)"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:822
+msgid "(all post types)"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:831
+#, php-format
+msgid "%1$s (%2$s: %3$s)"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:831
+#, php-format
+msgid "%1$s %2$s %3$s"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:865
+msgid "unpublished"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:879
+#, php-format
+msgid "* %s"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:902
+#, php-format
+msgid "%s:"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:981
+#, php-format
+msgid "Assign for selected and sub-%s"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:982
+#, php-format
+msgid "Assign for selected %s only"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:983
+#, php-format
+msgid "Assign for sub-%s only"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:985
+msgid "Assign for selected and sub-terms"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:986
+msgid "Assign for selected term only"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:987
+msgid "Assign for sub-terms only"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:1003
+msgid "* = exceptions redundant due to a corresponding &quot;only these&quot; entry"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:1014
+#, php-format
+msgid "... = assigned for %1$s and sub-%1$s"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:1017
+#, php-format
+msgid "* = assigned for sub-%s only"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:1027
+#, php-format
+msgid "note: Exceptions inherited from parent %1$s are not displayed. %2$sshow all%3$s"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/permissions-ui_pp.php:1029
+#, php-format
+msgid "note: Exceptions inherited from parent %1$s or terms are not displayed. %2$sshow all%3$s"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/plugin-update-watch_pp.php:31
+#, php-format
+msgid "Bulk Update is not currently supported for Press Permit. Please use individual plugin update links in the %1$splugins list%2$s or %3$sPP Install tab%4$s instead."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/plugin-update_pp.php:318
+msgid "Reload Press Permit Install Screen"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/plugin-update_pp.php:373
+msgid "Activate Plugin"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/plugin-update_pp.php:376
+msgid "Network Activate"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/plugin-update_pp.php:380
+msgid "Reload PP Install Screen"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/plugin_pp.php:268
+#, php-format
+msgid "There is a new version of %1$s, but your support key has expired. You may <a href=\"%2$s\">renew at a discounted rate</a> for Press Permit Pro extension updates and support resources. <a href=\"%3$s\" class=\"thickbox\" title=\"%4$s\">View version %5$s details</a>."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/plugin_pp.php:270
+#, php-format
+msgid "There is a new version of %1$s, but <a href=\"%2$s\">your support key</a> is not activated. <a href=\"%3$s\">Purchase a Press Permit Pro support key</a> for one-click updates and support resources. <a href=\"%4$s\" class=\"thickbox\" title=\"%5$s\">View version %6$s details</a>."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/plugin_pp.php:299
+#, php-format
+msgid "Your support key has expired.  For support resources and updates to Press Permit Pro extensions, you may <a href=\"%1$s\">renew at a discounted rate</a>."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/plugin_pp.php:303
+#, php-format
+msgid "Activate your <a href=\"%1$s\">support key</a> for Press Permit Pro extensions and support resources."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/post-edit-ui-hints_pp.php:5
+msgid "To define custom privacy statuses, activate the PP Custom Post Statuses plugin."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/post-edit-ui-hints_pp.php:7
+#, php-format
+msgid "To define custom privacy statuses, %1$sinstall%2$s the PP Custom Post Statuses plugin."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/post-edit-ui-hints_pp.php:9
+#, php-format
+msgid "To define custom privacy statuses, %1$senter%2$s or %3$spurchase%4$s a support key and install the PP Custom Post Statuses plugin."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/post-edit-ui-hints_pp.php:15
+msgid "define custom privacy"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/post-edit-ui-hints_pp.php:39
+#, php-format
+msgid "To define custom moderation statuses, %1$sactivate%2$s %3$s."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/post-edit-ui-hints_pp.php:41
+#, php-format
+msgid "To define custom moderation statuses, %1$senter%2$s or %3$spurchase%4$s a Press Permit support key. Then install %5$s."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/post-edit-ui-hints_pp.php:47
+msgid "Customize"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/post-edit-ui_pp.php:57
+msgid "Press Permit Settings"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/post-edit-ui_pp.php:72
+#, php-format
+msgid "%s Exceptions"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/post-edit-ui_pp.php:104
+#, php-format
+msgid "enable custom permissions for %s"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-about.php:14
+msgid "unselfish, benevolent love, born of the Spirit."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-about.php:17
+msgid "Agap&eacute; discerns needs and meets them unselfishly and effectively."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-about.php:20
+#, php-format
+msgid "This WordPress plugin is part of my agap&eacute; try, %7$s a lifelong effort%8$s to love God and love people by rightly using the time and abilities He has leant me. As a husband, father, engineer, farmer and/or software developer, I have found this stewardship effort to be often fraught with contradiction. A wise and sustainable balancing of roles has seemed to elude me. Yet I want to keep trying, trusting that if God blesses and multiplies the effort, it will become agapetry, a creative arrangement motivated by benevolent love.  A fleeting childlike sketch of the beautiful %1$s chain-breaking agap&eacute;%2$s which %3$s Jesus Christ unleashed%4$s so %5$s freely%6$s and aptly on an enslaving, enslaved world."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-about.php:30
+msgid "Over that last five years, I&apos;ve discovered that WordPress permissions customization is a complex moving target that&apos;s not well-suited to a purely free+consulting model. To ensure commensurate funding for plugin development, documentation and support, I&apos;ve introduced Press Permit Pro. Your purchase provides access and 12 months of updates to a package of extension plugins which provide these and other features:"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-about.php:34
+msgid "Customize editing access for selected posts or terms"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-about.php:36
+msgid "Custom Privacy Statuses, integrated with WP capabilities and editing"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-about.php:38
+msgid "Custom Moderation Statuses, allowing multi-step moderation"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-about.php:40
+msgid "Use BuddyPress groups as Permission Groups"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-about.php:42
+msgid "Customize permissions for any bbPress Forum"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-about.php:44
+msgid "Regulate direct file URL access"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-about.php:46
+msgid "Hidden Content Teaser"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-about.php:48
+msgid "Schedule or expire Permission Group membership (date or X days)"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-about.php:52
+msgid "You also get access to the Pro Support Forums. If you would like to get a hold of this software or fund other development, there are several ways to proceed:"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-about.php:56
+#, php-format
+msgid "%1$s by creating a 30 day evaluation site %2$sfor a nominal fee%3$s."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-about.php:60
+#, php-format
+msgid "%1$sBuy%2$s %3$s for 12 months of access to %4$sextension plugins%5$s and support resources."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-about.php:64
+#, php-format
+msgid "View Kevin&apos;s %1$s and submit a request."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-about.php:70
+#, php-format
+msgid "If you just want to say thanks for past development and support, %s"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-about.php:74
+#, php-format
+msgid "Although Press Permit&apos;s development was a maniacal hermit-like effort, it was only possible because of the clean and extensible %1$s WordPress code base%2$s developed by hundreds of core contributors.  Thanks for appreciating and supporting my own contributions to this content management landscape.  I hope they will assist you toward resolution and purpose in building excellent websites with a thankful heart toward your own Creator, who IS agap&eacute;."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-about.php:79
+#, php-format
+msgid "If you need additional feature development or implementation assistance, I may be available for %1$spaid consulting%2$s."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-about.php:84
+msgid "Thanks again for your support,"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-agent-edit-handler.php:25
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-agent-edit-handler.php:97
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-edit-permissions.php:30
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-edit-permissions.php:36
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-edit-permissions.php:39
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-group-new.php:27
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-permits-handler.php:33
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-permits-handler.php:76
+msgid "You are not permitted to do that."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-agent-edit-handler.php:271
+msgid "<strong>ERROR</strong>: Please enter a group name."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-agent-edit-handler.php:274
+msgid "<strong>ERROR</strong>: This group name is already registered. Please choose another one."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-edit-permissions.php:20
+msgid "No user/group specified."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-edit-permissions.php:33
+msgid "Invalid user ID."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-edit-permissions.php:42
+msgid "Invalid group ID."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-edit-permissions.php:66
+msgid "Roles updated."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-edit-permissions.php:69
+msgid "Exceptions updated."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-edit-permissions.php:72
+msgid "Permissions cloned."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-edit-permissions.php:75
+msgid "Group updated."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-edit-permissions.php:79
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-edit-permissions.php:91
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-group-new.php:37
+msgid "Back to groups list"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-edit-permissions.php:88
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-group-new.php:35
+msgid "Group created."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-edit-permissions.php:109
+msgid "Edit User Permissions"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-edit-permissions.php:109
+msgid "Add User Permissions"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-edit-permissions.php:112
+msgid "Edit Permission Group (WP Role)"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-edit-permissions.php:115
+msgid "Edit Permission Group"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-edit-permissions.php:118
+#, php-format
+msgid "Edit Permissions (%s)"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-edit-permissions.php:140
+msgid "User Login:"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-edit-permissions.php:148
+msgid "Name:"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-edit-permissions.php:165
+msgid "Primary Role:"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-edit-permissions.php:188
+msgid "Update Group"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-edit-permissions.php:252
+#, php-format
+msgid "Supplemental Roles %1$s(from primary role or %2$sgroup membership%3$s)%4$s"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-edit-permissions.php:267
+#, php-format
+msgid "Exceptions %1$s(from primary role or %2$sgroup membership%3$s)%4$s"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-edit-permissions.php:274
+msgid "View currently stored user permissions:"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-edit-permissions.php:278
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-users.php:45
+#, php-format
+msgid "%1$sUsers who have Supplemental Roles assigned directly%2$s"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-edit-permissions.php:279
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-users.php:46
+#, php-format
+msgid "%1$sUsers who have Exceptions assigned directly%2$s"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-edit-permissions.php:280
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-users.php:47
+#, php-format
+msgid "%1$sUsers who have Supplemental Roles or Exceptions directly%2$s"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-edit-permissions.php:289
+msgid "Exceptions Explained:"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-edit-permissions.php:291
+msgid "Not These : Specified items are not accessible unless an \"Also These\" exception is also stored."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-edit-permissions.php:292
+msgid "Only These : Item access as defined by user / group role(s) is further limited by these selections. Users will still need sufficient capabilities in their primary or supplemental roles."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-edit-permissions.php:293
+msgid "Also These : Specified items are accessible regardless of role(s) and other exceptions."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-edit-permissions.php:298
+msgid "Keep in mind that roles and exceptions can be assigned to WP Roles, BuddyPress Groups, Custom Groups and/or individual Users.  \"Not These\" and \"Only These\" exceptions are unavailable for groups in some contexts."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-group-new.php:55
+msgid "Create New Permission Group"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-group-new.php:57
+#, php-format
+msgid "Create New %s"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-group-new.php:71
+msgid "Name"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-group-new.php:87
+msgid "Note: Supplemental Roles and other group settings can be configured here after the new group is created."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-group-new.php:94
+msgid "Create Group"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-groups.php:55
+msgid "Delete Groups"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-groups.php:56
+msgid "You have specified this group for deletion:"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-groups.php:67
+#, php-format
+msgid "ID #%1s: %2s"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-groups.php:75
+msgid "Confirm Deletion"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-groups.php:77
+msgid "There are no valid groups selected for deletion."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-groups.php:95
+#, php-format
+msgid "%s group deleted"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-groups.php:98
+msgid "New group created."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-groups.php:124
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/profile_ui_pp.php:163
+msgid "Permission Groups"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-groups.php:154
+msgid "Permission Groups are sets of users to which you may assign supplemental roles or exceptions. To customize permissions for an individual user instead, click their Role in the Users listing."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-groups.php:162
+msgid "Custom Group"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-groups.php:178
+#, php-format
+msgid "%1$sGroup Type:%2$s %3$s"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-groups.php:182
+#, php-format
+msgid "Search Results for &#8220;%s&#8221;"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-groups.php:192
+msgid "Search Groups"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-groups.php:204
+msgid "To assign roles or exceptions to BuddyPress groups, activate the PP BuddyPress Role Groups"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-groups.php:206
+#, php-format
+msgid "To assign roles or exceptions to BuddyPress groups, %1$sinstall%2$s the PP BuddyPress Role Groups plugin."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-groups.php:208
+#, php-format
+msgid "To assign roles or exceptions to BuddyPress groups, %1$senter%2$s or %3$spurchase%4$s a support key and install the PP BuddyPress Role Groups plugin."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-permits-handler.php:64
+msgid "You can&#8217;t delete that group."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-settings.php:67
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-settings.php:148
+msgid "Save Changes"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-settings.php:120
+msgid "Settings were updated."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-settings.php:124
+msgid "Settings were reset to defaults."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-settings.php:152
+msgid "All settings in this form (including those on undisplayed tabs) will be reset to DEFAULTS.  Are you sure?"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-settings.php:156
+msgid "Revert to Defaults"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-users.php:9
+msgid "User Permissions"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-users.php:16
+msgid "Bulk-Add User Permissions"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-users.php:22
+#, php-format
+msgid "%1$snote%2$s: If you need to assign the same role or exception to multiple users, grouping them into a WP Role or custom Permission Group usually leads to a cleaner configuration."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-users.php:30
+msgid "View / Edit User Permissions"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-users.php:37
+#, php-format
+msgid "To assign supplemental roles and exceptions directly to a single user, click their \"Site Role\" cell on the %1$sUsers%2$s screen. The Users listing can be filtered by the following links:"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-users.php:41
+#, php-format
+msgid "%1$sAll Users%2$s"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-users.php:51
+#, php-format
+msgid "%1$sUsers who have Supplemental Roles (directly or via group)%2$s"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-users.php:52
+#, php-format
+msgid "%1$sUsers who have Exceptions  (directly or via group)%2$s"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-users.php:53
+#, php-format
+msgid "%1$sUsers who have Supplemental Roles or Exceptions  (directly or via group)%2$s"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pp-users.php:59
+#, php-format
+msgid "%1$snote%2$s: If you don&apos;t see the Site Role column on the Users screen, make sure it is enabled in Screen Options. "
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pro-promo_pp.php:2
+msgid "Show list of PP Pro features and screencasts"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pro-promo_pp.php:51
+msgid "Assign standard WP roles supplementally for a specific post type"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pro-promo_pp.php:55
+msgid "Assign custom WP roles supplementally for a specific post type <em>(Pro)</em>"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pro-promo_pp.php:59
+msgid "Customize reading permissions per-category or per-post"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pro-promo_pp.php:63
+msgid "Customize editing permissions per-category or per-post <em>(Pro)</em>"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pro-promo_pp.php:67
+msgid "Custom Post Visibility statuses, fully implemented throughout wp-admin <em>(Pro)</em>"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pro-promo_pp.php:71
+msgid "Custom Moderation statuses for access-controlled, multi-step publishing workflow <em>(Pro)</em>"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pro-promo_pp.php:75
+msgid "Regulate permissions for Edit Flow post statuses <em>(Pro)</em>"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pro-promo_pp.php:79
+msgid "Customize the moderated editing of published content with Revisionary or Post Forking <em>(Pro)</em>"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pro-promo_pp.php:83
+msgid "Grant Spectator, Participant or Moderator access to specific bbPress forums <em>(Pro)</em>"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pro-promo_pp.php:87
+msgid "Grant supplemental content permissions to a BuddyPress group <em>(Pro)</em>"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pro-promo_pp.php:91
+msgid "WPML integration to mirror permissions to translations <em>(Pro)</em>"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pro-promo_pp.php:95
+msgid "Member support forum"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pro-promo_pp.php:100
+msgid "Screencasts"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pro-promo_pp.php:102
+msgid "Feature Grid"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pro-promo_pp.php:104
+msgid "FAQs"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pro-promo_pp.php:106
+msgid "Pre-Sale Questions"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pro-promo_pp.php:108
+msgid "Purchase"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/pro-promo_pp.php:110
+msgid "Hide"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/profile_ui_pp.php:25
+msgid "Custom User Permissions"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/profile_ui_pp.php:30
+#, php-format
+msgid "Supplemental roles and exceptions assigned to a user's primary role or other Permission Groups are usually the cleanest way to customize permissions.  You can also %1$scustomize this user directly%2$s."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/profile_ui_pp.php:65
+#, php-format
+msgid "Supplemental Roles %1$s(for this user)%2$s"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/profile_ui_pp.php:91
+#, php-format
+msgid "Supplemental Roles %1$s(from primary role or group membership)%2$s"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/profile_ui_pp.php:93
+msgid "Exceptions (from primary role or group membership)"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/profile_ui_pp.php:181
+msgid "This user is not a member of any Permission Groups."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/profile_ui_pp.php:184
+msgid "Edit this user&apos;s group membership"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/profile_ui_pp.php:184
+msgid "add / edit membership"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/profile_ui_pp.php:188
+msgid "note: BuddyPress Groups and other externally defined groups are not listed here, even if they modify permissions"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/term-edit-ui_pp.php:77
+#, php-format
+msgid "%1$s %2$s %3$s Exceptions"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/term-edit-ui_pp.php:77
+#, php-format
+msgid "%1$s %2$s Exceptions (all post types)"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/term-edit-ui_pp.php:79
+#, php-format
+msgid "%1$s %2$s Exceptions (all post statuses)"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/term-edit-ui_pp.php:79
+#, php-format
+msgid "%1$s Exceptions (all post types, statuses)"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/term-edit-ui_pp.php:81
+#, php-format
+msgid "%1$s %2$s Exceptions"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/term-edit-ui_pp.php:81
+#, php-format
+msgid "%1$s Exceptions (all post types)"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/term-edit-ui_pp.php:139
+msgid "Update"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/term-edit-ui_pp.php:177
+#, php-format
+msgid "Displayed exceptions are those assigned for the \"%1$s\" type. You can also %2$sdefine universal %3$s exceptions which apply to all related post types%4$s."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/term-listing-ui_pp.php:33
+#, php-format
+msgid "Listed exceptions are those assigned for the \"%1$s\" type. You can also %2$sdefine universal %3$s exceptions which apply to all related post types%4$s."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/term-listing-ui_pp.php:46
+msgid "Click to list/edit universal exceptions"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/term-listing-ui_pp.php:48
+#, php-format
+msgid "%1$s Exceptions %2$s*%3$s"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/term-listing-ui_pp.php:50
+msgid "Universal Exceptions"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/ui-helper_pp.php:20
+msgid "Add Roles"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/ui-helper_pp.php:21
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/ui-helper_pp.php:47
+msgid "clear"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/ui-helper_pp.php:22
+msgid "No statuses selected!"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/ui-helper_pp.php:23
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/ui-helper_pp.php:48
+msgid "Review selection(s) below, then click Save."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/ui-helper_pp.php:24
+msgid "Role already selected!"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/ui-helper_pp.php:25
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/ui-helper_pp.php:50
+msgid "No Action selected!"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/ui-helper_pp.php:26
+msgid "Role submission in progress..."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/ui-helper_pp.php:27
+msgid "Reload form for further changes to this role"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/ui-helper_pp.php:49
+msgid "Exception already selected!"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/ui-helper_pp.php:51
+msgid "Exception submission in progress..."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/ui-helper_pp.php:52
+msgid "Reload form for further changes to this exception"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/ui-helper_pp.php:53
+msgid "No Assignment Mode selected!"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/ui-helper_pp.php:72
+msgid "No items selected!"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/ui-helper_pp.php:79
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/includes/item-menu_pp.php:216
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/includes/item-menu_pp.php:672
+msgid "No results found."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/users-ui_pp.php:47
+msgid "Add"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/users-ui_pp.php:47
+msgid "Add selected users to Permission Group"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/users-ui_pp.php:48
+msgid "Remove"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/users-ui_pp.php:48
+msgid "Remove selected users from Permission Group"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/users-ui_pp.php:88
+msgid "Click to show only users who have supplemental roles"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/users-ui_pp.php:89
+#, php-format
+msgid "Roles %1$s*%2$s"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/users-ui_pp.php:94
+msgid "Click to show only users who have exceptions"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/users-ui_pp.php:95
+#, php-format
+msgid "Exceptions %1$s*%2$s"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/users-ui_pp.php:193
+#, php-format
+msgid "%s&nbsp;more"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/includes/class-pp-groups-list-table.php:82
+msgid "No matching groups were found."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/includes/class-pp-groups-list-table.php:93
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/includes/class-pp-groups-list-table.php:195
+msgid "Delete"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/includes/class-pp-groups-list-table.php:103
+msgid "ID"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/includes/class-pp-groups-list-table.php:106
+msgid "Roles"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/includes/item-menu_pp.php:115
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/includes/item-menu_pp.php:341
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/includes/item-menu_pp.php:557
+msgid "No items."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/includes/item-menu_pp.php:133
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/includes/item-menu_pp.php:361
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/includes/item-menu_pp.php:573
+msgid "&laquo;"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/includes/item-menu_pp.php:134
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/includes/item-menu_pp.php:362
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/includes/item-menu_pp.php:574
+msgid "&raquo;"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/includes/item-menu_pp.php:170
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/includes/item-menu_pp.php:403
+msgid "Most Recent"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/includes/item-menu_pp.php:171
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/includes/item-menu_pp.php:404
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/includes/item-menu_pp.php:608
+msgid "View All"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/includes/item-menu_pp.php:172
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/includes/item-menu_pp.php:204
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/includes/item-menu_pp.php:609
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/includes/item-menu_pp.php:660
+msgid "Search"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/includes/item-menu_pp.php:291
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/includes/item-menu_pp.php:504
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/includes/item-menu_pp.php:687
+msgid "Select All"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/admin/includes/item-menu_pp.php:607
+msgid "Most Used"
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/lib/debug.php:217
+#, php-format
+msgid "%1$s queries in %2$s seconds. %3$s MB used."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/lib/error_pp.php:5
+#, php-format
+msgid "%1$s won&#39;t work until you upgrade Press Permit Core to version %2$s or later."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/lib/error_pp.php:10
+#, php-format
+msgid "%1$s won&#39;t work until you upgrade WordPress to version %2$s or later."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/lib/error_pp.php:15
+#, php-format
+msgid "This version of %1$s cannot work with your current PP Core. Please upgrade it to %2$s or later."
+msgstr ""
+
+#: E:\www\wp44\wp-content\plugins\press-permit-core/lib/error_pp.php:20
+#, php-format
+msgid "Duplicate Press Permit extension activated (%1$s in folder %2$s)."
+msgstr ""
+

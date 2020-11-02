@@ -1,0 +1,214 @@
+# Copyright (C) 2017 SkyVerge
+# This file is distributed under the GNU General Public License v3.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Litmos 1.7.0\n"
+"Report-Msgid-Bugs-To: https://woocommerce.com/my-account/tickets/\n"
+"POT-Creation-Date: 2014-06-15 22:41:28+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/admin/class-wc-litmos-admin.php:98
+msgid "Litmos"
+msgstr ""
+
+#: includes/admin/class-wc-litmos-admin.php:139
+msgid "Litmos User Details"
+msgstr ""
+
+#: includes/admin/class-wc-litmos-admin.php:142
+msgid "User ID"
+msgstr ""
+
+#: includes/admin/class-wc-litmos-admin.php:145
+msgid "The Litmos User ID for the user. Only edit this if necessary."
+msgstr ""
+
+#: includes/admin/class-wc-litmos-admin.php:183
+msgid "Export to Litmos"
+msgstr ""
+
+#: includes/admin/class-wc-litmos-admin.php:218
+#: includes/admin/class-wc-litmos-admin.php:264
+msgid "Litmos Course Code"
+msgstr ""
+
+#: includes/admin/class-wc-litmos-admin.php:225
+#: includes/admin/class-wc-litmos-admin.php:265
+msgid "Select the Litmos Course that this product is linked to."
+msgstr ""
+
+#: includes/admin/class-wc-litmos-admin.php:274
+msgid "Set all other variations to this course"
+msgstr ""
+
+#: includes/admin/class-wc-litmos-admin.php:365
+msgid "Settings"
+msgstr ""
+
+#: includes/admin/class-wc-litmos-admin.php:371
+msgid "API Key"
+msgstr ""
+
+#: includes/admin/class-wc-litmos-admin.php:372
+msgid "Log into your Litmos account to find your API key."
+msgstr ""
+
+#: includes/admin/class-wc-litmos-admin.php:380
+msgid "Automatically Create Litmos Accounts"
+msgstr ""
+
+#: includes/admin/class-wc-litmos-admin.php:381
+msgid "Enable this automatically create Litmos accounts after order payment."
+msgstr ""
+
+#: includes/admin/class-wc-litmos-admin.php:388
+msgid "Disable Messages"
+msgstr ""
+
+#: includes/admin/class-wc-litmos-admin.php:389
+msgid "Enable this to disable messages and welcome emails to new users."
+msgstr ""
+
+#: includes/admin/class-wc-litmos-admin.php:396
+msgid "Skip First Login"
+msgstr ""
+
+#: includes/admin/class-wc-litmos-admin.php:397
+msgid ""
+"Enable this allow new users to skip the first login page, where they can "
+"set their password and fill out additional information."
+msgstr ""
+
+#: includes/admin/class-wc-litmos-admin.php:404
+msgid "Reset Course Results for Duplicate Purchases"
+msgstr ""
+
+#: includes/admin/class-wc-litmos-admin.php:405
+msgid ""
+"Enable this to reset the course results for a user when they purchase the "
+"same course more than once."
+msgstr ""
+
+#: includes/class-wc-litmos-api.php:162
+msgid "Get User: User ID is blank"
+msgstr ""
+
+#: includes/class-wc-litmos-api.php:188
+msgid "SSO: User ID is blank"
+msgstr ""
+
+#: includes/class-wc-litmos-api.php:241
+msgid "Create User: Required field is blank"
+msgstr ""
+
+#: includes/class-wc-litmos-api.php:269
+msgid "Update User: Required field is blank"
+msgstr ""
+
+#: includes/class-wc-litmos-api.php:297
+msgid "Get Courses Assigned to User: User ID is blank"
+msgstr ""
+
+#: includes/class-wc-litmos-api.php:370
+msgid "Assign Course: User ID or Course is blank"
+msgstr ""
+
+#: includes/class-wc-litmos-api.php:418
+msgid "Reset Course Results: User ID or Course is blank"
+msgstr ""
+
+#: includes/class-wc-litmos-api.php:446
+msgid "Create Team: Name or Description is blank"
+msgstr ""
+
+#: includes/class-wc-litmos-api.php:475
+msgid "Assign Users to Team: Team ID or User IDs are blank"
+msgstr ""
+
+#: includes/class-wc-litmos-api.php:536
+msgid "Error Code: %1$s | Error Message: %2$s"
+msgstr ""
+
+#: includes/class-wc-litmos-api.php:541
+msgid "Response HTTP Code Not Set"
+msgstr ""
+
+#: includes/class-wc-litmos-api.php:557
+msgid "JSON Encode : Passed Data is not array"
+msgstr ""
+
+#: includes/class-wc-litmos-api.php:593
+msgid "Endpoint and / or HTTP Method is blank."
+msgstr ""
+
+#: includes/class-wc-litmos-api.php:598
+msgid "Requested HTTP Method is invalid."
+msgstr ""
+
+#: includes/class-wc-litmos-api.php:620
+msgid "Empty Response"
+msgstr ""
+
+#: includes/class-wc-litmos-api.php:624
+msgid "Empty Body"
+msgstr ""
+
+#: includes/class-wc-litmos-handler.php:147
+msgid "Litmos account created for customer"
+msgstr ""
+
+#: includes/class-wc-litmos-handler.php:181
+#. translators: Placeholders: %s - course name
+msgid "Customer assigned to course: %s"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Litmos"
+msgstr ""
+
+#: woocommerce-litmos.php:276
+msgid "My Courses"
+msgstr ""
+
+#: woocommerce-litmos.php:279
+msgid "Course Code"
+msgstr ""
+
+#: woocommerce-litmos.php:280
+msgid "Course Title"
+msgstr ""
+
+#: woocommerce-litmos.php:281
+msgid "Completion"
+msgstr ""
+
+#: woocommerce-litmos.php:282
+msgid "Date Completed"
+msgstr ""
+
+#: woocommerce-litmos.php:297
+msgid "Course Login"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.woocommerce.com/products/litmos/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Integrate Litmos with WooCommerce by exporting WooCommerce customers as "
+"Litmos Users and assigning them purchased courses"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "SkyVerge"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.woocommerce.com"
+msgstr ""

@@ -1,0 +1,36 @@
+[09-Jun-2016 19:15:46 CST6CDT] PHP Fatal error:  Call to undefined function add_shortcode() in /home/pshsa/public_html/wp-content/plugins/ubermenu/pro/maps.php on line 28
+[09-Jun-2016 19:15:46 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/pshsa/public_html/wp-content/plugins/ubermenu/pro/fonts.php on line 3
+[09-Jun-2016 19:15:46 CST6CDT] PHP Fatal error:  Call to undefined function add_shortcode() in /home/pshsa/public_html/wp-content/plugins/ubermenu/pro/search.php on line 28
+[09-Jun-2016 19:15:46 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/pshsa/public_html/wp-content/plugins/ubermenu/pro/toolbar.php on line 3
+[09-Jun-2016 19:15:46 CST6CDT] PHP Fatal error:  Call to undefined function add_filter() in /home/pshsa/public_html/wp-content/plugins/ubermenu/pro/shortcodes.php on line 4
+[09-Jun-2016 19:15:46 CST6CDT] PHP Warning:  require_once(UBERMENU_DIRpro/menuitems/menuitems.pro.php): failed to open stream: No such file or directory in /home/pshsa/public_html/wp-content/plugins/ubermenu/pro/ubermenu.pro.php on line 3
+[09-Jun-2016 19:15:46 CST6CDT] PHP Fatal error:  require_once(): Failed opening required 'UBERMENU_DIRpro/menuitems/menuitems.pro.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/pshsa/public_html/wp-content/plugins/ubermenu/pro/ubermenu.pro.php on line 3
+[09-Jun-2016 19:15:46 CST6CDT] PHP Fatal error:  Class 'WP_Widget' not found in /home/pshsa/public_html/wp-content/plugins/ubermenu/pro/widget.php on line 7
+[09-Jun-2016 19:15:46 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/pshsa/public_html/wp-content/plugins/ubermenu/pro/widgets.php on line 25
+[17-Jul-2016 14:53:45 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/pshsa/public_html/wp-content/plugins/ubermenu/pro/fonts.php on line 3
+[17-Jul-2016 14:53:45 CST6CDT] PHP Fatal error:  Call to undefined function add_shortcode() in /home/pshsa/public_html/wp-content/plugins/ubermenu/pro/maps.php on line 28
+[17-Jul-2016 14:53:45 CST6CDT] PHP Fatal error:  Call to undefined function add_shortcode() in /home/pshsa/public_html/wp-content/plugins/ubermenu/pro/search.php on line 28
+[17-Jul-2016 14:53:45 CST6CDT] PHP Fatal error:  Call to undefined function add_filter() in /home/pshsa/public_html/wp-content/plugins/ubermenu/pro/shortcodes.php on line 4
+[17-Jul-2016 14:53:45 CST6CDT] PHP Warning:  require_once(UBERMENU_DIRpro/menuitems/menuitems.pro.php): failed to open stream: No such file or directory in /home/pshsa/public_html/wp-content/plugins/ubermenu/pro/ubermenu.pro.php on line 3
+[17-Jul-2016 14:53:45 CST6CDT] PHP Fatal error:  require_once(): Failed opening required 'UBERMENU_DIRpro/menuitems/menuitems.pro.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/pshsa/public_html/wp-content/plugins/ubermenu/pro/ubermenu.pro.php on line 3
+[17-Jul-2016 14:53:45 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/pshsa/public_html/wp-content/plugins/ubermenu/pro/toolbar.php on line 3
+[17-Jul-2016 14:53:45 CST6CDT] PHP Fatal error:  Class 'WP_Widget' not found in /home/pshsa/public_html/wp-content/plugins/ubermenu/pro/widget.php on line 7
+[17-Jul-2016 14:53:46 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/pshsa/public_html/wp-content/plugins/ubermenu/pro/widgets.php on line 25
+[09-Aug-2016 04:51:43 America/New_York] PHP Fatal error:  Call to undefined function add_shortcode() in /home/pshsa/public_html/wp-content/plugins/ubermenu/pro/maps.php on line 28
+[09-Aug-2016 04:51:44 America/New_York] PHP Fatal error:  Call to undefined function add_filter() in /home/pshsa/public_html/wp-content/plugins/ubermenu/pro/shortcodes.php on line 4
+[09-Aug-2016 04:51:44 America/New_York] PHP Fatal error:  Call to undefined function add_shortcode() in /home/pshsa/public_html/wp-content/plugins/ubermenu/pro/search.php on line 28
+[09-Aug-2016 04:51:44 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/pshsa/public_html/wp-content/plugins/ubermenu/pro/fonts.php on line 3
+[09-Aug-2016 04:51:44 America/New_York] PHP Warning:  require_once(UBERMENU_DIRpro/menuitems/menuitems.pro.php): failed to open stream: No such file or directory in /home/pshsa/public_html/wp-content/plugins/ubermenu/pro/ubermenu.pro.php on line 3
+[09-Aug-2016 04:51:44 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'UBERMENU_DIRpro/menuitems/menuitems.pro.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/pshsa/public_html/wp-content/plugins/ubermenu/pro/ubermenu.pro.php on line 3
+[09-Aug-2016 04:51:44 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/pshsa/public_html/wp-content/plugins/ubermenu/pro/toolbar.php on line 3
+[09-Aug-2016 04:51:44 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/pshsa/public_html/wp-content/plugins/ubermenu/pro/widgets.php on line 25
+[09-Aug-2016 04:51:44 America/New_York] PHP Fatal error:  Class 'WP_Widget' not found in /home/pshsa/public_html/wp-content/plugins/ubermenu/pro/widget.php on line 7
+[30-Aug-2016 15:22:00 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/pshsa/public_html/wp-content/plugins/ubermenu/pro/fonts.php on line 3
+[30-Aug-2016 15:22:00 America/New_York] PHP Fatal error:  Call to undefined function add_shortcode() in /home/pshsa/public_html/wp-content/plugins/ubermenu/pro/maps.php on line 28
+[30-Aug-2016 15:22:00 America/New_York] PHP Fatal error:  Call to undefined function add_filter() in /home/pshsa/public_html/wp-content/plugins/ubermenu/pro/shortcodes.php on line 4
+[30-Aug-2016 15:22:00 America/New_York] PHP Fatal error:  Class 'WP_Widget' not found in /home/pshsa/public_html/wp-content/plugins/ubermenu/pro/widget.php on line 7
+[30-Aug-2016 15:22:00 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/pshsa/public_html/wp-content/plugins/ubermenu/pro/toolbar.php on line 3
+[30-Aug-2016 15:22:00 America/New_York] PHP Fatal error:  Call to undefined function add_shortcode() in /home/pshsa/public_html/wp-content/plugins/ubermenu/pro/search.php on line 28
+[30-Aug-2016 15:22:00 America/New_York] PHP Warning:  require_once(UBERMENU_DIRpro/menuitems/menuitems.pro.php): failed to open stream: No such file or directory in /home/pshsa/public_html/wp-content/plugins/ubermenu/pro/ubermenu.pro.php on line 3
+[30-Aug-2016 15:22:00 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'UBERMENU_DIRpro/menuitems/menuitems.pro.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/pshsa/public_html/wp-content/plugins/ubermenu/pro/ubermenu.pro.php on line 3
+[30-Aug-2016 15:22:00 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/pshsa/public_html/wp-content/plugins/ubermenu/pro/widgets.php on line 25

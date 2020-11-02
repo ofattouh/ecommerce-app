@@ -1,0 +1,181 @@
+//checkout Page
+.checkout.woocommerce-checkout {
+  h3#order_review_heading {
+    padding: 20px 0 0 0;
+    margin: 20px 0 10px 0;
+    border-top: 1px solid @psBorder;
+  }
+  #order_review {
+    .shop_table {
+      thead {
+        .product-name,
+        .product-total {
+          padding: 0;
+          font-weight: 700;
+          width: 50%;
+          display: block;
+          float: left;
+          text-align: left !important;
+        }
+      }
+      tbody {
+        .product-name,
+        .product-total {
+          padding: 10px 0;
+          width: 50%;
+          display: block;
+          float: left;
+          text-align: left !important;
+        }
+      }
+      tfoot {
+        .cart-subtotal,
+        .tax-rate,
+        .order-total {
+          th {
+            @media @mobile {
+              width: 50%;
+              display: block;
+              float: left;
+            }
+          }
+          td {
+            width: 50%;
+            float: left;
+          }
+        }
+        .amount {
+          float: left;
+        }
+      }
+      th,
+      tr,
+      td {
+        background: none !important;
+        padding: 0;
+        border: 0;
+      }
+      tr {
+        width: 100%;
+        float: left;
+      }
+    }
+    #payment {
+      border-radius: 0;
+      ul {
+        li {}
+      }
+      .payment_box {
+        border-radius: 0;
+      }
+    }
+  }
+}
+
+.woocommerce-student-fields {
+  h2 {}
+  .companydivcls {
+    h2 {
+      span {}
+    }
+  }
+  .companyspancls,
+  .participantspancls {
+    .fontStyle(30, 100, 400);
+    color: @psMaroon;
+  }
+  .coursetitlecls {
+    .fontStyle(30, 140, 700);
+    float: left;
+    margin: 20px 0 0 0;
+    width: 100%;
+  }
+  .participantdivcls,
+  .companydivcls {
+    border: 1px solid @psMaroon;
+    padding: 20px;
+    margin: 20px 0;
+    float: left;
+    width: 100%;
+    @media @desktop {
+      width: 75%;
+    }
+    .box-sizing(border-box);
+    h2 {
+      .fontStyle(20, 120, 400);
+      text-transform: uppercase;
+      margin: 0;
+      width: 100%;
+      display: inline-block;
+      cursor: pointer;
+      span {
+        display: inline-block;
+        float: right;
+        .fontStyle(30, 100, 400);
+        color: @psMaroon;
+      }
+      &.open { // open arrow
+        .arrow {
+          &:before {
+            content: '\21E7';
+          }
+        }
+      }
+      &.closed { // close arrow
+        .arrow {
+          &:before {
+            content: '\21E9';
+          }
+        }
+      }
+    }
+    a:first-of-type {
+      float: right;
+      display: block;
+      &:hover {
+        text-decoration: none;
+      }
+    }
+    .courseparticipantcls,
+    .companyparticipantcls {
+      display: none;
+      label {
+        float: left;
+        .box-sizing(border-box);
+        margin: 10px 0 0 0;
+        @media @mobile {
+          width: 100%;          
+        }
+        @media @desktop {
+          width: 50%;
+          clear: both;
+        }
+      }
+      p {
+        float: left;
+        .box-sizing(border-box);
+        margin: 0;
+        padding: 0 !important;
+        @media @mobile {
+          width: 100%;
+        }
+        @media @desktop {
+          width: 50%;
+          clear: both;
+        }
+        &.companycopycls {
+          width: 100%;
+          label {
+            width: 100%;
+          }
+        }
+      }
+    }
+  }
+}
+
+.woocommerce-invalid-required-field {
+  input {
+    border-color: red !important;
+  }
+}

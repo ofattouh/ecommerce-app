@@ -1,0 +1,127 @@
+.woocommerce-page:not(.woocommerce-cart) #page {
+  // Product Detail Page Start
+  #main #content {
+    width: 100%;
+    color: @black !important;
+    .product {
+      .summary {
+        &.entry-summary {
+          p.price {
+            color: @black !important;
+          }
+        }
+      }
+    }
+    form {
+      width: 100%;
+      float: left;
+      .footable-filter-container {
+        input {
+          margin: 0 0 20px 0;
+        }
+      }
+      // default table styling can be found in components/tables
+      table:not(.shop_table) {
+        margin: 20px 0;
+        thead {
+          tr {
+            th {
+              &.product-name,
+              &.product-total {
+                background-color: @white !important;
+              }
+              @media @desktop {
+                // start date
+                &.sta,
+                &:first-child {
+                  width: 105px;
+                }
+                // Sector
+                &.sec {
+                  width: 245px;
+                }
+                // City
+                &.cit {
+                  width: 75px;
+                }
+                // Venue
+                &.ven {
+                  //width: 75px;
+                }
+                // Facilitator
+                &.fac {
+                  width: 130px;
+                }
+                // Time
+                &.tim {
+                  width: 125px;
+                }
+                // Cost
+                &.cos {
+                  width: 95px;
+                }
+                // Quantity
+                &.qua {
+                  width: 75px;
+                  .quantity {
+                    border-radius: 0px;
+                    margin: 0 !important;
+                    background: none !important;
+                    border: none !important;
+                    width: 85px !important;
+                  }
+                }
+              }
+            }
+          }
+        }
+        tbody {
+          tr {
+            td {
+              padding: 5px !important;
+              color: @black;
+              .footable-toggle {}
+            }
+          }
+        }
+        tfoot {
+          tr {
+            &.cart-subtotal,
+            &.tax-rate,
+            &.order-total {
+              background-color: @white !important;
+              td {
+                background-color: @white !important;
+              }
+            }
+            td {
+              // pagination
+              .pagination {
+                &.pagination-centered {}
+                ul {
+                  li {
+                    a {
+                      color: @white !important;
+                    }
+                    .footable-page-arrow {
+                      a {}
+                    }
+                    .footable-page {
+                      a {
+                        color: @white !important;
+                      }
+                    }
+                    .active {
+                      a {}
+                    }
+                    .disabled {}
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,7 @@
+== WooCommerce Checkout Registration ==
+
+2014-10-02 version 1.0.1
+* Fixed issue with /woocommerce-checkout-registration/assets/js/woocommerce-checkout-registration.js that was causing javascript errors in Safari.
+
+2014-08-11 version 1.0.0
+* Initial version

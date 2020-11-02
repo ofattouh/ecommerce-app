@@ -1,0 +1,16 @@
+[09-Jun-2016 19:15:46 CST6CDT] PHP Fatal error:  Call to undefined function add_filter() in /home/pshsa/public_html/wp-content/plugins/ubermenu/includes/menuitems/menuitems.php on line 10
+[09-Jun-2016 19:15:46 CST6CDT] PHP Fatal error:  Class 'UberMenuItem' not found in /home/pshsa/public_html/wp-content/plugins/ubermenu/includes/menuitems/UberMenuItemDefault.class.php on line 6
+[09-Jun-2016 19:15:46 CST6CDT] PHP Fatal error:  Class 'UberMenuItem' not found in /home/pshsa/public_html/wp-content/plugins/ubermenu/includes/menuitems/UberMenuItemColumn.class.php on line 3
+[09-Jun-2016 19:15:46 CST6CDT] PHP Fatal error:  Class 'UberMenuItem' not found in /home/pshsa/public_html/wp-content/plugins/ubermenu/includes/menuitems/UberMenuItemRow.class.php on line 3
+[17-Jul-2016 14:53:47 CST6CDT] PHP Fatal error:  Class 'UberMenuItem' not found in /home/pshsa/public_html/wp-content/plugins/ubermenu/includes/menuitems/UberMenuItemColumn.class.php on line 3
+[17-Jul-2016 14:53:47 CST6CDT] PHP Fatal error:  Class 'UberMenuItem' not found in /home/pshsa/public_html/wp-content/plugins/ubermenu/includes/menuitems/UberMenuItemRow.class.php on line 3
+[17-Jul-2016 14:53:47 CST6CDT] PHP Fatal error:  Class 'UberMenuItem' not found in /home/pshsa/public_html/wp-content/plugins/ubermenu/includes/menuitems/UberMenuItemDefault.class.php on line 6
+[17-Jul-2016 14:53:48 CST6CDT] PHP Fatal error:  Call to undefined function add_filter() in /home/pshsa/public_html/wp-content/plugins/ubermenu/includes/menuitems/menuitems.php on line 10
+[09-Aug-2016 04:51:44 America/New_York] PHP Fatal error:  Class 'UberMenuItem' not found in /home/pshsa/public_html/wp-content/plugins/ubermenu/includes/menuitems/UberMenuItemRow.class.php on line 3
+[09-Aug-2016 04:51:44 America/New_York] PHP Fatal error:  Call to undefined function add_filter() in /home/pshsa/public_html/wp-content/plugins/ubermenu/includes/menuitems/menuitems.php on line 10
+[09-Aug-2016 04:51:44 America/New_York] PHP Fatal error:  Class 'UberMenuItem' not found in /home/pshsa/public_html/wp-content/plugins/ubermenu/includes/menuitems/UberMenuItemDefault.class.php on line 6
+[09-Aug-2016 04:51:44 America/New_York] PHP Fatal error:  Class 'UberMenuItem' not found in /home/pshsa/public_html/wp-content/plugins/ubermenu/includes/menuitems/UberMenuItemColumn.class.php on line 3
+[30-Aug-2016 15:22:00 America/New_York] PHP Fatal error:  Class 'UberMenuItem' not found in /home/pshsa/public_html/wp-content/plugins/ubermenu/includes/menuitems/UberMenuItemDefault.class.php on line 6
+[30-Aug-2016 15:22:00 America/New_York] PHP Fatal error:  Call to undefined function add_filter() in /home/pshsa/public_html/wp-content/plugins/ubermenu/includes/menuitems/menuitems.php on line 10
+[30-Aug-2016 15:22:00 America/New_York] PHP Fatal error:  Class 'UberMenuItem' not found in /home/pshsa/public_html/wp-content/plugins/ubermenu/includes/menuitems/UberMenuItemRow.class.php on line 3
+[30-Aug-2016 15:22:00 America/New_York] PHP Fatal error:  Class 'UberMenuItem' not found in /home/pshsa/public_html/wp-content/plugins/ubermenu/includes/menuitems/UberMenuItemColumn.class.php on line 3

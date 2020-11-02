@@ -1,0 +1,1289 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mail Bank\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-22 12:18+0530\n"
+"PO-Revision-Date: 2018-06-22 12:25+0530\n"
+"Last-Translator: Tech Banker\n"
+"Language-Team: Persian (Iran)\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Loco-Source-Locale: en-IN\n"
+"X-Loco-Project-Id: 38931\n"
+"X-Loco-Api-Version: 1.0.18 20181207-1\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+
+#: includes/translations.php:26
+msgid "Email Log has been deleted Successfully"
+msgstr "پست الکترونیک به صورت موفقیت آمیز حذف شده است"
+
+#: includes/translations.php:27
+msgid "Are you sure you want to delete Email Log?"
+msgstr "آیا مطمئن هستید که میخواهید پست الکترونیک را حذف کنید؟"
+
+#: includes/translations.php:28
+msgid "MailGun API"
+msgstr "MailGun API"
+
+#: includes/translations.php:29
+msgid ""
+"Your host may have installed a firewall between you and the server. Ask them "
+"to open the ports."
+msgstr ""
+"میزبان شما ممکن است فایروال را بین شما و سرور نصب کرده باشد. از آنها بخواهید "
+"پورت ها را باز کنند."
+
+#: includes/translations.php:30
+msgid ""
+"You may have tried to (incorrectly) use SSL over port 587. Check your "
+"encryption and port settings."
+msgstr ""
+"ممکن است سعی کرده باشید (به اشتباه) SSL را از طریق پورت ۵۸۷ استفاده کنید. "
+"تنظیمات رمزگذاری و پورت را بررسی کنید."
+
+#: includes/translations.php:31
+msgid ""
+"Your host may have poor connectivity to the mail server. Try doubling the "
+"Read Timeout."
+msgstr ""
+"میزبان شما ممکن است اتصال ضعیف به سرور ایمیل داشته باشد. سعی کنید وقفه "
+"خواندن را دوبرابر کنید. "
+
+#: includes/translations.php:32
+msgid ""
+"Your host may have installed a firewall (DROP packets) between you and the "
+"server. Ask them to open the ports."
+msgstr ""
+"میزبان شما ممکن است فایروال (بسته های DROP) را بین شما و سرور نصب کرده باشد. "
+"از آنها بخواهید پورت ها را باز کنند."
+
+#: includes/translations.php:33
+msgid ""
+"Your host may have tried to (incorrectly) use TLS over port 465. Check your "
+"encryption and port settings."
+msgstr ""
+"میزبان شما احتمالا تلاش کرده است (به اشتباه) از TLS به جای پورت ۴۶۵استفاده "
+"کند. تنظیمات رمزگذاری و پورت را بررسی کنید."
+
+#: includes/translations.php:34
+msgid ""
+"Your host has likely installed a firewall (REJECT packets) between you and "
+"the server. Ask them to open the ports."
+msgstr ""
+"میزبان شما احتمالا فایروال (بسته های REJECT) را بین شما و سرور نصب کرده است. "
+"از آنها بخواهید پورت ها را باز کنند."
+
+#: includes/translations.php:35
+msgid ""
+"Your Web Host provider may have installed a firewall between you and the "
+"server."
+msgstr ""
+"ارائه دهنده وب میزبان شما ممکن است فایروال را بین شما و سرور نصب کرده باشد."
+
+#: includes/translations.php:36
+msgid ""
+"Contact the admin of the server and ask if they allow outgoing communication "
+"on port 25,465,587."
+msgstr ""
+"با مدیر سرور تماس بگیرید و بپرسید آیا آنها اجازه ارتباطات خروجی را در بندر "
+"۲۵۴۶۵۵۸۷ اجازه می دهند."
+
+#: includes/translations.php:37
+msgid ""
+"It seems like they are blocking certain traffic. Ask them to open the ports."
+msgstr ""
+"به نظر می رسد که آنها ترافیک خاصی را مسدود کرده اند. از آنها بخواهید پورت ها "
+"را باز کنند."
+
+#: includes/translations.php:38
+msgid ""
+"Your Web Host provider may have blocked the use of mail() function on your "
+"server."
+msgstr ""
+"ارائه دهنده وب میزبان شما ممکن است استفاده از ایمیل () فعال در سرور شما را "
+"مسدود کرده باشد."
+
+#: includes/translations.php:39
+msgid "Ask them to enable the mail() function to start sending emails."
+msgstr "از آنها بخواهید ایمیل () را برای شروع ارسال ایمیل فعال کنند."
+
+#: includes/translations.php:42
+msgid "Premium Edition"
+msgstr "نسخه ممتاز"
+
+#: includes/translations.php:43
+msgid ""
+"This feature is available only in Premium Editions! <br> Kindly Purchase to "
+"unlock it!"
+msgstr ""
+"این ویژگی فقط در نسخه ممتاز موجود است! <br> لطفا برای باز کردن آن خرید کنید!"
+
+#: includes/translations.php:46
+msgid "Fetch Settings"
+msgstr "تنظیمات دریافت"
+
+#: includes/translations.php:47
+msgid "Choose options for Fetch Settings"
+msgstr "گزینه های Fetch Settings را انتخاب کنید"
+
+#: includes/translations.php:48
+msgid "Individual Site"
+msgstr "سایت فردی"
+
+#: includes/translations.php:49
+msgid "Network Site"
+msgstr "سایت شبکه"
+
+#: includes/translations.php:52
+msgid "Basic Info"
+msgstr "اطلاعات اصلی"
+
+#: includes/translations.php:53
+msgid "Account Setup"
+msgstr "تنظیمات حساب"
+
+#: includes/translations.php:54
+msgid "Confirm"
+msgstr "تایید"
+
+#: includes/translations.php:58
+msgid "Email Setup"
+msgstr "تنظیمات ایمیل"
+
+#: includes/translations.php:59 lib/dashboard-widget.php:169
+msgid "Email Logs"
+msgstr "ورودی ایمیل"
+
+#: includes/translations.php:60
+msgid "Test Email"
+msgstr "ایمیل تست"
+
+#: includes/translations.php:61
+msgid "Plugin Settings"
+msgstr "تنظیمات پلاگین"
+
+#: includes/translations.php:62
+msgid "System Information"
+msgstr "اطلاعات سیستم"
+
+#: includes/translations.php:63
+msgid "Ask For Help"
+msgstr "کمک خواستن"
+
+#: includes/translations.php:64
+msgid "Roles & Capabilities"
+msgstr "نقش ها و توانایی ها"
+
+#: includes/translations.php:67
+msgid "Success!"
+msgstr "موفقیت آمیز!"
+
+#: includes/translations.php:68
+msgid "Email Setup has been updated Successfully"
+msgstr "راه اندازی ایمیل با موفقیت به روز رسانی شده است "
+
+#: includes/translations.php:69
+msgid "Test Email was sent Successfully!"
+msgstr "ایمیل تست با موفقیت فرستاده شد!"
+
+#: includes/translations.php:70
+msgid "Test Email was not sent!"
+msgstr "ایمیل تست فرستاده نشد!"
+
+#: includes/translations.php:71
+msgid "Plugin Settings have been updated Successfully"
+msgstr "تنظیمات افزونه با موفقیت به روز رسانی شد"
+
+#: includes/translations.php:72
+msgid ""
+"The OAuth is not supported by providing SMTP Host, kindly provide username "
+"and password"
+msgstr ""
+"OAuth با ارائه SMTP میزبان پشتیبانی نمی شود، لطفا نام کاربری و رمز عبور را "
+"ارائه دهید"
+
+#: includes/translations.php:73
+msgid "Your Name"
+msgstr "اسم شما"
+
+#: includes/translations.php:74
+msgid "Please provide your Name"
+msgstr "لطفا نام خود را ارائه دهید"
+
+#: includes/translations.php:75
+msgid "Roles & Capabilities have been updated Successfully"
+msgstr "نقش ها و توانایی ها با موفقیت به روز رسانی شده اند"
+
+#: includes/translations.php:78 lib/dashboard-widget.php:173
+msgid "Email Sent"
+msgstr "ایمیل ارسال شد"
+
+#: includes/translations.php:79 lib/dashboard-widget.php:178
+msgid "Email Not Sent"
+msgstr "ایمیل ارسال نشد"
+
+#: includes/translations.php:80
+msgid ""
+"You don't have Sufficient Access to this Page. Kindly contact the "
+"Administrator for more Privileges"
+msgstr ""
+"شما دسترسی کامل به این صفحه ندارید. لطفا برای دسترسی بیشتر با مدیر تماس "
+"بگیرید"
+
+#: includes/translations.php:81
+msgid "Enable"
+msgstr "فعال کردن"
+
+#: includes/translations.php:82
+msgid "Disable"
+msgstr "غیرفعال کردن"
+
+#: includes/translations.php:83
+msgid "Override"
+msgstr "باطل کردن"
+
+#: includes/translations.php:84
+msgid "Don't Override"
+msgstr "باطل نکنید"
+
+#: includes/translations.php:85
+msgid "Save Settings"
+msgstr "ذخیره تنظیمات"
+
+#: includes/translations.php:86
+msgid "Subject"
+msgstr "موضوع"
+
+#: includes/translations.php:87
+msgid "Next Step"
+msgstr "قدم بعدی"
+
+#: includes/translations.php:88
+msgid "Previous Step"
+msgstr "مرحله قبلی"
+
+#: includes/translations.php:89
+msgid "Know about Full Features"
+msgstr "درباره همه ویژگی ها بدانید"
+
+#: includes/translations.php:90
+msgid "or"
+msgstr "یا"
+
+#: includes/translations.php:91
+msgid "Check our Online Demos"
+msgstr "نسخه ی نمایشی ما را بررسی کنید"
+
+#: includes/translations.php:92
+msgid "N/A"
+msgstr "نامرتبط"
+
+#: includes/translations.php:97
+msgid ""
+"A valid Email Address that will be used in the \"CC\" field of the email. "
+"Use Comma \",\" for including multiple email addresses in the \"CC\" field"
+msgstr ""
+"یک آدرس ایمیل معتبر که در قسمت \"CC\" ایمیل استفاده می شود. از کاما \"،\" "
+"برای وارد کردن آدرس های متعدد ایمیل در زمینه \"CC\" استفاده کنید"
+
+#: includes/translations.php:98
+msgid ""
+"A valid Email Address that will be used in the 'BCC' field of the email. Use "
+"Comma ',' for including multiple email addresses in the 'BCC' field"
+msgstr ""
+"یک آدرس ایمیل معتبر که در قسمت \"BCC\" ایمیل استفاده می شود. برای وارد کردن "
+"آدرس های متعدد ایمیل در قسمت BCC از ویرگول استفاده کنید"
+
+#: includes/translations.php:99
+msgid "Please provide CC Email Address"
+msgstr "لطفا CC آدرس ایمیل  را وارد کنید"
+
+#: includes/translations.php:100
+msgid "Please provide BCC Email Address"
+msgstr "لطفا BCC آدرس ایمیل را وارد کنید"
+
+#: includes/translations.php:101
+msgid "From Name"
+msgstr "از اسم "
+
+#: includes/translations.php:102
+msgid "Please provide From Name"
+msgstr "لطفا از اسم ارائه کنید"
+
+#: includes/translations.php:103
+msgid "From Email"
+msgstr "از ایمیل"
+
+#: includes/translations.php:104
+msgid "Please provide From Email Address"
+msgstr "لطفا از آدرس ایمیل ارائه کنید"
+
+#: includes/translations.php:105
+msgid "Mailer Type"
+msgstr "نوع ارسال کننده ایمیل"
+
+#: includes/translations.php:106
+msgid "Choose among the variety of options for routing emails."
+msgstr "از میان گزینه های گوناگونی برای مسیر یابی ایمیل ها را انتخاب کنید."
+
+#: includes/translations.php:107
+msgid "Send Email via SMTP"
+msgstr "ارسال ایمیل از طریق SMTP"
+
+#: includes/translations.php:108
+msgid "Use The PHP mail() Function"
+msgstr "استفاده از عملکرد تابع ایمیل () PHP"
+
+#: includes/translations.php:109 includes/translations.php:236
+msgid "SMTP Host"
+msgstr "میزبان SMTP"
+
+#: includes/translations.php:110
+msgid "Server that will send the email"
+msgstr "سرور که ایمیل را ارسال می کند"
+
+#: includes/translations.php:111
+msgid "Please provide SMTP Host"
+msgstr "لطفا میزبان SMTP  را ارائه دهید"
+
+#: includes/translations.php:112
+msgid "SMTP Port"
+msgstr "پورت SMTP"
+
+#: includes/translations.php:113
+msgid "Port to connect to the email server"
+msgstr "پورت برای اتصال به سرور ایمیل"
+
+#: includes/translations.php:114
+msgid "Please provide SMTP Port"
+msgstr "لطفا پورت SMTP را وارد کنید"
+
+#: includes/translations.php:115
+msgid "Encryption"
+msgstr "همزمانی"
+
+#: includes/translations.php:116
+msgid ""
+"Encrypt the email when sent to the email server using the different methods "
+"available"
+msgstr ""
+"با استفاده از روش های مختلف موجود، ایمیل را با ارسال ایمیل به آدرس ایمیل "
+"رمزگشایی کنید"
+
+#: includes/translations.php:120
+msgid "Authentication"
+msgstr "تایید"
+
+#: includes/translations.php:121
+msgid "Method for authentication (almost always Login)"
+msgstr "روش تأیید اعتبار (تقریبا همیشه ورودی)"
+
+#: includes/translations.php:122 includes/translations.php:157
+msgid "Email Address"
+msgstr "آدرس ایمیل"
+
+#: includes/translations.php:123
+msgid "A valid Email Address on which you would like to send a Test Email"
+msgstr "یک آدرس ایمیل معتبر که مایلید ایمیل تست ارسال کنید"
+
+#: includes/translations.php:124
+msgid "Please provide Email Address"
+msgstr "لطفا آدرس ایمیل را ارائه دهید"
+
+#: includes/translations.php:125
+msgid "Subject Line for your Test Email"
+msgstr "خط موضوع برای ایمیل تست شما"
+
+#: includes/translations.php:126
+msgid "Please provide Subject"
+msgstr "لطفا موضوع ارائه دهید"
+
+#: includes/translations.php:127 includes/translations.php:187
+msgid "Email Content"
+msgstr "محتوای ایمیل"
+
+#: includes/translations.php:128
+msgid "Email Content for your Test Email"
+msgstr "محتوای ایمیل برای ایمیل تست شما"
+
+#: includes/translations.php:129
+msgid "Send Test Email"
+msgstr "ارسال تست ایمیل"
+
+#: includes/translations.php:130
+msgid "Checking your settings"
+msgstr "بررسی تنظیمات شما"
+
+#: includes/translations.php:131
+msgid "Result"
+msgstr "نتیجه"
+
+#: includes/translations.php:132
+msgid "Send Another Test Email"
+msgstr "ارسال یک تست ایمیل دیگر"
+
+#: includes/translations.php:133
+msgid "From Name Configuration"
+msgstr "از پیکربندی نام"
+
+#: includes/translations.php:134
+msgid ""
+"Do you want to override the Default Name that tells email recipient about "
+"who sent the email?"
+msgstr ""
+"آیا میخواهید نام پیش فرض را تغییر دهید که به ایمیل دریافت کننده در مورد "
+"اینکه کدام ایمیل را ارسال کرده است، ایمیل گیرنده باشد؟"
+
+#: includes/translations.php:135
+msgid "From Email Configuration"
+msgstr "از پیکربندی ایمیل"
+
+#: includes/translations.php:136
+msgid ""
+"Do you want to override the Default Email Address that tells email recipient "
+"about the sender?"
+msgstr ""
+"آیا میخواهید آدرس پیش فرض ایمیل را که به فرستنده ایمیل مربوط به فرستنده است "
+"را لغو کنید؟"
+
+#: includes/translations.php:137
+msgid "Username"
+msgstr "نام کاربری"
+
+#: includes/translations.php:138
+msgid ""
+" Login is typically the full email address (Example: mailbox@yourdomain.com)"
+msgstr ""
+"ورود معمولا آدرس کامل ایمیل است (به عنوان مثال: mailbox@yourdomain.com)"
+
+#: includes/translations.php:139
+msgid "Please provide username"
+msgstr "لطفا نام کاربری ارائه دهید"
+
+#: includes/translations.php:140
+msgid "Password"
+msgstr "رمز عبور"
+
+#: includes/translations.php:141
+msgid "Password is typically the same as the password to retrieve the email"
+msgstr "رمز عبور به طور معمول همان رمز عبور برای بازیابی ایمیل است"
+
+#: includes/translations.php:142
+msgid "Please provide password"
+msgstr "لطفا رمز عبور ارائه دهید"
+
+#: includes/translations.php:143
+msgid "Redirect URI"
+msgstr "تغییر مسیر URI"
+
+#: includes/translations.php:144
+msgid ""
+"Please copy this Redirect URI and Paste into Redirect URI field when "
+"creating your app"
+msgstr ""
+"لطفا در هنگام ایجاد برنامه خود، این URI راهنمایی دوباره را کپی کنید و آن را "
+"در زمینه URI راهنمایی دوباره بچسبانید"
+
+#: includes/translations.php:150
+msgid "Client Id"
+msgstr "مشخصه مشتری"
+
+#: includes/translations.php:151
+msgid "Secret Key"
+msgstr "کلید رمز"
+
+#: includes/translations.php:152
+msgid "Client Id issued by your SMTP Host"
+msgstr "شناسه مشتری صادر شده توسط میزبان SMTP شما"
+
+#: includes/translations.php:153
+msgid "Secret Key issued by your SMTP Host"
+msgstr "رمز صادر شده توسط میزبان SMTP شما"
+
+#: includes/translations.php:154
+msgid "Please provide Client Id"
+msgstr "لطفا شناسه مشتری را ارائه دهید"
+
+#: includes/translations.php:155
+msgid "Please provide Secret Key"
+msgstr "لطفا رمز را ارائه دهید"
+
+#: includes/translations.php:156
+msgid ""
+"Yes, automatically send a Test Email upon clicking on the Next Step Button "
+"to verify settings"
+msgstr ""
+"بله، به صورت خودکار ایمیل تست را با کلیک روی دکمه مرحله بعد برای تأیید "
+"تنظیمات ارسال کنید"
+
+#: includes/translations.php:158
+msgid "A valid Email Address account from which you would like to send Emails"
+msgstr "یک آدرس ایمیل معتبر که از آن می خواهید ایمیل ارسال کنید"
+
+#: includes/translations.php:159
+msgid "Please provide valid Email Address"
+msgstr "لطفا آدرس ایمیل معتبر ارائه کنید"
+
+#: includes/translations.php:160
+msgid "Reply To"
+msgstr "جواب به"
+
+#: includes/translations.php:161
+msgid ""
+"A valid Email Address that will be used in the 'Reply-To' field of the email"
+msgstr "یک آدرس ایمیل معتبر در فیلد 'پاسخ به' ایمیل استفاده خواهد شد"
+
+#: includes/translations.php:162
+msgid "Please provide Reply To Email Address"
+msgstr "لطفا به آدرس ایمیل پاسخ دهید"
+
+#: includes/translations.php:163
+msgid "Get API Key"
+msgstr "دریافت کلید API"
+
+#: includes/translations.php:164
+msgid "How to setup?"
+msgstr "نحوه راه اندازی"
+
+#: includes/translations.php:165
+msgid "SendGrid API"
+msgstr "SendGrid API"
+
+#: includes/translations.php:167
+msgid "Start Date"
+msgstr "تاریخ شروع"
+
+#: includes/translations.php:168 includes/translations.php:183
+msgid "Resend Email"
+msgstr "ارسال دوباره ایمیل"
+
+#: includes/translations.php:169
+msgid "Please provide Start Date"
+msgstr "لطفا تاریخ ورود را ایجاد کنید"
+
+#: includes/translations.php:170
+msgid "Start Date for Email Logs"
+msgstr "شروع تاریخ ورودی های ایمیل"
+
+#: includes/translations.php:171
+msgid "End Date"
+msgstr "تاریخ پایان"
+
+#: includes/translations.php:172
+msgid "Limit Records"
+msgstr "محدودیت ضبط"
+
+#: includes/translations.php:173
+msgid "Number of Logs to view"
+msgstr "تعداد ورودها برای مشاهده"
+
+#: includes/translations.php:178
+msgid "Please provide End Date"
+msgstr "لطفا تاریخ پایان را ایجاد کنید"
+
+#: includes/translations.php:179
+msgid "End Date for Email Logs"
+msgstr "تاریخ پایان برای ورودهای ایمیل"
+
+#: includes/translations.php:180
+msgid "Submit"
+msgstr "ثبت کردن"
+
+#: includes/translations.php:181
+msgid "Bulk Action"
+msgstr "اقدام فشرده"
+
+#: includes/translations.php:182
+msgid "Delete"
+msgstr "پاک کردن"
+
+#: includes/translations.php:184
+msgid "Apply"
+msgstr "اقدام کردن"
+
+#: includes/translations.php:185
+msgid "Email To"
+msgstr "ایمیل به "
+
+#: includes/translations.php:186
+msgid "Action"
+msgstr "اقدام"
+
+#: includes/translations.php:188
+msgid "Debug Output"
+msgstr "خروجی اشکال زدایی"
+
+#: includes/translations.php:189
+msgid "Date/Time"
+msgstr "تاریخ / زمان"
+
+#: includes/translations.php:192
+msgid "Debug Mode"
+msgstr "حالت اشکال زدایی "
+
+#: includes/translations.php:193
+msgid "Do you want to see Debugging Output for your emails?"
+msgstr "آیا میخواهید خروجی اشکال زدایی را در ایمیل هایتان ببینید؟"
+
+#: includes/translations.php:194
+msgid "Remove Database at Uninstall"
+msgstr "حذف کردن پایگاه داده در غیرفعال کردن"
+
+#: includes/translations.php:195
+msgid "Do you want to remove database at Uninstall of the Plugin?"
+msgstr "آیا می خواهید پایگاه داده را در غیرفعال کردن پلاگین حذف کنید؟"
+
+#: includes/translations.php:196
+msgid "Monitor Email Logs"
+msgstr "نظارت بر پست الکترونیک"
+
+#: includes/translations.php:197
+msgid "Do you want to monitor your all Outgoing Emails?"
+msgstr "آیا می خواهید همه ایمیل های خروجی خود را نظارت کنید؟"
+
+#: includes/translations.php:200
+msgid "Show Mail Bank Menu"
+msgstr "نشان دادن منوی بانک ایمیل"
+
+#: includes/translations.php:201
+msgid ""
+"Choose among the following roles who would be able to see the Mail Bank Menu?"
+msgstr "از نقش های زیر انتخاب کنید چه کسی بتواند منوی بانک ایمیل را ببیند؟"
+
+#: includes/translations.php:202
+msgid "Administrator"
+msgstr "مدیر"
+
+#: includes/translations.php:203
+msgid "Author"
+msgstr "نویسنده"
+
+#: includes/translations.php:204
+msgid "Editor"
+msgstr "ویراستار"
+
+#: includes/translations.php:205
+msgid "Contributor"
+msgstr "شرکت کننده"
+
+#: includes/translations.php:206
+msgid "Subscriber"
+msgstr "مشترک"
+
+#: includes/translations.php:207
+msgid "Others"
+msgstr "غیره"
+
+#: includes/translations.php:208
+msgid "Show Mail Bank Top Bar Menu"
+msgstr "نشان دادن بانک ایمیل در منوی نوار بالا"
+
+#: includes/translations.php:209
+msgid "Do you want to show Mail Bank menu in Top Bar?"
+msgstr "آیا می خواهید منوی بانک ایمیل در نوار بالا نشان داده شود؟"
+
+#: includes/translations.php:210
+msgid "An Administrator Role can do the following "
+msgstr "نقش مدیر می تواند موارد زیر را انجام دهد"
+
+#: includes/translations.php:211
+msgid ""
+"Choose what pages would be visible to the users having Administrator Access"
+msgstr "انتخاب کنید چه صفحاتی برای کاربران دارای دسترسی مدیر قابل مشاهده است"
+
+#: includes/translations.php:212
+msgid "Full Control"
+msgstr "کنترل کامل"
+
+#: includes/translations.php:213
+msgid "An Author Role can do the following "
+msgstr "نقش نویسنده می تواند موارد زیر را انجام دهد"
+
+#: includes/translations.php:214
+msgid "Choose what pages would be visible to the users having Author Access"
+msgstr ""
+"انتخاب کنید چه صفحاتی برای کاربران دارای دسترسی نویسنده قابل مشاهده است"
+
+#: includes/translations.php:215
+msgid "An Editor Role can do the following "
+msgstr "نقش ویراستار می تواند موارد زیر را انجام دهد"
+
+#: includes/translations.php:216
+msgid "Choose what pages would be visible to the users having Editor Access"
+msgstr ""
+"انتخاب کنید چه صفحاتی برای کاربران دارای ویرایشگر مجازی قابل مشاهده است"
+
+#: includes/translations.php:217
+msgid "A Contributor Role can do the following "
+msgstr "نقش شرکت کننده می تواند موارد زیر را انجام دهد"
+
+#: includes/translations.php:218
+msgid ""
+"Choose what pages would be visible to the users having Contributor Access"
+msgstr ""
+"انتخاب کنید چه صفحاتی برای کاربرانی که دارای دسترسی شرکت کننده هستند قابل "
+"مشاهده است"
+
+#: includes/translations.php:219
+msgid "Other Roles can do the following "
+msgstr "نقش غیره می تواند موارد زیر را انجام دهد"
+
+#: includes/translations.php:220
+msgid ""
+"Choose what pages would be visible to the users having Others Role Access"
+msgstr ""
+"انتخاب کنید چه صفحاتی برای کاربرانی که دسترسی نقش دیگری دارند قابل مشاهده است"
+
+#: includes/translations.php:221
+msgid "Please tick the appropriate capabilities for security purposes "
+msgstr "لطفا از قابلیت های مناسب برای اهداف امنیتی تیک بزنید"
+
+#: includes/translations.php:222
+msgid "Only users with these capabilities can access Mail Bank"
+msgstr "فقط کاربران با این قابلیت ها می توانند به پست بانک دسترسی داشته باشند"
+
+#: includes/translations.php:223
+msgid "A Subscriber Role can do the following"
+msgstr "نقش مشترک می تواند موارد زیر را انجام دهد"
+
+#: includes/translations.php:224
+msgid ""
+"Choose what pages would be visible to the users having Subscriber Access"
+msgstr ""
+"انتخاب کنید چه صفحاتی برای کاربرانی که دسترسی مشترک دارند قابل مشاهده است"
+
+#: includes/translations.php:227
+msgid "Sending Test Email to"
+msgstr "ارسال تست ایمیل به "
+
+#: includes/translations.php:228
+msgid "Email Status"
+msgstr "وضعیت ایمیل"
+
+#: includes/translations.php:231
+msgid "Connectivity Test"
+msgstr "تست اتصال "
+
+#: includes/translations.php:232
+msgid "Transport"
+msgstr "انتقال "
+
+#: includes/translations.php:233
+msgid "Socket"
+msgstr "ورودی"
+
+#: includes/translations.php:234
+msgid "Status"
+msgstr "وضعیت "
+
+#: includes/translations.php:235
+msgid "SMTP"
+msgstr "SMTP"
+
+#: includes/translations.php:237
+msgid "Begin Test"
+msgstr "شروع تست"
+
+#: includes/translations.php:239
+msgid "SMTP Server that will be used for a Connectivity Test"
+msgstr "SMTP سرور که برای تست اتصال استفاده خواهد شد"
+
+#: includes/translations.php:242
+msgid "Additional Headers"
+msgstr "سربرگ اضافی"
+
+#: includes/translations.php:243
+msgid ""
+"You also can insert additional headers in this optional field in order to "
+"include in your email"
+msgstr ""
+"شما همچنین می توانید سربرگ های اضافی را در این زمینه اختیاری وارد کنید تا در "
+"ایمیل خود شامل شود"
+
+#: lib/dashboard-widget.php:78
+msgid "to"
+msgstr "به "
+
+#: lib/dashboard-widget.php:79
+msgid "using"
+msgstr "با استفاده "
+
+#: lib/dashboard-widget.php:167
+msgid "is configured"
+msgstr "تایید شده است"
+
+#: lib/dashboard-widget.php:168
+msgid "will send mail through "
+msgstr "ایمیل از این طریق ارسال خواهد شد"
+
+#: lib/dashboard-widget.php:169
+msgid "Email Configuration"
+msgstr "پیکربندی ایمیل"
+
+#: lib/dashboard-widget.php:183
+msgid "Upgrade Now to Premium Editions"
+msgstr "به نسخه ممتاز ارتقا دهید"
+
+#: views/wizard/wizard.php:52
+msgid "Hi there!"
+msgstr "سلام !"
+
+#: views/wizard/wizard.php:53
+msgid ""
+"Don't ever miss an opportunity to opt in for Email Notifications / "
+"Announcements about exciting New Features and Update Releases."
+msgstr ""
+"فرصت برای اطلاع رسانی ایمیل / اطلاعیه در مورد ویژگی های جدید هیجان انگیز و "
+"به روز رسانی منتشر شده را از دست ندهید."
+
+#: views/wizard/wizard.php:54
+msgid ""
+"Contribute in helping us making our plugin compatible with most plugins and "
+"themes by allowing to share non-sensitive information about your website."
+msgstr ""
+"با کمک به ما در ایجاد پلاگین سازگار با اکثر پلاگین ها و تم ها، با اجازه دادن "
+"به اشتراک اطلاعات غیر حساس در مورد وب سایت خود، کمک می کنیم."
+
+#: views/wizard/wizard.php:55
+msgid ""
+"If you opt in, some data about your usage of Mail Bank Plugin will be sent "
+"to our servers for Compatiblity Testing Purposes and email notifications."
+msgstr ""
+"اگر شما انتخاب کنید، برخی از اطلاعات مربوط به استفاده شما از پلاگین ایمیل "
+"بانک به سرورهای ما برای اهداف تست سازگاری و اطلاعیه های ایمیل ارسال می شود."
+
+#: views/wizard/wizard.php:62
+msgid "Email Address for Notifications"
+msgstr "آدرس ایمیل برای اطلاع رسانی"
+
+#: views/wizard/wizard.php:68
+msgid "If you're not ready to Opt-In, that's ok too!"
+msgstr "اگر شما آماده انتخاب نیستید، این هم خوب است!"
+
+#: views/wizard/wizard.php:69
+msgid "Mail Bank will still work fine."
+msgstr "بانک ایمیل هنوز به خوبی کار خواهد کرد."
+
+#: views/wizard/wizard.php:73
+msgid "What permissions are being granted?"
+msgstr "چه مجوزی اعطا می شود؟"
+
+#: views/wizard/wizard.php:81
+msgid "User Details"
+msgstr "جزییات کاربر"
+
+#: views/wizard/wizard.php:82
+msgid "Name and Email Address"
+msgstr "اسم و آدرس ایمیل"
+
+#: views/wizard/wizard.php:92
+msgid "Current Plugin Status"
+msgstr "وضعیت پلاگین فعلی"
+
+#: views/wizard/wizard.php:93
+msgid "Activation, Deactivation and Uninstall"
+msgstr "فعال سازی، غیرفعال کردن و پاک کردن"
+
+#: views/wizard/wizard.php:103
+msgid "Notifications"
+msgstr "اطلاعیه ها"
+
+#: views/wizard/wizard.php:104
+msgid "Updates &amp; Announcements"
+msgstr "به روز رسانی ها و اطلاعیه ها"
+
+#: views/wizard/wizard.php:114
+msgid "Website Overview"
+msgstr "بررسی وب سایت"
+
+#: views/wizard/wizard.php:115
+msgid "Site URL, WP Version, PHP Info, Plugins &amp; Themes Info"
+msgstr "سایت URL ، نسخه WP، اطلاعات PHP، پلاگین ها و اطلاعات مربوط به تم ها"
+
+#: views/wizard/wizard.php:124
+msgid "Opt-In &amp; Continue"
+msgstr "انتخاب کردن و ادامه دادن"
+
+#: views/wizard/wizard.php:128
+msgid "Skip &amp; Continue"
+msgstr "حذف کردن و ادامه دادن"
+
+#: views/wizard/wizard.php:135
+msgid "Privacy Policy"
+msgstr "سیاست امنیت "
+
+#: views/wizard/wizard.php:137
+msgid "Terms &amp; Conditions"
+msgstr "شرایط و قوانین"
+
+#: wp-mail-bank.php:912
+msgid "Sure! I'd love to!"
+msgstr "مطمئنا! دوست دارم!"
+
+#: wp-mail-bank.php:913
+msgid "I've already left a review"
+msgstr "من قبلا یک بررسی فرستاده ام"
+
+#: wp-mail-bank.php:914
+msgid "Maybe Later"
+msgstr "شاید بعدا"
+
+#: wp-mail-bank.php:916
+msgid "Leave A Review For Mail Bank ?"
+msgstr "مروری برای بانک ایمیل بنویسید؟"
+
+#: wp-mail-bank.php:917
+msgid ""
+"We love and care about you. Mail Bank Team is putting our maximum efforts to "
+"provide you the best functionalities.<br> We would really appreciate if you "
+"could spend a couple of seconds to give a Nice Review to the plugin for "
+"motivating us!"
+msgstr ""
+"ما عاشق حمایت از شما هستیم. تیم ایمیل بانکی تلاش های حداکثر خود را برای به "
+"دست آوردن بهترین ویژگی های ما به ارمغان می آورد. <br> ما واقعا قدردانی "
+"خواهیم کرد اگر شما می توانید چند ثانیه برای ارائه یک بررسی خوب به پلاگین به "
+"ما انگیزه بدهید."
+
+#: wp-mail-bank.php:1074
+msgid "We feel guilty when anyone stop using Mail Bank."
+msgstr "ما احساس گناه می کنیم که هر کسی با استفاده از بانک ایمیل متوقف می شود."
+
+#: wp-mail-bank.php:1075
+msgid "If Mail Bank isn't working for you, others also may not."
+msgstr ""
+"اگر بانک ایمیل برای شما کار نمی کند، برای دیگران نیز ممکن است کار نکند."
+
+#: wp-mail-bank.php:1076
+msgid "We would love to hear your feedback about what went wrong."
+msgstr "ما عاشق شنیدن نظرات شما هستیم در مورد آنچه اشتباه کردیم."
+
+#: wp-mail-bank.php:1077
+msgid "We would like to help you in fixing the issue."
+msgstr "ما می خواهیم به شما در حل مسئله کمک کنیم."
+
+#: wp-mail-bank.php:1078
+msgid ""
+"If you click Continue, some data would be sent to our servers for "
+"Compatiblity Testing Purposes."
+msgstr ""
+"اگر بر روی Continue کلیک کنید، بعضی داده ها به سرورهای ما برای اهداف تست "
+"سازگاری ارسال می شوند."
+
+#: wp-mail-bank.php:1079
+msgid "If you Skip, no data would be shared with our servers."
+msgstr ""
+"اگر شما پرش کنید، هیچ داده ای با سرورهای ما به اشتراک گذاشته نخواهد شد."
+
+#: wp-mail-bank.php:1086
+msgid "The Plugin didn't work"
+msgstr "پلاگین کار نکرد"
+
+#: wp-mail-bank.php:1092
+msgid "I found a better Plugin"
+msgstr "من پلاگین بهتری پیدا کردم"
+
+#: wp-mail-bank.php:1098
+msgid "It's a temporary deactivation. I'm just debugging an issue."
+msgstr "این غیر فعال کردن موقت است. من فقط یک مشکل را برطرف میکنم."
+
+#: wp-mail-bank.php:1104
+msgid "Open a Support Ticket for me."
+msgstr "یک بلیط پشتیبانی برای من باز کنید"
+
+#: wp-mail-bank.php:1174
+msgid "WP Mail Bank Compatibility Warning"
+msgstr "هشدار سازگاری WP بانک ایمیل"
+
+#: wp-mail-bank.php:1175
+msgid ""
+"The following plugins are not compatible with Mail Bank and may lead to "
+"unexpected results: "
+msgstr ""
+"پلاگین های زیر با Mail Bank سازگار نیستند و ممکن است منجر به نتایج غیر "
+"منتظره:"
+
+#: wp-mail-bank.php:1181
+msgid "Deactivate"
+msgstr "از کار انداختن"
+
+#~ msgid "SMTP Debugging Output"
+#~ msgstr "خروجی اشکال زدایی SMTP "
+
+#~ msgid "Get Google Client Id and Secret Key"
+#~ msgstr "دریافت شناسه مشتری و رمز گوگل"
+
+#~ msgid "Get Microsoft Client Id and Secret Key"
+#~ msgstr "دریافت شناسه مشتری و رمز مایکروسافت"
+
+#~ msgid "Get Yahoo Client Id and Secret Key"
+#~ msgstr "دریافت شناسه مشتری و رمز یاهو"
+
+#~ msgid "Email Log Details"
+#~ msgstr "جزییات ورود ایمیل"
+
+#~ msgid "Feedback"
+#~ msgstr "بازخورد"
+
+#~ msgid "Your Feedback has been sent Successfully"
+#~ msgstr "بازخورد شما موفقیت آمیز بوده است"
+
+#~ msgid "Please choose an Action from Dropdown!"
+#~ msgstr "لطفا یک اقدام از کشویی را انتخاب کنید"
+
+#~ msgid "Please choose at least 1 record to delete!"
+#~ msgstr "لطفا حداقل ۱ رکورد را برای حذف انتخاب کنید!"
+
+#~ msgid "Are you sure you want to delete Email Logs?"
+#~ msgstr "آیا مطمئن هستید که میخواهید ایمیلهای ورودی را حذف کنید؟"
+
+#~ msgid "Selected Logs have been deleted Successfully"
+#~ msgstr "ورودی های انتخاب شده حذف شدند"
+
+#~ msgid "Are you sure you want to Resend Emails?"
+#~ msgstr "آیا مطمئن هستید که میخواهید دوباره ایمیل ارسال کنید؟"
+
+#~ msgid "Invalid Secret Key. Please rectify and try again!"
+#~ msgstr "رمز نامعتبر. لطفا اصلاح کنید و دوباره امتحان کنید!"
+
+#~ msgid "Licensing"
+#~ msgstr "مجوز"
+
+#~ msgid "Your Email has been Resent Successfully"
+#~ msgstr "ایمیل شما با موفقیت دوباره فرستاده شد"
+
+#~ msgid "Your Emails have been Resent Successfully"
+#~ msgstr "ایمیل شما با موفقیت دوباره فرستاده شد"
+
+#~ msgid "Unfortunately, Your Email has not been Sent"
+#~ msgstr "متاسفانه ایمیل شما ارسال نشده است"
+
+#~ msgid "Are you sure you want to Resend Email?"
+#~ msgstr "آیا مطمئن هستید که میخواهید دوباره ایمیل ارسال کنید؟"
+
+#~ msgid "Your License has been activated Successfully"
+#~ msgstr "مجوز شما به صورت موفقیت آمیز فعال شده است"
+
+#~ msgid ""
+#~ "The following php extensions are not found on your server or are "
+#~ "currently disabled. These might create few problems in configuring Mail "
+#~ "Bank. Please contact your WebHost to setup these extensions on your server"
+#~ msgstr ""
+#~ "پسوند php زیر بر روی سرور شما پیدا نمی شود و یا در حال حاضر غیر فعال است. "
+#~ "این ممکن است چند مشکل در پیکربندی بانک ایمیل ایجاد کند. برای تنظیم این "
+#~ "افزونه ها بر روی سرور خود، با میزبان وب خود تماس بگیرید"
+
+#~ msgid "In this field, you would need to provide Mailgun API Key"
+#~ msgstr "در این زمینه، شما باید رمز API Mailgun را ارائه دهید"
+
+#~ msgid "Domain Name"
+#~ msgstr "نام دامنه"
+
+#~ msgid "In this field, you would need to provide Mailgun domain name"
+#~ msgstr "در این زمینه، شما نیاز به ارائه نام دامنه Mailgun دارید"
+
+#~ msgid "Please provide Mailgun Domain Name"
+#~ msgstr "لطفا نام دامنه Mailgun را وارد کنید"
+
+#~ msgid "In this field, you need to provide SendGrid API Key"
+#~ msgstr "در این زمینه، شما نیاز به ارائه کلید API SendGrid دارید"
+
+#~ msgid "Please provide valid API key"
+#~ msgstr "لطفا کلید API معتبر ارائه دهید"
+
+#~ msgid ""
+#~ "A valid Email Address that will be used in the 'CC' field of the email. "
+#~ "Use Comma ',' for including multiple email addresses in the 'CC' field"
+#~ msgstr ""
+#~ "یک آدرس ایمیل معتبر که در قسمت \"CC\" ایمیل استفاده می شود. برای وارد "
+#~ "کردن آدرس های متعدد ایمیل در قسمت «CC» از ویرگول استفاده کنید"
+
+#~ msgid "Mailer Settings"
+#~ msgstr "تنظیمات ارسال کننده ایمیل"
+
+#~ msgid "Choose among the variety of options for routing emails"
+#~ msgstr "از میان گزینه های گوناگون برای مسیر یابی ایمیل ها انتخاب کنید"
+
+#~ msgid "Mailgun API"
+#~ msgstr "Mailgun API"
+
+#~ msgid "Get SendGrid API Key"
+#~ msgstr "دریافت کلید API SendGrid"
+
+#~ msgid "Use SMTP Authentication"
+#~ msgstr "از تایید هویت SMTP استفاده کنید"
+
+#~ msgid "Don't Use SMTP Authentication"
+#~ msgstr "از اعتبار سنجی SMTP استفاده نکنید"
+
+#~ msgid "Email Details"
+#~ msgstr "جزییات ایمیل"
+
+#~ msgid "Close"
+#~ msgstr "بستن"
+
+#~ msgid "Email Sent To"
+#~ msgstr "ایمیل فرستاده شد به "
+
+#~ msgid "From"
+#~ msgstr "از"
+
+#~ msgid "Back to Email Logs"
+#~ msgstr "برگشت به ورودی ایمیل"
+
+#~ msgid "Automatic Plugin Updates"
+#~ msgstr "به روز رسانی خودکار پلاگین"
+
+#~ msgid ""
+#~ "Please choose a specific option whether to allow Automatic Plugin Updates"
+#~ msgstr ""
+#~ "لطفا یک گزینه خاص را انتخاب کنید که آیا اجازه به روز رسانی پلاگین به صورت "
+#~ "خودکار را می دهد"
+
+#~ msgid "Monitoring Email Logs"
+#~ msgstr "بررسی ورودی های ایمیل"
+
+#~ msgid "An Administrator Role can do the following"
+#~ msgstr "نقش مدیر می تواند موارد زیر را انجام دهد"
+
+#~ msgid "An Author Role can do the following"
+#~ msgstr "نقش نویسنده می تواند موارد زیر را انجام دهد"
+
+#~ msgid "An Editor Role can do the following"
+#~ msgstr "نقش ویراستار می تواند موارد زیر را انجام دهد"
+
+#~ msgid "A Contributor Role can do the following"
+#~ msgstr "نقش شرکت کننده می تواند موارد زیر را انجام دهد"
+
+#~ msgid "Other Roles can do the following"
+#~ msgstr "نقش غیره می تواند موارد زیر را انجام دهد"
+
+#~ msgid "Please tick the appropriate capabilities for security purposes"
+#~ msgstr "لطفا از قابلیت های مناسب برای اهداف امنیتی تیک بزنید"
+
+#~ msgid "Thank You!"
+#~ msgstr "تشکر!"
+
+#~ msgid ""
+#~ "Kindly fill in the below form, if you would like to suggest some features "
+#~ "which are not in the Plugin"
+#~ msgstr ""
+#~ "لطفا فرم زیر را پر کنید، اگر می خواهید برخی از ویژگی های که در پلاگین "
+#~ "وجود ندارد را پیشنهاد کنید"
+
+#~ msgid ""
+#~ "If you also have any suggestion/complaint, you can use the same form below"
+#~ msgstr ""
+#~ "اگر شما همچنین پیشنهاد / شکایت دارید، می توانید از همان فرم زیر استفاده "
+#~ "کنید"
+
+#~ msgid "You can also write us on"
+#~ msgstr "می توانید برای ما بنویسید"
+
+#~ msgid "Please provide your Name which will be sent along with your Feedback"
+#~ msgstr "لطفا نام خود را که همراه با بازخورد شما ارسال می شود، ارائه دهید"
+
+#~ msgid "Your Email"
+#~ msgstr "ایمیل شما"
+
+#~ msgid ""
+#~ "Please provide your Email Address which will be sent along with your "
+#~ "Feedback"
+#~ msgstr "لطفا آدرس ایمیل خود را که با بازخورد شما ارسال می شود، ارائه دهید"
+
+#~ msgid "Please provide your Email Address"
+#~ msgstr "لطفا آدرس ایمیل خود را وارد نمایید"
+
+#~ msgid "Please provide your Feedback which will be sent along"
+#~ msgstr "لطفا انتقادات خود را که همراه آن ارسال می شود، ارائه دهید"
+
+#~ msgid "Please provide your Feedback"
+#~ msgstr "لطفا بررسی خود را وارد نمایید"
+
+#~ msgid "Send Feedback"
+#~ msgstr "ارسال بازخورد"
+
+#~ msgid "Your request Email has been sent Successfully"
+#~ msgstr "ایمیل درخواست شما با موفقیت فرستاده شده است"
+
+#~ msgid "Service Available"
+#~ msgstr "سرویس موجود است"
+
+#~ msgid "Server ID"
+#~ msgstr "مشخصه سرور"
+
+#~ msgid "Important Notice!"
+#~ msgstr "اطلاعیه مهم!"
+
+#~ msgid ""
+#~ "Congratulations! You have recently purchased Mail Bank and now you would "
+#~ "need to activate the license in order to unlock it!"
+#~ msgstr ""
+#~ "تبریک! شما اخیرا بانک ایمیل را خریداری کرده اید و اکنون باید مجوز را فعال "
+#~ "کنید تا آن را باز کنید!"
+
+#~ msgid ""
+#~ "Kindly fill in the required details and click on Validate License to "
+#~ "unlock it"
+#~ msgstr ""
+#~ "لطفا اطلاعات لازم را پر کنید و روی تایید مجوز کلیک کنید تا آن را باز کنید"
+
+#~ msgid "If you face any issues activating the license, you may contact us at"
+#~ msgstr ""
+#~ "اگر با مسائل مربوط به فعال کردن مجوز مواجه شدید، می توانید با ما تماس "
+#~ "بگیرید"
+
+#~ msgid "Product Name"
+#~ msgstr "نام محصول"
+
+#~ msgid "Current Version"
+#~ msgstr "ورژن اخیر"
+
+#~ msgid "Website URL"
+#~ msgstr "آدرس وب سایت"
+
+#~ msgid "Order ID"
+#~ msgstr "شناسه سفارش"
+
+#~ msgid "API KEY"
+#~ msgstr "API کلید"
+
+#~ msgid "Validate License"
+#~ msgstr "تایید مجوز"
+
+#~ msgid "This field shows your Installed Product"
+#~ msgstr "این فیلد محصول نصب شده شما را نشان می دهد"
+
+#~ msgid "This field shows your Installed Product Version"
+#~ msgstr "این فیلد محصول نسخه نصب شده شما را نشان می دهد"
+
+#~ msgid "This field shows your Website URL"
+#~ msgstr "این فیلد آدرس وب سایت شما را نشان می دهد"
+
+#~ msgid ""
+#~ "Please provide your Order ID  which you have received after purchasing "
+#~ "the Product."
+#~ msgstr ""
+#~ "لطفا ID سفارش خود را که پس از خرید محصول دریافت کرده اید، ارائه دهید."
+
+#~ msgid ""
+#~ "Please provide your API Key which you have received after purchasing the "
+#~ "Product."
+#~ msgstr ""
+#~ "لطفا کلید API خود را که پس از خرید محصول دریافت کرده اید ارائه دهید."
+
+#~ msgid "Please provide Order ID received after making the purchase"
+#~ msgstr "لطفا پس از خرید ID سفارش دریافت کنید"
+
+#~ msgid "Please provide API Key received after making the purchase"
+#~ msgstr "لطفا پس از خرید کلید API دریافت کنید"
+
+#~ msgid "If Mail Bank is not working for you, others also may not."
+#~ msgstr ""
+#~ "اگر بانک ایمیل برای شما کار نمی کند، برای دیگران نیز ممکن است کار نکند."

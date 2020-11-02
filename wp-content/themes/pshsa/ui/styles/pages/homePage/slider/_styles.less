@@ -1,0 +1,69 @@
+#main {
+  .flexslider {
+    padding: 0 !important;
+    ul {
+      &.slides {}
+      li {
+        img {}
+        .content {
+          p[class^="sectorcategory-"] {
+            text-align: center;
+            a {}
+            @media @mobile {
+              padding: 5px;
+              border: 1px solid;
+              margin: 0 0 5px 0;
+              a {
+                .fontStyle(14, 100, 400);
+              }
+            }
+            @media @desktop {
+              padding: 10px;
+              margin: 0 0 20px 0;
+              border: 3px solid;
+              a {
+                .fontStyle(16, 100, 400);
+              }
+            }
+          }
+          // health care
+          .sectorcategory-hc {
+            border-color: #6093bb !important;
+            a {
+              color: #6093bb;
+            }
+          }
+          // government
+          .sectorcategory-gov {
+            border-color: #b1a42e !important;
+            a {
+              color: #b1a42e;
+            }
+          }
+          // education
+          .sectorcategory-edu {
+            border-color: #80a096 !important;
+            a {
+              color: #80a096;
+            }
+          }
+          // emergency services
+          .sectorcategory-es {
+            border-color: #dd8235 !important;
+            a {
+              color: #dd8235;
+            }
+          }          
+        }
+      }
+    }
+    ol {
+      &.flex-control-nav {}
+      &.flex-control-paging {
+        bottom: 15px !important;
+        z-index: 10;
+        position: relative;
+      }
+    }
+  }
+}

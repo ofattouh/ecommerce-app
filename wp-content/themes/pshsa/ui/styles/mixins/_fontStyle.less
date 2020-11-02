@@ -1,0 +1,17 @@
+// set font size, weight, and line height
+// usage 
+
+// a{
+// 	.fontStyle(20, 200, 700);
+
+// }
+
+.fontStyle(@fontSize: 12, @lineHeight: 120, @fontWeight: 400){
+	// we set the px size
+	font-size:  (@fontSize * 1px) !important;
+	// we set the line height
+	line-height:  (@lineHeight * 1%) !important;
+	// set fonty weight
+	font-weight: @fontWeight !important;
+
+}

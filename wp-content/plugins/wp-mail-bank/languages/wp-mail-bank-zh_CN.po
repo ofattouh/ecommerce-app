@@ -1,0 +1,1225 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mail Bank\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-22 14:33+0530\n"
+"PO-Revision-Date: 2018-06-22 14:37+0530\n"
+"Last-Translator: Tech Banker\n"
+"Language-Team: Simplified Chinese\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Loco-Source-Locale: en-IN\n"
+"X-Loco-Project-Id: 38931\n"
+"X-Loco-Api-Version: 1.0.18 20180111-1\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+
+#: includes/translations.php:26
+msgid "Email Log has been deleted Successfully"
+msgstr "成功删除邮件日志"
+
+#: includes/translations.php:27
+msgid "Are you sure you want to delete Email Log?"
+msgstr "您确定要删除邮件日志吗？"
+
+#: includes/translations.php:28
+msgid "MailGun API"
+msgstr "通过MailGun接口"
+
+#: includes/translations.php:29
+msgid ""
+"Your host may have installed a firewall between you and the server. Ask them "
+"to open the ports."
+msgstr ""
+"您的主机供应商可能安装了防火墙，影响了您与服务器的连接。请联系您的主机供应商"
+"打开端口。"
+
+#: includes/translations.php:30
+msgid ""
+"You may have tried to (incorrectly) use SSL over port 587. Check your "
+"encryption and port settings."
+msgstr ""
+"您可能在使用SSL时不正确地使用了端口 587。请检查您的加密协议和端口设置。"
+
+#: includes/translations.php:31
+msgid ""
+"Your host may have poor connectivity to the mail server. Try doubling the "
+"Read Timeout."
+msgstr ""
+"您的主机与服务器连接不稳定，您可以尝试将读取数据超时时间设置至原来的2倍。"
+
+#: includes/translations.php:32
+msgid ""
+"Your host may have installed a firewall (DROP packets) between you and the "
+"server. Ask them to open the ports."
+msgstr ""
+"您的主机供应商可能安装了防火墙（导致丢包），影响了您与服务器的连接。请联系您"
+"的主机供应商打开端口。"
+
+#: includes/translations.php:33
+msgid ""
+"Your host may have tried to (incorrectly) use TLS over port 465. Check your "
+"encryption and port settings."
+msgstr ""
+"您的主机可能在使用TLS时不正确地使用了端口 465。请检查您的加密协议和端口设置。"
+
+#: includes/translations.php:34
+msgid ""
+"Your host has likely installed a firewall (REJECT packets) between you and "
+"the server. Ask them to open the ports."
+msgstr ""
+"您的主机供应商可能安装了防火墙（导致数据包被拒绝），影响了您与服务器的连接。"
+"请联系您的主机供应商打开端口。"
+
+#: includes/translations.php:35
+msgid ""
+"Your Web Host provider may have installed a firewall between you and the "
+"server."
+msgstr "您的虚拟主机供应商可能安装了防火墙，影响了您与服务器的连接。"
+
+#: includes/translations.php:36
+msgid ""
+"Contact the admin of the server and ask if they allow outgoing communication "
+"on port 25,465,587."
+msgstr "您可以联系服务器管理员，询问能否使用端口25,465,587向外发送消息。"
+
+#: includes/translations.php:37
+msgid ""
+"It seems like they are blocking certain traffic. Ask them to open the ports."
+msgstr "管理员可能正在控制流量，您可以请求管理员打开相关端口。"
+
+#: includes/translations.php:38
+msgid ""
+"Your Web Host provider may have blocked the use of mail() function on your "
+"server."
+msgstr "您的虚拟主机提供商可能屏蔽了mail()函数。"
+
+#: includes/translations.php:39
+msgid "Ask them to enable the mail() function to start sending emails."
+msgstr "您可以联系虚拟主机提供商开启mail()函数，以便您发送邮件。"
+
+#: includes/translations.php:42
+msgid "Premium Edition"
+msgstr "付费版本"
+
+#: includes/translations.php:43
+msgid ""
+"This feature is available only in Premium Editions! <br> Kindly Purchase to "
+"unlock it!"
+msgstr "这是一项付费功能，请购买付费版本体验！"
+
+#: includes/translations.php:46
+msgid "Fetch Settings"
+msgstr "获取设置"
+
+#: includes/translations.php:47
+msgid "Choose options for Fetch Settings"
+msgstr "为提取设置选择选项"
+
+#: includes/translations.php:48
+msgid "Individual Site"
+msgstr "个人网站"
+
+#: includes/translations.php:49
+msgid "Network Site"
+msgstr "网络站点"
+
+#: includes/translations.php:52
+msgid "Basic Info"
+msgstr "基本信息"
+
+#: includes/translations.php:53
+msgid "Account Setup"
+msgstr "账户设置"
+
+#: includes/translations.php:54
+msgid "Confirm"
+msgstr "确认"
+
+#: includes/translations.php:58
+msgid "Email Setup"
+msgstr "邮件设置"
+
+#: includes/translations.php:59 lib/dashboard-widget.php:169
+msgid "Email Logs"
+msgstr "邮件日志"
+
+#: includes/translations.php:60
+msgid "Test Email"
+msgstr "测试邮件"
+
+#: includes/translations.php:61
+msgid "Plugin Settings"
+msgstr "插件设置"
+
+#: includes/translations.php:62
+msgid "System Information"
+msgstr "系统信息"
+
+#: includes/translations.php:63
+msgid "Ask For Help"
+msgstr "求助"
+
+#: includes/translations.php:64
+msgid "Roles & Capabilities"
+msgstr "角色与功能"
+
+#: includes/translations.php:67
+msgid "Success!"
+msgstr "成功！"
+
+#: includes/translations.php:68
+msgid "Email Setup has been updated Successfully"
+msgstr "已成功更新您的邮件设置！"
+
+#: includes/translations.php:69
+msgid "Test Email was sent Successfully!"
+msgstr "测试邮件发送成功！"
+
+#: includes/translations.php:70
+msgid "Test Email was not sent!"
+msgstr "测试邮件还未发送！"
+
+#: includes/translations.php:71
+msgid "Plugin Settings have been updated Successfully"
+msgstr "已成功更新您的插件设置！"
+
+#: includes/translations.php:72
+msgid ""
+"The OAuth is not supported by providing SMTP Host, kindly provide username "
+"and password"
+msgstr "OAuth协议无法在SMTP服务器上运行，请提供您的用户名和密码。"
+
+#: includes/translations.php:73
+msgid "Your Name"
+msgstr "您的名字"
+
+#: includes/translations.php:74
+msgid "Please provide your Name"
+msgstr "请提供您的名字"
+
+#: includes/translations.php:75
+msgid "Roles & Capabilities have been updated Successfully"
+msgstr "已成功更新角色与功能！"
+
+#: includes/translations.php:78 lib/dashboard-widget.php:173
+msgid "Email Sent"
+msgstr "发送成功"
+
+#: includes/translations.php:79 lib/dashboard-widget.php:178
+msgid "Email Not Sent"
+msgstr "发送失败"
+
+#: includes/translations.php:80
+msgid ""
+"You don't have Sufficient Access to this Page. Kindly contact the "
+"Administrator for more Privileges"
+msgstr "您没有足够的权限浏览这一网页，请联系管理员开通权限。"
+
+#: includes/translations.php:81
+msgid "Enable"
+msgstr "开启"
+
+#: includes/translations.php:82
+msgid "Disable"
+msgstr "关闭"
+
+#: includes/translations.php:83
+msgid "Override"
+msgstr "修改"
+
+#: includes/translations.php:84
+msgid "Don't Override"
+msgstr "保持原样"
+
+#: includes/translations.php:85
+msgid "Save Settings"
+msgstr "保存设置"
+
+#: includes/translations.php:86
+msgid "Subject"
+msgstr "主题"
+
+#: includes/translations.php:87
+msgid "Next Step"
+msgstr "下一步"
+
+#: includes/translations.php:88
+msgid "Previous Step"
+msgstr "上一步"
+
+#: includes/translations.php:89
+msgid "Know about Full Features"
+msgstr "了解所有功能"
+
+#: includes/translations.php:90
+msgid "or"
+msgstr "或"
+
+#: includes/translations.php:91
+msgid "Check our Online Demos"
+msgstr "点击查看软件示例"
+
+#: includes/translations.php:92
+msgid "N/A"
+msgstr "不适用"
+
+#: includes/translations.php:97
+msgid ""
+"A valid Email Address that will be used in the \"CC\" field of the email. "
+"Use Comma \",\" for including multiple email addresses in the \"CC\" field"
+msgstr ""
+"请填入正确的邮件地址，这个地址将会被填入“抄送”栏。您可以使用“，”来分隔多个需"
+"要抄送至的邮件地址。"
+
+#: includes/translations.php:98
+msgid ""
+"A valid Email Address that will be used in the 'BCC' field of the email. Use "
+"Comma ',' for including multiple email addresses in the 'BCC' field"
+msgstr ""
+"请填入正确的邮件地址，这个地址将会被填入“密送”栏。您可以使用“，”来分隔多个需"
+"要密送至的邮件地址。"
+
+#: includes/translations.php:99
+msgid "Please provide CC Email Address"
+msgstr "添加抄送人"
+
+#: includes/translations.php:100
+msgid "Please provide BCC Email Address"
+msgstr "添加密送人"
+
+#: includes/translations.php:101
+msgid "From Name"
+msgstr "发件人："
+
+#: includes/translations.php:102
+msgid "Please provide From Name"
+msgstr "请输入发件人"
+
+#: includes/translations.php:103
+msgid "From Email"
+msgstr "发件地址："
+
+#: includes/translations.php:104
+msgid "Please provide From Email Address"
+msgstr "请输入发件人地址"
+
+#: includes/translations.php:105
+msgid "Mailer Type"
+msgstr "选择邮件服务器"
+
+#: includes/translations.php:106
+msgid "Choose among the variety of options for routing emails."
+msgstr "您可以选择一个收发邮件的服务器"
+
+#: includes/translations.php:107
+msgid "Send Email via SMTP"
+msgstr "通过SMTP发送邮件"
+
+#: includes/translations.php:108
+msgid "Use The PHP mail() Function"
+msgstr "使用PHP mail()函数"
+
+#: includes/translations.php:109 includes/translations.php:236
+msgid "SMTP Host"
+msgstr "SMTP服务器"
+
+#: includes/translations.php:110
+msgid "Server that will send the email"
+msgstr "用来发送邮件的服务器"
+
+#: includes/translations.php:111
+msgid "Please provide SMTP Host"
+msgstr "请提供SMTP服务器："
+
+#: includes/translations.php:112
+msgid "SMTP Port"
+msgstr "SMTP端口"
+
+#: includes/translations.php:113
+msgid "Port to connect to the email server"
+msgstr "用来连接邮件服务器的端口"
+
+#: includes/translations.php:114
+msgid "Please provide SMTP Port"
+msgstr "请提供SMTP端口："
+
+#: includes/translations.php:115
+msgid "Encryption"
+msgstr "加密协议"
+
+#: includes/translations.php:116
+msgid ""
+"Encrypt the email when sent to the email server using the different methods "
+"available"
+msgstr "发送邮件至服务器时使用不同方法加密"
+
+#: includes/translations.php:120
+msgid "Authentication"
+msgstr "认证"
+
+#: includes/translations.php:121
+msgid "Method for authentication (almost always Login)"
+msgstr "认证方法（一般情况下选择登录认证）"
+
+#: includes/translations.php:122 includes/translations.php:157
+msgid "Email Address"
+msgstr "邮件地址"
+
+#: includes/translations.php:123
+msgid "A valid Email Address on which you would like to send a Test Email"
+msgstr "请输入一个可用的邮件地址以发送测试邮件"
+
+#: includes/translations.php:124
+msgid "Please provide Email Address"
+msgstr "请输入邮件地址"
+
+#: includes/translations.php:125
+msgid "Subject Line for your Test Email"
+msgstr "测试邮件主题"
+
+#: includes/translations.php:126
+msgid "Please provide Subject"
+msgstr "请输入邮件主题"
+
+#: includes/translations.php:127 includes/translations.php:187
+msgid "Email Content"
+msgstr "邮件内容"
+
+#: includes/translations.php:128
+msgid "Email Content for your Test Email"
+msgstr "请输入测试邮件的内容"
+
+#: includes/translations.php:129
+msgid "Send Test Email"
+msgstr "发送测试邮件"
+
+#: includes/translations.php:130
+msgid "Checking your settings"
+msgstr "检查设置"
+
+#: includes/translations.php:131
+msgid "Result"
+msgstr "发送结果"
+
+#: includes/translations.php:132
+msgid "Send Another Test Email"
+msgstr "再发一封测试邮件"
+
+#: includes/translations.php:133
+msgid "From Name Configuration"
+msgstr "设置发件人"
+
+#: includes/translations.php:134
+msgid ""
+"Do you want to override the Default Name that tells email recipient about "
+"who sent the email?"
+msgstr "修改发件人将使收件人看到您所设置的发件人，您是否想修改默认的发件人？"
+
+#: includes/translations.php:135
+msgid "From Email Configuration"
+msgstr "设置发件地址"
+
+#: includes/translations.php:136
+msgid ""
+"Do you want to override the Default Email Address that tells email recipient "
+"about the sender?"
+msgstr ""
+"修改发件地址将使收件人看到您所设置的发件地址，您是否想修改默认的发件地址？"
+
+#: includes/translations.php:137
+msgid "Username"
+msgstr "用户名"
+
+#: includes/translations.php:138
+msgid ""
+" Login is typically the full email address (Example: mailbox@yourdomain.com)"
+msgstr "登录名一般情况下是完整的邮件地址（例如：mailbox@yourdomain.com）"
+
+#: includes/translations.php:139
+msgid "Please provide username"
+msgstr "请输入用户名"
+
+#: includes/translations.php:140
+msgid "Password"
+msgstr "密码"
+
+#: includes/translations.php:141
+msgid "Password is typically the same as the password to retrieve the email"
+msgstr "一般情况下密码与接收邮件的密码相同"
+
+#: includes/translations.php:142
+msgid "Please provide password"
+msgstr "请输入密码"
+
+#: includes/translations.php:143
+msgid "Redirect URI"
+msgstr "重定向地址"
+
+#: includes/translations.php:144
+msgid ""
+"Please copy this Redirect URI and Paste into Redirect URI field when "
+"creating your app"
+msgstr "复制重定向地址，粘贴进创建app时出现的重定向地址栏"
+
+#: includes/translations.php:150
+msgid "Client Id"
+msgstr "用户ID"
+
+#: includes/translations.php:151
+msgid "Secret Key"
+msgstr "密钥"
+
+#: includes/translations.php:152
+msgid "Client Id issued by your SMTP Host"
+msgstr "SMTP服务器下发的用户ID"
+
+#: includes/translations.php:153
+msgid "Secret Key issued by your SMTP Host"
+msgstr "SMTP服务器下发的密钥"
+
+#: includes/translations.php:154
+msgid "Please provide Client Id"
+msgstr "请输入用户ID"
+
+#: includes/translations.php:155
+msgid "Please provide Secret Key"
+msgstr "请输入密钥"
+
+#: includes/translations.php:156
+msgid ""
+"Yes, automatically send a Test Email upon clicking on the Next Step Button "
+"to verify settings"
+msgstr "是，在我点击“下一步”时自动发出一封测试邮件来检测设置"
+
+#: includes/translations.php:158
+msgid "A valid Email Address account from which you would like to send Emails"
+msgstr "请提供一个可用的邮件地址用来发送邮件"
+
+#: includes/translations.php:159
+msgid "Please provide valid Email Address"
+msgstr "请输入正确的邮件地址"
+
+#: includes/translations.php:160
+msgid "Reply To"
+msgstr "回复"
+
+#: includes/translations.php:161
+msgid ""
+"A valid Email Address that will be used in the 'Reply-To' field of the email"
+msgstr "请填入正确的邮件地址，这个地址将会被填入“回复”栏"
+
+#: includes/translations.php:162
+msgid "Please provide Reply To Email Address"
+msgstr "请输入需要回复的邮件地址"
+
+#: includes/translations.php:163
+msgid "Get API Key"
+msgstr "获取API密钥"
+
+#: includes/translations.php:164
+msgid "How to setup?"
+msgstr "如何设置？"
+
+#: includes/translations.php:165
+msgid "SendGrid API"
+msgstr "通过SendGrid接口"
+
+#: includes/translations.php:167
+msgid "Start Date"
+msgstr "开始日期"
+
+#: includes/translations.php:168 includes/translations.php:183
+msgid "Resend Email"
+msgstr "重新发送"
+
+#: includes/translations.php:169
+msgid "Please provide Start Date"
+msgstr "请输入开始日期"
+
+#: includes/translations.php:170
+msgid "Start Date for Email Logs"
+msgstr "邮件日志的开始日期"
+
+#: includes/translations.php:171
+msgid "End Date"
+msgstr "结束日期"
+
+#: includes/translations.php:172
+msgid "Limit Records"
+msgstr "记录上限"
+
+#: includes/translations.php:173
+msgid "Number of Logs to view"
+msgstr "需要查看的日志数"
+
+#: includes/translations.php:178
+msgid "Please provide End Date"
+msgstr "请输入结束日期"
+
+#: includes/translations.php:179
+msgid "End Date for Email Logs"
+msgstr "邮件日志的结束日期"
+
+#: includes/translations.php:180
+msgid "Submit"
+msgstr "提交"
+
+#: includes/translations.php:181
+msgid "Bulk Action"
+msgstr "批量处理"
+
+#: includes/translations.php:182
+msgid "Delete"
+msgstr "删除"
+
+#: includes/translations.php:184
+msgid "Apply"
+msgstr "应用"
+
+#: includes/translations.php:185
+msgid "Email To"
+msgstr "发送至"
+
+#: includes/translations.php:186
+msgid "Action"
+msgstr "操作"
+
+#: includes/translations.php:188
+msgid "Debug Output"
+msgstr "调试输出"
+
+#: includes/translations.php:189
+msgid "Date/Time"
+msgstr "日期/时间"
+
+#: includes/translations.php:192
+msgid "Debug Mode"
+msgstr "调试模式"
+
+#: includes/translations.php:193
+msgid "Do you want to see Debugging Output for your emails?"
+msgstr "您想看到邮件的调试信息吗？"
+
+#: includes/translations.php:194
+msgid "Remove Database at Uninstall"
+msgstr "卸载时清除数据库"
+
+#: includes/translations.php:195
+msgid "Do you want to remove database at Uninstall of the Plugin?"
+msgstr "您想在卸载插件时移除数据库吗？"
+
+#: includes/translations.php:196
+msgid "Monitor Email Logs"
+msgstr "监控邮件日志"
+
+#: includes/translations.php:197
+msgid "Do you want to monitor your all Outgoing Emails?"
+msgstr "您想监控所有您发出的邮件吗？"
+
+#: includes/translations.php:200
+msgid "Show Mail Bank Menu"
+msgstr "显示Mail Bank目录"
+
+#: includes/translations.php:201
+msgid ""
+"Choose among the following roles who would be able to see the Mail Bank Menu?"
+msgstr "请在下列选项中选择能够看到Mail Bank目录的角色"
+
+#: includes/translations.php:202
+msgid "Administrator"
+msgstr "管理员"
+
+#: includes/translations.php:203
+msgid "Author"
+msgstr "作者"
+
+#: includes/translations.php:204
+msgid "Editor"
+msgstr "编辑"
+
+#: includes/translations.php:205
+msgid "Contributor"
+msgstr "投稿人"
+
+#: includes/translations.php:206
+msgid "Subscriber"
+msgstr "订阅人"
+
+#: includes/translations.php:207
+msgid "Others"
+msgstr "其他"
+
+#: includes/translations.php:208
+msgid "Show Mail Bank Top Bar Menu"
+msgstr "显示Mail Bank顶栏目录"
+
+#: includes/translations.php:209
+msgid "Do you want to show Mail Bank menu in Top Bar?"
+msgstr "您想在顶栏显示Mail Bank目录吗？"
+
+#: includes/translations.php:210
+msgid "An Administrator Role can do the following "
+msgstr "管理员权限："
+
+#: includes/translations.php:211
+msgid ""
+"Choose what pages would be visible to the users having Administrator Access"
+msgstr "选择哪些页面对拥有管理员权限的人的可见"
+
+#: includes/translations.php:212
+msgid "Full Control"
+msgstr "拥有所有权限"
+
+#: includes/translations.php:213
+msgid "An Author Role can do the following "
+msgstr "作者权限："
+
+#: includes/translations.php:214
+msgid "Choose what pages would be visible to the users having Author Access"
+msgstr "选择哪些页面对拥有作者权限的人的可见"
+
+#: includes/translations.php:215
+msgid "An Editor Role can do the following "
+msgstr "编辑权限："
+
+#: includes/translations.php:216
+msgid "Choose what pages would be visible to the users having Editor Access"
+msgstr "选择哪些页面对拥有编辑权限的人的可见"
+
+#: includes/translations.php:217
+msgid "A Contributor Role can do the following "
+msgstr "投稿人权限："
+
+#: includes/translations.php:218
+msgid ""
+"Choose what pages would be visible to the users having Contributor Access"
+msgstr "选择哪些页面对拥有投稿人权限的人的可见"
+
+#: includes/translations.php:219
+msgid "Other Roles can do the following "
+msgstr "其他角色权限："
+
+#: includes/translations.php:220
+msgid ""
+"Choose what pages would be visible to the users having Others Role Access"
+msgstr "选择哪些页面对拥有其他角色权限的人的可见"
+
+#: includes/translations.php:221
+msgid "Please tick the appropriate capabilities for security purposes "
+msgstr "为了您的安全，请选择限定功能："
+
+#: includes/translations.php:222
+msgid "Only users with these capabilities can access Mail Bank"
+msgstr "只有拥有这些功能的用户才能访问Mail Bank"
+
+#: includes/translations.php:223
+msgid "A Subscriber Role can do the following"
+msgstr "订阅人权限："
+
+#: includes/translations.php:224
+msgid ""
+"Choose what pages would be visible to the users having Subscriber Access"
+msgstr "选择哪些页面对拥有订阅人权限的人的可见"
+
+#: includes/translations.php:227
+msgid "Sending Test Email to"
+msgstr "发送测试邮件至"
+
+#: includes/translations.php:228
+msgid "Email Status"
+msgstr "查看邮件状态"
+
+#: includes/translations.php:231
+msgid "Connectivity Test"
+msgstr "检测网络状态"
+
+#: includes/translations.php:232
+msgid "Transport"
+msgstr "网络传输协议"
+
+#: includes/translations.php:233
+msgid "Socket"
+msgstr "端口号"
+
+#: includes/translations.php:234
+msgid "Status"
+msgstr "状态"
+
+#: includes/translations.php:235
+msgid "SMTP"
+msgstr "SMTP"
+
+#: includes/translations.php:237
+msgid "Begin Test"
+msgstr "开始测试"
+
+#: includes/translations.php:239
+msgid "SMTP Server that will be used for a Connectivity Test"
+msgstr "用于检测网络状态的SMTP服务器"
+
+#: includes/translations.php:242
+msgid "Additional Headers"
+msgstr "附加标头"
+
+#: includes/translations.php:243
+msgid ""
+"You also can insert additional headers in this optional field in order to "
+"include in your email"
+msgstr "本栏非必填，您可以在这一栏为自己的邮件插入附加标头"
+
+#: lib/dashboard-widget.php:78
+msgid "to"
+msgstr "至"
+
+#: lib/dashboard-widget.php:79
+msgid "using"
+msgstr "使用"
+
+#: lib/dashboard-widget.php:167
+msgid "is configured"
+msgstr "配置完成"
+
+#: lib/dashboard-widget.php:168
+msgid "will send mail through "
+msgstr "将通过邮件发送"
+
+#: lib/dashboard-widget.php:169
+msgid "Email Configuration"
+msgstr "邮件配置"
+
+#: lib/dashboard-widget.php:183
+msgid "Upgrade Now to Premium Editions"
+msgstr "升级至付费版本"
+
+#: views/wizard/wizard.php:52
+msgid "Hi there!"
+msgstr "你好！"
+
+#: views/wizard/wizard.php:53
+msgid ""
+"Don't ever miss an opportunity to opt in for Email Notifications / "
+"Announcements about exciting New Features and Update Releases."
+msgstr ""
+"打开提醒，你再也不会错过邮件提醒，有趣的新功能上线的消息，还有插件版本更新的"
+"通知！"
+
+#: views/wizard/wizard.php:54
+msgid ""
+"Contribute in helping us making our plugin compatible with most plugins and "
+"themes by allowing to share non-sensitive information about your website."
+msgstr ""
+"您可以通过同意分享您网页上的非敏感信息，来帮助我们的插件与更多其他插件和主题"
+"兼容。"
+
+#: views/wizard/wizard.php:55
+msgid ""
+"If you opt in, some data about your usage of Mail Bank Plugin will be sent "
+"to our servers for Compatiblity Testing Purposes and email notifications."
+msgstr ""
+"如果您选择使用，有关您使用Mail Bank Plugin的一些数据将被发送到我们的服务器以"
+"进行兼容性测试目的和电子邮件通知。"
+
+#: views/wizard/wizard.php:62
+msgid "Email Address for Notifications"
+msgstr "发送提醒到此邮件地址："
+
+#: views/wizard/wizard.php:68
+msgid "If you're not ready to Opt-In, that's ok too!"
+msgstr "如果您还不想开启提醒，也没有关系！"
+
+#: views/wizard/wizard.php:69
+msgid "Mail Bank will still work fine."
+msgstr "Mail Bank还是会成为您最得力的助手。"
+
+#: views/wizard/wizard.php:73
+msgid "What permissions are being granted?"
+msgstr "查看需要的授权"
+
+#: views/wizard/wizard.php:81
+msgid "User Details"
+msgstr "用户信息"
+
+#: views/wizard/wizard.php:82
+msgid "Name and Email Address"
+msgstr "名字和邮件地址"
+
+#: views/wizard/wizard.php:92
+msgid "Current Plugin Status"
+msgstr "现有插件"
+
+#: views/wizard/wizard.php:93
+msgid "Activation, Deactivation and Uninstall"
+msgstr "激活，关闭和卸载"
+
+#: views/wizard/wizard.php:103
+msgid "Notifications"
+msgstr "提醒"
+
+#: views/wizard/wizard.php:104
+msgid "Updates &amp; Announcements"
+msgstr "更新与通知"
+
+#: views/wizard/wizard.php:114
+msgid "Website Overview"
+msgstr "网站概览"
+
+#: views/wizard/wizard.php:115
+msgid "Site URL, WP Version, PHP Info, Plugins &amp; Themes Info"
+msgstr "网站链接，WP版本，PHP信息，插件与主题信息"
+
+#: views/wizard/wizard.php:124
+msgid "Opt-In &amp; Continue"
+msgstr "开启并继续"
+
+#: views/wizard/wizard.php:128
+msgid "Skip &amp; Continue"
+msgstr "跳过并继续"
+
+#: views/wizard/wizard.php:135
+msgid "Privacy Policy"
+msgstr "隐私权政策"
+
+#: views/wizard/wizard.php:137
+msgid "Terms &amp; Conditions"
+msgstr "条款和条件"
+
+#: wp-mail-bank.php:912
+msgid "Sure! I'd love to!"
+msgstr "好的！我很愿意！"
+
+#: wp-mail-bank.php:913
+msgid "I've already left a review"
+msgstr "我已经评价过了"
+
+#: wp-mail-bank.php:914
+msgid "Maybe Later"
+msgstr "以后吧"
+
+#: wp-mail-bank.php:916
+msgid "Leave A Review For Mail Bank ?"
+msgstr "来评价下Mail Bank吧？"
+
+#: wp-mail-bank.php:917
+msgid ""
+"We love and care about you. Mail Bank Team is putting our maximum efforts to "
+"provide you the best functionalities.<br> We would really appreciate if you "
+"could spend a couple of seconds to give a Nice Review to the plugin for "
+"motivating us!"
+msgstr ""
+"我们关心您，爱您。Mail Bank团队用了最大的努力来为您提供最得力的工具。请花几秒"
+"钟为我们留下一个正面的评价，我们会因您的鼓励而在前行的路上更有力量！"
+
+#: wp-mail-bank.php:1074
+msgid "We feel guilty when anyone stop using Mail Bank."
+msgstr "每当有人要卸载Mail Bank时，我们都感到十分愧疚。"
+
+#: wp-mail-bank.php:1075
+msgid "If Mail Bank isn't working for you, others also may not."
+msgstr "如果Mail Bank不能为您提供所需的服务，那么其他产品可能也无法做到。"
+
+#: wp-mail-bank.php:1076
+msgid "We would love to hear your feedback about what went wrong."
+msgstr "我们希望知道到底是哪里出了问题"
+
+#: wp-mail-bank.php:1077
+msgid "We would like to help you in fixing the issue."
+msgstr "也希望能够帮您解决这些问题。"
+
+#: wp-mail-bank.php:1078
+msgid ""
+"If you click Continue, some data would be sent to our servers for "
+"Compatiblity Testing Purposes."
+msgstr "如果您点击继续，一些数据将被发送到我们的服务器以进行相容性测试。"
+
+#: wp-mail-bank.php:1079
+msgid "If you Skip, no data would be shared with our servers."
+msgstr "如果跳过，则不会与我们的服务器共享数据。"
+
+#: wp-mail-bank.php:1086
+msgid "The Plugin didn't work"
+msgstr "我的插件不能用"
+
+#: wp-mail-bank.php:1092
+msgid "I found a better Plugin"
+msgstr "我找到了一个更好用的插件"
+
+#: wp-mail-bank.php:1098
+msgid "It's a temporary deactivation. I'm just debugging an issue."
+msgstr "我只是为了检测Bug暂时卸载它"
+
+#: wp-mail-bank.php:1104
+msgid "Open a Support Ticket for me."
+msgstr "我要写封问题反馈"
+
+#: wp-mail-bank.php:1174
+msgid "WP Mail Bank Compatibility Warning"
+msgstr "WP邮件银行兼容性警告"
+
+#: wp-mail-bank.php:1175
+msgid ""
+"The following plugins are not compatible with Mail Bank and may lead to "
+"unexpected results: "
+msgstr "以下插件与Mail Bank不兼容，可能会导致意外的结果："
+
+#: wp-mail-bank.php:1181
+msgid "Deactivate"
+msgstr "停用"
+
+#~ msgid "SMTP Debugging Output"
+#~ msgstr "输出SMTP调试信息"
+
+#~ msgid "Get Google Client Id and Secret Key"
+#~ msgstr "申请谷歌用户ID和密钥"
+
+#~ msgid "Get Microsoft Client Id and Secret Key"
+#~ msgstr "申请微软用户ID和密钥"
+
+#~ msgid "Get Yahoo Client Id and Secret Key"
+#~ msgstr "申请雅虎用户ID和密钥"
+
+#~ msgid "Use OAuth (Client Id and Secret Key required)"
+#~ msgstr "使用OAuth协议（需要用户ID和密钥）"
+
+#~ msgid "Email Log Details"
+#~ msgstr "邮件日志详情"
+
+#~ msgid "Feedback"
+#~ msgstr "反馈"
+
+#~ msgid "Your Feedback has been sent Successfully"
+#~ msgstr "您的反馈已成功发送"
+
+#~ msgid "Please choose an Action from Dropdown!"
+#~ msgstr "请在下拉栏里选择一项操作！"
+
+#~ msgid "Please choose at least 1 record to delete!"
+#~ msgstr "请选择至少一条记录来删除！"
+
+#~ msgid "Are you sure you want to delete Email Logs?"
+#~ msgstr "您确定要删除多条邮件日志吗？"
+
+#~ msgid "Selected Logs have been deleted Successfully"
+#~ msgstr "您选择的日志已被成功删除"
+
+#~ msgid "Are you sure you want to Resend Emails?"
+#~ msgstr "您确定要重新发送多封邮件吗？"
+
+#~ msgid "Invalid Secret Key. Please rectify and try again!"
+#~ msgstr "无效密钥。请改正并重试！"
+
+#~ msgid "Licensing"
+#~ msgstr "等待授权"
+
+#~ msgid "Your Email has been Resent Successfully"
+#~ msgstr "您的邮件已成功重新发送"
+
+#~ msgid "Your Emails have been Resent Successfully"
+#~ msgstr "您的多封邮件已成功重新发送"
+
+#~ msgid "Unfortunately, Your Email has not been Sent"
+#~ msgstr "非常抱歉，您的邮件未发送成功"
+
+#~ msgid "Are you sure you want to Resend Email?"
+#~ msgstr "您确定要重新发送邮件吗？"
+
+#~ msgid "Your License has been activated Successfully"
+#~ msgstr "您的许可证已被成功激活"
+
+#~ msgid ""
+#~ "The following php extensions are not found on your server or are "
+#~ "currently disabled. These might create few problems in configuring Mail "
+#~ "Bank. Please contact your WebHost to setup these extensions on your server"
+#~ msgstr ""
+#~ "您的服务器中找不到以下PHP扩展插件，或插件处于关闭状态。这有可能导致配置"
+#~ "Mail Bank出现错误。请联系您的主机供应商在您的服务器中加上以下扩展插件。"
+
+#~ msgid "In this field, you would need to provide Mailgun API Key"
+#~ msgstr "请在这一栏填上您的Mailgun API Key"
+
+#~ msgid "Domain Name"
+#~ msgstr "域名"
+
+#~ msgid "In this field, you would need to provide Mailgun domain name"
+#~ msgstr "请在这一栏填上您的Mailgun域名"
+
+#~ msgid "Please provide Mailgun Domain Name"
+#~ msgstr "请输入您的Mailgun域名"
+
+#~ msgid "In this field, you need to provide SendGrid API Key"
+#~ msgstr "请在这一栏填上您的SendGrid API Key"
+
+#~ msgid "Please provide valid API key"
+#~ msgstr "请输入正确的API Key"
+
+#~ msgid ""
+#~ "A valid Email Address that will be used in the 'CC' field of the email. "
+#~ "Use Comma ',' for including multiple email addresses in the 'CC' field"
+#~ msgstr ""
+#~ "请填入正确的邮件地址，这个地址将会被填入“抄送”栏。您可以使用“，”来分隔多个"
+#~ "需要抄送至的邮件地址。"
+
+#~ msgid "Mailer Settings"
+#~ msgstr "邮件服务器设置"
+
+#~ msgid "Choose among the variety of options for routing emails"
+#~ msgstr "您可以选择一个收发邮件的服务器"
+
+#~ msgid "Mailgun API"
+#~ msgstr "Mailgun接口"
+
+#~ msgid "Get SendGrid API Key"
+#~ msgstr "申请SendGrid API Key"
+
+#~ msgid "Use SMTP Authentication"
+#~ msgstr "使用SMTP协议认证"
+
+#~ msgid "Don't Use SMTP Authentication"
+#~ msgstr "不使用SMTP协议认证"
+
+#~ msgid "Test Email Address"
+#~ msgstr "测试邮件地址"
+
+#~ msgid "Email Details"
+#~ msgstr "邮件详情"
+
+#~ msgid "Close"
+#~ msgstr "关闭"
+
+#~ msgid "Email Sent To"
+#~ msgstr "邮件已发至"
+
+#~ msgid "From"
+#~ msgstr "发件人"
+
+#~ msgid "Back to Email Logs"
+#~ msgstr "返回邮件日志"
+
+#~ msgid "Automatic Plugin Updates"
+#~ msgstr "插件自动更新"
+
+#~ msgid ""
+#~ "Please choose a specific option whether to allow Automatic Plugin Updates"
+#~ msgstr "请选择一个选项，表明您是否同意插件自动更新"
+
+#~ msgid "Monitoring Email Logs"
+#~ msgstr "监控邮件日志"
+
+#~ msgid "Thank You!"
+#~ msgstr "谢谢！"
+
+#~ msgid ""
+#~ "Kindly fill in the below form, if you would like to suggest some features "
+#~ "which are not in the Plugin"
+#~ msgstr ""
+#~ "如果您希望我们的插件能够添加某项目前没有的功能，请您在下面的表格里告诉我们"
+
+#~ msgid ""
+#~ "If you also have any suggestion/complaint, you can use the same form below"
+#~ msgstr "如果您对我们有什么建议和投诉，也可以用下面的表格让我们知道。"
+
+#~ msgid "You can also write us on"
+#~ msgstr "您还可以发信至："
+
+#~ msgid "Please provide your Name which will be sent along with your Feedback"
+#~ msgstr "请提供您的名字，您的名字将会与您的反馈意见一同发给我们"
+
+#~ msgid "Your Email"
+#~ msgstr "您的邮件"
+
+#~ msgid ""
+#~ "Please provide your Email Address which will be sent along with your "
+#~ "Feedback"
+#~ msgstr "请提供您的邮件地址，您的邮件地址将会与您的反馈意见一同发给我们"
+
+#~ msgid "Please provide your Email Address"
+#~ msgstr "请提供您的邮件地址"
+
+#~ msgid "Please provide your Feedback which will be sent along"
+#~ msgstr "请在这里写下您的反馈意见"
+
+#~ msgid "Please provide your Feedback"
+#~ msgstr "请写下您的反馈意见"
+
+#~ msgid "Send Feedback"
+#~ msgstr "发送反馈"
+
+#~ msgid "Your request Email has been sent Successfully"
+#~ msgstr "您的请求信已成功发送"
+
+#~ msgid "Service Available"
+#~ msgstr "可用服务"
+
+#~ msgid "Server ID"
+#~ msgstr "客服ID"
+
+#~ msgid "Important Notice!"
+#~ msgstr "重要事项！"
+
+#~ msgid ""
+#~ "Congratulations! You have recently purchased Mail Bank and now you would "
+#~ "need to activate the license in order to unlock it!"
+#~ msgstr ""
+#~ "恭喜您！您已成功购买了Mail Bank产品！现在，您需要激活许可证来使用Mail "
+#~ "Bank！"
+
+#~ msgid ""
+#~ "Kindly fill in the required details and click on Validate License to "
+#~ "unlock it"
+#~ msgstr "请填写下列必填信息，点击“激活许可证”来使用Mail Bank"
+
+#~ msgid ""
+#~ "If you face any issues activating the license, you may contact us at "
+#~ msgstr "如果您在激活产品的过程中遇到了任何问题，请发邮件至："
+
+#~ msgid "Product Name"
+#~ msgstr "产品名称"
+
+#~ msgid "Current Version"
+#~ msgstr "当前版本"
+
+#~ msgid "Website URL"
+#~ msgstr "网页链接"
+
+#~ msgid "Order ID"
+#~ msgstr "订单号"
+
+#~ msgid "API KEY"
+#~ msgstr "API Key"
+
+#~ msgid "Validate License"
+#~ msgstr "激活许可证"
+
+#~ msgid "This field shows your Installed Product"
+#~ msgstr "本栏显示您安装的产品名"
+
+#~ msgid "This field shows your Installed Product Version"
+#~ msgstr "本栏显示您安装的产品版本"
+
+#~ msgid "This field shows your Website URL"
+#~ msgstr "本栏显示您的网页链接"
+
+#~ msgid ""
+#~ "Please provide your Order ID  which you have received after purchasing "
+#~ "the Product. This will be used for Validating the License"
+#~ msgstr "请输入在购买产品时获得的订单号。我们将用它来验证您的产品许可证。"
+
+#~ msgid ""
+#~ "Please provide your API Key which you have received after purchasing the "
+#~ "Product. This will be used for Validating the License"
+#~ msgstr "请输入在购买产品时获得的API Key。我们将用它来验证您的产品许可证。"
+
+#~ msgid "Please provide Order ID received after making the purchase"
+#~ msgstr "请提供在购买产品时获得的订单号。"
+
+#~ msgid "Please provide API Key received after making the purchase"
+#~ msgstr "请提供购买产品时获得的API Key。"
+
+#~ msgid "If Mail Bank is not working for you, others also may not."
+#~ msgstr "如果Mail Bank不能为您提供所需的服务，那么其他产品可能也无法做到。"

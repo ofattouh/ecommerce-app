@@ -1,0 +1,1373 @@
+[08-01-2016 21:30:53] Facilitator: Kim Litchfield: kim-litchfield is added to the database.
+[08-01-2016 21:30:53] List of Facilitators in the DB:
+[08-01-2016 21:30:53] kim-litchfield: Kim Litchfield
+[08-01-2016 21:30:53] allison-whyte: Allison Whyte
+[08-01-2016 21:30:53] blaine-larock: Blaine Larock
+[08-01-2016 21:30:53] brett-webb: Brett Webb
+[08-01-2016 21:30:53] bruce-mccullagh: Bruce McCullagh
+[08-01-2016 21:30:53] carolyn-cuthbertson: Carolyn Cuthbertson
+[08-01-2016 21:30:53] carolyn-cuthbertson-frances-ziesmann-pshsa: Carolyn Cuthbertson &amp; Frances Ziesmann, PSHSA
+[08-01-2016 21:30:53] carolyn-james: Carolyn James
+[08-01-2016 21:30:53] christine-joli-coeur: Christine Joli-Coeur
+[08-01-2016 21:30:53] connie-limnidis: Connie Limnidis
+[08-01-2016 21:30:53] david-fretz: David Fretz
+[08-01-2016 21:30:53] derek-morgan: Derek Morgan
+[08-01-2016 21:30:53] ed-hager: Ed Hager
+[08-01-2016 21:30:53] frances-ziesmann: Frances Ziesmann
+[08-01-2016 21:30:53] hillarie-klass: Hillarie Klass
+[08-01-2016 21:30:53] janice-gallant: Janice Gallant
+[08-01-2016 21:30:53] jayne-smith: Jayne Smith
+[08-01-2016 21:30:53] jeff-pajot: Jeff Pajot
+[08-01-2016 21:30:53] jeremy-holden: Jeremy Holden
+[08-01-2016 21:30:53] jim-ogilvie: Jim Ogilvie
+[08-01-2016 21:30:53] kamil-rizvi: Kamil Rizvi
+[08-01-2016 21:30:53] kathleen-walsh: Kathleen Walsh
+[08-01-2016 21:30:53] kurt-bohme: Kurt Bohme
+[08-01-2016 21:30:53] liz-sisolak: Liz Sisolak
+[08-01-2016 21:30:53] mark-wilson: Mark Wilson
+[08-01-2016 21:30:53] mike-atkinson: Mike Atkinson
+[08-01-2016 21:30:53] neil-mcdermott: Neil McDermott
+[08-01-2016 21:30:53] olena-chapovalov: Olena Chapovalov
+[08-01-2016 21:30:53] patricia-yu: Patricia Yu
+[08-01-2016 21:30:53] sandra-excellent: Sandra Excellent
+[08-01-2016 21:30:53] shelly-hurry: Shelly Hurry
+[08-01-2016 21:30:53] sloane-gagnon: Sloane Gagnon
+[08-01-2016 21:30:53] tanya-morose: Tanya Morose
+[08-01-2016 21:30:53] tba: TBA
+[08-01-2016 21:30:53] tbd: TBD
+[08-01-2016 21:30:53] tim-metcalfe: Tim Metcalfe
+[08-01-2016 21:30:53] tina-dunlop: Tina Dunlop
+[08-01-2016 21:30:54] Facilitator: Richard Tang: richard-tang is added to the database.
+[08-01-2016 21:30:54] List of Facilitators in the DB:
+[08-01-2016 21:30:54] kim-litchfield: Kim Litchfield
+[08-01-2016 21:30:54] richard-tang: Richard Tang
+[08-01-2016 21:30:54] allison-whyte: Allison Whyte
+[08-01-2016 21:30:54] blaine-larock: Blaine Larock
+[08-01-2016 21:30:54] brett-webb: Brett Webb
+[08-01-2016 21:30:54] bruce-mccullagh: Bruce McCullagh
+[08-01-2016 21:30:54] carolyn-cuthbertson: Carolyn Cuthbertson
+[08-01-2016 21:30:54] carolyn-cuthbertson-frances-ziesmann-pshsa: Carolyn Cuthbertson &amp; Frances Ziesmann, PSHSA
+[08-01-2016 21:30:54] carolyn-james: Carolyn James
+[08-01-2016 21:30:54] christine-joli-coeur: Christine Joli-Coeur
+[08-01-2016 21:30:54] connie-limnidis: Connie Limnidis
+[08-01-2016 21:30:54] david-fretz: David Fretz
+[08-01-2016 21:30:54] derek-morgan: Derek Morgan
+[08-01-2016 21:30:54] ed-hager: Ed Hager
+[08-01-2016 21:30:54] frances-ziesmann: Frances Ziesmann
+[08-01-2016 21:30:54] hillarie-klass: Hillarie Klass
+[08-01-2016 21:30:54] janice-gallant: Janice Gallant
+[08-01-2016 21:30:54] jayne-smith: Jayne Smith
+[08-01-2016 21:30:54] jeff-pajot: Jeff Pajot
+[08-01-2016 21:30:54] jeremy-holden: Jeremy Holden
+[08-01-2016 21:30:54] jim-ogilvie: Jim Ogilvie
+[08-01-2016 21:30:54] kamil-rizvi: Kamil Rizvi
+[08-01-2016 21:30:54] kathleen-walsh: Kathleen Walsh
+[08-01-2016 21:30:54] kurt-bohme: Kurt Bohme
+[08-01-2016 21:30:54] liz-sisolak: Liz Sisolak
+[08-01-2016 21:30:54] mark-wilson: Mark Wilson
+[08-01-2016 21:30:54] mike-atkinson: Mike Atkinson
+[08-01-2016 21:30:54] neil-mcdermott: Neil McDermott
+[08-01-2016 21:30:54] olena-chapovalov: Olena Chapovalov
+[08-01-2016 21:30:54] patricia-yu: Patricia Yu
+[08-01-2016 21:30:54] sandra-excellent: Sandra Excellent
+[08-01-2016 21:30:54] shelly-hurry: Shelly Hurry
+[08-01-2016 21:30:54] sloane-gagnon: Sloane Gagnon
+[08-01-2016 21:30:54] tanya-morose: Tanya Morose
+[08-01-2016 21:30:54] tba: TBA
+[08-01-2016 21:30:54] tbd: TBD
+[08-01-2016 21:30:54] tim-metcalfe: Tim Metcalfe
+[08-01-2016 21:30:54] tina-dunlop: Tina Dunlop
+[08-01-2016 21:30:54] Facilitator: Bill Sisler: bill-sisler is added to the database.
+[08-01-2016 21:30:54] List of Facilitators in the DB:
+[08-01-2016 21:30:54] bill-sisler: Bill Sisler
+[08-01-2016 21:30:54] kim-litchfield: Kim Litchfield
+[08-01-2016 21:30:54] richard-tang: Richard Tang
+[08-01-2016 21:30:54] allison-whyte: Allison Whyte
+[08-01-2016 21:30:54] blaine-larock: Blaine Larock
+[08-01-2016 21:30:54] brett-webb: Brett Webb
+[08-01-2016 21:30:54] bruce-mccullagh: Bruce McCullagh
+[08-01-2016 21:30:54] carolyn-cuthbertson: Carolyn Cuthbertson
+[08-01-2016 21:30:54] carolyn-cuthbertson-frances-ziesmann-pshsa: Carolyn Cuthbertson &amp; Frances Ziesmann, PSHSA
+[08-01-2016 21:30:54] carolyn-james: Carolyn James
+[08-01-2016 21:30:54] christine-joli-coeur: Christine Joli-Coeur
+[08-01-2016 21:30:54] connie-limnidis: Connie Limnidis
+[08-01-2016 21:30:54] david-fretz: David Fretz
+[08-01-2016 21:30:54] derek-morgan: Derek Morgan
+[08-01-2016 21:30:54] ed-hager: Ed Hager
+[08-01-2016 21:30:54] frances-ziesmann: Frances Ziesmann
+[08-01-2016 21:30:54] hillarie-klass: Hillarie Klass
+[08-01-2016 21:30:54] janice-gallant: Janice Gallant
+[08-01-2016 21:30:54] jayne-smith: Jayne Smith
+[08-01-2016 21:30:54] jeff-pajot: Jeff Pajot
+[08-01-2016 21:30:54] jeremy-holden: Jeremy Holden
+[08-01-2016 21:30:54] jim-ogilvie: Jim Ogilvie
+[08-01-2016 21:30:54] kamil-rizvi: Kamil Rizvi
+[08-01-2016 21:30:54] kathleen-walsh: Kathleen Walsh
+[08-01-2016 21:30:54] kurt-bohme: Kurt Bohme
+[08-01-2016 21:30:54] liz-sisolak: Liz Sisolak
+[08-01-2016 21:30:54] mark-wilson: Mark Wilson
+[08-01-2016 21:30:54] mike-atkinson: Mike Atkinson
+[08-01-2016 21:30:54] neil-mcdermott: Neil McDermott
+[08-01-2016 21:30:54] olena-chapovalov: Olena Chapovalov
+[08-01-2016 21:30:54] patricia-yu: Patricia Yu
+[08-01-2016 21:30:54] sandra-excellent: Sandra Excellent
+[08-01-2016 21:30:54] shelly-hurry: Shelly Hurry
+[08-01-2016 21:30:54] sloane-gagnon: Sloane Gagnon
+[08-01-2016 21:30:54] tanya-morose: Tanya Morose
+[08-01-2016 21:30:54] tba: TBA
+[08-01-2016 21:30:54] tbd: TBD
+[08-01-2016 21:30:54] tim-metcalfe: Tim Metcalfe
+[08-01-2016 21:30:54] tina-dunlop: Tina Dunlop
+[08-01-2016 21:30:55] Facilitator: Monica Szabo: monica-szabo is added to the database.
+[08-01-2016 21:30:55] List of Facilitators in the DB:
+[08-01-2016 21:30:55] bill-sisler: Bill Sisler
+[08-01-2016 21:30:55] kim-litchfield: Kim Litchfield
+[08-01-2016 21:30:55] monica-szabo: Monica Szabo
+[08-01-2016 21:30:55] richard-tang: Richard Tang
+[08-01-2016 21:30:55] allison-whyte: Allison Whyte
+[08-01-2016 21:30:55] blaine-larock: Blaine Larock
+[08-01-2016 21:30:55] brett-webb: Brett Webb
+[08-01-2016 21:30:55] bruce-mccullagh: Bruce McCullagh
+[08-01-2016 21:30:55] carolyn-cuthbertson: Carolyn Cuthbertson
+[08-01-2016 21:30:55] carolyn-cuthbertson-frances-ziesmann-pshsa: Carolyn Cuthbertson &amp; Frances Ziesmann, PSHSA
+[08-01-2016 21:30:55] carolyn-james: Carolyn James
+[08-01-2016 21:30:55] christine-joli-coeur: Christine Joli-Coeur
+[08-01-2016 21:30:55] connie-limnidis: Connie Limnidis
+[08-01-2016 21:30:55] david-fretz: David Fretz
+[08-01-2016 21:30:55] derek-morgan: Derek Morgan
+[08-01-2016 21:30:55] ed-hager: Ed Hager
+[08-01-2016 21:30:55] frances-ziesmann: Frances Ziesmann
+[08-01-2016 21:30:55] hillarie-klass: Hillarie Klass
+[08-01-2016 21:30:55] janice-gallant: Janice Gallant
+[08-01-2016 21:30:55] jayne-smith: Jayne Smith
+[08-01-2016 21:30:55] jeff-pajot: Jeff Pajot
+[08-01-2016 21:30:55] jeremy-holden: Jeremy Holden
+[08-01-2016 21:30:55] jim-ogilvie: Jim Ogilvie
+[08-01-2016 21:30:55] kamil-rizvi: Kamil Rizvi
+[08-01-2016 21:30:55] kathleen-walsh: Kathleen Walsh
+[08-01-2016 21:30:55] kurt-bohme: Kurt Bohme
+[08-01-2016 21:30:55] liz-sisolak: Liz Sisolak
+[08-01-2016 21:30:55] mark-wilson: Mark Wilson
+[08-01-2016 21:30:55] mike-atkinson: Mike Atkinson
+[08-01-2016 21:30:55] neil-mcdermott: Neil McDermott
+[08-01-2016 21:30:55] olena-chapovalov: Olena Chapovalov
+[08-01-2016 21:30:55] patricia-yu: Patricia Yu
+[08-01-2016 21:30:55] sandra-excellent: Sandra Excellent
+[08-01-2016 21:30:55] shelly-hurry: Shelly Hurry
+[08-01-2016 21:30:55] sloane-gagnon: Sloane Gagnon
+[08-01-2016 21:30:55] tanya-morose: Tanya Morose
+[08-01-2016 21:30:55] tba: TBA
+[08-01-2016 21:30:55] tbd: TBD
+[08-01-2016 21:30:55] tim-metcalfe: Tim Metcalfe
+[08-01-2016 21:30:55] tina-dunlop: Tina Dunlop
+[08-01-2016 21:30:55] Facilitator: Patricia Clausen: patricia-clausen is added to the database.
+[08-01-2016 21:30:55] List of Facilitators in the DB:
+[08-01-2016 21:30:55] bill-sisler: Bill Sisler
+[08-01-2016 21:30:55] kim-litchfield: Kim Litchfield
+[08-01-2016 21:30:55] monica-szabo: Monica Szabo
+[08-01-2016 21:30:55] patricia-clausen: Patricia Clausen
+[08-01-2016 21:30:55] richard-tang: Richard Tang
+[08-01-2016 21:30:55] allison-whyte: Allison Whyte
+[08-01-2016 21:30:55] blaine-larock: Blaine Larock
+[08-01-2016 21:30:55] brett-webb: Brett Webb
+[08-01-2016 21:30:55] bruce-mccullagh: Bruce McCullagh
+[08-01-2016 21:30:55] carolyn-cuthbertson: Carolyn Cuthbertson
+[08-01-2016 21:30:55] carolyn-cuthbertson-frances-ziesmann-pshsa: Carolyn Cuthbertson &amp; Frances Ziesmann, PSHSA
+[08-01-2016 21:30:55] carolyn-james: Carolyn James
+[08-01-2016 21:30:55] christine-joli-coeur: Christine Joli-Coeur
+[08-01-2016 21:30:55] connie-limnidis: Connie Limnidis
+[08-01-2016 21:30:55] david-fretz: David Fretz
+[08-01-2016 21:30:55] derek-morgan: Derek Morgan
+[08-01-2016 21:30:55] ed-hager: Ed Hager
+[08-01-2016 21:30:55] frances-ziesmann: Frances Ziesmann
+[08-01-2016 21:30:55] hillarie-klass: Hillarie Klass
+[08-01-2016 21:30:55] janice-gallant: Janice Gallant
+[08-01-2016 21:30:55] jayne-smith: Jayne Smith
+[08-01-2016 21:30:55] jeff-pajot: Jeff Pajot
+[08-01-2016 21:30:55] jeremy-holden: Jeremy Holden
+[08-01-2016 21:30:55] jim-ogilvie: Jim Ogilvie
+[08-01-2016 21:30:55] kamil-rizvi: Kamil Rizvi
+[08-01-2016 21:30:55] kathleen-walsh: Kathleen Walsh
+[08-01-2016 21:30:55] kurt-bohme: Kurt Bohme
+[08-01-2016 21:30:55] liz-sisolak: Liz Sisolak
+[08-01-2016 21:30:55] mark-wilson: Mark Wilson
+[08-01-2016 21:30:55] mike-atkinson: Mike Atkinson
+[08-01-2016 21:30:55] neil-mcdermott: Neil McDermott
+[08-01-2016 21:30:55] olena-chapovalov: Olena Chapovalov
+[08-01-2016 21:30:55] patricia-yu: Patricia Yu
+[08-01-2016 21:30:55] sandra-excellent: Sandra Excellent
+[08-01-2016 21:30:55] shelly-hurry: Shelly Hurry
+[08-01-2016 21:30:55] sloane-gagnon: Sloane Gagnon
+[08-01-2016 21:30:55] tanya-morose: Tanya Morose
+[08-01-2016 21:30:55] tba: TBA
+[08-01-2016 21:30:55] tbd: TBD
+[08-01-2016 21:30:55] tim-metcalfe: Tim Metcalfe
+[08-01-2016 21:30:55] tina-dunlop: Tina Dunlop
+[08-01-2016 21:30:56] Facilitator: Neil Mc Dermott: neil-mc-dermott is added to the database.
+[08-01-2016 21:30:56] List of Facilitators in the DB:
+[08-01-2016 21:30:56] bill-sisler: Bill Sisler
+[08-01-2016 21:30:56] kim-litchfield: Kim Litchfield
+[08-01-2016 21:30:56] monica-szabo: Monica Szabo
+[08-01-2016 21:30:56] neil-mc-dermott: Neil Mc Dermott
+[08-01-2016 21:30:56] patricia-clausen: Patricia Clausen
+[08-01-2016 21:30:56] richard-tang: Richard Tang
+[08-01-2016 21:30:56] allison-whyte: Allison Whyte
+[08-01-2016 21:30:56] blaine-larock: Blaine Larock
+[08-01-2016 21:30:56] brett-webb: Brett Webb
+[08-01-2016 21:30:56] bruce-mccullagh: Bruce McCullagh
+[08-01-2016 21:30:56] carolyn-cuthbertson: Carolyn Cuthbertson
+[08-01-2016 21:30:56] carolyn-cuthbertson-frances-ziesmann-pshsa: Carolyn Cuthbertson &amp; Frances Ziesmann, PSHSA
+[08-01-2016 21:30:56] carolyn-james: Carolyn James
+[08-01-2016 21:30:56] christine-joli-coeur: Christine Joli-Coeur
+[08-01-2016 21:30:56] connie-limnidis: Connie Limnidis
+[08-01-2016 21:30:56] david-fretz: David Fretz
+[08-01-2016 21:30:56] derek-morgan: Derek Morgan
+[08-01-2016 21:30:56] ed-hager: Ed Hager
+[08-01-2016 21:30:56] frances-ziesmann: Frances Ziesmann
+[08-01-2016 21:30:56] hillarie-klass: Hillarie Klass
+[08-01-2016 21:30:56] janice-gallant: Janice Gallant
+[08-01-2016 21:30:56] jayne-smith: Jayne Smith
+[08-01-2016 21:30:56] jeff-pajot: Jeff Pajot
+[08-01-2016 21:30:56] jeremy-holden: Jeremy Holden
+[08-01-2016 21:30:56] jim-ogilvie: Jim Ogilvie
+[08-01-2016 21:30:56] kamil-rizvi: Kamil Rizvi
+[08-01-2016 21:30:56] kathleen-walsh: Kathleen Walsh
+[08-01-2016 21:30:56] kurt-bohme: Kurt Bohme
+[08-01-2016 21:30:56] liz-sisolak: Liz Sisolak
+[08-01-2016 21:30:56] mark-wilson: Mark Wilson
+[08-01-2016 21:30:56] mike-atkinson: Mike Atkinson
+[08-01-2016 21:30:56] neil-mcdermott: Neil McDermott
+[08-01-2016 21:30:56] olena-chapovalov: Olena Chapovalov
+[08-01-2016 21:30:56] patricia-yu: Patricia Yu
+[08-01-2016 21:30:56] sandra-excellent: Sandra Excellent
+[08-01-2016 21:30:56] shelly-hurry: Shelly Hurry
+[08-01-2016 21:30:56] sloane-gagnon: Sloane Gagnon
+[08-01-2016 21:30:56] tanya-morose: Tanya Morose
+[08-01-2016 21:30:56] tba: TBA
+[08-01-2016 21:30:56] tbd: TBD
+[08-01-2016 21:30:56] tim-metcalfe: Tim Metcalfe
+[08-01-2016 21:30:56] tina-dunlop: Tina Dunlop
+[08-01-2016 21:30:56] Facilitator: Ryan Adam: ryan-adam is added to the database.
+[08-01-2016 21:30:56] List of Facilitators in the DB:
+[08-01-2016 21:30:56] bill-sisler: Bill Sisler
+[08-01-2016 21:30:56] kim-litchfield: Kim Litchfield
+[08-01-2016 21:30:56] monica-szabo: Monica Szabo
+[08-01-2016 21:30:56] neil-mc-dermott: Neil Mc Dermott
+[08-01-2016 21:30:56] patricia-clausen: Patricia Clausen
+[08-01-2016 21:30:56] richard-tang: Richard Tang
+[08-01-2016 21:30:56] ryan-adam: Ryan Adam
+[08-01-2016 21:30:56] allison-whyte: Allison Whyte
+[08-01-2016 21:30:56] blaine-larock: Blaine Larock
+[08-01-2016 21:30:56] brett-webb: Brett Webb
+[08-01-2016 21:30:56] bruce-mccullagh: Bruce McCullagh
+[08-01-2016 21:30:56] carolyn-cuthbertson: Carolyn Cuthbertson
+[08-01-2016 21:30:56] carolyn-cuthbertson-frances-ziesmann-pshsa: Carolyn Cuthbertson &amp; Frances Ziesmann, PSHSA
+[08-01-2016 21:30:56] carolyn-james: Carolyn James
+[08-01-2016 21:30:56] christine-joli-coeur: Christine Joli-Coeur
+[08-01-2016 21:30:56] connie-limnidis: Connie Limnidis
+[08-01-2016 21:30:56] david-fretz: David Fretz
+[08-01-2016 21:30:56] derek-morgan: Derek Morgan
+[08-01-2016 21:30:56] ed-hager: Ed Hager
+[08-01-2016 21:30:56] frances-ziesmann: Frances Ziesmann
+[08-01-2016 21:30:56] hillarie-klass: Hillarie Klass
+[08-01-2016 21:30:56] janice-gallant: Janice Gallant
+[08-01-2016 21:30:56] jayne-smith: Jayne Smith
+[08-01-2016 21:30:56] jeff-pajot: Jeff Pajot
+[08-01-2016 21:30:56] jeremy-holden: Jeremy Holden
+[08-01-2016 21:30:56] jim-ogilvie: Jim Ogilvie
+[08-01-2016 21:30:56] kamil-rizvi: Kamil Rizvi
+[08-01-2016 21:30:56] kathleen-walsh: Kathleen Walsh
+[08-01-2016 21:30:56] kurt-bohme: Kurt Bohme
+[08-01-2016 21:30:56] liz-sisolak: Liz Sisolak
+[08-01-2016 21:30:56] mark-wilson: Mark Wilson
+[08-01-2016 21:30:56] mike-atkinson: Mike Atkinson
+[08-01-2016 21:30:56] neil-mcdermott: Neil McDermott
+[08-01-2016 21:30:56] olena-chapovalov: Olena Chapovalov
+[08-01-2016 21:30:56] patricia-yu: Patricia Yu
+[08-01-2016 21:30:56] sandra-excellent: Sandra Excellent
+[08-01-2016 21:30:56] shelly-hurry: Shelly Hurry
+[08-01-2016 21:30:56] sloane-gagnon: Sloane Gagnon
+[08-01-2016 21:30:56] tanya-morose: Tanya Morose
+[08-01-2016 21:30:56] tba: TBA
+[08-01-2016 21:30:56] tbd: TBD
+[08-01-2016 21:30:56] tim-metcalfe: Tim Metcalfe
+[08-01-2016 21:30:56] tina-dunlop: Tina Dunlop
+[08-01-2016 21:30:57] Facilitator: Kevin Plant: kevin-plant is added to the database.
+[08-01-2016 21:30:57] List of Facilitators in the DB:
+[08-01-2016 21:30:57] bill-sisler: Bill Sisler
+[08-01-2016 21:30:57] kevin-plant: Kevin Plant
+[08-01-2016 21:30:57] kim-litchfield: Kim Litchfield
+[08-01-2016 21:30:57] monica-szabo: Monica Szabo
+[08-01-2016 21:30:57] neil-mc-dermott: Neil Mc Dermott
+[08-01-2016 21:30:57] patricia-clausen: Patricia Clausen
+[08-01-2016 21:30:57] richard-tang: Richard Tang
+[08-01-2016 21:30:57] ryan-adam: Ryan Adam
+[08-01-2016 21:30:57] allison-whyte: Allison Whyte
+[08-01-2016 21:30:57] blaine-larock: Blaine Larock
+[08-01-2016 21:30:57] brett-webb: Brett Webb
+[08-01-2016 21:30:57] bruce-mccullagh: Bruce McCullagh
+[08-01-2016 21:30:57] carolyn-cuthbertson: Carolyn Cuthbertson
+[08-01-2016 21:30:57] carolyn-cuthbertson-frances-ziesmann-pshsa: Carolyn Cuthbertson &amp; Frances Ziesmann, PSHSA
+[08-01-2016 21:30:57] carolyn-james: Carolyn James
+[08-01-2016 21:30:57] christine-joli-coeur: Christine Joli-Coeur
+[08-01-2016 21:30:57] connie-limnidis: Connie Limnidis
+[08-01-2016 21:30:57] david-fretz: David Fretz
+[08-01-2016 21:30:57] derek-morgan: Derek Morgan
+[08-01-2016 21:30:57] ed-hager: Ed Hager
+[08-01-2016 21:30:57] frances-ziesmann: Frances Ziesmann
+[08-01-2016 21:30:57] hillarie-klass: Hillarie Klass
+[08-01-2016 21:30:57] janice-gallant: Janice Gallant
+[08-01-2016 21:30:57] jayne-smith: Jayne Smith
+[08-01-2016 21:30:57] jeff-pajot: Jeff Pajot
+[08-01-2016 21:30:57] jeremy-holden: Jeremy Holden
+[08-01-2016 21:30:57] jim-ogilvie: Jim Ogilvie
+[08-01-2016 21:30:57] kamil-rizvi: Kamil Rizvi
+[08-01-2016 21:30:57] kathleen-walsh: Kathleen Walsh
+[08-01-2016 21:30:57] kurt-bohme: Kurt Bohme
+[08-01-2016 21:30:57] liz-sisolak: Liz Sisolak
+[08-01-2016 21:30:57] mark-wilson: Mark Wilson
+[08-01-2016 21:30:57] mike-atkinson: Mike Atkinson
+[08-01-2016 21:30:57] neil-mcdermott: Neil McDermott
+[08-01-2016 21:30:57] olena-chapovalov: Olena Chapovalov
+[08-01-2016 21:30:57] patricia-yu: Patricia Yu
+[08-01-2016 21:30:57] sandra-excellent: Sandra Excellent
+[08-01-2016 21:30:57] shelly-hurry: Shelly Hurry
+[08-01-2016 21:30:57] sloane-gagnon: Sloane Gagnon
+[08-01-2016 21:30:57] tanya-morose: Tanya Morose
+[08-01-2016 21:30:57] tba: TBA
+[08-01-2016 21:30:57] tbd: TBD
+[08-01-2016 21:30:57] tim-metcalfe: Tim Metcalfe
+[08-01-2016 21:30:57] tina-dunlop: Tina Dunlop
+[12-01-2016 19:56:30] Facilitator: Kayla Meyer: kayla-meyer is added to the database.
+[12-01-2016 19:56:30] List of Facilitators in the DB:
+[12-01-2016 19:56:30] bill-sisler: Bill Sisler
+[12-01-2016 19:56:30] kayla-meyer: Kayla Meyer
+[12-01-2016 19:56:30] kevin-plant: Kevin Plant
+[12-01-2016 19:56:30] kim-litchfield: Kim Litchfield
+[12-01-2016 19:56:30] monica-szabo: Monica Szabo
+[12-01-2016 19:56:30] neil-mc-dermott: Neil Mc Dermott
+[12-01-2016 19:56:30] patricia-clausen: Patricia Clausen
+[12-01-2016 19:56:30] richard-tang: Richard Tang
+[12-01-2016 19:56:30] ryan-adam: Ryan Adam
+[12-01-2016 19:56:30] allison-whyte: Allison Whyte
+[12-01-2016 19:56:30] blaine-larock: Blaine Larock
+[12-01-2016 19:56:30] brett-webb: Brett Webb
+[12-01-2016 19:56:30] bruce-mccullagh: Bruce McCullagh
+[12-01-2016 19:56:30] carolyn-cuthbertson: Carolyn Cuthbertson
+[12-01-2016 19:56:30] carolyn-cuthbertson-frances-ziesmann-pshsa: Carolyn Cuthbertson &amp; Frances Ziesmann, PSHSA
+[12-01-2016 19:56:30] carolyn-james: Carolyn James
+[12-01-2016 19:56:30] christine-joli-coeur: Christine Joli-Coeur
+[12-01-2016 19:56:30] connie-limnidis: Connie Limnidis
+[12-01-2016 19:56:30] david-fretz: David Fretz
+[12-01-2016 19:56:30] derek-morgan: Derek Morgan
+[12-01-2016 19:56:30] ed-hager: Ed Hager
+[12-01-2016 19:56:30] frances-ziesmann: Frances Ziesmann
+[12-01-2016 19:56:30] hillarie-klass: Hillarie Klass
+[12-01-2016 19:56:30] janice-gallant: Janice Gallant
+[12-01-2016 19:56:30] jayne-smith: Jayne Smith
+[12-01-2016 19:56:30] jeff-pajot: Jeff Pajot
+[12-01-2016 19:56:30] jeremy-holden: Jeremy Holden
+[12-01-2016 19:56:30] jim-ogilvie: Jim Ogilvie
+[12-01-2016 19:56:30] kamil-rizvi: Kamil Rizvi
+[12-01-2016 19:56:30] kathleen-walsh: Kathleen Walsh
+[12-01-2016 19:56:30] kurt-bohme: Kurt Bohme
+[12-01-2016 19:56:30] liz-sisolak: Liz Sisolak
+[12-01-2016 19:56:30] mark-wilson: Mark Wilson
+[12-01-2016 19:56:30] mike-atkinson: Mike Atkinson
+[12-01-2016 19:56:30] neil-mcdermott: Neil McDermott
+[12-01-2016 19:56:30] olena-chapovalov: Olena Chapovalov
+[12-01-2016 19:56:30] patricia-yu: Patricia Yu
+[12-01-2016 19:56:30] sandra-excellent: Sandra Excellent
+[12-01-2016 19:56:30] shelly-hurry: Shelly Hurry
+[12-01-2016 19:56:30] sloane-gagnon: Sloane Gagnon
+[12-01-2016 19:56:30] tanya-morose: Tanya Morose
+[12-01-2016 19:56:30] tba: TBA
+[12-01-2016 19:56:30] tbd: TBD
+[12-01-2016 19:56:30] tim-metcalfe: Tim Metcalfe
+[12-01-2016 19:56:30] tina-dunlop: Tina Dunlop
+[01-03-2016 22:52:39] Facilitator: Richard  Jean: richard--jean is added to the database.
+[01-03-2016 22:52:39] List of Facilitators in the DB:
+[01-03-2016 22:52:39] bill-sisler: Bill Sisler
+[01-03-2016 22:52:39] kayla-meyer: Kayla Meyer
+[01-03-2016 22:52:39] kevin-plant: Kevin Plant
+[01-03-2016 22:52:39] kim-litchfield: Kim Litchfield
+[01-03-2016 22:52:39] monica-szabo: Monica Szabo
+[01-03-2016 22:52:39] neil-mc-dermott: Neil Mc Dermott
+[01-03-2016 22:52:39] patricia-clausen: Patricia Clausen
+[01-03-2016 22:52:39] richard-jean: Richard Jean
+[01-03-2016 22:52:39] richard-tang: Richard Tang
+[01-03-2016 22:52:39] ryan-adam: Ryan Adam
+[01-03-2016 22:52:39] allison-whyte: Allison Whyte
+[01-03-2016 22:52:39] blaine-larock: Blaine Larock
+[01-03-2016 22:52:39] brett-webb: Brett Webb
+[01-03-2016 22:52:39] bruce-mccullagh: Bruce McCullagh
+[01-03-2016 22:52:39] carolyn-cuthbertson: Carolyn Cuthbertson
+[01-03-2016 22:52:39] carolyn-james: Carolyn James
+[01-03-2016 22:52:39] christine-joli-coeur: Christine Joli-Coeur
+[01-03-2016 22:52:39] connie-limnidis: Connie Limnidis
+[01-03-2016 22:52:39] david-fretz: David Fretz
+[01-03-2016 22:52:39] derek-morgan: Derek Morgan
+[01-03-2016 22:52:39] ed-hager: Ed Hager
+[01-03-2016 22:52:39] frances-ziesmann: Frances Ziesmann
+[01-03-2016 22:52:39] gerry-gill: Gerry Gill
+[01-03-2016 22:52:39] hillarie-klass: Hillarie Klass
+[01-03-2016 22:52:39] janice-gallant: Janice Gallant
+[01-03-2016 22:52:39] jayne-smith: Jayne Smith
+[01-03-2016 22:52:39] jeff-pajot: Jeff Pajot
+[01-03-2016 22:52:39] jeremy-holden: Jeremy Holden
+[01-03-2016 22:52:39] jim-ogilvie: Jim Ogilvie
+[01-03-2016 22:52:39] kamil-rizvi: Kamil Rizvi
+[01-03-2016 22:52:39] kathleen-walsh: Kathleen Walsh
+[01-03-2016 22:52:39] kurt-bohme: Kurt Bohme
+[01-03-2016 22:52:39] liz-sisolak: Liz Sisolak
+[01-03-2016 22:52:39] mark-wilson: Mark Wilson
+[01-03-2016 22:52:39] mike-atkinson: Mike Atkinson
+[01-03-2016 22:52:39] neil-mcdermott: Neil McDermott
+[01-03-2016 22:52:39] olena-chapovalov: Olena Chapovalov
+[01-03-2016 22:52:39] patricia-yu: Patricia Yu
+[01-03-2016 22:52:39] sandra-excellent: Sandra Excellent
+[01-03-2016 22:52:39] shelly-hurry: Shelly Hurry
+[01-03-2016 22:52:39] sloane-gagnon: Sloane Gagnon
+[01-03-2016 22:52:39] tanya-morose: Tanya Morose
+[01-03-2016 22:52:39] tba: TBA
+[01-03-2016 22:52:39] tbd: TBD
+[01-03-2016 22:52:39] tim-metcalfe: Tim Metcalfe
+[01-03-2016 22:52:39] tina-dunlop: Tina Dunlop
+[01-03-2016 22:52:39] Facilitator: Marianne Matichuk: marianne-matichuk is added to the database.
+[01-03-2016 22:52:39] List of Facilitators in the DB:
+[01-03-2016 22:52:39] bill-sisler: Bill Sisler
+[01-03-2016 22:52:39] kayla-meyer: Kayla Meyer
+[01-03-2016 22:52:39] kevin-plant: Kevin Plant
+[01-03-2016 22:52:39] kim-litchfield: Kim Litchfield
+[01-03-2016 22:52:39] marianne-matichuk: Marianne Matichuk
+[01-03-2016 22:52:39] monica-szabo: Monica Szabo
+[01-03-2016 22:52:39] neil-mc-dermott: Neil Mc Dermott
+[01-03-2016 22:52:39] patricia-clausen: Patricia Clausen
+[01-03-2016 22:52:39] richard-jean: Richard Jean
+[01-03-2016 22:52:39] richard-tang: Richard Tang
+[01-03-2016 22:52:39] ryan-adam: Ryan Adam
+[01-03-2016 22:52:39] allison-whyte: Allison Whyte
+[01-03-2016 22:52:39] blaine-larock: Blaine Larock
+[01-03-2016 22:52:39] brett-webb: Brett Webb
+[01-03-2016 22:52:39] bruce-mccullagh: Bruce McCullagh
+[01-03-2016 22:52:39] carolyn-cuthbertson: Carolyn Cuthbertson
+[01-03-2016 22:52:39] carolyn-james: Carolyn James
+[01-03-2016 22:52:39] christine-joli-coeur: Christine Joli-Coeur
+[01-03-2016 22:52:39] connie-limnidis: Connie Limnidis
+[01-03-2016 22:52:39] david-fretz: David Fretz
+[01-03-2016 22:52:39] derek-morgan: Derek Morgan
+[01-03-2016 22:52:39] ed-hager: Ed Hager
+[01-03-2016 22:52:39] frances-ziesmann: Frances Ziesmann
+[01-03-2016 22:52:39] gerry-gill: Gerry Gill
+[01-03-2016 22:52:39] hillarie-klass: Hillarie Klass
+[01-03-2016 22:52:39] janice-gallant: Janice Gallant
+[01-03-2016 22:52:39] jayne-smith: Jayne Smith
+[01-03-2016 22:52:39] jeff-pajot: Jeff Pajot
+[01-03-2016 22:52:39] jeremy-holden: Jeremy Holden
+[01-03-2016 22:52:39] jim-ogilvie: Jim Ogilvie
+[01-03-2016 22:52:39] kamil-rizvi: Kamil Rizvi
+[01-03-2016 22:52:39] kathleen-walsh: Kathleen Walsh
+[01-03-2016 22:52:39] kurt-bohme: Kurt Bohme
+[01-03-2016 22:52:39] liz-sisolak: Liz Sisolak
+[01-03-2016 22:52:39] mark-wilson: Mark Wilson
+[01-03-2016 22:52:39] mike-atkinson: Mike Atkinson
+[01-03-2016 22:52:39] neil-mcdermott: Neil McDermott
+[01-03-2016 22:52:39] olena-chapovalov: Olena Chapovalov
+[01-03-2016 22:52:39] patricia-yu: Patricia Yu
+[01-03-2016 22:52:39] sandra-excellent: Sandra Excellent
+[01-03-2016 22:52:39] shelly-hurry: Shelly Hurry
+[01-03-2016 22:52:39] sloane-gagnon: Sloane Gagnon
+[01-03-2016 22:52:39] tanya-morose: Tanya Morose
+[01-03-2016 22:52:39] tba: TBA
+[01-03-2016 22:52:39] tbd: TBD
+[01-03-2016 22:52:39] tim-metcalfe: Tim Metcalfe
+[01-03-2016 22:52:39] tina-dunlop: Tina Dunlop
+[01-03-2016 22:52:39] Facilitator: Bill Urie: bill-urie is added to the database.
+[01-03-2016 22:52:39] List of Facilitators in the DB:
+[01-03-2016 22:52:39] bill-sisler: Bill Sisler
+[01-03-2016 22:52:39] bill-urie: Bill Urie
+[01-03-2016 22:52:39] kayla-meyer: Kayla Meyer
+[01-03-2016 22:52:39] kevin-plant: Kevin Plant
+[01-03-2016 22:52:39] kim-litchfield: Kim Litchfield
+[01-03-2016 22:52:39] marianne-matichuk: Marianne Matichuk
+[01-03-2016 22:52:39] monica-szabo: Monica Szabo
+[01-03-2016 22:52:39] neil-mc-dermott: Neil Mc Dermott
+[01-03-2016 22:52:39] patricia-clausen: Patricia Clausen
+[01-03-2016 22:52:39] richard-jean: Richard Jean
+[01-03-2016 22:52:39] richard-tang: Richard Tang
+[01-03-2016 22:52:39] ryan-adam: Ryan Adam
+[01-03-2016 22:52:39] allison-whyte: Allison Whyte
+[01-03-2016 22:52:39] blaine-larock: Blaine Larock
+[01-03-2016 22:52:39] brett-webb: Brett Webb
+[01-03-2016 22:52:39] bruce-mccullagh: Bruce McCullagh
+[01-03-2016 22:52:39] carolyn-cuthbertson: Carolyn Cuthbertson
+[01-03-2016 22:52:39] carolyn-james: Carolyn James
+[01-03-2016 22:52:39] christine-joli-coeur: Christine Joli-Coeur
+[01-03-2016 22:52:39] connie-limnidis: Connie Limnidis
+[01-03-2016 22:52:39] david-fretz: David Fretz
+[01-03-2016 22:52:39] derek-morgan: Derek Morgan
+[01-03-2016 22:52:39] ed-hager: Ed Hager
+[01-03-2016 22:52:39] frances-ziesmann: Frances Ziesmann
+[01-03-2016 22:52:39] gerry-gill: Gerry Gill
+[01-03-2016 22:52:39] hillarie-klass: Hillarie Klass
+[01-03-2016 22:52:39] janice-gallant: Janice Gallant
+[01-03-2016 22:52:39] jayne-smith: Jayne Smith
+[01-03-2016 22:52:39] jeff-pajot: Jeff Pajot
+[01-03-2016 22:52:39] jeremy-holden: Jeremy Holden
+[01-03-2016 22:52:39] jim-ogilvie: Jim Ogilvie
+[01-03-2016 22:52:39] kamil-rizvi: Kamil Rizvi
+[01-03-2016 22:52:39] kathleen-walsh: Kathleen Walsh
+[01-03-2016 22:52:39] kurt-bohme: Kurt Bohme
+[01-03-2016 22:52:39] liz-sisolak: Liz Sisolak
+[01-03-2016 22:52:39] mark-wilson: Mark Wilson
+[01-03-2016 22:52:39] mike-atkinson: Mike Atkinson
+[01-03-2016 22:52:39] neil-mcdermott: Neil McDermott
+[01-03-2016 22:52:39] olena-chapovalov: Olena Chapovalov
+[01-03-2016 22:52:39] patricia-yu: Patricia Yu
+[01-03-2016 22:52:39] sandra-excellent: Sandra Excellent
+[01-03-2016 22:52:39] shelly-hurry: Shelly Hurry
+[01-03-2016 22:52:39] sloane-gagnon: Sloane Gagnon
+[01-03-2016 22:52:39] tanya-morose: Tanya Morose
+[01-03-2016 22:52:39] tba: TBA
+[01-03-2016 22:52:39] tbd: TBD
+[01-03-2016 22:52:39] tim-metcalfe: Tim Metcalfe
+[01-03-2016 22:52:39] tina-dunlop: Tina Dunlop
+[01-03-2016 22:52:40] Facilitator: Dave McFadden: dave-mcfadden is added to the database.
+[01-03-2016 22:52:40] List of Facilitators in the DB:
+[01-03-2016 22:52:40] bill-sisler: Bill Sisler
+[01-03-2016 22:52:40] bill-urie: Bill Urie
+[01-03-2016 22:52:40] dave-mcfadden: Dave McFadden
+[01-03-2016 22:52:40] kayla-meyer: Kayla Meyer
+[01-03-2016 22:52:40] kevin-plant: Kevin Plant
+[01-03-2016 22:52:40] kim-litchfield: Kim Litchfield
+[01-03-2016 22:52:40] marianne-matichuk: Marianne Matichuk
+[01-03-2016 22:52:40] monica-szabo: Monica Szabo
+[01-03-2016 22:52:40] neil-mc-dermott: Neil Mc Dermott
+[01-03-2016 22:52:40] patricia-clausen: Patricia Clausen
+[01-03-2016 22:52:40] richard-jean: Richard Jean
+[01-03-2016 22:52:40] richard-tang: Richard Tang
+[01-03-2016 22:52:40] ryan-adam: Ryan Adam
+[01-03-2016 22:52:40] allison-whyte: Allison Whyte
+[01-03-2016 22:52:40] blaine-larock: Blaine Larock
+[01-03-2016 22:52:40] brett-webb: Brett Webb
+[01-03-2016 22:52:40] bruce-mccullagh: Bruce McCullagh
+[01-03-2016 22:52:40] carolyn-cuthbertson: Carolyn Cuthbertson
+[01-03-2016 22:52:40] carolyn-james: Carolyn James
+[01-03-2016 22:52:40] christine-joli-coeur: Christine Joli-Coeur
+[01-03-2016 22:52:40] connie-limnidis: Connie Limnidis
+[01-03-2016 22:52:40] david-fretz: David Fretz
+[01-03-2016 22:52:40] derek-morgan: Derek Morgan
+[01-03-2016 22:52:40] ed-hager: Ed Hager
+[01-03-2016 22:52:40] frances-ziesmann: Frances Ziesmann
+[01-03-2016 22:52:40] gerry-gill: Gerry Gill
+[01-03-2016 22:52:40] hillarie-klass: Hillarie Klass
+[01-03-2016 22:52:40] janice-gallant: Janice Gallant
+[01-03-2016 22:52:40] jayne-smith: Jayne Smith
+[01-03-2016 22:52:40] jeff-pajot: Jeff Pajot
+[01-03-2016 22:52:40] jeremy-holden: Jeremy Holden
+[01-03-2016 22:52:40] jim-ogilvie: Jim Ogilvie
+[01-03-2016 22:52:40] kamil-rizvi: Kamil Rizvi
+[01-03-2016 22:52:40] kathleen-walsh: Kathleen Walsh
+[01-03-2016 22:52:40] kurt-bohme: Kurt Bohme
+[01-03-2016 22:52:40] liz-sisolak: Liz Sisolak
+[01-03-2016 22:52:40] mark-wilson: Mark Wilson
+[01-03-2016 22:52:40] mike-atkinson: Mike Atkinson
+[01-03-2016 22:52:40] neil-mcdermott: Neil McDermott
+[01-03-2016 22:52:40] olena-chapovalov: Olena Chapovalov
+[01-03-2016 22:52:40] patricia-yu: Patricia Yu
+[01-03-2016 22:52:40] sandra-excellent: Sandra Excellent
+[01-03-2016 22:52:40] shelly-hurry: Shelly Hurry
+[01-03-2016 22:52:40] sloane-gagnon: Sloane Gagnon
+[01-03-2016 22:52:40] tanya-morose: Tanya Morose
+[01-03-2016 22:52:40] tba: TBA
+[01-03-2016 22:52:40] tbd: TBD
+[01-03-2016 22:52:40] tim-metcalfe: Tim Metcalfe
+[01-03-2016 22:52:40] tina-dunlop: Tina Dunlop
+[01-03-2016 22:52:40] Facilitator: Ken Webb: ken-webb is added to the database.
+[01-03-2016 22:52:40] List of Facilitators in the DB:
+[01-03-2016 22:52:40] bill-sisler: Bill Sisler
+[01-03-2016 22:52:40] bill-urie: Bill Urie
+[01-03-2016 22:52:40] dave-mcfadden: Dave McFadden
+[01-03-2016 22:52:40] kayla-meyer: Kayla Meyer
+[01-03-2016 22:52:40] ken-webb: Ken Webb
+[01-03-2016 22:52:40] kevin-plant: Kevin Plant
+[01-03-2016 22:52:40] kim-litchfield: Kim Litchfield
+[01-03-2016 22:52:40] marianne-matichuk: Marianne Matichuk
+[01-03-2016 22:52:40] monica-szabo: Monica Szabo
+[01-03-2016 22:52:40] neil-mc-dermott: Neil Mc Dermott
+[01-03-2016 22:52:40] patricia-clausen: Patricia Clausen
+[01-03-2016 22:52:40] richard-jean: Richard Jean
+[01-03-2016 22:52:40] richard-tang: Richard Tang
+[01-03-2016 22:52:40] ryan-adam: Ryan Adam
+[01-03-2016 22:52:40] allison-whyte: Allison Whyte
+[01-03-2016 22:52:40] blaine-larock: Blaine Larock
+[01-03-2016 22:52:40] brett-webb: Brett Webb
+[01-03-2016 22:52:40] bruce-mccullagh: Bruce McCullagh
+[01-03-2016 22:52:40] carolyn-cuthbertson: Carolyn Cuthbertson
+[01-03-2016 22:52:40] carolyn-james: Carolyn James
+[01-03-2016 22:52:40] christine-joli-coeur: Christine Joli-Coeur
+[01-03-2016 22:52:40] connie-limnidis: Connie Limnidis
+[01-03-2016 22:52:40] david-fretz: David Fretz
+[01-03-2016 22:52:40] derek-morgan: Derek Morgan
+[01-03-2016 22:52:40] ed-hager: Ed Hager
+[01-03-2016 22:52:40] frances-ziesmann: Frances Ziesmann
+[01-03-2016 22:52:40] gerry-gill: Gerry Gill
+[01-03-2016 22:52:40] hillarie-klass: Hillarie Klass
+[01-03-2016 22:52:40] janice-gallant: Janice Gallant
+[01-03-2016 22:52:40] jayne-smith: Jayne Smith
+[01-03-2016 22:52:40] jeff-pajot: Jeff Pajot
+[01-03-2016 22:52:40] jeremy-holden: Jeremy Holden
+[01-03-2016 22:52:40] jim-ogilvie: Jim Ogilvie
+[01-03-2016 22:52:40] kamil-rizvi: Kamil Rizvi
+[01-03-2016 22:52:40] kathleen-walsh: Kathleen Walsh
+[01-03-2016 22:52:40] kurt-bohme: Kurt Bohme
+[01-03-2016 22:52:40] liz-sisolak: Liz Sisolak
+[01-03-2016 22:52:40] mark-wilson: Mark Wilson
+[01-03-2016 22:52:40] mike-atkinson: Mike Atkinson
+[01-03-2016 22:52:40] neil-mcdermott: Neil McDermott
+[01-03-2016 22:52:40] olena-chapovalov: Olena Chapovalov
+[01-03-2016 22:52:40] patricia-yu: Patricia Yu
+[01-03-2016 22:52:40] sandra-excellent: Sandra Excellent
+[01-03-2016 22:52:40] shelly-hurry: Shelly Hurry
+[01-03-2016 22:52:40] sloane-gagnon: Sloane Gagnon
+[01-03-2016 22:52:40] tanya-morose: Tanya Morose
+[01-03-2016 22:52:40] tba: TBA
+[01-03-2016 22:52:40] tbd: TBD
+[01-03-2016 22:52:40] tim-metcalfe: Tim Metcalfe
+[01-03-2016 22:52:40] tina-dunlop: Tina Dunlop
+[01-03-2016 22:58:25] ==================Start of Facilitators Report=========================
+[01-03-2016 22:58:25] Existing Facilitator ID: 238,Fullname: Blaine Larock,slug: blaine-larock, description: blarock@pshsa.ca
+
+[01-03-2016 22:58:26] Existing Facilitator ID: 255,Fullname: Ed Hager,slug: ed-hager, description: ehager@pshsa.ca
+
+[01-03-2016 22:58:26] Existing Facilitator ID: 326,Fullname: Janice Gallant,slug: janice-gallant, description: jgallant@pshsa.ca
+
+[01-03-2016 22:58:27] Existing Facilitator ID: 1218,Fullname: Kim Litchfield,slug: kim-litchfield, description: KLitchfield@pshsa.ca
+
+[01-03-2016 22:58:27] Existing Facilitator ID: 372,Fullname: Mike Atkinson,slug: mike-atkinson, description: matkinson@pshsa.ca
+
+[01-03-2016 22:58:28] Existing Facilitator ID: 1219,Fullname: Richard Tang,slug: richard-tang, description: RTang@pshsa.ca
+
+[01-03-2016 22:58:29] Existing Facilitator ID: 217,Fullname: Bruce McCullagh,slug: bruce-mccullagh, description: BMcCullagh@pshsa.ca
+
+[01-03-2016 22:58:29] Existing Facilitator ID: 346,Fullname: Kurt Bohme,slug: kurt-bohme, description: kbohme@pshsa.ca
+
+[01-03-2016 22:58:30] Existing Facilitator ID: 353,Fullname: Tim Metcalfe,slug: tim-metcalfe, description: TMetcalfe@pshsa.ca
+
+[01-03-2016 22:58:30] Existing Facilitator ID: 713,Fullname: Allison Whyte,slug: allison-whyte, description: AWhyte@pshsa.ca
+
+[01-03-2016 22:58:31] Existing Facilitator ID: 1220,Fullname: Bill Sisler,slug: bill-sisler, description: bsisler@pshsa.ca
+
+[01-03-2016 22:58:31] Existing Facilitator ID: 339,Fullname: Christine Joli-Coeur,slug: christine-joli-coeur, description: cjoli@pshsa.ca
+
+[01-03-2016 22:58:32] Existing Facilitator ID: 507,Fullname: David Fretz,slug: david-fretz, description: DFretz@pshsa.ca
+
+[01-03-2016 22:58:32] Existing Facilitator ID: 951,Fullname: Jayne Smith,slug: jayne-smith, description: JSmith@pshsa.ca
+
+[01-03-2016 22:58:33] Existing Facilitator ID: 294,Fullname: Jeff Pajot,slug: jeff-pajot, description: jpajot@pshsa.ca
+
+[01-03-2016 22:58:33] Existing Facilitator ID: 576,Fullname: Jim Ogilvie,slug: jim-ogilvie, description: jogilvie@pshsa.ca
+
+[01-03-2016 22:58:34] Existing Facilitator ID: 243,Fullname: Kathleen Walsh,slug: kathleen-walsh, description: kwalsh@pshsa.ca
+
+[01-03-2016 22:58:35] Existing Facilitator ID: 269,Fullname: Liz Sisolak,slug: liz-sisolak, description: lsisolak@pshsa.ca
+
+[01-03-2016 22:58:35] Existing Facilitator ID: 648,Fullname: Mark Wilson,slug: mark-wilson, description: mwilson@pshsa.ca
+
+[01-03-2016 22:58:36] Existing Facilitator ID: 1221,Fullname: Monica Szabo,slug: monica-szabo, description: mszabo@pshsa.ca
+
+[01-03-2016 22:58:36] Existing Facilitator ID: 1222,Fullname: Patricia Clausen,slug: patricia-clausen, description: pclausen@pshsa.ca
+
+[01-03-2016 22:58:37] Existing Facilitator ID: 235,Fullname: Tanya Morose,slug: tanya-morose, description: tmorose@pshsa.ca
+
+[01-03-2016 22:58:37] Existing Facilitator ID: 563,Fullname: Brett Webb,slug: brett-webb, description: bwebb@pshsa.ca
+
+[01-03-2016 22:58:38] Existing Facilitator ID: 386,Fullname: Carolyn Cuthbertson,slug: carolyn-cuthbertson, description: ccuthbertson@pshsa.ca
+
+[01-03-2016 22:58:38] ==================Start of Facilitators Report=========================
+[01-03-2016 22:58:39] Existing Facilitator ID: 361,Fullname: Connie Limnidis,slug: connie-limnidis, description: climnidis@pshsa.ca
+
+[01-03-2016 22:58:39] Existing Facilitator ID: 238,Fullname: Blaine Larock,slug: blaine-larock, description: blarock@pshsa.ca
+
+[01-03-2016 22:58:40] Existing Facilitator ID: 227,Fullname: Derek Morgan,slug: derek-morgan, description: dmorgan@pshsa.ca
+
+[01-03-2016 22:58:40] Existing Facilitator ID: 255,Fullname: Ed Hager,slug: ed-hager, description: ehager@pshsa.ca
+
+[01-03-2016 22:58:41] Existing Facilitator ID: 254,Fullname: Frances Ziesmann,slug: frances-ziesmann, description: fziesmann@pshsa.ca
+
+[01-03-2016 22:58:41] Existing Facilitator ID: 326,Fullname: Janice Gallant,slug: janice-gallant, description: jgallant@pshsa.ca
+
+[01-03-2016 22:58:42] Existing Facilitator ID: 258,Fullname: Hillarie Klass,slug: hillarie-klass, description: hklass@pshsa.ca
+
+[01-03-2016 22:58:42] Existing Facilitator ID: 1218,Fullname: Kim Litchfield,slug: kim-litchfield, description: KLitchfield@pshsa.ca
+
+[01-03-2016 22:58:43] Existing Facilitator ID: 364,Fullname: Jeremy Holden,slug: jeremy-holden, description: JHolden@pshsa.ca
+
+[01-03-2016 22:58:43] Existing Facilitator ID: 372,Fullname: Mike Atkinson,slug: mike-atkinson, description: matkinson@pshsa.ca
+
+[01-03-2016 22:58:44] Existing Facilitator ID: 221,Fullname: Kamil Rizvi,slug: kamil-rizvi, description: krizvi@pshsa.ca
+
+[01-03-2016 22:58:44] Existing Facilitator ID: 1219,Fullname: Richard Tang,slug: richard-tang, description: RTang@pshsa.ca
+
+[01-03-2016 22:58:45] Existing Facilitator ID: 1223,Fullname: Neil Mc Dermott,slug: neil-mc-dermott, description: nmcDermott@pshsa.ca
+
+[01-03-2016 22:58:45] Existing Facilitator ID: 217,Fullname: Bruce McCullagh,slug: bruce-mccullagh, description: BMcCullagh@pshsa.ca
+
+[01-03-2016 22:58:46] ==================Start of Facilitators Report=========================
+[01-03-2016 22:58:46] Existing Facilitator ID: 490,Fullname: Olena Chapovalov,slug: olena-chapovalov, description: OChapovalov@pshsa.ca
+
+[01-03-2016 22:58:46] Existing Facilitator ID: 346,Fullname: Kurt Bohme,slug: kurt-bohme, description: kbohme@pshsa.ca
+
+[01-03-2016 22:58:47] Existing Facilitator ID: 238,Fullname: Blaine Larock,slug: blaine-larock, description: blarock@pshsa.ca
+
+[01-03-2016 22:58:47] Existing Facilitator ID: 430,Fullname: Patricia Yu,slug: patricia-yu, description: pyu@pshsa.ca
+
+[01-03-2016 22:58:47] Existing Facilitator ID: 353,Fullname: Tim Metcalfe,slug: tim-metcalfe, description: TMetcalfe@pshsa.ca
+
+[01-03-2016 22:58:48] Existing Facilitator ID: 255,Fullname: Ed Hager,slug: ed-hager, description: ehager@pshsa.ca
+
+[01-03-2016 22:58:48] Existing Facilitator ID: 1224,Fullname: Ryan Adam,slug: ryan-adam, description: radam@pshsa.ca
+
+[01-03-2016 22:58:49] Existing Facilitator ID: 713,Fullname: Allison Whyte,slug: allison-whyte, description: AWhyte@pshsa.ca
+
+[01-03-2016 22:58:50] Existing Facilitator ID: 326,Fullname: Janice Gallant,slug: janice-gallant, description: jgallant@pshsa.ca
+
+[01-03-2016 22:58:50] Existing Facilitator ID: 1220,Fullname: Bill Sisler,slug: bill-sisler, description: bsisler@pshsa.ca
+
+[01-03-2016 22:58:50] Existing Facilitator ID: 240,Fullname: Shelly Hurry,slug: shelly-hurry, description: shurry@pshsa.ca
+
+[01-03-2016 22:58:51] Existing Facilitator ID: 339,Fullname: Christine Joli-Coeur,slug: christine-joli-coeur, description: cjoli@pshsa.ca
+
+[01-03-2016 22:58:51] Existing Facilitator ID: 1218,Fullname: Kim Litchfield,slug: kim-litchfield, description: KLitchfield@pshsa.ca
+
+[01-03-2016 22:58:52] Existing Facilitator ID: 203,Fullname: Tina Dunlop,slug: tina-dunlop, description: tdunlop@pshsa.ca
+
+[01-03-2016 22:58:52] Existing Facilitator ID: 507,Fullname: David Fretz,slug: david-fretz, description: DFretz@pshsa.ca
+
+[01-03-2016 22:58:53] Existing Facilitator ID: 372,Fullname: Mike Atkinson,slug: mike-atkinson, description: matkinson@pshsa.ca
+
+[01-03-2016 22:58:53] Existing Facilitator ID: 1225,Fullname: Kevin Plant,slug: kevin-plant, description: KPlant@hchsa.on.ca
+
+[01-03-2016 22:58:54] Existing Facilitator ID: 951,Fullname: Jayne Smith,slug: jayne-smith, description: JSmith@pshsa.ca
+
+[01-03-2016 22:58:54] Existing Facilitator ID: 1219,Fullname: Richard Tang,slug: richard-tang, description: RTang@pshsa.ca
+
+[01-03-2016 22:58:55] Existing Facilitator ID: 1229,Fullname: Kayla Meyer,slug: kayla-meyer, description: KMeyer@pshsa.ca
+
+[01-03-2016 22:58:55] Existing Facilitator ID: 294,Fullname: Jeff Pajot,slug: jeff-pajot, description: jpajot@pshsa.ca
+
+[01-03-2016 22:58:55] Existing Facilitator ID: 217,Fullname: Bruce McCullagh,slug: bruce-mccullagh, description: BMcCullagh@pshsa.ca
+
+[01-03-2016 22:58:56] Existing Facilitator ID: 1346,Fullname: Richard  Jean,slug: richard--jean, description: richardj@cogeco.ca
+
+[01-03-2016 22:58:56] Existing Facilitator ID: 576,Fullname: Jim Ogilvie,slug: jim-ogilvie, description: jogilvie@pshsa.ca
+
+[01-03-2016 22:58:57] Existing Facilitator ID: 346,Fullname: Kurt Bohme,slug: kurt-bohme, description: kbohme@pshsa.ca
+
+[01-03-2016 22:58:58] Existing Facilitator ID: 1347,Fullname: Marianne Matichuk,slug: marianne-matichuk, description: celina@personainternet.com
+
+[01-03-2016 22:58:58] Existing Facilitator ID: 243,Fullname: Kathleen Walsh,slug: kathleen-walsh, description: kwalsh@pshsa.ca
+
+[01-03-2016 22:58:58] Existing Facilitator ID: 353,Fullname: Tim Metcalfe,slug: tim-metcalfe, description: TMetcalfe@pshsa.ca
+
+[01-03-2016 22:58:59] Existing Facilitator ID: 269,Fullname: Liz Sisolak,slug: liz-sisolak, description: lsisolak@pshsa.ca
+
+[01-03-2016 22:58:59] Existing Facilitator ID: 713,Fullname: Allison Whyte,slug: allison-whyte, description: AWhyte@pshsa.ca
+
+[01-03-2016 22:58:59] Existing Facilitator ID: 430,Fullname: Patricia Yu,slug: patricia-yu, description: patyu.patricia@gmail.com
+
+[01-03-2016 22:59:00] Existing Facilitator ID: 648,Fullname: Mark Wilson,slug: mark-wilson, description: mwilson@pshsa.ca
+
+[01-03-2016 22:59:01] Existing Facilitator ID: 1220,Fullname: Bill Sisler,slug: bill-sisler, description: bsisler@pshsa.ca
+
+[01-03-2016 22:59:01] Existing Facilitator ID: 1348,Fullname: Bill Urie,slug: bill-urie, description: uriewm@interlynx.net
+
+[01-03-2016 22:59:02] Existing Facilitator ID: 1221,Fullname: Monica Szabo,slug: monica-szabo, description: mszabo@pshsa.ca
+
+[01-03-2016 22:59:02] Existing Facilitator ID: 339,Fullname: Christine Joli-Coeur,slug: christine-joli-coeur, description: cjoli@pshsa.ca
+
+[01-03-2016 22:59:02] Existing Facilitator ID: 1269,Fullname: Gerry Gill,slug: gerry-gill, description: gg66@rogers.com
+
+[01-03-2016 22:59:03] Existing Facilitator ID: 1222,Fullname: Patricia Clausen,slug: patricia-clausen, description: pclausen@pshsa.ca
+
+[01-03-2016 22:59:04] Existing Facilitator ID: 507,Fullname: David Fretz,slug: david-fretz, description: DFretz@pshsa.ca
+
+[01-03-2016 22:59:04] Existing Facilitator ID: 1349,Fullname: Dave McFadden,slug: dave-mcfadden, description: dmcfadden26@hotmail.com
+
+[01-03-2016 22:59:04] Existing Facilitator ID: 235,Fullname: Tanya Morose,slug: tanya-morose, description: tmorose@pshsa.ca
+
+[01-03-2016 22:59:05] Existing Facilitator ID: 951,Fullname: Jayne Smith,slug: jayne-smith, description: JSmith@pshsa.ca
+
+[01-03-2016 22:59:06] Existing Facilitator ID: 1350,Fullname: Ken Webb,slug: ken-webb, description: ken.webb3888@bell.net
+
+[01-03-2016 22:59:06] ==================End of Facilitators Report=========================
+[01-03-2016 22:59:06] Existing Facilitator ID: 563,Fullname: Brett Webb,slug: brett-webb, description: bwebb@pshsa.ca
+
+[01-03-2016 22:59:06] Existing Facilitator ID: 294,Fullname: Jeff Pajot,slug: jeff-pajot, description: jpajot@pshsa.ca
+
+[01-03-2016 22:59:07] Existing Facilitator ID: 386,Fullname: Carolyn Cuthbertson,slug: carolyn-cuthbertson, description: ccuthbertson@pshsa.ca
+
+[01-03-2016 22:59:07] Existing Facilitator ID: 576,Fullname: Jim Ogilvie,slug: jim-ogilvie, description: jogilvie@pshsa.ca
+
+[01-03-2016 22:59:08] Existing Facilitator ID: 361,Fullname: Connie Limnidis,slug: connie-limnidis, description: climnidis@pshsa.ca
+
+[01-03-2016 22:59:08] Existing Facilitator ID: 243,Fullname: Kathleen Walsh,slug: kathleen-walsh, description: kwalsh@pshsa.ca
+
+[01-03-2016 22:59:09] Existing Facilitator ID: 227,Fullname: Derek Morgan,slug: derek-morgan, description: dmorgan@pshsa.ca
+
+[01-03-2016 22:59:09] Existing Facilitator ID: 269,Fullname: Liz Sisolak,slug: liz-sisolak, description: lsisolak@pshsa.ca
+
+[01-03-2016 22:59:10] Existing Facilitator ID: 254,Fullname: Frances Ziesmann,slug: frances-ziesmann, description: fziesmann@pshsa.ca
+
+[01-03-2016 22:59:10] Existing Facilitator ID: 648,Fullname: Mark Wilson,slug: mark-wilson, description: mwilson@pshsa.ca
+
+[01-03-2016 22:59:11] Existing Facilitator ID: 258,Fullname: Hillarie Klass,slug: hillarie-klass, description: hklass@pshsa.ca
+
+[01-03-2016 22:59:11] Existing Facilitator ID: 1221,Fullname: Monica Szabo,slug: monica-szabo, description: mszabo@pshsa.ca
+
+[01-03-2016 22:59:12] Existing Facilitator ID: 364,Fullname: Jeremy Holden,slug: jeremy-holden, description: JHolden@pshsa.ca
+
+[01-03-2016 22:59:12] Existing Facilitator ID: 1222,Fullname: Patricia Clausen,slug: patricia-clausen, description: pclausen@pshsa.ca
+
+[01-03-2016 22:59:13] ==================Start of Facilitators Report=========================
+[01-03-2016 22:59:13] Existing Facilitator ID: 235,Fullname: Tanya Morose,slug: tanya-morose, description: tmorose@pshsa.ca
+
+[01-03-2016 22:59:13] Existing Facilitator ID: 221,Fullname: Kamil Rizvi,slug: kamil-rizvi, description: krizvi@pshsa.ca
+
+[01-03-2016 22:59:14] Existing Facilitator ID: 238,Fullname: Blaine Larock,slug: blaine-larock, description: blarock@pshsa.ca
+
+[01-03-2016 22:59:14] Existing Facilitator ID: 563,Fullname: Brett Webb,slug: brett-webb, description: bwebb@pshsa.ca
+
+[01-03-2016 22:59:14] Existing Facilitator ID: 1223,Fullname: Neil Mc Dermott,slug: neil-mc-dermott, description: nmcDermott@pshsa.ca
+
+[01-03-2016 22:59:15] Existing Facilitator ID: 255,Fullname: Ed Hager,slug: ed-hager, description: ehager@pshsa.ca
+
+[01-03-2016 22:59:16] Existing Facilitator ID: 386,Fullname: Carolyn Cuthbertson,slug: carolyn-cuthbertson, description: ccuthbertson@pshsa.ca
+
+[01-03-2016 22:59:16] Existing Facilitator ID: 490,Fullname: Olena Chapovalov,slug: olena-chapovalov, description: OChapovalov@pshsa.ca
+
+[01-03-2016 22:59:17] Existing Facilitator ID: 326,Fullname: Janice Gallant,slug: janice-gallant, description: jgallant@pshsa.ca
+
+[01-03-2016 22:59:17] Existing Facilitator ID: 361,Fullname: Connie Limnidis,slug: connie-limnidis, description: climnidis@pshsa.ca
+
+[01-03-2016 22:59:17] Existing Facilitator ID: 430,Fullname: Patricia Yu,slug: patricia-yu, description: pyu@pshsa.ca
+
+[01-03-2016 22:59:18] Existing Facilitator ID: 1218,Fullname: Kim Litchfield,slug: kim-litchfield, description: KLitchfield@pshsa.ca
+
+[01-03-2016 22:59:18] Existing Facilitator ID: 227,Fullname: Derek Morgan,slug: derek-morgan, description: dmorgan@pshsa.ca
+
+[01-03-2016 22:59:19] Existing Facilitator ID: 1224,Fullname: Ryan Adam,slug: ryan-adam, description: radam@pshsa.ca
+
+[01-03-2016 22:59:19] ==================Start of Facilitators Report=========================
+[01-03-2016 22:59:19] Existing Facilitator ID: 372,Fullname: Mike Atkinson,slug: mike-atkinson, description: matkinson@pshsa.ca
+
+[01-03-2016 22:59:20] Existing Facilitator ID: 254,Fullname: Frances Ziesmann,slug: frances-ziesmann, description: fziesmann@pshsa.ca
+
+[01-03-2016 22:59:20] Existing Facilitator ID: 240,Fullname: Shelly Hurry,slug: shelly-hurry, description: shurry@pshsa.ca
+
+[01-03-2016 22:59:21] Existing Facilitator ID: 238,Fullname: Blaine Larock,slug: blaine-larock, description: blarock@pshsa.ca
+
+[01-03-2016 22:59:21] Existing Facilitator ID: 1219,Fullname: Richard Tang,slug: richard-tang, description: RTang@pshsa.ca
+
+[01-03-2016 22:59:22] ==================Start of Facilitators Report=========================
+[01-03-2016 22:59:22] Existing Facilitator ID: 258,Fullname: Hillarie Klass,slug: hillarie-klass, description: hklass@pshsa.ca
+
+[01-03-2016 22:59:22] Existing Facilitator ID: 203,Fullname: Tina Dunlop,slug: tina-dunlop, description: tdunlop@pshsa.ca
+
+[01-03-2016 22:59:23] Existing Facilitator ID: 255,Fullname: Ed Hager,slug: ed-hager, description: ehager@pshsa.ca
+
+[01-03-2016 22:59:23] Existing Facilitator ID: 217,Fullname: Bruce McCullagh,slug: bruce-mccullagh, description: BMcCullagh@pshsa.ca
+
+[01-03-2016 22:59:24] Existing Facilitator ID: 238,Fullname: Blaine Larock,slug: blaine-larock, description: blarock@pshsa.ca
+
+[01-03-2016 22:59:24] Existing Facilitator ID: 1225,Fullname: Kevin Plant,slug: kevin-plant, description: KPlant@hchsa.on.ca
+
+[01-03-2016 22:59:25] Existing Facilitator ID: 326,Fullname: Janice Gallant,slug: janice-gallant, description: jgallant@pshsa.ca
+
+[01-03-2016 22:59:25] Existing Facilitator ID: 364,Fullname: Jeremy Holden,slug: jeremy-holden, description: JHolden@pshsa.ca
+
+[01-03-2016 22:59:25] Existing Facilitator ID: 346,Fullname: Kurt Bohme,slug: kurt-bohme, description: kbohme@pshsa.ca
+
+[01-03-2016 22:59:26] Existing Facilitator ID: 255,Fullname: Ed Hager,slug: ed-hager, description: ehager@pshsa.ca
+
+[01-03-2016 22:59:27] Existing Facilitator ID: 1229,Fullname: Kayla Meyer,slug: kayla-meyer, description: KMeyer@pshsa.ca
+
+[01-03-2016 22:59:27] Existing Facilitator ID: 1218,Fullname: Kim Litchfield,slug: kim-litchfield, description: KLitchfield@pshsa.ca
+
+[01-03-2016 22:59:27] Existing Facilitator ID: 353,Fullname: Tim Metcalfe,slug: tim-metcalfe, description: TMetcalfe@pshsa.ca
+
+[01-03-2016 22:59:28] Existing Facilitator ID: 221,Fullname: Kamil Rizvi,slug: kamil-rizvi, description: krizvi@pshsa.ca
+
+[01-03-2016 22:59:28] Existing Facilitator ID: 326,Fullname: Janice Gallant,slug: janice-gallant, description: jgallant@pshsa.ca
+
+[01-03-2016 22:59:29] Existing Facilitator ID: 1346,Fullname: Richard  Jean,slug: richard--jean, description: richardj@cogeco.ca
+
+[01-03-2016 22:59:30] Existing Facilitator ID: 713,Fullname: Allison Whyte,slug: allison-whyte, description: AWhyte@pshsa.ca
+
+[01-03-2016 22:59:30] Existing Facilitator ID: 372,Fullname: Mike Atkinson,slug: mike-atkinson, description: matkinson@pshsa.ca
+
+[01-03-2016 22:59:30] Existing Facilitator ID: 1223,Fullname: Neil Mc Dermott,slug: neil-mc-dermott, description: nmcDermott@pshsa.ca
+
+[01-03-2016 22:59:31] Existing Facilitator ID: 1218,Fullname: Kim Litchfield,slug: kim-litchfield, description: KLitchfield@pshsa.ca
+
+[01-03-2016 22:59:31] Existing Facilitator ID: 1347,Fullname: Marianne Matichuk,slug: marianne-matichuk, description: celina@personainternet.com
+
+[01-03-2016 22:59:32] Existing Facilitator ID: 1220,Fullname: Bill Sisler,slug: bill-sisler, description: bsisler@pshsa.ca
+
+[01-03-2016 22:59:32] Existing Facilitator ID: 1219,Fullname: Richard Tang,slug: richard-tang, description: RTang@pshsa.ca
+
+[01-03-2016 22:59:33] Existing Facilitator ID: 372,Fullname: Mike Atkinson,slug: mike-atkinson, description: matkinson@pshsa.ca
+
+[01-03-2016 22:59:33] Existing Facilitator ID: 490,Fullname: Olena Chapovalov,slug: olena-chapovalov, description: OChapovalov@pshsa.ca
+
+[01-03-2016 22:59:34] Existing Facilitator ID: 430,Fullname: Patricia Yu,slug: patricia-yu, description: patyu.patricia@gmail.com
+
+[01-03-2016 22:59:34] Existing Facilitator ID: 339,Fullname: Christine Joli-Coeur,slug: christine-joli-coeur, description: cjoli@pshsa.ca
+
+[01-03-2016 22:59:34] Existing Facilitator ID: 217,Fullname: Bruce McCullagh,slug: bruce-mccullagh, description: BMcCullagh@pshsa.ca
+
+[01-03-2016 22:59:35] Existing Facilitator ID: 430,Fullname: Patricia Yu,slug: patricia-yu, description: pyu@pshsa.ca
+
+[01-03-2016 22:59:36] Existing Facilitator ID: 1219,Fullname: Richard Tang,slug: richard-tang, description: RTang@pshsa.ca
+
+[01-03-2016 22:59:36] Existing Facilitator ID: 1348,Fullname: Bill Urie,slug: bill-urie, description: uriewm@interlynx.net
+
+[01-03-2016 22:59:36] Existing Facilitator ID: 507,Fullname: David Fretz,slug: david-fretz, description: DFretz@pshsa.ca
+
+[01-03-2016 22:59:36] Existing Facilitator ID: 346,Fullname: Kurt Bohme,slug: kurt-bohme, description: kbohme@pshsa.ca
+
+[01-03-2016 22:59:38] Existing Facilitator ID: 1224,Fullname: Ryan Adam,slug: ryan-adam, description: radam@pshsa.ca
+
+[01-03-2016 22:59:38] Existing Facilitator ID: 217,Fullname: Bruce McCullagh,slug: bruce-mccullagh, description: BMcCullagh@pshsa.ca
+
+[01-03-2016 22:59:38] Existing Facilitator ID: 1269,Fullname: Gerry Gill,slug: gerry-gill, description: gg66@rogers.com
+
+[01-03-2016 22:59:38] Existing Facilitator ID: 353,Fullname: Tim Metcalfe,slug: tim-metcalfe, description: TMetcalfe@pshsa.ca
+
+[01-03-2016 22:59:39] Existing Facilitator ID: 951,Fullname: Jayne Smith,slug: jayne-smith, description: JSmith@pshsa.ca
+
+[01-03-2016 22:59:40] Existing Facilitator ID: 240,Fullname: Shelly Hurry,slug: shelly-hurry, description: shurry@pshsa.ca
+
+[01-03-2016 22:59:40] Existing Facilitator ID: 346,Fullname: Kurt Bohme,slug: kurt-bohme, description: kbohme@pshsa.ca
+
+[01-03-2016 22:59:41] Existing Facilitator ID: 713,Fullname: Allison Whyte,slug: allison-whyte, description: AWhyte@pshsa.ca
+
+[01-03-2016 22:59:41] Existing Facilitator ID: 294,Fullname: Jeff Pajot,slug: jeff-pajot, description: jpajot@pshsa.ca
+
+[01-03-2016 22:59:41] Existing Facilitator ID: 1349,Fullname: Dave McFadden,slug: dave-mcfadden, description: dmcfadden26@hotmail.com
+
+[01-03-2016 22:59:42] Existing Facilitator ID: 353,Fullname: Tim Metcalfe,slug: tim-metcalfe, description: TMetcalfe@pshsa.ca
+
+[01-03-2016 22:59:43] Existing Facilitator ID: 203,Fullname: Tina Dunlop,slug: tina-dunlop, description: tdunlop@pshsa.ca
+
+[01-03-2016 22:59:43] Existing Facilitator ID: 1220,Fullname: Bill Sisler,slug: bill-sisler, description: bsisler@pshsa.ca
+
+[01-03-2016 22:59:43] Existing Facilitator ID: 576,Fullname: Jim Ogilvie,slug: jim-ogilvie, description: jogilvie@pshsa.ca
+
+[01-03-2016 22:59:44] ==================Start of Facilitators Report=========================
+[01-03-2016 22:59:44] Existing Facilitator ID: 1350,Fullname: Ken Webb,slug: ken-webb, description: ken.webb3888@bell.net
+
+[01-03-2016 22:59:44] ==================End of Facilitators Report=========================
+[01-03-2016 22:59:45] Existing Facilitator ID: 713,Fullname: Allison Whyte,slug: allison-whyte, description: AWhyte@pshsa.ca
+
+[01-03-2016 22:59:45] Existing Facilitator ID: 243,Fullname: Kathleen Walsh,slug: kathleen-walsh, description: kwalsh@pshsa.ca
+
+[01-03-2016 22:59:45] Existing Facilitator ID: 339,Fullname: Christine Joli-Coeur,slug: christine-joli-coeur, description: cjoli@pshsa.ca
+
+[01-03-2016 22:59:46] Existing Facilitator ID: 238,Fullname: Blaine Larock,slug: blaine-larock, description: blarock@pshsa.ca
+
+[01-03-2016 22:59:46] Existing Facilitator ID: 1225,Fullname: Kevin Plant,slug: kevin-plant, description: KPlant@hchsa.on.ca
+
+[01-03-2016 22:59:47] Existing Facilitator ID: 269,Fullname: Liz Sisolak,slug: liz-sisolak, description: lsisolak@pshsa.ca
+
+[01-03-2016 22:59:47] Existing Facilitator ID: 1220,Fullname: Bill Sisler,slug: bill-sisler, description: bsisler@pshsa.ca
+
+[01-03-2016 22:59:48] Existing Facilitator ID: 255,Fullname: Ed Hager,slug: ed-hager, description: ehager@pshsa.ca
+
+[01-03-2016 22:59:48] Existing Facilitator ID: 1229,Fullname: Kayla Meyer,slug: kayla-meyer, description: KMeyer@pshsa.ca
+
+[01-03-2016 22:59:49] Existing Facilitator ID: 507,Fullname: David Fretz,slug: david-fretz, description: DFretz@pshsa.ca
+
+[01-03-2016 22:59:49] Existing Facilitator ID: 339,Fullname: Christine Joli-Coeur,slug: christine-joli-coeur, description: cjoli@pshsa.ca
+
+[01-03-2016 22:59:50] Existing Facilitator ID: 648,Fullname: Mark Wilson,slug: mark-wilson, description: mwilson@pshsa.ca
+
+[01-03-2016 22:59:51] Existing Facilitator ID: 326,Fullname: Janice Gallant,slug: janice-gallant, description: jgallant@pshsa.ca
+
+[01-03-2016 22:59:51] Existing Facilitator ID: 951,Fullname: Jayne Smith,slug: jayne-smith, description: JSmith@pshsa.ca
+
+[01-03-2016 22:59:51] Existing Facilitator ID: 1346,Fullname: Richard  Jean,slug: richard--jean, description: richardj@cogeco.ca
+
+[01-03-2016 22:59:52] Existing Facilitator ID: 507,Fullname: David Fretz,slug: david-fretz, description: DFretz@pshsa.ca
+
+[01-03-2016 22:59:52] Existing Facilitator ID: 1221,Fullname: Monica Szabo,slug: monica-szabo, description: mszabo@pshsa.ca
+
+[01-03-2016 22:59:53] Existing Facilitator ID: 951,Fullname: Jayne Smith,slug: jayne-smith, description: JSmith@pshsa.ca
+
+[01-03-2016 22:59:53] Existing Facilitator ID: 1347,Fullname: Marianne Matichuk,slug: marianne-matichuk, description: celina@personainternet.com
+
+[01-03-2016 22:59:54] Existing Facilitator ID: 1218,Fullname: Kim Litchfield,slug: kim-litchfield, description: KLitchfield@pshsa.ca
+
+[01-03-2016 22:59:54] Existing Facilitator ID: 294,Fullname: Jeff Pajot,slug: jeff-pajot, description: jpajot@pshsa.ca
+
+[01-03-2016 22:59:55] Existing Facilitator ID: 1222,Fullname: Patricia Clausen,slug: patricia-clausen, description: pclausen@pshsa.ca
+
+[01-03-2016 22:59:55] Existing Facilitator ID: 294,Fullname: Jeff Pajot,slug: jeff-pajot, description: jpajot@pshsa.ca
+
+[01-03-2016 22:59:55] Existing Facilitator ID: 430,Fullname: Patricia Yu,slug: patricia-yu, description: patyu.patricia@gmail.com
+
+[01-03-2016 22:59:56] Existing Facilitator ID: 372,Fullname: Mike Atkinson,slug: mike-atkinson, description: matkinson@pshsa.ca
+
+[01-03-2016 22:59:56] Existing Facilitator ID: 576,Fullname: Jim Ogilvie,slug: jim-ogilvie, description: jogilvie@pshsa.ca
+
+[01-03-2016 22:59:57] Existing Facilitator ID: 235,Fullname: Tanya Morose,slug: tanya-morose, description: tmorose@pshsa.ca
+
+[01-03-2016 22:59:57] Existing Facilitator ID: 576,Fullname: Jim Ogilvie,slug: jim-ogilvie, description: jogilvie@pshsa.ca
+
+[01-03-2016 22:59:58] Existing Facilitator ID: 1219,Fullname: Richard Tang,slug: richard-tang, description: RTang@pshsa.ca
+
+[01-03-2016 22:59:58] Existing Facilitator ID: 1348,Fullname: Bill Urie,slug: bill-urie, description: uriewm@interlynx.net
+
+[01-03-2016 22:59:59] Existing Facilitator ID: 243,Fullname: Kathleen Walsh,slug: kathleen-walsh, description: kwalsh@pshsa.ca
+
+[01-03-2016 22:59:59] Existing Facilitator ID: 243,Fullname: Kathleen Walsh,slug: kathleen-walsh, description: kwalsh@pshsa.ca
+
+[01-03-2016 23:00:00] Existing Facilitator ID: 563,Fullname: Brett Webb,slug: brett-webb, description: bwebb@pshsa.ca
+
+[01-03-2016 23:00:00] Existing Facilitator ID: 1269,Fullname: Gerry Gill,slug: gerry-gill, description: gg66@rogers.com
+
+[01-03-2016 23:00:01] Existing Facilitator ID: 217,Fullname: Bruce McCullagh,slug: bruce-mccullagh, description: BMcCullagh@pshsa.ca
+
+[01-03-2016 23:00:01] Existing Facilitator ID: 269,Fullname: Liz Sisolak,slug: liz-sisolak, description: lsisolak@pshsa.ca
+
+[01-03-2016 23:00:02] Existing Facilitator ID: 1349,Fullname: Dave McFadden,slug: dave-mcfadden, description: dmcfadden26@hotmail.com
+
+[01-03-2016 23:00:02] Existing Facilitator ID: 386,Fullname: Carolyn Cuthbertson,slug: carolyn-cuthbertson, description: ccuthbertson@pshsa.ca
+
+[01-03-2016 23:00:02] Existing Facilitator ID: 269,Fullname: Liz Sisolak,slug: liz-sisolak, description: lsisolak@pshsa.ca
+
+[01-03-2016 23:00:03] Existing Facilitator ID: 346,Fullname: Kurt Bohme,slug: kurt-bohme, description: kbohme@pshsa.ca
+
+[01-03-2016 23:00:03] Existing Facilitator ID: 648,Fullname: Mark Wilson,slug: mark-wilson, description: mwilson@pshsa.ca
+
+[01-03-2016 23:00:04] Existing Facilitator ID: 648,Fullname: Mark Wilson,slug: mark-wilson, description: mwilson@pshsa.ca
+
+[01-03-2016 23:00:04] Existing Facilitator ID: 1350,Fullname: Ken Webb,slug: ken-webb, description: ken.webb3888@bell.net
+
+[01-03-2016 23:00:04] ==================End of Facilitators Report=========================
+[01-03-2016 23:00:05] Existing Facilitator ID: 361,Fullname: Connie Limnidis,slug: connie-limnidis, description: climnidis@pshsa.ca
+
+[01-03-2016 23:00:05] Existing Facilitator ID: 353,Fullname: Tim Metcalfe,slug: tim-metcalfe, description: TMetcalfe@pshsa.ca
+
+[01-03-2016 23:00:06] Existing Facilitator ID: 1221,Fullname: Monica Szabo,slug: monica-szabo, description: mszabo@pshsa.ca
+
+[01-03-2016 23:00:06] Existing Facilitator ID: 1221,Fullname: Monica Szabo,slug: monica-szabo, description: mszabo@pshsa.ca
+
+[01-03-2016 23:00:07] Existing Facilitator ID: 713,Fullname: Allison Whyte,slug: allison-whyte, description: AWhyte@pshsa.ca
+
+[01-03-2016 23:00:07] Existing Facilitator ID: 227,Fullname: Derek Morgan,slug: derek-morgan, description: dmorgan@pshsa.ca
+
+[01-03-2016 23:00:08] Existing Facilitator ID: 1222,Fullname: Patricia Clausen,slug: patricia-clausen, description: pclausen@pshsa.ca
+
+[01-03-2016 23:00:08] Existing Facilitator ID: 1222,Fullname: Patricia Clausen,slug: patricia-clausen, description: pclausen@pshsa.ca
+
+[01-03-2016 23:00:08] Existing Facilitator ID: 1220,Fullname: Bill Sisler,slug: bill-sisler, description: bsisler@pshsa.ca
+
+[01-03-2016 23:00:09] Existing Facilitator ID: 254,Fullname: Frances Ziesmann,slug: frances-ziesmann, description: fziesmann@pshsa.ca
+
+[01-03-2016 23:00:10] Existing Facilitator ID: 235,Fullname: Tanya Morose,slug: tanya-morose, description: tmorose@pshsa.ca
+
+[01-03-2016 23:00:10] Existing Facilitator ID: 235,Fullname: Tanya Morose,slug: tanya-morose, description: tmorose@pshsa.ca
+
+[01-03-2016 23:00:11] Existing Facilitator ID: 339,Fullname: Christine Joli-Coeur,slug: christine-joli-coeur, description: cjoli@pshsa.ca
+
+[01-03-2016 23:00:11] Existing Facilitator ID: 563,Fullname: Brett Webb,slug: brett-webb, description: bwebb@pshsa.ca
+
+[01-03-2016 23:00:12] Existing Facilitator ID: 258,Fullname: Hillarie Klass,slug: hillarie-klass, description: hklass@pshsa.ca
+
+[01-03-2016 23:00:12] Existing Facilitator ID: 563,Fullname: Brett Webb,slug: brett-webb, description: bwebb@pshsa.ca
+
+[01-03-2016 23:00:12] Existing Facilitator ID: 507,Fullname: David Fretz,slug: david-fretz, description: DFretz@pshsa.ca
+
+[01-03-2016 23:00:13] Existing Facilitator ID: 386,Fullname: Carolyn Cuthbertson,slug: carolyn-cuthbertson, description: ccuthbertson@pshsa.ca
+
+[01-03-2016 23:00:14] Existing Facilitator ID: 364,Fullname: Jeremy Holden,slug: jeremy-holden, description: JHolden@pshsa.ca
+
+[01-03-2016 23:00:14] Existing Facilitator ID: 951,Fullname: Jayne Smith,slug: jayne-smith, description: JSmith@pshsa.ca
+
+[01-03-2016 23:00:14] Existing Facilitator ID: 386,Fullname: Carolyn Cuthbertson,slug: carolyn-cuthbertson, description: ccuthbertson@pshsa.ca
+
+[01-03-2016 23:00:15] Existing Facilitator ID: 361,Fullname: Connie Limnidis,slug: connie-limnidis, description: climnidis@pshsa.ca
+
+[01-03-2016 23:00:16] Existing Facilitator ID: 294,Fullname: Jeff Pajot,slug: jeff-pajot, description: jpajot@pshsa.ca
+
+[01-03-2016 23:00:16] Existing Facilitator ID: 221,Fullname: Kamil Rizvi,slug: kamil-rizvi, description: krizvi@pshsa.ca
+
+[01-03-2016 23:00:16] Existing Facilitator ID: 361,Fullname: Connie Limnidis,slug: connie-limnidis, description: climnidis@pshsa.ca
+
+[01-03-2016 23:00:17] Existing Facilitator ID: 227,Fullname: Derek Morgan,slug: derek-morgan, description: dmorgan@pshsa.ca
+
+[01-03-2016 23:00:17] Existing Facilitator ID: 576,Fullname: Jim Ogilvie,slug: jim-ogilvie, description: jogilvie@pshsa.ca
+
+[01-03-2016 23:00:17] Existing Facilitator ID: 227,Fullname: Derek Morgan,slug: derek-morgan, description: dmorgan@pshsa.ca
+
+[01-03-2016 23:00:18] Existing Facilitator ID: 1223,Fullname: Neil Mc Dermott,slug: neil-mc-dermott, description: nmcDermott@pshsa.ca
+
+[01-03-2016 23:00:19] Existing Facilitator ID: 254,Fullname: Frances Ziesmann,slug: frances-ziesmann, description: fziesmann@pshsa.ca
+
+[01-03-2016 23:00:19] Existing Facilitator ID: 254,Fullname: Frances Ziesmann,slug: frances-ziesmann, description: fziesmann@pshsa.ca
+
+[01-03-2016 23:00:19] Existing Facilitator ID: 490,Fullname: Olena Chapovalov,slug: olena-chapovalov, description: OChapovalov@pshsa.ca
+
+[01-03-2016 23:00:20] Existing Facilitator ID: 243,Fullname: Kathleen Walsh,slug: kathleen-walsh, description: kwalsh@pshsa.ca
+
+[01-03-2016 23:00:21] Existing Facilitator ID: 258,Fullname: Hillarie Klass,slug: hillarie-klass, description: hklass@pshsa.ca
+
+[01-03-2016 23:00:21] Existing Facilitator ID: 258,Fullname: Hillarie Klass,slug: hillarie-klass, description: hklass@pshsa.ca
+
+[01-03-2016 23:00:21] Existing Facilitator ID: 430,Fullname: Patricia Yu,slug: patricia-yu, description: pyu@pshsa.ca
+
+[01-03-2016 23:00:21] Existing Facilitator ID: 269,Fullname: Liz Sisolak,slug: liz-sisolak, description: lsisolak@pshsa.ca
+
+[01-03-2016 23:00:23] Existing Facilitator ID: 1224,Fullname: Ryan Adam,slug: ryan-adam, description: radam@pshsa.ca
+
+[01-03-2016 23:00:23] Existing Facilitator ID: 364,Fullname: Jeremy Holden,slug: jeremy-holden, description: JHolden@pshsa.ca
+
+[01-03-2016 23:00:23] Existing Facilitator ID: 364,Fullname: Jeremy Holden,slug: jeremy-holden, description: JHolden@pshsa.ca
+
+[01-03-2016 23:00:23] Existing Facilitator ID: 648,Fullname: Mark Wilson,slug: mark-wilson, description: mwilson@pshsa.ca
+
+[01-03-2016 23:00:25] Existing Facilitator ID: 240,Fullname: Shelly Hurry,slug: shelly-hurry, description: shurry@pshsa.ca
+
+[01-03-2016 23:00:25] Existing Facilitator ID: 221,Fullname: Kamil Rizvi,slug: kamil-rizvi, description: krizvi@pshsa.ca
+
+[01-03-2016 23:00:25] Existing Facilitator ID: 1221,Fullname: Monica Szabo,slug: monica-szabo, description: mszabo@pshsa.ca
+
+[01-03-2016 23:00:25] Existing Facilitator ID: 221,Fullname: Kamil Rizvi,slug: kamil-rizvi, description: krizvi@pshsa.ca
+
+[01-03-2016 23:00:26] Existing Facilitator ID: 203,Fullname: Tina Dunlop,slug: tina-dunlop, description: tdunlop@pshsa.ca
+
+[01-03-2016 23:00:27] Existing Facilitator ID: 1222,Fullname: Patricia Clausen,slug: patricia-clausen, description: pclausen@pshsa.ca
+
+[01-03-2016 23:00:27] Existing Facilitator ID: 1223,Fullname: Neil Mc Dermott,slug: neil-mc-dermott, description: nmcDermott@pshsa.ca
+
+[01-03-2016 23:00:27] Existing Facilitator ID: 1223,Fullname: Neil Mc Dermott,slug: neil-mc-dermott, description: nmcDermott@pshsa.ca
+
+[01-03-2016 23:00:28] Existing Facilitator ID: 1225,Fullname: Kevin Plant,slug: kevin-plant, description: KPlant@hchsa.on.ca
+
+[01-03-2016 23:00:28] Existing Facilitator ID: 235,Fullname: Tanya Morose,slug: tanya-morose, description: tmorose@pshsa.ca
+
+[01-03-2016 23:00:29] Existing Facilitator ID: 490,Fullname: Olena Chapovalov,slug: olena-chapovalov, description: OChapovalov@pshsa.ca
+
+[01-03-2016 23:00:29] Existing Facilitator ID: 490,Fullname: Olena Chapovalov,slug: olena-chapovalov, description: OChapovalov@pshsa.ca
+
+[01-03-2016 23:00:30] Existing Facilitator ID: 1229,Fullname: Kayla Meyer,slug: kayla-meyer, description: KMeyer@pshsa.ca
+
+[01-03-2016 23:00:30] Existing Facilitator ID: 563,Fullname: Brett Webb,slug: brett-webb, description: bwebb@pshsa.ca
+
+[01-03-2016 23:00:30] Existing Facilitator ID: 430,Fullname: Patricia Yu,slug: patricia-yu, description: pyu@pshsa.ca
+
+[01-03-2016 23:00:31] Existing Facilitator ID: 430,Fullname: Patricia Yu,slug: patricia-yu, description: pyu@pshsa.ca
+
+[01-03-2016 23:00:32] Existing Facilitator ID: 386,Fullname: Carolyn Cuthbertson,slug: carolyn-cuthbertson, description: ccuthbertson@pshsa.ca
+
+[01-03-2016 23:00:32] Existing Facilitator ID: 1346,Fullname: Richard  Jean,slug: richard--jean, description: richardj@cogeco.ca
+
+[01-03-2016 23:00:32] Existing Facilitator ID: 1224,Fullname: Ryan Adam,slug: ryan-adam, description: radam@pshsa.ca
+
+[01-03-2016 23:00:33] Existing Facilitator ID: 361,Fullname: Connie Limnidis,slug: connie-limnidis, description: climnidis@pshsa.ca
+
+[01-03-2016 23:00:34] Existing Facilitator ID: 1347,Fullname: Marianne Matichuk,slug: marianne-matichuk, description: celina@personainternet.com
+
+[01-03-2016 23:00:34] Existing Facilitator ID: 1224,Fullname: Ryan Adam,slug: ryan-adam, description: radam@pshsa.ca
+
+[01-03-2016 23:00:34] Existing Facilitator ID: 240,Fullname: Shelly Hurry,slug: shelly-hurry, description: shurry@pshsa.ca
+
+[01-03-2016 23:00:35] Existing Facilitator ID: 227,Fullname: Derek Morgan,slug: derek-morgan, description: dmorgan@pshsa.ca
+
+[01-03-2016 23:00:35] Existing Facilitator ID: 430,Fullname: Patricia Yu,slug: patricia-yu, description: patyu.patricia@gmail.com
+
+[01-03-2016 23:00:36] Existing Facilitator ID: 203,Fullname: Tina Dunlop,slug: tina-dunlop, description: tdunlop@pshsa.ca
+
+[01-03-2016 23:00:36] Existing Facilitator ID: 240,Fullname: Shelly Hurry,slug: shelly-hurry, description: shurry@pshsa.ca
+
+[01-03-2016 23:00:36] Existing Facilitator ID: 254,Fullname: Frances Ziesmann,slug: frances-ziesmann, description: fziesmann@pshsa.ca
+
+[01-03-2016 23:00:37] Existing Facilitator ID: 1348,Fullname: Bill Urie,slug: bill-urie, description: uriewm@interlynx.net
+
+[01-03-2016 23:00:38] Existing Facilitator ID: 1225,Fullname: Kevin Plant,slug: kevin-plant, description: KPlant@hchsa.on.ca
+
+[01-03-2016 23:00:38] Existing Facilitator ID: 203,Fullname: Tina Dunlop,slug: tina-dunlop, description: tdunlop@pshsa.ca
+
+[01-03-2016 23:00:38] Existing Facilitator ID: 258,Fullname: Hillarie Klass,slug: hillarie-klass, description: hklass@pshsa.ca
+
+[01-03-2016 23:00:39] Existing Facilitator ID: 1269,Fullname: Gerry Gill,slug: gerry-gill, description: gg66@rogers.com
+
+[01-03-2016 23:00:40] Existing Facilitator ID: 1225,Fullname: Kevin Plant,slug: kevin-plant, description: KPlant@hchsa.on.ca
+
+[01-03-2016 23:00:40] Existing Facilitator ID: 1229,Fullname: Kayla Meyer,slug: kayla-meyer, description: KMeyer@pshsa.ca
+
+[01-03-2016 23:00:40] Existing Facilitator ID: 364,Fullname: Jeremy Holden,slug: jeremy-holden, description: JHolden@pshsa.ca
+
+[01-03-2016 23:00:41] Existing Facilitator ID: 1349,Fullname: Dave McFadden,slug: dave-mcfadden, description: dmcfadden26@hotmail.com
+
+[01-03-2016 23:00:41] Existing Facilitator ID: 1229,Fullname: Kayla Meyer,slug: kayla-meyer, description: KMeyer@pshsa.ca
+
+[01-03-2016 23:00:42] Existing Facilitator ID: 221,Fullname: Kamil Rizvi,slug: kamil-rizvi, description: krizvi@pshsa.ca
+
+[01-03-2016 23:00:42] Existing Facilitator ID: 1346,Fullname: Richard  Jean,slug: richard--jean, description: richardj@cogeco.ca
+
+[01-03-2016 23:00:43] Existing Facilitator ID: 1346,Fullname: Richard  Jean,slug: richard--jean, description: richardj@cogeco.ca
+
+[01-03-2016 23:00:43] Existing Facilitator ID: 1350,Fullname: Ken Webb,slug: ken-webb, description: ken.webb3888@bell.net
+
+[01-03-2016 23:00:43] ==================End of Facilitators Report=========================
+[01-03-2016 23:00:43] Existing Facilitator ID: 1223,Fullname: Neil Mc Dermott,slug: neil-mc-dermott, description: nmcDermott@pshsa.ca
+
+[01-03-2016 23:00:44] Existing Facilitator ID: 1347,Fullname: Marianne Matichuk,slug: marianne-matichuk, description: celina@personainternet.com
+
+[01-03-2016 23:00:44] Existing Facilitator ID: 1347,Fullname: Marianne Matichuk,slug: marianne-matichuk, description: celina@personainternet.com
+
+[01-03-2016 23:00:45] Existing Facilitator ID: 490,Fullname: Olena Chapovalov,slug: olena-chapovalov, description: OChapovalov@pshsa.ca
+
+[01-03-2016 23:00:45] Existing Facilitator ID: 430,Fullname: Patricia Yu,slug: patricia-yu, description: patyu.patricia@gmail.com
+
+[01-03-2016 23:00:46] Existing Facilitator ID: 430,Fullname: Patricia Yu,slug: patricia-yu, description: patyu.patricia@gmail.com
+
+[01-03-2016 23:00:46] Existing Facilitator ID: 430,Fullname: Patricia Yu,slug: patricia-yu, description: pyu@pshsa.ca
+
+[01-03-2016 23:00:47] Existing Facilitator ID: 1348,Fullname: Bill Urie,slug: bill-urie, description: uriewm@interlynx.net
+
+[01-03-2016 23:00:47] Existing Facilitator ID: 1348,Fullname: Bill Urie,slug: bill-urie, description: uriewm@interlynx.net
+
+[01-03-2016 23:00:47] Existing Facilitator ID: 1224,Fullname: Ryan Adam,slug: ryan-adam, description: radam@pshsa.ca
+
+[01-03-2016 23:00:48] Existing Facilitator ID: 1269,Fullname: Gerry Gill,slug: gerry-gill, description: gg66@rogers.com
+
+[01-03-2016 23:00:48] Existing Facilitator ID: 1269,Fullname: Gerry Gill,slug: gerry-gill, description: gg66@rogers.com
+
+[01-03-2016 23:00:49] Existing Facilitator ID: 240,Fullname: Shelly Hurry,slug: shelly-hurry, description: shurry@pshsa.ca
+
+[01-03-2016 23:00:49] Existing Facilitator ID: 1349,Fullname: Dave McFadden,slug: dave-mcfadden, description: dmcfadden26@hotmail.com
+
+[01-03-2016 23:00:50] Existing Facilitator ID: 203,Fullname: Tina Dunlop,slug: tina-dunlop, description: tdunlop@pshsa.ca
+
+[01-03-2016 23:00:50] Existing Facilitator ID: 1349,Fullname: Dave McFadden,slug: dave-mcfadden, description: dmcfadden26@hotmail.com
+
+[01-03-2016 23:00:51] Existing Facilitator ID: 1350,Fullname: Ken Webb,slug: ken-webb, description: ken.webb3888@bell.net
+
+[01-03-2016 23:00:51] ==================End of Facilitators Report=========================
+[01-03-2016 23:00:51] Existing Facilitator ID: 1225,Fullname: Kevin Plant,slug: kevin-plant, description: KPlant@hchsa.on.ca
+
+[01-03-2016 23:00:51] Existing Facilitator ID: 1350,Fullname: Ken Webb,slug: ken-webb, description: ken.webb3888@bell.net
+
+[01-03-2016 23:00:51] ==================End of Facilitators Report=========================
+[01-03-2016 23:00:52] Existing Facilitator ID: 1229,Fullname: Kayla Meyer,slug: kayla-meyer, description: KMeyer@pshsa.ca
+
+[01-03-2016 23:00:52] Existing Facilitator ID: 1346,Fullname: Richard  Jean,slug: richard--jean, description: richardj@cogeco.ca
+
+[01-03-2016 23:00:53] Existing Facilitator ID: 1347,Fullname: Marianne Matichuk,slug: marianne-matichuk, description: celina@personainternet.com
+
+[01-03-2016 23:00:53] Existing Facilitator ID: 430,Fullname: Patricia Yu,slug: patricia-yu, description: patyu.patricia@gmail.com
+
+[01-03-2016 23:00:54] Existing Facilitator ID: 1348,Fullname: Bill Urie,slug: bill-urie, description: uriewm@interlynx.net
+
+[01-03-2016 23:00:55] Existing Facilitator ID: 1269,Fullname: Gerry Gill,slug: gerry-gill, description: gg66@rogers.com
+
+[01-03-2016 23:00:55] Existing Facilitator ID: 1349,Fullname: Dave McFadden,slug: dave-mcfadden, description: dmcfadden26@hotmail.com
+
+[01-03-2016 23:00:56] Existing Facilitator ID: 1350,Fullname: Ken Webb,slug: ken-webb, description: ken.webb3888@bell.net
+
+[01-03-2016 23:00:56] ==================End of Facilitators Report=========================
+[01-03-2016 23:00:56] ==================Start of Facilitators Report=========================
+[01-03-2016 23:00:57] Existing Facilitator ID: 238,Fullname: Blaine Larock,slug: blaine-larock, description: blarock@pshsa.ca
+
+[01-03-2016 23:00:57] Existing Facilitator ID: 255,Fullname: Ed Hager,slug: ed-hager, description: ehager@pshsa.ca
+
+[01-03-2016 23:00:58] Existing Facilitator ID: 326,Fullname: Janice Gallant,slug: janice-gallant, description: jgallant@pshsa.ca
+
+[01-03-2016 23:00:59] Existing Facilitator ID: 1218,Fullname: Kim Litchfield,slug: kim-litchfield, description: KLitchfield@pshsa.ca
+
+[01-03-2016 23:01:00] Existing Facilitator ID: 372,Fullname: Mike Atkinson,slug: mike-atkinson, description: matkinson@pshsa.ca
+
+[01-03-2016 23:01:00] Existing Facilitator ID: 1219,Fullname: Richard Tang,slug: richard-tang, description: RTang@pshsa.ca
+
+[01-03-2016 23:01:01] Existing Facilitator ID: 217,Fullname: Bruce McCullagh,slug: bruce-mccullagh, description: BMcCullagh@pshsa.ca
+
+[01-03-2016 23:01:02] Existing Facilitator ID: 346,Fullname: Kurt Bohme,slug: kurt-bohme, description: kbohme@pshsa.ca
+
+[01-03-2016 23:01:02] Existing Facilitator ID: 353,Fullname: Tim Metcalfe,slug: tim-metcalfe, description: TMetcalfe@pshsa.ca
+
+[01-03-2016 23:01:03] Existing Facilitator ID: 713,Fullname: Allison Whyte,slug: allison-whyte, description: AWhyte@pshsa.ca
+
+[01-03-2016 23:01:03] Existing Facilitator ID: 1220,Fullname: Bill Sisler,slug: bill-sisler, description: bsisler@pshsa.ca
+
+[01-03-2016 23:01:04] Existing Facilitator ID: 339,Fullname: Christine Joli-Coeur,slug: christine-joli-coeur, description: cjoli@pshsa.ca
+
+[01-03-2016 23:01:04] Existing Facilitator ID: 507,Fullname: David Fretz,slug: david-fretz, description: DFretz@pshsa.ca
+
+[01-03-2016 23:01:05] Existing Facilitator ID: 951,Fullname: Jayne Smith,slug: jayne-smith, description: JSmith@pshsa.ca
+
+[01-03-2016 23:01:05] Existing Facilitator ID: 294,Fullname: Jeff Pajot,slug: jeff-pajot, description: jpajot@pshsa.ca
+
+[01-03-2016 23:01:06] Existing Facilitator ID: 576,Fullname: Jim Ogilvie,slug: jim-ogilvie, description: jogilvie@pshsa.ca
+
+[01-03-2016 23:01:06] Existing Facilitator ID: 243,Fullname: Kathleen Walsh,slug: kathleen-walsh, description: kwalsh@pshsa.ca
+
+[01-03-2016 23:01:07] Existing Facilitator ID: 269,Fullname: Liz Sisolak,slug: liz-sisolak, description: lsisolak@pshsa.ca
+
+[01-03-2016 23:01:07] Existing Facilitator ID: 648,Fullname: Mark Wilson,slug: mark-wilson, description: mwilson@pshsa.ca
+
+[01-03-2016 23:01:08] Existing Facilitator ID: 1221,Fullname: Monica Szabo,slug: monica-szabo, description: mszabo@pshsa.ca
+
+[01-03-2016 23:01:08] Existing Facilitator ID: 1222,Fullname: Patricia Clausen,slug: patricia-clausen, description: pclausen@pshsa.ca
+
+[01-03-2016 23:01:09] Existing Facilitator ID: 235,Fullname: Tanya Morose,slug: tanya-morose, description: tmorose@pshsa.ca
+
+[01-03-2016 23:01:09] Existing Facilitator ID: 563,Fullname: Brett Webb,slug: brett-webb, description: bwebb@pshsa.ca
+
+[01-03-2016 23:01:10] Existing Facilitator ID: 386,Fullname: Carolyn Cuthbertson,slug: carolyn-cuthbertson, description: ccuthbertson@pshsa.ca
+
+[01-03-2016 23:01:11] Existing Facilitator ID: 361,Fullname: Connie Limnidis,slug: connie-limnidis, description: climnidis@pshsa.ca
+
+[01-03-2016 23:01:11] Existing Facilitator ID: 227,Fullname: Derek Morgan,slug: derek-morgan, description: dmorgan@pshsa.ca
+
+[01-03-2016 23:01:12] Existing Facilitator ID: 254,Fullname: Frances Ziesmann,slug: frances-ziesmann, description: fziesmann@pshsa.ca
+
+[01-03-2016 23:01:12] Existing Facilitator ID: 258,Fullname: Hillarie Klass,slug: hillarie-klass, description: hklass@pshsa.ca
+
+[01-03-2016 23:01:13] Existing Facilitator ID: 364,Fullname: Jeremy Holden,slug: jeremy-holden, description: JHolden@pshsa.ca
+
+[01-03-2016 23:01:13] Existing Facilitator ID: 221,Fullname: Kamil Rizvi,slug: kamil-rizvi, description: krizvi@pshsa.ca
+
+[01-03-2016 23:01:14] Existing Facilitator ID: 1223,Fullname: Neil Mc Dermott,slug: neil-mc-dermott, description: nmcDermott@pshsa.ca
+
+[01-03-2016 23:01:14] Existing Facilitator ID: 490,Fullname: Olena Chapovalov,slug: olena-chapovalov, description: OChapovalov@pshsa.ca
+
+[01-03-2016 23:01:15] Existing Facilitator ID: 430,Fullname: Patricia Yu,slug: patricia-yu, description: pyu@pshsa.ca
+
+[01-03-2016 23:01:15] Existing Facilitator ID: 1224,Fullname: Ryan Adam,slug: ryan-adam, description: radam@pshsa.ca
+
+[01-03-2016 23:01:16] Existing Facilitator ID: 240,Fullname: Shelly Hurry,slug: shelly-hurry, description: shurry@pshsa.ca
+
+[01-03-2016 23:01:16] Existing Facilitator ID: 203,Fullname: Tina Dunlop,slug: tina-dunlop, description: tdunlop@pshsa.ca
+
+[01-03-2016 23:01:17] Existing Facilitator ID: 1225,Fullname: Kevin Plant,slug: kevin-plant, description: KPlant@hchsa.on.ca
+
+[01-03-2016 23:01:17] Existing Facilitator ID: 1229,Fullname: Kayla Meyer,slug: kayla-meyer, description: KMeyer@pshsa.ca
+
+[01-03-2016 23:01:18] Existing Facilitator ID: 1346,Fullname: Richard  Jean,slug: richard--jean, description: richardj@cogeco.ca
+
+[01-03-2016 23:01:18] Existing Facilitator ID: 1347,Fullname: Marianne Matichuk,slug: marianne-matichuk, description: celina@personainternet.com
+
+[01-03-2016 23:01:19] Existing Facilitator ID: 430,Fullname: Patricia Yu,slug: patricia-yu, description: patyu.patricia@gmail.com
+
+[01-03-2016 23:01:19] Existing Facilitator ID: 1348,Fullname: Bill Urie,slug: bill-urie, description: uriewm@interlynx.net
+
+[01-03-2016 23:01:20] Existing Facilitator ID: 1269,Fullname: Gerry Gill,slug: gerry-gill, description: gg66@rogers.com
+
+[01-03-2016 23:01:20] Existing Facilitator ID: 1349,Fullname: Dave McFadden,slug: dave-mcfadden, description: dmcfadden26@hotmail.com
+
+[01-03-2016 23:01:21] Existing Facilitator ID: 1350,Fullname: Ken Webb,slug: ken-webb, description: ken.webb3888@bell.net
+
+[01-03-2016 23:01:21] ==================End of Facilitators Report=========================

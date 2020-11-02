@@ -1,0 +1,27 @@
+*** Products of the day ***
+
+2015.04.16 - 1.1.2
+ * Changelog file converted into txt
+ * Removed licence manager
+
+2015.03.15 - 1.1.1
+ * Fix for WooCommerce 2.3.x
+
+2013.10.08 - 1.1.0
+ * Removed a list which was using select2 plugin. Instead of that using jQuery autocomplete + AJAX
+ * Removed array references like &$this
+ * Fixed problems in admin panel (list of products for each day) with position of remove icon
+ * Cleared up position of days-boxes on admin settings page
+ * Changed border color of .sortable unordered list
+
+2013.05.14 - 1.0.2
+ * Fixed version number bug
+ * Removed Jigoshop naming convention
+ * Removed unused JS scripts
+
+2013.05.03 - 1.0.1
+ * Removed options from product
+ * Added AJAX control on one page
+
+2013.11.28 - version 1.0
+  * First release

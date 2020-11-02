@@ -1,0 +1,25 @@
+.single{
+	&.single-product{
+		#page{
+			.product-addon{
+				.addon-description{
+					p{
+						font-style: normal;
+					}
+				}
+				p[class*="session"]{ // wild card seletor for the session date drop downs
+					padding: 0;
+					margin: 0;
+					@media @mobile{
+						width: 75%;
+					}
+					@media @desktop{
+						width: 25%;	
+					}					
+				}
+			}
+		}
+	}
+}
+
+

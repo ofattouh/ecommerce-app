@@ -1,0 +1,5 @@
+#submitdiv_pps input,
+#submitdiv_pps select,
+#submitdiv_pps a.button {
+	position: relative;
+}

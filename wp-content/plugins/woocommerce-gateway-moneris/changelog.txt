@@ -1,0 +1,158 @@
+*** WooCommerce Moneris Gateway Changelog ***
+
+2017.04.26 - version 2.7.2
+ * Fix - Prevent some deprecated notices when processing subscriptions in WooCommerce 3.0+
+
+2017.04.18 - version 2.7.1
+ * Fix - Ensure tokenized transactions are accepted regardless of CSC validation settings
+ * Tweak - Use the billing address as shipping when shipping is not set in WooCommerce 3.0 and above
+ * Misc - Add the wc_moneris_api_new_request_args filter
+
+2017.03.28 - version 2.7.0
+ * Feature - Orders with only virtual items can now force a charge instead of authorization
+ * Misc - Added support for WooCommerce 3.0
+ * Misc - Removed support for WooCommerce 2.4
+
+2016.12.28 - version 2.6.3
+ * Fix - Allow authorizations to be captured for orders that previously had their authorization reversed
+
+2016.11.15 - version 2.6.2
+ * Fix - Properly set an order's card type when using hosted tokenization
+
+2016.09.22 - version 2.6.1
+ * Fix - Fix a fatal error that occurs when processing guest pre-order payments
+
+2016.06.02 - version 2.6.0
+ * Misc - Added support for WooCommerce 2.6
+ * Misc - Removed support for WooCommerce 2.3
+
+2016.05.03 - version 2.5.1
+ * Fix - Fix Interac redirect error after processing a transaction
+
+2016.04.20 - version 2.5.0
+ * Feature - View saved payment methods for customers on the Edit User screen
+ * Feature - Customers are now prevented from deleting a payment method that's associated with an active subscription
+
+2016.01.14 - version 2.4.0
+ * Misc - Added support for WooCommerce 2.5
+ * Misc - Removed support for WooCommerce 2.2
+
+2015.10.19 - version 2.3.4
+ * Fix - Ensure the Interac referrer URL is correctly displayed for sites using default permalinks
+
+2015.10.01 - version 2.3.3
+ * Fix - Ensure the correct integration country is used for US integrations
+
+2015.09.16 - version 2.3.2
+ * Misc - WooCommerce Subscriptions 2.0 Compatibility
+ * Misc - Update SkyVerge Payment Gateway Framework
+
+2015.08.07 - version 2.3.1
+ * Fix - Fix possible warnings on My Account page
+ * Tweak - Add specific width/height styling for payment method icons
+
+2015.07.28 - version 2.3.0
+ * Misc - WooCommerce 2.4 Compatibility
+ * Misc - Update SkyVerge Plugin Framework
+
+2015.07.20 - version 2.2.2
+ * Fix - Avoid a rare rounding error with Interac Online transactions
+ * Fix - Avoid JSON parse errors caused by plugin conflicts
+ * Fix - Don't remove dashes from order numbers
+ * Misc - Introduce wc_payment_gateway_moneris_form_fields, wc_payment_gateway_moneris_interac_form_fields, wc_moneris_api_request_auth_info, and wc_moneris_interac_api_token filters
+
+2015.02.19 - version 2.2.1
+ * Fix - Fix a fatal error on checkout for stores using PHP 5.2
+
+2015.02.09 - version 2.2.0
+ * Fix - Avoid errors when processing transaction in non-English environments
+ * Misc - WooCommerce 2.3 Compatibility
+
+2014.11.25 - version 2.1.4
+ * Tweak - Adds wc_gateway_moneris_request_avs_zipcode filter
+ * Fix - Throws SV_WC_Payment_Gateway_Exception rather than Exception
+ * Fix - Updating WooCommerce Subscriptions payment methods
+ * Fix - Ensure eFraud validations run when set
+
+2014.10.21 - version 2.1.3
+ * Fix - Fix failing subscription renewals in rare cases
+
+2014.10.06 - version 2.1.2
+ * Fix - Fix order validation issues with Interac Online transactions
+ * Fix - Rounding of order amount for Moneris Interac payment method
+
+2014.09.18 - version 2.1.1
+ * Tweak - Changed default test credit card number to one that always simulates a successful transaction
+
+2014.09.07 - version 2.1.0
+ * Misc - WooCommerce 2.2 Compatibility
+
+2014.08.27 - version 2.0.3
+ * Misc - Update Plugin Framework
+
+2014.07.14 - version 2.0.2
+ * Fix - Customer id element excluded from transaction request when not in use
+ * Misc - Updated 'Write a Review' plugin action link
+
+2014.05.30 - version 2.0.1
+ * Fix - Include missing required files
+
+2014.05.27 - version 2.0
+ * Feature - Supports authorization-only transactions, and authorization capture/reverse
+ * Feature - Supports AVS/CSC eFraud validations
+ * Feature - Supports tokenized credit card transactions
+ * Feature - Supports WooCommerce Subscriptions and WooCommerce Pre-Orders
+ * Feature - Supports Moneris Hosted Tokenization for reduced PCI-compliance assessment scope
+ * Feature - Supports Interac Online payment method
+ * Misc - Uses SkyVerge Plugin Framework
+
+2014.02.24 - version 1.4.1
+ * Fix - Leading zeros are no longer stripped from CVV values
+
+2014.01.20 - version 1.4
+ * Misc - WooCommerce 2.1 Compatibility
+
+2014.01.10 - version 1.3.1
+ * Fix - CVD validation on checkout only when CVD handling is enabled
+
+2013.12.13 - version 1.3
+ * Feature - Configurable credit card types to display at checkout
+ * Tweak - Moneris order id is filterable via wc_gateway_moneris_request_order_id
+ * Fix - CVD disable setting now removes the CVV field from checkout
+
+2013.10.18 - version 1.2.3
+ * Fix - Twenty characters maximum for dynamic descriptor for US gateway
+
+2013.08.16 - version 1.2.2
+ * Fix - Transaction request XML values are properly escaped
+ * Fix - Sets sslverify to false to avoid server SSL verification issues
+
+2013.07.26 - version 1.2.1
+ * Tweak - Order item details passed to Moneris
+
+2013.07.12 - version 1.2
+ * Feature - AVS Verification option
+ * Feature - CVD Verification option
+ * Feature - Option to perform transaction logging to screen and/or log file
+ * Tweak - Pass customer billing/shipping details to Moneris
+
+2013.01.21 - version 1.1.1
+ * WC 2.0 Compat
+
+2012.12.05 - version 1.1.0
+ * Bundled cacert.pem for servers that do not have CURL setup with this.
+
+2012.12.05 - version 1.0.4
+ * More descriptive errors
+
+2012.12.05 - version 1.0.3
+ * Updater
+
+2012.07.25 - version 1.0.2
+ * Empty space causing errors in CA production class
+
+2012.02.15 - version 1.0.1
+ * error_reporting fix
+
+2012.01.26 - version 1.0
+ * First Release

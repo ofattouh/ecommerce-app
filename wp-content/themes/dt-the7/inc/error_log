@@ -1,0 +1,1 @@
+[15-Sep-2014 04:32:27] PHP Fatal error:  Call to undefined function  add_action() in /home/the7/public_html/wp-content/themes/dt-the7/inc/customizer.php on line 20

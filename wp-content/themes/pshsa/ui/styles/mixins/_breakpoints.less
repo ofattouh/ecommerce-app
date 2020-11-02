@@ -1,0 +1,28 @@
+/*
+
+Breakpoints. Based on: http://blog.scur.pl/2012/06/variable-media-queries-less-css/
+
+Our breakpoints are :
+
+Mobile 320px up
+Tablet 768px up
+Desktop 1030 up - this will ensure we can address desktop, since most tablets max at 1024 width
+
+Usage 
+
+.class{
+  @media @mobile{
+    
+  }
+}
+
+*/
+
+@mobile:  ~"only screen and (min-width: 320px)";
+@tablet:  ~"only screen and (min-width: 768px)";
+@desktop: ~"only screen and (min-width: 1030px)";
+@print:   ~"print";
+
+
+
+

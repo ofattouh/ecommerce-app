@@ -1,0 +1,18 @@
+var tooltip = {
+  "blended":{
+    "title": "<h1>Blended Learning</h1>",
+    "description": "copy"
+  },
+  "eLearning":{
+    "title": "<h1>eLearning</h1>",
+    "description": "copy"
+  },
+  "inClass":{
+    "title": "<h1>inClass</h1>",
+    "description": "copy"
+  },
+    "webinar":{
+    "title": "<h1>Webinar</h1>",
+    "description": "copy"
+  }
+}

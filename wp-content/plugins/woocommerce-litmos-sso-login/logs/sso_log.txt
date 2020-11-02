@@ -1,0 +1,36 @@
+[13-11-2015 04:41:57] Litmos User ID: sMDm4kzOUYY122: Error Code: 500, Error Message: {"Detail":"The server encountered an error processing the request. Please see the server logs for more details."}
+[05-01-2016 20:51:57] Litmos User ID: Us6Iy7DBTrk1: Error Code: 500, Error Message: {"Detail":"The server encountered an error processing the request. Please see the server logs for more details."}
+[08-01-2016 20:05:12] Litmos User ID: sjKSzMgxy481 i: Error Code: 400, Error Message: 
+Bad Request
+
+Bad Request
+HTTP Error 400. The request is badly formed.
+
+
+[12-01-2016 18:18:10] Litmos User ID: rklhWnvw6SR1: Error Code: 500, Error Message: {"Detail":"The server encountered an error processing the request. Please see the server logs for more details."}
+[25-01-2016 16:52:34] Litmos User ID: rklhWnvw6SR1: Error Code: 500, Error Message: {"Detail":"The server encountered an error processing the request. Please see the server logs for more details."}
+[25-01-2016 20:38:44] Litmos User ID: rklhWnvw6SR1: Error Code: 500, Error Message: {"Detail":"The server encountered an error processing the request. Please see the server logs for more details."}
+[28-01-2016 23:52:10] Litmos User ID: gunfT_P4VB41': Error Code: 500, Error Message: {"Detail":"The server encountered an error processing the request. Please see the server logs for more details."}
+[04-02-2016 22:18:58] Litmos User ID: GDrqVgEsJjl1: Error Code: 500, Error Message: {"Detail":"The server encountered an error processing the request. Please see the server logs for more details."}
+[04-05-2016 18:28:23] Litmos User ID: QvHBtFjYb9s1 into the browser address field: Error Code: 400, Error Message: 
+Bad Request
+
+Bad Request
+HTTP Error 400. The request is badly formed.
+
+
+[04-05-2016 18:28:27] Litmos User ID: QvHBtFjYb9s1 into the browser address field\r\n\r\nError sending email. Please contact your system admin!
+[31-05-2016 18:19:48] Litmos User ID: iBFj9PjPBtA1': Error Code: 500, Error Message: {"Detail":"The server encountered an error processing the request. Please see the server logs for more details."}
+[31-05-2016 18:19:52] Litmos User ID: iBFj9PjPBtA1'\r\n\r\nError sending email. Please contact your system admin!
+[25-08-2016 17:45:21] Litmos User ID: eVYmt9x3zrE1': Error Code: 0, Error Message: {"Detail":"User: 'eVYmt9x3zrE1'' was not found"}
+[25-08-2016 17:46:24] Litmos User ID: eVYmt9x3zrE1'\r\n\r\nError sending email. Please contact your system admin!
+[19-09-2016 13:55:58] Litmos User ID: W1IsEg-R6YI1: Couldn't resolve host 'api.litmos.com'
+[19-09-2016 13:56:18] Litmos User ID: W1IsEg-R6YI1\r\n\r\nError sending email. Please contact your system admin!
+[06-12-2016 18:14:33] Litmos User ID: nx2jTBKysTN1: Error Code: 404, Error Message: {"Detail":"User: 'nx2jTBKysTN1' was not found"}
+[06-12-2016 18:14:37] Litmos User ID: nx2jTBKysTN1: Error Code: 404, Error Message: {"Detail":"User: 'nx2jTBKysTN1' was not found"}
+[06-12-2016 18:15:36] Litmos User ID: nx2jTBKysTN1\r\n\r\nError sending email. Please contact your system admin!
+[06-12-2016 18:15:40] Litmos User ID: nx2jTBKysTN1\r\n\r\nError sending email. Please contact your system admin!
+[29-12-2016 15:56:40] Litmos User ID: _W38EwBQ2Bs1: cURL error 28: Operation timed out after 60001 milliseconds with 0 bytes received
+[29-12-2016 15:57:43] Litmos User ID: _W38EwBQ2Bs1\r\n\r\nError sending email. Please contact your system admin!
+[29-12-2016 15:57:55] Litmos User ID: _W38EwBQ2Bs1: cURL error 28: Operation timed out after 60001 milliseconds with 0 bytes received
+[29-12-2016 15:58:59] Litmos User ID: _W38EwBQ2Bs1\r\n\r\nError sending email. Please contact your system admin!

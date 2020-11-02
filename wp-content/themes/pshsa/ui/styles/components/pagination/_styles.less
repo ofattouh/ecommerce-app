@@ -1,0 +1,80 @@
+// pagination
+// woo commerce
+#main #content nav.woocommerce-pagination {
+  .page-numbers {
+    float: right;
+    
+    li {
+      
+      .current {
+        background: none;
+      }
+      a,
+      span {
+        color: @black;
+        padding: 10px !important;
+        min-width: 0 !important;
+      }
+      .next {
+        color: @white !important;
+        background-color: @psMaroon;
+        border-radius: 0 !important;
+      }
+      .page-numbers {
+        color: @black;
+        padding: 10px !important;
+        min-width: 0 !important;
+        border-radius: 0 !important;
+        .fontStyle(16, 100, 700);
+      }
+      .current {}
+    }
+  }
+}
+
+//product category pages
+.paginator {
+  .page-links {
+    border: none;
+    border-radius: 0 !important;
+    a {
+      border-radius: 0 !important;
+      color: @psMaroon;
+      padding: 10px !important;
+      min-width: 0 !important;
+      border-radius: 0 !important;
+      border: none;
+      .fontStyle(16, 100, 700);
+      &.act {
+        background-color: rgba(0,0,0,0.05);
+        background-image: none;
+        color: @psMaroon;
+      }
+      &:hover {
+        background-color: @psMaroon;
+        color: @white;
+        text-decoration: none;
+      }
+    }
+  }
+}
+
+.page-nav {
+  border-radius: 0 !important;
+  border-color: @psBorderDark;
+  a {
+    border-radius: 0 !important;
+    &.nav-prev {
+      border-color: @psBorderDark;
+    }
+    &.nav-next {
+      border-color: @psBorderDark;
+    }
+    &:hover {
+      background-color: @psMaroon;
+      color: @psMaroon;
+      text-decoration: none;
+      border-radius: 0 !important;
+    }
+  }
+}

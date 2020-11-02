@@ -1,0 +1,662 @@
+// Shop landing page start, excluding the shopping cart page
+.woocommerce-page:not(.woocommerce-cart) #page {
+  // product description block
+  .page-description {
+    width: 100% !important;
+    position: relative;
+    margin: -35px 0 0 0;
+    #topcontainterfilter {
+      padding: 0 !important;
+      float: left;
+      .descriptionCopy {
+        border: 20px solid @psLightBlue;
+        width: 100%;
+        float: left;
+        position: relative;
+        overflow: hidden;
+        .box-sizing(border-box);
+        h1 {
+          .fontStyle(20, 100, 700);
+          color: @psMaroon !important;
+          .box-sizing(border-box);
+          width: 100%;
+          display: block;
+          @media @mobile {
+            padding: 20px 20px 0 20px !important;
+            margin: 0 !important;
+          }
+          @media @desktop {
+            margin: 20px !important;
+            padding: 0 !important;
+            width: 75%;
+            position: relative;
+            z-index: 5;
+          }
+        }
+        p {
+          .box-sizing(border-box);
+          width: 100%;
+          display: block;
+          @media @mobile {
+            padding: 20px 20px 0 20px !important;
+            margin: 0 !important;
+          }
+          @media @desktop {
+            margin: 20px !important;
+            padding: 0 !important;
+            width: 65%;
+            position: relative;
+            z-index: 5;
+          }
+        }
+        img {
+          @media @mobile {
+            display: none;
+          }
+          @media @desktop {
+            display: block;
+            position: absolute;
+            top: -5px;
+            right: 0;
+            z-index: 1;
+          }
+          &[src*="//img/delete.png"] {
+            display: none;
+          }
+        }
+      }
+    }
+  }
+  //this holds the filter drop downs
+  #searchwoofdiv {
+    margin: 0 0 0 0;
+    background-color: @white;
+    padding: 20px 0 0 0;
+    width: 100%;
+    float: left;
+    .productfiltersidebar {
+      height: auto !important;
+      max-height: 0 !important;
+      .fontStyle(20, 200, 700);
+      color: @black;
+      padding: 0 0 20px 0;
+      p {
+        margin: 0 !important;
+      }
+      &:before {
+        content: "I'm looking for training in:";
+        .fontStyle(16, 100, 700);
+        display: block;
+        float: left;
+        .box-sizing(border-box);
+        @media @mobile {
+          padding: 10px 0 20px 0;
+          width: 100%;
+        }
+        @media @desktop {
+          padding: 10px 20px 0 0;
+          width: 20%;
+        }
+      }
+      .woof_redraw_zone {
+        z-index: 5;
+      }
+      .woof {
+        margin: 0;
+        padding: 0;
+        float: left;
+        .box-sizing(border-box);
+        @media @mobile {
+          width: 100%;
+        }
+        @media @desktop {
+          width: 80%;
+          padding: 0 0 0 5px;
+        }
+        // drop down holder
+        .woof_container {
+          .box-sizing(border-box);
+          @media @mobile {
+            padding: 0 !important;
+            margin: 0 0 20px 0 !important;
+            width: 100%;
+          }
+          @media @desktop {
+            padding: 0 !important;
+            margin: 0 20px 0 0 !important;
+            width: 31.5%;
+          }
+          float: left;
+          .box-sizing(border-box);
+          .woof_container_inner {
+            width: 100% !important;
+            margin: auto !important;
+            padding: 0 !important;
+            .chosen-container {
+              width: 100% !important;
+              .box-sizing(border-box);
+              .defaultDropDown;
+            }
+          }
+          &:last-child {}
+        }
+        // individual drop downs
+        .woof_container_sector {
+          .woof_container_inner {
+            .chosen-container {}
+          }
+        }
+        .woof_container_courses {
+          .woof_container_inner {
+            .chosen-container {}
+          }
+        }
+        .woof_container_region {
+          margin-right: 0px !important;
+          .woof_container_inner {
+            .chosen-container {}
+          }
+        }
+        .woof_container_pa_course-city {
+          margin-right: 0px !important;
+          .woof_container_inner {
+            .chosen-container {
+              @media @desktop {
+                margin-top: -3px; // force alignment
+              }
+            }
+          }
+        }
+        .woo_submit_search_form_container {
+          display: none;
+        }
+      }
+    }
+  }
+  // selected filters
+  .woof_products_top_panel {
+    .box-sizing(border-box);
+    z-index: 1;
+    @media @mobile {
+      width: 100% !important;
+      margin: 0 0 0 0 !important;
+      padding: 0 !important;
+    }
+    @media @desktop {
+      margin: 20px 0 0 102px !important;
+      padding: 0 0 0 0 !important;
+      width: 80% !important;
+      float: left;
+    }
+    &:before {
+      display: block;
+      content: 'Your Filters:';
+      margin: 0;
+      padding: 0;
+      float: left;
+      .fontStyle(16, 100, 700);
+      color: @black;
+      .box-sizing(border-box);
+      @media @mobile {
+        width: 100%;
+      }
+      @media @desktop {
+        width: 15%;
+      }
+    }
+    ul {
+      margin: 2px 0 0 0 !important;
+      display: block;
+      float: left;
+      .box-sizing(border-box);
+      @media @mobile {
+        width: 100%;
+      }
+      @media @desktop {
+        margin: 2px 0 0 10px !important;
+        width: 75%;
+      }
+      li {
+        display: block;
+        float: left;
+        border-right: 1px solid @psBorder;
+        margin: 0 15px 10px 0;
+        &:last-child {
+          border: none;
+        }
+      }
+    }
+    a {
+      display: block;
+      color: @psBlue !important;
+      .fontStyle(16, 100, 700);
+      span {
+        background-image: url('data:image/svg+xml;charset=US-ASCII,%3C%3Fxml%20version%3D%221.0%22%20encoding%3D%22utf-8%22%3F%3E%0D%0A%3C%21--%20Generator%3A%20Adobe%20Illustrator%2018.0.0%2C%20SVG%20Export%20Plug-In%20.%20SVG%20Version%3A%206.00%20Build%200%29%20%20--%3E%0D%0A%3C%21DOCTYPE%20svg%20PUBLIC%20%22-//W3C//DTD%20SVG%201.1//EN%22%20%22//www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd%22%3E%0D%0A%3Csvg%20version%3D%221.1%22%20id%3D%22Layer_1%22%20xmlns%3D%22//www.w3.org/2000/svg%22%20xmlns%3Axlink%3D%22//www.w3.org/1999/xlink%22%20x%3D%220px%22%20y%3D%220px%22%0D%0A%09%20viewBox%3D%220%200%20512%20512%22%20enable-background%3D%22new%200%200%20512%20512%22%20xml%3Aspace%3D%22preserve%22%3E%0D%0A%3Cpath%20fill%3D%22%230069CC%22%20d%3D%22M437.5%2C386.6L306.9%2C256l130.6-130.6c14.1-14.1%2C14.1-36.8%2C0-50.9s-36.8-14.1-50.9%2C0L256%2C205.1L125.4%2C74.5%0D%0A%09c-14.1-14.1-36.8-14.1-50.9%2C0s-14.1%2C36.8%2C0%2C50.9L205.1%2C256L74.5%2C386.6c-14.1%2C14.1-14.1%2C36.8%2C0%2C50.9s36.8%2C14.1%2C50.9%2C0L256%2C306.9%0D%0A%09l130.6%2C130.6c14.1%2C14.1%2C36.8%2C14.1%2C50.9%2C0C451.5%2C423.4%2C451.5%2C400.6%2C437.5%2C386.6z%22/%3E%0D%0A%3C/svg%3E%0D%0A');
+        background-repeat: no-repeat;
+        margin: 0 15px 0 0;
+        background-size: 16px 16px;
+        padding: 0 20px 0 0 !important;
+      }
+      &:hover {
+        background-size: cover;
+      }
+    }
+  }
+  // reset button
+  #woo_reset_search_form_custom {
+    float: right;
+    border-radius: 0;
+    background: none;
+    box-shadow: none;
+    color: @psBlue;
+    .fontStyle(16,
+    100,
+    700);
+    padding: 0 !important;
+    @media @desktop {
+      margin: 20px 0 0 0;
+    }
+  }
+  // left side bar
+  .content #sidebar {
+    padding: 0 !important;
+    clear: both;
+    float: left;
+    margin: 0 !important;
+    @media @mobile {
+      width: 100%;
+      padding: 0 !important;
+      // display: none;
+      &:before {
+        content: 'Course Search';
+      }
+    }
+    @media @desktop {
+      width: 20% !important;
+      padding: 20px 20px 0 0 !important;
+      margin: 20px 0 0 0 !important;
+      border-top: 1px solid @psBorder;
+      &:before {
+        content: '';
+      }
+    }
+    .box-sizing(border-box);
+    .woof {
+      .woof_redraw_zone {
+        .woof_container_radio {
+          h4 {
+            color: @psMaroon;
+            border-bottom: 2px solid @psMaroon;
+            padding: 0 0 5px 0;
+            display: block;
+            // for mobile users, we need a directional arrow for the expand collapse
+            &:after {
+              @media @mobile {
+                display: inline-block;
+                font-family: 'FontAwesome';
+                content: '\f0d8';
+              }
+              @media @desktop {
+                display: none;
+              }
+              float: right;
+            }
+            &.open {
+              &:after {
+                @media @mobile {
+                  display: inline-block;
+                  font-family: 'FontAwesome';
+                  content: '\f0d7';
+                  ul.woof_list.woof_list_radio {
+                    display: block;
+                  }
+                }
+                @media @desktop {
+                  display: none;
+                }
+                float: right;
+              }
+            }
+            &.closed {
+              &:after {
+                @media @mobile {
+                  display: inline-block;
+                  font-family: 'FontAwesome';
+                  content: '\f0d8';
+                  ul.woof_list.woof_list_radio {
+                    display: none;
+                  }
+                }
+                @media @desktop {
+                  display: none;
+                }
+                float: right;
+              }
+            }
+          }
+          ul.woof_list.woof_list_radio {
+            @media @mobile {
+              display: none;
+            }
+            @media @desktop {
+              display: block;
+            }
+            li {
+              label {
+                padding: 0px
+              }
+              // Close icon fix, hide IMG from plugin
+              .woof_radio_term_reset {
+                display: inline-block;
+                width: 16px;
+                height: 16px;
+                background-size: cover;
+                position: relative;
+                top: 4px;
+                left: 0px;
+                // hide default close icon
+                img {
+                  display: none;
+                }
+                &:hover {
+                  text-decoration: none;
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+    .sidebar-content {
+      border-radius: 0px !important;
+      padding: 0 !important;
+      margin: 0 !important;
+      .widget:first-child {
+        padding: 0 !important;
+      }
+    }
+    .woo_reset_search_form {
+      display: none;
+    }
+    .icon_info {
+      display: inline-block;
+      float: right;
+      padding: 3px 7px;
+      cursor: pointer;
+      position: relative;
+      border: 1px solid @psMaroon;
+      color: @psMaroon;
+      border-radius: 10px;
+      margin: 2px 0 0 0;
+      &:hover{
+        .toolTip{
+          display: block;
+        }
+      }
+      .fontStyle(12, 100, 400);
+      .toolTip {
+        display: none;
+        position: absolute;
+        width: 150px;
+        padding: 5px 10px;
+        border: 1px solid @psMaroon;
+        background: @white;
+        top: -5px;
+        left: 40px;
+        .fontStyle(14, 100, 400);       
+      }
+    }
+  }
+  // Filter search
+  div[id^="ajaxsearchpro"] {
+    border-radius: 0px !important;
+    background: none !important;
+    box-shadow: none !important;
+    .probox {
+      margin: 0 !important;
+      border-radius: 0px !important;
+      // magnifier icon
+      .promagnifier {
+        background-color: @psMaroon !important;
+        background-image: none !important;
+        border: none !important;
+        box-shadow: none !important;
+        .innericon {
+          // hide the inluded SVG
+          svg {
+            display: none;
+          }
+          // add icon from FontAwesome
+          &:before {
+            font-family: FontAwesome;
+            content: '\F002';
+            color: @white;
+            .fontStyle(16,
+            180,
+            400);
+          }
+        }
+      }
+      .proinput {
+        width: 75% !important;
+        form {
+          height: 100%;
+        }
+        .orig {
+          width: 100% !important;
+          border: none !important;
+          .fontStyle(12,
+          100,
+          400);
+          .placeholder( {
+            .fontStyle(12, 100, 400);
+            vertical-align: middle;
+          }
+          )
+        }
+        .autocomplete {
+          border: none !important;
+        }
+      }
+    }
+  }
+  // grid toggle is hidden as it's not needed
+  .gridlist-toggle {
+    display: none;
+  }  
+  // product grid holder
+  .productGrid {
+    float: left;
+    margin: 0;
+    .box-sizing(border-box);
+    @media @mobile {
+      width: 100%;
+    }
+    @media @desktop {
+      border-top: 1px solid @psBorder;
+      border-left: 1px solid @psBorder;
+      width: 80%;
+      padding: 20px 0 0 20px;
+      margin: 20px 0 0 0;
+      .box-sizing(border-box);
+    }
+    .gridControl {
+      width: 100%;
+      float: left;
+      margin: 0 0 20px 0;
+      // result count
+      .woocommerce-result-count {
+        display: block;
+        float: left;
+        text-align: left;
+        .fontStyle(14,
+        100,
+        400);
+        @media @mobile {
+          margin: 0 0 20px 10px !important;
+          width: 100%;
+        }
+        @media @desktop {
+          padding: 10px 20px 10px 0 !important;
+          margin: 0 10px 0 0 !important;
+          width: auto;
+          border-right: 1px solid @psBorder;
+        }
+      }
+      // grid sort drop downs
+      .products-per-page,
+      .woocommerce-ordering {
+        display: block;
+        padding: 0 !important;
+        line-height: 100% !important;
+        float: left !important;
+        .sortBy;
+        @media @mobile {
+          width: 100% !important;
+          select {
+            width: 100%;
+          }
+        }
+        @media @desktop {
+          width: auto !important;
+        }
+        .chosen-container {
+          span {
+            line-height: 15px; // we set this to ensure the letters with tails ('g'), aren't cut off
+          }
+        }
+      }
+      .products-per-page {
+        @media @mobile {
+          padding: 0 !important;
+          margin: 0 0 20px 0 !important;
+          .chosen-container {
+            padding: 0 !important;
+          }
+        }
+        @media @desktop {
+          margin: 0 0 0 0 !important;
+          .chosen-container {
+            border-right: 1px solid @psBorder;
+            padding: 0 20px 0 0!important;
+            margin: 0 10px 0 0 !important;
+          }
+        }
+      }
+      .woocommerce-ordering {
+        z-index: 1 !important; // this is forced to ensure there is no bleed through from the filter drop downs
+        text-align: left;
+        @media @mobile {
+          padding: 0 !important;
+          margin: 0 0 20px 0 !important;
+        }
+        @media @desktop {
+          margin: 0 0 0 0 !important;
+          .chosen-container {}
+        }
+      }
+    }
+  }
+  // product grid
+  ul.products {
+    &.list {
+      @media @mobile {
+        width: 100% !important;
+      }
+      @media @desktop {
+        width: 100% !important;
+      }
+      margin: 0 0 0 0 !important;
+      float: left;
+      li {
+        padding: 0 0 20px 0 !important;
+        border-bottom: 1px solid @psBorder;
+        a {
+          img {
+            width: 140px !important;
+            height: auto !important;
+            margin: 0 25px 20px 0 !important;
+          }
+          .onsale{
+          	@media @mobile {
+	            margin: 5px -5px 0 0 !important;
+	        }
+	        @media @desktop {
+	            margin: 5px -30px 0 0 !important;
+	        }
+          }
+        }
+        .contentproductcustomcls {
+          width: 100%;
+          @media @mobile {
+            clear: both;
+            margin: 20px 0 20px 0;
+          }
+          @media @desktop {
+            clear: none;
+            margin: 0 0 20px 0;
+          }
+          a {
+            .fontStyle(24,
+            100,
+            700);
+            color: @psButtonBg !important;
+            margin: 0 0 10px 0;
+          }
+        }
+        hr {
+          display: none;
+        }
+        .price {
+          width: 50% !important;
+          float: left !important;
+          color: @black !important;
+          display: block;
+          @media @mobile {
+            margin: 0 !important;
+          }
+          @media @desktop {
+            margin: 0 0 20px 162px !important;
+          }
+          .fontStyle(16,
+          100,
+          700);
+          .amount {
+            color: @black;
+            .fontStyle(16,
+            100,
+            700);
+          }
+        }
+        div[itemprop="description"] {
+          width: 75% !important;
+          color: @black;
+          margin: 0 0 20px 0;
+          float: left !important;
+          min-height: 95px;
+        }
+        .gridlist-buttonwrap {
+          width: auto !important;
+          margin: -20px 0 0 0;
+          float: right !important;
+        }
+      }
+    }
+  }
+  
+  div.disclaimershopcls {
+  	font-size: 11px;
+  	font-style: italic;
+  	margin-top: 3%;
+  	font-weight: bolder;
+  	padding-left: 21%;
+  	@media @mobile {
+    	padding-left: 2%;
+    }
+    @media @desktop {
+    	padding-left: 21%;
+    }
+  }
+  
+  // Shop landing page end  
+}

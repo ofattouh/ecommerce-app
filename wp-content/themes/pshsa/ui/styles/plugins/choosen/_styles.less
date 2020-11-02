@@ -1,0 +1,85 @@
+.boxStyle {
+  color: @black !important;
+  border-radius: 0 !important;
+  padding: 10px !important;
+  background: none !important;
+  height: auto !important;
+  box-shadow: none !important;
+  border: 1px solid @psBorderDark !important;
+}
+
+.defaultDropDown {
+  .chosen-single {
+    .fontStyle(18, 100, 700);
+    .boxStyle;
+    span {}
+    div {
+      b {
+        background-position: 0 10px !important; // this is the drop down arrow
+      }
+    }
+  }
+  .chosen-drop {
+    .chosen-results {
+      .highlighted {
+        background-color: @psMaroon;
+        background-image: none;
+      }
+    }
+  }
+}
+
+.sortBy {
+  .chosen-single {
+    .fontStyle(14, 100, 400);
+    .boxStyle;
+    border: 0px !important; // we don't need a border here
+    span {}
+    div {
+      b {
+        background-position: 0 10px !important; // this is the drop down arrow
+      }
+    }
+  }
+  .chosen-drop {
+    border: none !important;
+    border-radius: 0 !important;
+    .chosen-results {
+      .highlighted {
+        background-color: @psMaroon;
+        background-image: none;
+      }
+    }
+  }
+}
+
+.shoppingCart {
+  .chosen-single {
+    .fontStyle(14, 100, 400);
+    .boxStyle;
+    span {}
+    div {
+      b {
+        background-position: 0 10px !important; // this is the drop down arrow
+      }
+    }
+  }
+  .chosen-drop {
+    border: none !important;
+    border-radius: 0 !important;
+    .chosen-results {
+      .highlighted {
+        background-color: @psMaroon;
+        background-image: none;
+      }
+    }
+  }
+}
+
+.select2-container {
+  .select2-choice {
+    border-radius: 0 !important;
+    padding: 3px 0 2px 8px !important;
+    border-color: #E0E0E0;
+  }
+}

@@ -1,0 +1,659 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PP Collaborative Editing Extension 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-09-09 22:35-0500\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Kevin Behrens <kevin@agapetry.net>\n"
+"Language-Team: Agapetry Creations LLC <kevin@agapetry.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: E:\\wwwsubs\\wp-content\\plugins\\pp-collaborative-editing\\\n"
+"X-Poedit-KeywordsList: __;_e;_c;__ngettext;_n;pp_po_trigger;_x\n"
+"X-Poedit-SearchPath-0: E:\\wwwsubs\\wp-content\\plugins\\pp-collaborative-editing\n"
+"X-Poedit-SearchPath-1: E:\\wwwsubs\\wp-content\\plugins\\pp-collaborative-editing\\admin\n"
+"X-Poedit-SearchPath-2: E:\\wwwsubs\\wp-content\\plugins\\pp-collaborative-editing\\hardway\n"
+"X-Poedit-SearchPath-3: E:\\wwwsubs\\wp-content\\plugins\\pp-collaborative-editing\\admin\\includes\n"
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/definitions_ppce.php:63
+msgid "Approved"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/definitions_ppce.php:64
+msgid "Approve"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/definitions_ppce.php:108
+msgid "Revisors"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/definitions_ppce.php:108
+msgid "Revisor"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/forking-helper_ppce.php:108
+msgid "Create branch"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/forking-helper_ppce.php:108
+msgid "Fork"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/forking-helper_ppce.php:116
+msgid "Compare"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/pp-collaborative-editing.php:54
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/ppce_load.php:26
+msgid "PP Collaborative Editing Pack"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/ppce_load.php:26
+#, php-format
+msgid "%1$s won&#39;t work until you upgrade Press Permit Lite to a newer version."
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/xmlrpc_ppce.php:52
+msgid "Invalid post ID."
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/xmlrpc_ppce.php:55
+msgid "Sorry, you cannot edit this post."
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/admin-dashboard_ppce.php:28
+msgid "Pending"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/admin-dashboard_ppce.php:31
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/admin-dashboard_ppce.php:33
+#, php-format
+msgid "%1$s %2$s"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/admin-load_ppce.php:64
+msgid "access denied"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/admin_ppce.php:97
+#, php-format
+msgid "%s Manager"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/admin_ppce.php:130
+msgid "Role Usage"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/admin_ppce.php:136
+msgid "Edit Role Usage"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/admin_ppce.php:224
+msgid "Moderation"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/ajax-ui_ppce.php:4
+msgid "Edit"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/ajax-ui_ppce.php:4
+msgid "Editing"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/ajax-ui_ppce.php:7
+msgid "Revise"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/ajax-ui_ppce.php:7
+msgid "Revision"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/ajax-ui_ppce.php:13
+msgid "Associate"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/ajax-ui_ppce.php:13
+msgid "Association (as Parent)"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/ajax-ui_ppce.php:13
+msgid "Associate (as parent)"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/ajax-ui_ppce.php:14
+msgid "Assign Term"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/ajax-ui_ppce.php:14
+msgid "Assignment"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/ajax-ui_ppce.php:16
+msgid "Manage"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/ajax-ui_ppce.php:16
+msgid "Management"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/ajax-ui_ppce.php:71
+msgid "(unpublished)"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/cap-interceptor-admin_ppce.php:162
+#, php-format
+msgid "%1$s %2$s Exceptions"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/cap-interceptor-admin_ppce.php:337
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/cap-interceptor-admin_ppce.php:346
+#, php-format
+msgid "Go to %s"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/cap-interceptor-admin_ppce.php:340
+#, php-format
+msgid "The %s was saved, but you can no longer edit it."
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/cap-interceptor-admin_ppce.php:342
+msgid "Dashboard"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/cap-interceptor-admin_ppce.php:346
+msgid "The requested modification was processed, but you can no longer edit the post."
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/filters-admin-nav_menus_ppce.php:149
+#, php-format
+msgid "You do not have permission to move the menu item \"%1$s\". <br /><br /><a href=\"%2$s\">Return to Menu Editor</a>"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/filters-admin-nav_menus_ppce.php:152
+#, php-format
+msgid "You do not have permission to delete the menu item \"%1$s\". <br /><br /><a href=\"%2$s\">Return to Menu Editor</a>"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/filters-admin-nav_menus_ppce.php:155
+#, php-format
+msgid "You do not have permission to edit the menu item \"%1$s\". <br /><br /><a href=\"%2$s\">Return to Menu Editor</a>"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/filters-admin-xmlrpc_ppce.php:30
+msgid ","
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/filters-admin_ppce.php:90
+msgid "term (manage)"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/filters-nav-menu-ui_ppce.php:47
+msgid "You are not permitted to manage menu locations"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:23
+msgid "Content Management"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:24
+msgid "Page Structure"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:26
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:41
+msgid "Limited Editing Elements"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:27
+msgid "Media Library"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:28
+msgid "Nav Menu Management"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:29
+msgid "User Management"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:30
+msgid "Post Forking"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:40
+msgid "Pages can be set or removed from Top Level by:"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:42
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:281
+msgid "Specified element IDs also require the following site-wide Role:"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:43
+msgid "List other users&apos; uploads if attached to an editable post"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:44
+msgid "List other users&apos; uploads if attached to a readable post"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:45
+msgid "Other users&apos; unattached uploads listed by default"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:46
+msgid "Edit other user&apos; uploads if attached to an editable post"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:47
+msgid "Users can always edit their own attachments"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:48
+msgid "List only user-editable content as available items"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:49
+msgid "Limit User Edit by Level"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:50
+msgid "Default visibility for new posts:"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:51
+msgid "Bulk-Add Author Pages (on Users screen)"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:52
+msgid "Publish Author Pages at bulk creation"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:54
+msgid "Fork published posts only"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:55
+msgid "Forking enforces edit_others_posts capability"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:56
+msgid "Force taxonomy columns on Edit Posts screen"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:57
+msgid "Non-Administrators can set Editing Exceptions for their editable posts"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:98
+#, php-format
+msgid "Settings related to content editing permissions, provided by the %s plugin."
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:146
+msgid "Public"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:162
+msgid "force"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:182
+msgid "Display a custom column on Edit Posts screen for all related taxonomies which are enabled for PP filtering."
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:185
+msgid "Allows creation of a new post (of any type) for each selected user, using an existing post as the pattern."
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:210
+msgid "no Page Parent filter"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:210
+msgid "Page Authors, Editors and Administrators"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:210
+msgid "Page Editors and Administrators"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:210
+msgid "Administrators"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:224
+msgid "Users who do not meet this site-wide role requirement may still be able to save and/or publish pages, but will not be able to publish a new page with a Page Parent setting of \"Main Page\".  Nor will they be able to move a currently published page from \"Main Page\" to a different Page Parent."
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:241
+msgid "Remove Edit Form elements with these html IDs from users who do not have full editing capabilities for the post/page. Separate with&nbsp;;"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:257
+msgid "Edit Form HTML IDs:"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:266
+#, php-format
+msgid "%1$s sample IDs:%2$s %3$s"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:283
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:285
+msgid "Content Administrator"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:285
+msgid "no requirement"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:285
+msgid "Contributor / Author / Editor"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:285
+msgid "Author / Editor"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:285
+msgid "User Administrator"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:285
+msgid "Option Administrator"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:312
+msgid "The following settings are currently overridden by the constant PP_MEDIA_LIB_UNFILTERED (defined in wp-config.php or some other file you maintain). Media Library access will not be altered by Press Permit exceptions."
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:316
+msgid "For non-Administrators, determines visibility of files uploaded by another user and now attached to a post which the logged user can read. To force a user to view all media regardless of this setting, add the pp_list_all_files capability to their role."
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:319
+msgid "For non-Administrators, determines visibility of files uploaded by another user and now attached to a post which the logged user can edit. To force a user to view all media regardless of this setting, add the pp_list_all_files capability to their role."
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:322
+msgid "For non-Administrators, determines editing access to files uploaded by another user and now attached to a post which the logged user can edit."
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:325
+msgid "If enabled, all users who have Media Library access will be implicitly granted the list_others_unattached_files capability. Media Editors can view and edit regardless of this setting."
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:328
+msgid "Ensures users can always edit attachments they have uploaded, even if they are later attached to a post which the user cannot edit. If disabled, you can grant individual users the edit_own_attachments capability or assign Media editing Exceptions for individual files."
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:351
+msgid "If enabled, prevents those with edit_users capability from editing a user with a higher level or assigning a role higher than their own."
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:363
+msgid "Fork published posts only."
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:366
+msgid "If a user lacks the edit_others_posts capability for the post type, they cannot fork other&apos;s posts either."
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:381
+msgid "If enabled, presence of the pp_set_edit_exceptions, pp_set_associate_exceptions, etc. capabilities in the WP role will be honored. See list of capabilities below."
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:388
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:391
+msgid "Set Forking Exceptions on Edit Post/Term screen (where applicable)"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:393
+msgid "Set Editing Exceptions on Edit Post/Term screen (where applicable)"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:394
+msgid "Set Association (Parent) Exceptions on Edit Post screen (where applicable)"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:395
+msgid "Set Term Assignment Exceptions on Edit Term screen (in relation to an editable post type)"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:396
+msgid "Set Term Management Exceptions on Edit Term screen"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:397
+msgid "Set Term Association (Parent) Exceptions on Edit Term screen"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:399
+msgid "Edit own file uploads, even if they become attached to an uneditable post"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:400
+msgid "See other user&apos;s unattached file uploads in Media Library"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:401
+msgid "Do not alter the Media Library listing provided by WordPress"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/options_ppce.php:402
+msgid "Make Quick Edit and Bulk Edit available to non-Administrators even though some inappropriate selections may be possible"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/post-edit-ui_ppce.php:42
+msgid "Post Approved"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/post-edit-ui_ppce.php:43
+msgid "Page Approved"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/post-edit-ui_ppce.php:113
+msgid "Author Search / Select"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/post-edit-ui_ppce.php:133
+msgid "select other"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/post-edit-ui_ppce.php:133
+msgid "close"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/pp-role-usage-edit-handler.php:11
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/pp-role-usage-edit.php:40
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/pp-role-usage.php:16
+msgid "You are not permitted to do that."
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/pp-role-usage-edit.php:64
+msgid "Role Usage updated."
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/pp-role-usage-edit.php:75
+#, php-format
+msgid "Role Usage: %s"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/pp-role-usage-edit.php:88
+msgid "Usage"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/pp-role-usage-edit.php:96
+msgid "no supplemental assignment"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/pp-role-usage-edit.php:97
+msgid "Pattern Role"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/pp-role-usage-edit.php:98
+msgid "Direct Assignment"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/pp-role-usage-edit.php:108
+msgid "Post Capabilities"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/pp-role-usage-edit.php:111
+#, php-format
+msgid "Type-specific and/or status-specific equivalents of the following capabilities are included in supplemental %s roles:"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/pp-role-usage-edit.php:124
+msgid "Arbitrary Capabilities"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/pp-role-usage-edit.php:127
+#, php-format
+msgid "The following capabilities are included in supplemental %s roles:"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/pp-role-usage-edit.php:139
+msgid "Role Capabilities"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/pp-role-usage-edit.php:142
+msgid "All capabilities defined for this WordPress role will be applied in supplemental assignments:"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/pp-role-usage-edit.php:160
+msgid "Notes regarding Pattern Roles"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/pp-role-usage-edit.php:169
+msgid "Back to Role Usage List"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/pp-role-usage-helper.php:21
+msgid "Notes"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/pp-role-usage-helper.php:31
+msgid "The 'posts' capabilities in a WP role determine its function as a Pattern Role for supplemental assignment to Permission Groups. When you assign the 'Author' pattern role for Pages, edit_posts and edit_published_posts become edit_pages and edit_published_pages."
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/pp-role-usage-helper.php:37
+msgid "Capabilities formally defined for other post types (i.e. 'edit_others_pages', 'edit_doohickies') apply to primary role assignment and supplemental direct assignment, but not pattern role assignment."
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/pp-role-usage-helper.php:40
+msgid "If one of the default roles is deleted from the WP database, it will remain available as a pattern role with default WP capabilities (but can be disabled here)."
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/pp-role-usage.php:52
+msgid "Role Usage edited."
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/pp-role-usage.php:88
+msgid "These <strong>optional</strong> settings customize how Press Permit applies <strong>supplemental roles</strong>. Your existing WP Role Definitions can be applied in two different ways:"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/pp-role-usage.php:89
+msgid "Pattern Roles convert 'post' capabilities to the corresponding type-specific capability.  In a normal WP installation, this is the easiest solution."
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/pp-role-usage.php:90
+msgid "With Direct Assignment, capabilities are applied without modification (leaving you responsible to add custom type caps to the WP Role Definitions)."
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/pp-role-usage.php:99
+msgid "All Role Usage settings will be reset to DEFAULTS.  Are you sure?"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/pp-role-usage.php:103
+msgid "Revert to Defaults"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/term-edit_ppce.php:55
+msgid "You do not have permission to select that Parent"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/update_ppce.php:42
+msgid "You have installed a development / beta version of PP Collaborative Editing. If this is a concern, see Permissions > Settings > Install > Beta Updates."
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/users-ui_ppce.php:18
+#, php-format
+msgid "%s author page added"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/users-ui_ppce.php:23
+msgid "No users selected"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/users-ui_ppce.php:28
+msgid "Selected users already have specified author page"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/users-ui_ppce.php:41
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/users-ui_ppce.php:43
+msgid "Add Author Page&hellip;"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/users-ui_ppce.php:42
+msgid "make each selected user the author of a new page"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/users-ui_ppce.php:64
+msgid "pattern post sets default content and categories for author post"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/users-ui_ppce.php:66
+msgid "pattern post sets parent, default content and template for author page"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/users-ui_ppce.php:68
+msgid "pattern page sets parent and default content for author page"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/users-ui_ppce.php:70
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/users-ui_ppce.php:78
+msgid "patterned on&hellip;"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/users-ui_ppce.php:93
+msgid "Pattern ID:"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/users-ui_ppce.php:93
+msgid "enter post ID/slug"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/users-ui_ppce.php:98
+msgid "Title:"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/users-ui_ppce.php:98
+msgid "supported tags are [username] and [userid]"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/users-ui_ppce.php:99
+msgid "Add Pages"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/admin/includes/class-pp-role-usage-list-table.php:39
+msgid "No matching roles were found."
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/hardway/hardway-admin_non-administrator_ppce.php:72
+msgid "You do not have permission to update that Navigation Menu"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/hardway/hardway-admin_non-administrator_ppce.php:74
+msgid "You do not have permission to create new Navigation Menus"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-collaborative-editing/hardway/hardway-admin_non-administrator_ppce.php:230
+msgid "(no parent)"
+msgstr ""
+

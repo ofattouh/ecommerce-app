@@ -1,0 +1,83 @@
+// This controls the two CTA under the home page slider
+.mastHeadCTA{
+	background-color: @white;
+	float: left;
+	.box-sizing(border-box);
+	@media @mobile{
+		margin: 0 -10px 20px;
+
+	}
+	@media @desktop{
+		margin: 0px;
+
+	}
+}
+.mastHeadCTA-image{
+	.box-sizing(border-box);
+	float: left;
+	@media @mobile{
+		width: 25%;
+		padding: 0 5px 0 0;
+	}
+	@media @desktop{
+		width: 33.333%;		
+		padding: 0 10px 0 0;
+	}
+	a{
+		display: block;
+	}
+	img{
+		width: 100%;
+	}
+}
+.mastHeadCTA-copy{
+	.box-sizing(border-box);
+		float: left;
+	@media @mobile{
+		width: 75%;
+		padding: 10px 10px 10px 5px;
+		h1{
+			padding: 0;
+			margin: 0 0 10px 0;	
+			.fontStyle(24, 120, 700);		
+			a{
+				.fontStyle(24, 120, 700);
+			}
+		}
+		p{
+
+		}
+	}
+	@media @desktop{
+		width: 66.666%;		
+		padding: 20px 20px 20px 10px;
+		h1{
+			padding: 0;
+			margin: 0 0 20px 0;
+			.fontStyle(24, 120, 700);
+			a{
+				.fontStyle(24, 120, 700);
+				
+			}
+		}
+		p{
+			margin: 0 0 20px 0;
+		}
+	}
+	h1{
+		a{
+			color: @psBlue;
+		}
+	}
+	p{
+		display: block;
+	}
+}
+.mastHeadCTA-link{
+	@media @mobile{
+
+	}
+	@media @desktop{
+
+	}
+}

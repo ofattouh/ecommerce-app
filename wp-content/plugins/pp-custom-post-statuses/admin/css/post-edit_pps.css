@@ -1,0 +1,24 @@
+#poststuff #submitdiv_pps .inside {
+margin: 0;
+padding: 0;
+}
+#submitdiv_pps h3 {
+margin-bottom: 0 !important;
+}
+
+div.item-condition-select {
+line-height: 1.5em;
+margin-top: 3px;
+}
+#submitdiv_pps .pvt-custom {
+margin-left: 16px;
+}
+#submitdiv_pps .pp-postsubmit-add-privacy {
+margin-left: 10px;
+}
+#visibility .pp-submitbox-customize {
+margin-left: 10px;
+}
+#ch_post-visibility-display {
+font-weight: bold;
+}

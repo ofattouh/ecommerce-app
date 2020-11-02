@@ -1,0 +1,119 @@
+// Shopping Cart
+.woocommerce-cart.woocommerce-page {
+  .woocommerce-info {
+    background: none;
+    border-radius: 0;
+    border: 2px solid @psMaroon;
+    &:before {
+      background: none;
+      color: @psMaroon;
+      .fontStyle(16,
+      100,
+      700);
+    }
+    .woocommerce-error {}
+  }
+  // cart table
+  table.cart {
+    thead {
+      background-color: @psMaroon;
+      tr {
+        th {
+          color: @white;
+        }
+      }
+    }
+    tbody {
+      tr {
+        td {
+          color: @black;
+          &.product-remove {
+            a {
+              height: 20px;
+            }
+          }
+          &.product-thumbnail {
+            img {
+              // width: 100px !important;
+            }
+          }
+          // action bar hold coupon code and update cart button
+          &.actions {
+            padding: 0 !important;
+            .coupon {
+              .input-text {
+                width: 110px !important;
+                margin: 3px 10px 0 0 !important;
+                padding: 7px 10px !important;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  // coupons
+  .coupon {
+    #coupon_code {
+      width: 100%;
+    }
+  }
+  // cart totals
+  .cart-collaterals {
+    .cart_totals {
+      @media @desktop {
+        width: 25% !important;
+      }
+      table {
+        tbody {
+          tr {
+            &.cart-subtotal {
+              th {}
+              td {
+                text-align: right;
+                color: @black;
+              }
+            }
+            &.shipping {
+              th {}
+              td {
+                text-align: right;
+                color: @black;
+              }
+              .woocommerce-shipping-calculator {
+                .shipping-calculator-form {
+                  .chosen-container {
+                    max-width: 210px !important;
+                    width: 210px !important;
+                    text-align: left;
+                    .shoppingCart;
+                  }
+                  #calc_shipping_state,
+                  #calc_shipping_postcode {
+                    max-width: 210px !important;
+                    width: 210px !important;
+                    margin: 0 0 10px 0;
+                  }
+                }
+              }
+            }
+            &.tax-rate {
+              th {}
+              td {
+                text-align: right;
+                color: @black;
+              }
+            }
+            &.order-total {
+              th {}
+              td {
+                text-align: right;
+                color: @black;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

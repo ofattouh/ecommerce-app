@@ -1,0 +1,1311 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mail Bank\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-22 12:11+0530\n"
+"PO-Revision-Date: 2018-06-22 12:11+0530\n"
+"Last-Translator: Tech Banker\n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Loco-Source-Locale: en-IN\n"
+"X-Loco-Project-Id: 38931\n"
+"X-Loco-Api-Version: 1.0.18 20180111-1\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+
+#: includes/translations.php:26
+msgid "Email Log has been deleted Successfully"
+msgstr "El registro de correo electrónico ha sido eliminado con éxito."
+
+#: includes/translations.php:27
+msgid "Are you sure you want to delete Email Log?"
+msgstr "¿Está seguro de que desea eliminar el registro de correo electrónico?"
+
+#: includes/translations.php:28
+msgid "MailGun API"
+msgstr "MailGun API"
+
+#: includes/translations.php:29
+msgid ""
+"Your host may have installed a firewall between you and the server. Ask them "
+"to open the ports."
+msgstr ""
+"Puede que su host haya instalado un firewall entre usted y el servidor. "
+"Pídales que abran los puertos."
+
+#: includes/translations.php:30
+msgid ""
+"You may have tried to (incorrectly) use SSL over port 587. Check your "
+"encryption and port settings."
+msgstr ""
+"Puede que usted haya intentado (incorrectamente) usar SSL sobre el puerto "
+"587. Compruebe su configuración de encriptación y puerto."
+
+#: includes/translations.php:31
+msgid ""
+"Your host may have poor connectivity to the mail server. Try doubling the "
+"Read Timeout."
+msgstr ""
+"Puede que su host tenga poca conectividad con el servidor de correo. Intente "
+"doblar el tiempo de espera de lectura."
+
+#: includes/translations.php:32
+msgid ""
+"Your host may have installed a firewall (DROP packets) between you and the "
+"server. Ask them to open the ports."
+msgstr ""
+"Puede que su host haya instalado un firewall (DROP packets) entre usted y el "
+"servidor. Pídales que abran los puertos."
+
+#: includes/translations.php:33
+msgid ""
+"Your host may have tried to (incorrectly) use TLS over port 465. Check your "
+"encryption and port settings."
+msgstr ""
+"Puede que su host haya intentado (incorrectamente) usar TLS sobre el puerto "
+"465. Compruebe su configuración de encriptación y puerto."
+
+#: includes/translations.php:34
+msgid ""
+"Your host has likely installed a firewall (REJECT packets) between you and "
+"the server. Ask them to open the ports."
+msgstr ""
+"Probablemente su host haya instalado un firewall (REJECT packets) entre "
+"usted y el servidor. Pídales que abran los puertos."
+
+#: includes/translations.php:35
+msgid ""
+"Your Web Host provider may have installed a firewall between you and the "
+"server."
+msgstr ""
+"Puede que su proveedor de alojamiento web haya instalado un firewall entre "
+"usted y el servidor."
+
+#: includes/translations.php:36
+msgid ""
+"Contact the admin of the server and ask if they allow outgoing communication "
+"on port 25,465,587."
+msgstr ""
+"Póngase en contacto con el administrador del servidor y pregunte si permiten "
+"la comunicación saliente en el puerto 25,465,587."
+
+#: includes/translations.php:37
+msgid ""
+"It seems like they are blocking certain traffic. Ask them to open the ports."
+msgstr ""
+"Parece que están bloqueando cierto tráfico. Pídales que abran los puertos."
+
+#: includes/translations.php:38
+msgid ""
+"Your Web Host provider may have blocked the use of mail() function on your "
+"server."
+msgstr ""
+"Puede que su proveedor de alojamiento web haya bloqueado el uso de la "
+"función de correo () en su servidor."
+
+#: includes/translations.php:39
+msgid "Ask them to enable the mail() function to start sending emails."
+msgstr ""
+"Pídales que habiliten la función de correo () para comenzar a enviar correos "
+"electrónicos."
+
+#: includes/translations.php:42
+msgid "Premium Edition"
+msgstr "Versión Premium"
+
+#: includes/translations.php:43
+msgid ""
+"This feature is available only in Premium Editions! <br> Kindly Purchase to "
+"unlock it!"
+msgstr ""
+"¡Esta función solo está disponible en versiones Premium! <br> Compra para "
+"desbloquearla!"
+
+#: includes/translations.php:46
+msgid "Fetch Settings"
+msgstr "Ajustes de búsqueda"
+
+#: includes/translations.php:47
+msgid "Choose options for Fetch Settings"
+msgstr "Elija opciones para Ajustes de búsqueda"
+
+#: includes/translations.php:48
+msgid "Individual Site"
+msgstr "Sitio individual"
+
+#: includes/translations.php:49
+msgid "Network Site"
+msgstr "Sitio de red"
+
+#: includes/translations.php:52
+msgid "Basic Info"
+msgstr "Información básica"
+
+#: includes/translations.php:53
+msgid "Account Setup"
+msgstr "Configuración de la cuenta"
+
+#: includes/translations.php:54
+msgid "Confirm"
+msgstr "Confirmar"
+
+#: includes/translations.php:58
+msgid "Email Setup"
+msgstr "Configuración del correo electrónico"
+
+#: includes/translations.php:59 lib/dashboard-widget.php:169
+msgid "Email Logs"
+msgstr "Registros del correo electrónico"
+
+#: includes/translations.php:60
+msgid "Test Email"
+msgstr "Correo electrónico de prueba"
+
+#: includes/translations.php:61
+msgid "Plugin Settings"
+msgstr "Configuración de Plugin"
+
+#: includes/translations.php:62
+msgid "System Information"
+msgstr "Información del Sistema"
+
+#: includes/translations.php:63
+msgid "Ask For Help"
+msgstr "Pedir ayuda"
+
+#: includes/translations.php:64
+msgid "Roles & Capabilities"
+msgstr "Roles y Capacidades"
+
+#: includes/translations.php:67
+msgid "Success!"
+msgstr "Logrado!"
+
+#: includes/translations.php:68
+msgid "Email Setup has been updated Successfully"
+msgstr "La configuración del correo electrónico ha sido actualizada con éxito"
+
+#: includes/translations.php:69
+msgid "Test Email was sent Successfully!"
+msgstr "El correo electrónico de prueba ha sido enviado con éxito!"
+
+#: includes/translations.php:70
+msgid "Test Email was not sent!"
+msgstr "El correo electrónico de prueba no ha sido enviado!"
+
+#: includes/translations.php:71
+msgid "Plugin Settings have been updated Successfully"
+msgstr "La configuración del Plugin ha sido actualizada con éxito"
+
+#: includes/translations.php:72
+msgid ""
+"The OAuth is not supported by providing SMTP Host, kindly provide username "
+"and password"
+msgstr ""
+"El OAuth no es compatible con el servidor SMTP, proporcione por favor el "
+"nombre de usuario y contraseña"
+
+#: includes/translations.php:73
+msgid "Your Name"
+msgstr "Su Nombre"
+
+#: includes/translations.php:74
+msgid "Please provide your Name"
+msgstr "Por favor proporcione su Nombre"
+
+#: includes/translations.php:75
+msgid "Roles & Capabilities have been updated Successfully"
+msgstr "Roles y Capacidades han sido actualizados con éxito"
+
+#: includes/translations.php:78 lib/dashboard-widget.php:173
+msgid "Email Sent"
+msgstr "Correo electrónico enviado"
+
+#: includes/translations.php:79 lib/dashboard-widget.php:178
+msgid "Email Not Sent"
+msgstr "Correo electrónico no enviado"
+
+#: includes/translations.php:80
+msgid ""
+"You don't have Sufficient Access to this Page. Kindly contact the "
+"Administrator for more Privileges"
+msgstr ""
+"Usted no tiene suficiente acceso a esta página. Póngase en contacto con el "
+"administrador para obtener más privilegios."
+
+#: includes/translations.php:81
+msgid "Enable"
+msgstr "Habilitar"
+
+#: includes/translations.php:82
+msgid "Disable"
+msgstr "Inhabilitar"
+
+#: includes/translations.php:83
+msgid "Override"
+msgstr "Anular"
+
+#: includes/translations.php:84
+msgid "Don't Override"
+msgstr "No anular"
+
+#: includes/translations.php:85
+msgid "Save Settings"
+msgstr "Guardar configuración"
+
+#: includes/translations.php:86
+msgid "Subject"
+msgstr "Asunto"
+
+#: includes/translations.php:87
+msgid "Next Step"
+msgstr "Siguiente paso"
+
+#: includes/translations.php:88
+msgid "Previous Step"
+msgstr "Paso anterior"
+
+#: includes/translations.php:89
+msgid "Know about Full Features"
+msgstr "Conocer las características completas"
+
+#: includes/translations.php:90
+msgid "or"
+msgstr "o"
+
+#: includes/translations.php:91
+msgid "Check our Online Demos"
+msgstr "Vea nuestras demostraciones online"
+
+#: includes/translations.php:92
+msgid "N/A"
+msgstr "N/A"
+
+#: includes/translations.php:97
+msgid ""
+"A valid Email Address that will be used in the \"CC\" field of the email. "
+"Use Comma \",\" for including multiple email addresses in the \"CC\" field"
+msgstr ""
+"Una dirección de correo electrónico válida que se utilizará en el campo \"CC"
+"\" del correo electrónico. Use una coma \",\" para incluir varias "
+"direcciones de correo electrónico en el campo \"CC\""
+
+#: includes/translations.php:98
+msgid ""
+"A valid Email Address that will be used in the 'BCC' field of the email. Use "
+"Comma ',' for including multiple email addresses in the 'BCC' field"
+msgstr ""
+"Una dirección de correo electrónico válida que se utilizará en el campo "
+"'BCC' del correo electrónico. Use una coma ',' para incluir múltiples "
+"direcciones de correo electrónico en el campo 'BCC'"
+
+#: includes/translations.php:99
+msgid "Please provide CC Email Address"
+msgstr "Por favor proporcione la dirección de correo electrónico CC"
+
+#: includes/translations.php:100
+msgid "Please provide BCC Email Address"
+msgstr "Por favor proporcione la dirección de correo electrónico BCC"
+
+#: includes/translations.php:101
+msgid "From Name"
+msgstr "\"De\" Nombre"
+
+#: includes/translations.php:102
+msgid "Please provide From Name"
+msgstr "Por favor proporcione un Nombre en \"De\""
+
+#: includes/translations.php:103
+msgid "From Email"
+msgstr "Correo electrónico \"De\""
+
+#: includes/translations.php:104
+msgid "Please provide From Email Address"
+msgstr "Por favor proporcione un correo electrónico en \"De\""
+
+#: includes/translations.php:105
+msgid "Mailer Type"
+msgstr "Tipo de envío"
+
+#: includes/translations.php:106
+msgid "Choose among the variety of options for routing emails."
+msgstr "Elija entre variedad de opciones para enrutar correos electrónicos."
+
+#: includes/translations.php:107
+msgid "Send Email via SMTP"
+msgstr "Enviar correo electrónico vía SMTP"
+
+#: includes/translations.php:108
+msgid "Use The PHP mail() Function"
+msgstr "Use la función correo PHP ()"
+
+#: includes/translations.php:109 includes/translations.php:236
+msgid "SMTP Host"
+msgstr "Servidor SMTP"
+
+#: includes/translations.php:110
+msgid "Server that will send the email"
+msgstr "Servidor que enviará el correo electrónico"
+
+#: includes/translations.php:111
+msgid "Please provide SMTP Host"
+msgstr "Por favor proporcione servidor SMTP"
+
+#: includes/translations.php:112
+msgid "SMTP Port"
+msgstr "Puerto SMTP"
+
+#: includes/translations.php:113
+msgid "Port to connect to the email server"
+msgstr "Puerto para conectar al servidor de correo electrónico"
+
+#: includes/translations.php:114
+msgid "Please provide SMTP Port"
+msgstr "Por favor proporcione puerto SMTP"
+
+#: includes/translations.php:115
+msgid "Encryption"
+msgstr "Encriptación"
+
+#: includes/translations.php:116
+msgid ""
+"Encrypt the email when sent to the email server using the different methods "
+"available"
+msgstr ""
+"Encriptar el correo electrónico cuando se envía al servidor de correo "
+"electrónico utilizando los diferentes métodos disponibles"
+
+#: includes/translations.php:120
+msgid "Authentication"
+msgstr "Autenticación"
+
+#: includes/translations.php:121
+msgid "Method for authentication (almost always Login)"
+msgstr "Método de autenticación (casi siempre Iniciar Sesión)"
+
+#: includes/translations.php:122 includes/translations.php:157
+msgid "Email Address"
+msgstr "Dirección de correo electrónico"
+
+#: includes/translations.php:123
+msgid "A valid Email Address on which you would like to send a Test Email"
+msgstr ""
+"Una dirección de correo electrónico válida en la que le gustaría enviar un "
+"correo electrónico de prueba"
+
+#: includes/translations.php:124
+msgid "Please provide Email Address"
+msgstr "Por favor proporcione un correo electrónico"
+
+#: includes/translations.php:125
+msgid "Subject Line for your Test Email"
+msgstr "Línea de asunto para su correo electrónico de prueba"
+
+#: includes/translations.php:126
+msgid "Please provide Subject"
+msgstr "Por favor especifique asunto"
+
+#: includes/translations.php:127 includes/translations.php:187
+msgid "Email Content"
+msgstr "Contenido del correo electrónico"
+
+#: includes/translations.php:128
+msgid "Email Content for your Test Email"
+msgstr "Contenido del correo electrónico para su correo electrónico de prueba"
+
+#: includes/translations.php:129
+msgid "Send Test Email"
+msgstr "Enviar correo electrónico de prueba"
+
+#: includes/translations.php:130
+msgid "Checking your settings"
+msgstr "Comprobando su configuración"
+
+#: includes/translations.php:131
+msgid "Result"
+msgstr "Resultado"
+
+#: includes/translations.php:132
+msgid "Send Another Test Email"
+msgstr "Enviar otro correo electrónico de prueba"
+
+#: includes/translations.php:133
+msgid "From Name Configuration"
+msgstr "Configuración Nombre \"De\""
+
+#: includes/translations.php:134
+msgid ""
+"Do you want to override the Default Name that tells email recipient about "
+"who sent the email?"
+msgstr ""
+"¿Desea anular el Nombre predeterminado que informa al destinatario de quién "
+"envió el correo electrónico?"
+
+#: includes/translations.php:135
+msgid "From Email Configuration"
+msgstr "Configuración correo electrónico \"De\""
+
+#: includes/translations.php:136
+msgid ""
+"Do you want to override the Default Email Address that tells email recipient "
+"about the sender?"
+msgstr ""
+"¿Desea anular el Correo Electrónico predeterminado que informa al "
+"destinatario de quién es el remitente?"
+
+#: includes/translations.php:137
+msgid "Username"
+msgstr "Nombre de usuario"
+
+#: includes/translations.php:138
+msgid ""
+" Login is typically the full email address (Example: mailbox@yourdomain.com)"
+msgstr ""
+"El inicio de sesión suele ser la dirección de correo electrónico completa "
+"(Ejemplo: mailbox@tudominio.com)"
+
+#: includes/translations.php:139
+msgid "Please provide username"
+msgstr "Por favor especifique el nombre de usuario"
+
+#: includes/translations.php:140
+msgid "Password"
+msgstr "Contraseña"
+
+#: includes/translations.php:141
+msgid "Password is typically the same as the password to retrieve the email"
+msgstr ""
+"La contraseña suele ser la misma que la contraseña para recuperar el correo "
+"electrónico"
+
+#: includes/translations.php:142
+msgid "Please provide password"
+msgstr "Por favor especifique la contraseña"
+
+#: includes/translations.php:143
+msgid "Redirect URI"
+msgstr "URI de redirección"
+
+#: includes/translations.php:144
+msgid ""
+"Please copy this Redirect URI and Paste into Redirect URI field when "
+"creating your app"
+msgstr ""
+"Por favor copie esta URI de redirección y péguela en el campo \"URI de "
+"redirección\" cuando cree su app"
+
+#: includes/translations.php:150
+msgid "Client Id"
+msgstr "ID de cliente"
+
+#: includes/translations.php:151
+msgid "Secret Key"
+msgstr "Clave secreta"
+
+#: includes/translations.php:152
+msgid "Client Id issued by your SMTP Host"
+msgstr "ID de cliente emitido por su proveedor de alojamiento SMTP"
+
+#: includes/translations.php:153
+msgid "Secret Key issued by your SMTP Host"
+msgstr "Clave secreta emitida por su proveedor de alojamiento SMTP"
+
+#: includes/translations.php:154
+msgid "Please provide Client Id"
+msgstr "Por favor proporcione ID de cliente"
+
+#: includes/translations.php:155
+msgid "Please provide Secret Key"
+msgstr "Por favor proporcione Clave Secreta"
+
+#: includes/translations.php:156
+msgid ""
+"Yes, automatically send a Test Email upon clicking on the Next Step Button "
+"to verify settings"
+msgstr ""
+"Sí, envía automáticamente un correo electrónico de prueba al hacer clic en "
+"el botón \"Paso Siguiente\" para verificar la configuración"
+
+#: includes/translations.php:158
+msgid "A valid Email Address account from which you would like to send Emails"
+msgstr ""
+"Una cuenta válida de correo electrónico desde la cual desea enviar correos "
+"electrónicos"
+
+#: includes/translations.php:159
+msgid "Please provide valid Email Address"
+msgstr "Por favor proporcione dirección de correo electrónico"
+
+#: includes/translations.php:160
+msgid "Reply To"
+msgstr "Responder a"
+
+#: includes/translations.php:161
+msgid ""
+"A valid Email Address that will be used in the 'Reply-To' field of the email"
+msgstr ""
+"Una dirección de correo electrónico válida que se utilizará en el campo "
+"'Responder a' del correo electrónico"
+
+#: includes/translations.php:162
+msgid "Please provide Reply To Email Address"
+msgstr ""
+"Por favor proporcione dirección de correo electrónico en \"Responder a\""
+
+#: includes/translations.php:163
+msgid "Get API Key"
+msgstr "Obtener clave de API"
+
+#: includes/translations.php:164
+msgid "How to setup?"
+msgstr "¿Como instalar?"
+
+#: includes/translations.php:165
+msgid "SendGrid API"
+msgstr "SendGrid API"
+
+#: includes/translations.php:167
+msgid "Start Date"
+msgstr "Fecha de inicio"
+
+#: includes/translations.php:168 includes/translations.php:183
+msgid "Resend Email"
+msgstr "Reenviar correo electrónico"
+
+#: includes/translations.php:169
+msgid "Please provide Start Date"
+msgstr "Por favor proporcione fecha de inicio"
+
+#: includes/translations.php:170
+msgid "Start Date for Email Logs"
+msgstr "Fecha de inicio para los registros de correo electrónico"
+
+#: includes/translations.php:171
+msgid "End Date"
+msgstr "Fecha de finalización"
+
+#: includes/translations.php:172
+msgid "Limit Records"
+msgstr "Limitar registros"
+
+#: includes/translations.php:173
+msgid "Number of Logs to view"
+msgstr "Cantidad de registros para ver"
+
+#: includes/translations.php:178
+msgid "Please provide End Date"
+msgstr "Por favor especifique fecha de finalización"
+
+#: includes/translations.php:179
+msgid "End Date for Email Logs"
+msgstr "Fecha de finalización para los registros de correo electrónico"
+
+#: includes/translations.php:180
+msgid "Submit"
+msgstr "Enviar"
+
+#: includes/translations.php:181
+msgid "Bulk Action"
+msgstr "Acción masiva"
+
+#: includes/translations.php:182
+msgid "Delete"
+msgstr "Borrar"
+
+#: includes/translations.php:184
+msgid "Apply"
+msgstr "Aplicar"
+
+#: includes/translations.php:185
+msgid "Email To"
+msgstr "Enviar correo electrónico a"
+
+#: includes/translations.php:186
+msgid "Action"
+msgstr "Acción"
+
+#: includes/translations.php:188
+msgid "Debug Output"
+msgstr "Resultado de la depuración"
+
+#: includes/translations.php:189
+msgid "Date/Time"
+msgstr "Fecha/Hora"
+
+#: includes/translations.php:192
+msgid "Debug Mode"
+msgstr "Modo de depuración"
+
+#: includes/translations.php:193
+msgid "Do you want to see Debugging Output for your emails?"
+msgstr "¿Desea ver el resultado de depuración de sus correos electrónicos?"
+
+#: includes/translations.php:194
+msgid "Remove Database at Uninstall"
+msgstr "Eliminar la base de datos al desinstalar"
+
+#: includes/translations.php:195
+msgid "Do you want to remove database at Uninstall of the Plugin?"
+msgstr "¿Desea eliminar la base de datos al desinstalar el Plugin?"
+
+#: includes/translations.php:196
+msgid "Monitor Email Logs"
+msgstr "Supervisar los registros de correo electrónico"
+
+#: includes/translations.php:197
+msgid "Do you want to monitor your all Outgoing Emails?"
+msgstr "¿Desea supervisar todos sus correos electrónicos salientes?"
+
+#: includes/translations.php:200
+msgid "Show Mail Bank Menu"
+msgstr "Mostrar menú de Mail Bank"
+
+#: includes/translations.php:201
+msgid ""
+"Choose among the following roles who would be able to see the Mail Bank Menu?"
+msgstr "Elija entre los siguientes roles quién podría ver el menú de Mail Bank"
+
+#: includes/translations.php:202
+msgid "Administrator"
+msgstr "Administrador"
+
+#: includes/translations.php:203
+msgid "Author"
+msgstr "Autor"
+
+#: includes/translations.php:204
+msgid "Editor"
+msgstr "Editor"
+
+#: includes/translations.php:205
+msgid "Contributor"
+msgstr "Contribuidor"
+
+#: includes/translations.php:206
+msgid "Subscriber"
+msgstr "Suscriptor"
+
+#: includes/translations.php:207
+msgid "Others"
+msgstr "Otros"
+
+#: includes/translations.php:208
+msgid "Show Mail Bank Top Bar Menu"
+msgstr "Mostrar menú de la barra superior de Mail Bank"
+
+#: includes/translations.php:209
+msgid "Do you want to show Mail Bank menu in Top Bar?"
+msgstr "¿Desea mostrar el menú de Mail Bank en la barra superior?"
+
+#: includes/translations.php:210
+msgid "An Administrator Role can do the following "
+msgstr "El rol de Administrador puede hacer lo siguiente"
+
+#: includes/translations.php:211
+msgid ""
+"Choose what pages would be visible to the users having Administrator Access"
+msgstr ""
+"Elija qué páginas serían visibles para los usuarios que tengan acceso como "
+"Administrador"
+
+#: includes/translations.php:212
+msgid "Full Control"
+msgstr "Control Total"
+
+#: includes/translations.php:213
+msgid "An Author Role can do the following "
+msgstr "El rol de Autor puede hacer lo siguiente"
+
+#: includes/translations.php:214
+msgid "Choose what pages would be visible to the users having Author Access"
+msgstr ""
+"Elija qué páginas serían visibles para los usuarios que tengan acceso como "
+"Autor"
+
+#: includes/translations.php:215
+msgid "An Editor Role can do the following "
+msgstr "El rol de Editor puede hacer lo siguiente"
+
+#: includes/translations.php:216
+msgid "Choose what pages would be visible to the users having Editor Access"
+msgstr ""
+"Elija qué páginas serían visibles para los usuarios que tengan acceso como "
+"Editor"
+
+#: includes/translations.php:217
+msgid "A Contributor Role can do the following "
+msgstr "El rol de Contribuidor puede hacer lo siguiente"
+
+#: includes/translations.php:218
+msgid ""
+"Choose what pages would be visible to the users having Contributor Access"
+msgstr ""
+"Elija qué páginas serían visibles para los usuarios que tengan acceso de "
+"Contribuidor"
+
+#: includes/translations.php:219
+msgid "Other Roles can do the following "
+msgstr "El rol de Otros puede hacer lo siguiente"
+
+#: includes/translations.php:220
+msgid ""
+"Choose what pages would be visible to the users having Others Role Access"
+msgstr ""
+"Elija qué páginas serían visibles para los usuarios que tengan acceso como "
+"Otros"
+
+#: includes/translations.php:221
+msgid "Please tick the appropriate capabilities for security purposes "
+msgstr "Por favor marque las capacidades apropiadas para fines de seguridad"
+
+#: includes/translations.php:222
+msgid "Only users with these capabilities can access Mail Bank"
+msgstr "Solo los usuarios con estas capacidades pueden acceder a Mail Bank"
+
+#: includes/translations.php:223
+msgid "A Subscriber Role can do the following"
+msgstr "El rol de Suscriptor puede hacer lo siguiente"
+
+#: includes/translations.php:224
+msgid ""
+"Choose what pages would be visible to the users having Subscriber Access"
+msgstr ""
+"Elija qué páginas serían visibles para los usuarios que tengan acceso como "
+"Suscriptor"
+
+#: includes/translations.php:227
+msgid "Sending Test Email to"
+msgstr "Enviando correo electrónico de prueba a"
+
+#: includes/translations.php:228
+msgid "Email Status"
+msgstr "Estado del correo electrónico"
+
+#: includes/translations.php:231
+msgid "Connectivity Test"
+msgstr "Prueba de conectividad"
+
+#: includes/translations.php:232
+msgid "Transport"
+msgstr "Transporte"
+
+#: includes/translations.php:233
+msgid "Socket"
+msgstr "Socket"
+
+#: includes/translations.php:234
+msgid "Status"
+msgstr "Estado"
+
+#: includes/translations.php:235
+msgid "SMTP"
+msgstr "SMTP"
+
+#: includes/translations.php:237
+msgid "Begin Test"
+msgstr "Empezar Test"
+
+#: includes/translations.php:239
+msgid "SMTP Server that will be used for a Connectivity Test"
+msgstr "Servidor SMTP que se usará para la prueba de conectividad"
+
+#: includes/translations.php:242
+msgid "Additional Headers"
+msgstr "Encabezados adicionales"
+
+#: includes/translations.php:243
+msgid ""
+"You also can insert additional headers in this optional field in order to "
+"include in your email"
+msgstr ""
+"También puede insertar encabezados adicionales en este campo opcional para "
+"poder incluirlos en su correo electrónico"
+
+#: lib/dashboard-widget.php:78
+msgid "to"
+msgstr "a"
+
+#: lib/dashboard-widget.php:79
+msgid "using"
+msgstr "usando"
+
+#: lib/dashboard-widget.php:167
+msgid "is configured"
+msgstr "está configurado"
+
+#: lib/dashboard-widget.php:168
+msgid "will send mail through "
+msgstr "enviará correo a través de"
+
+#: lib/dashboard-widget.php:169
+msgid "Email Configuration"
+msgstr "Configuración de correo electrónico"
+
+#: lib/dashboard-widget.php:183
+msgid "Upgrade Now to Premium Editions"
+msgstr "Actualice ahora a versiones Premium"
+
+#: views/wizard/wizard.php:52
+msgid "Hi there!"
+msgstr "Hola!"
+
+#: views/wizard/wizard.php:53
+msgid ""
+"Don't ever miss an opportunity to opt in for Email Notifications / "
+"Announcements about exciting New Features and Update Releases."
+msgstr ""
+"No pierda la oportunidad de recibir Notificaciones / Avisos por correo "
+"electrónico sobre nuevas funciones y lanzamientos de actualizaciones."
+
+#: views/wizard/wizard.php:54
+msgid ""
+"Contribute in helping us making our plugin compatible with most plugins and "
+"themes by allowing to share non-sensitive information about your website."
+msgstr ""
+"Contribuya ayudándonos a hacer que nuestro plugin sea compatible con la "
+"mayoría de los plugins y temas permitiendo compartir con nosotros "
+"información no confidencial sobre su sitio web."
+
+#: views/wizard/wizard.php:55
+msgid ""
+"If you opt in, some data about your usage of Mail Bank Plugin will be sent "
+"to our servers for Compatiblity Testing Purposes and email notifications."
+msgstr ""
+"Si opta, algunos datos sobre su uso de Mail Bank Plugin se enviarán a "
+"nuestros servidores para fines de prueba de compatibilidad y notificaciones "
+"por correo electrónico."
+
+#: views/wizard/wizard.php:62
+msgid "Email Address for Notifications"
+msgstr "Dirección de correo electrónico para Notificaciones"
+
+#: views/wizard/wizard.php:68
+msgid "If you're not ready to Opt-In, that's ok too!"
+msgstr "Si no está listo para participar, ¡no hay problema!"
+
+#: views/wizard/wizard.php:69
+msgid "Mail Bank will still work fine."
+msgstr "Mail Bank seguirá funcionando bien."
+
+#: views/wizard/wizard.php:73
+msgid "What permissions are being granted?"
+msgstr "¿Qué permisos se están otorgando?"
+
+#: views/wizard/wizard.php:81
+msgid "User Details"
+msgstr "Detalles de usuario"
+
+#: views/wizard/wizard.php:82
+msgid "Name and Email Address"
+msgstr "Nombre y Dirección de correo electrónico"
+
+#: views/wizard/wizard.php:92
+msgid "Current Plugin Status"
+msgstr "Estado actual del Plugin"
+
+#: views/wizard/wizard.php:93
+msgid "Activation, Deactivation and Uninstall"
+msgstr "Activación, desactivación y desinstalación"
+
+#: views/wizard/wizard.php:103
+msgid "Notifications"
+msgstr "Notificaciones"
+
+#: views/wizard/wizard.php:104
+msgid "Updates &amp; Announcements"
+msgstr "Actualizaciones y avisos"
+
+#: views/wizard/wizard.php:114
+msgid "Website Overview"
+msgstr "Descripción del sitio web"
+
+#: views/wizard/wizard.php:115
+msgid "Site URL, WP Version, PHP Info, Plugins &amp; Themes Info"
+msgstr ""
+"URL del sitio, Version WP, Información PHP, Plugins y información sobre Temas"
+
+#: views/wizard/wizard.php:124
+msgid "Opt-In &amp; Continue"
+msgstr "Opt-In & amp; Continuar"
+
+#: views/wizard/wizard.php:128
+msgid "Skip &amp; Continue"
+msgstr "Omitir y amp; Continuar"
+
+#: views/wizard/wizard.php:135
+msgid "Privacy Policy"
+msgstr "Política de Privacidad"
+
+#: views/wizard/wizard.php:137
+msgid "Terms &amp; Conditions"
+msgstr "Términos y Condiciones"
+
+#: wp-mail-bank.php:912
+msgid "Sure! I'd love to!"
+msgstr "¡Por supuesto! ¡Me encantaría!"
+
+#: wp-mail-bank.php:913
+msgid "I've already left a review"
+msgstr "Ya he dejado una valoración"
+
+#: wp-mail-bank.php:914
+msgid "Maybe Later"
+msgstr "Quizás más tarde"
+
+#: wp-mail-bank.php:916
+msgid "Leave A Review For Mail Bank ?"
+msgstr "¿Dejar una valoración sobre Mail Bank?"
+
+#: wp-mail-bank.php:917
+msgid ""
+"We love and care about you. Mail Bank Team is putting our maximum efforts to "
+"provide you the best functionalities.<br> We would really appreciate if you "
+"could spend a couple of seconds to give a Nice Review to the plugin for "
+"motivating us!"
+msgstr ""
+"Nos preocupamos por usted. El equipo de Mail Bank pone todo su empeño en "
+"ofrecerle las mejores funcionalidades. <br> ¡Nos gustaría realmente que "
+"pudiera dedicar unos segundos a dar una buena valoración al plugin para "
+"motivarnos!"
+
+#: wp-mail-bank.php:1074
+msgid "We feel guilty when anyone stop using Mail Bank."
+msgstr "Nos sentimos culpables cuando alguien deja de usar Mail Bank."
+
+#: wp-mail-bank.php:1075
+msgid "If Mail Bank isn't working for you, others also may not."
+msgstr "Si Mail Bank no funciona para usted, otros puede que tampoco."
+
+#: wp-mail-bank.php:1076
+msgid "We would love to hear your feedback about what went wrong."
+msgstr "Nos encantaría escuchar sus comentarios sobre lo que salió mal."
+
+#: wp-mail-bank.php:1077
+msgid "We would like to help you in fixing the issue."
+msgstr "Nos gustaría ayudarlo a solucionar el problema."
+
+#: wp-mail-bank.php:1078
+msgid ""
+"If you click Continue, some data would be sent to our servers for "
+"Compatiblity Testing Purposes."
+msgstr ""
+"Si hace clic en Continuar, algunos datos se enviarán a nuestros servidores "
+"para fines de prueba de compatibilidad."
+
+#: wp-mail-bank.php:1079
+msgid "If you Skip, no data would be shared with our servers."
+msgstr "Si omite, no se compartirán datos con nuestros servidores."
+
+#: wp-mail-bank.php:1086
+msgid "The Plugin didn't work"
+msgstr "El Plugin no ha funcionado"
+
+#: wp-mail-bank.php:1092
+msgid "I found a better Plugin"
+msgstr "He encontrado un Plugin mejor"
+
+#: wp-mail-bank.php:1098
+msgid "It's a temporary deactivation. I'm just debugging an issue."
+msgstr "Es una desactivación temporal. Solo estoy depurando un problema."
+
+#: wp-mail-bank.php:1104
+msgid "Open a Support Ticket for me."
+msgstr "Abrir un ticket de soporte para mí."
+
+#: wp-mail-bank.php:1174
+msgid "WP Mail Bank Compatibility Warning"
+msgstr "Advertencia de compatibilidad de WP Mail Bank"
+
+#: wp-mail-bank.php:1175
+msgid ""
+"The following plugins are not compatible with Mail Bank and may lead to "
+"unexpected results: "
+msgstr ""
+"Los siguientes complementos no son compatibles con Mail Bank y pueden "
+"generar resultados inesperados:"
+
+#: wp-mail-bank.php:1181
+msgid "Deactivate"
+msgstr "Desactivar"
+
+#~ msgid "SMTP Debugging Output"
+#~ msgstr "Resultado de la depuración SMTP"
+
+#~ msgid "Get Google Client Id and Secret Key"
+#~ msgstr "Obtener el ID de cliente de Google y la clave secreta"
+
+#~ msgid "Get Microsoft Client Id and Secret Key"
+#~ msgstr "Obtener el ID de cliente de Microsoft y la clave secreta"
+
+#~ msgid "Get Yahoo Client Id and Secret Key"
+#~ msgstr "Obtener el ID de cliente de Yahoo y la clave secreta"
+
+#~ msgid "Use OAuth (Client Id and Secret Key required)"
+#~ msgstr "Use OAuth (se requiere el ID de cliente y la clave secreta)"
+
+#~ msgid "Email Log Details"
+#~ msgstr "Detalles del registro de correo electrónico"
+
+#~ msgid "Feedback"
+#~ msgstr "Comentarios"
+
+#~ msgid "Your Feedback has been sent Successfully"
+#~ msgstr "Su comentario ha sido enviado con éxito"
+
+#~ msgid "Please choose an Action from Dropdown!"
+#~ msgstr "Por favor, elija una acción del desplegable!"
+
+#~ msgid "Please choose at least 1 record to delete!"
+#~ msgstr "Por favor, elija al menos 1 registro para eliminar!"
+
+#~ msgid "Are you sure you want to delete Email Logs?"
+#~ msgstr ""
+#~ "¿Está seguro de que desea eliminar los registros de correo electrónico?"
+
+#~ msgid "Selected Logs have been deleted Successfully"
+#~ msgstr "Los registros seleccionados han sido eliminados con éxito"
+
+#~ msgid "Are you sure you want to Resend Emails?"
+#~ msgstr "¿Está seguro de que desea reenviar los correos electrónicos?"
+
+#~ msgid "Invalid Secret Key. Please rectify and try again!"
+#~ msgstr ""
+#~ "Clave Secreta no válida. Por favor rectifique y vuelva a intentarlo!"
+
+#~ msgid "Licensing"
+#~ msgstr "Licencia"
+
+#~ msgid "Your Email has been Resent Successfully"
+#~ msgstr "Su correo electrónico ha sido reenviado con éxito."
+
+#~ msgid "Your Emails have been Resent Successfully"
+#~ msgstr "Sus correos electrónicos han sido reenviados con éxito."
+
+#~ msgid "Unfortunately, Your Email has not been Sent"
+#~ msgstr "Lamentablemente, su correo electrónico no ha sido enviado"
+
+#~ msgid "Are you sure you want to Resend Email?"
+#~ msgstr "¿Está seguro de que desea reenviar el correo electrónico?"
+
+#~ msgid "Your License has been activated Successfully"
+#~ msgstr "Su Licencia ha sido activada con éxito"
+
+#~ msgid ""
+#~ "The following php extensions are not found on your server or are "
+#~ "currently disabled. These might create few problems in configuring Mail "
+#~ "Bank. Please contact your WebHost to setup these extensions on your server"
+#~ msgstr ""
+#~ "Las siguientes extensiones de PHP no se encuentran en su servidor o están "
+#~ "actualmente inhabilitadas. Esto podría crear algunos problemas al "
+#~ "configurar Mail Bank. Comuníquese con su proveedor de servicios web para "
+#~ "configurar estas extensiones en su servidor"
+
+#~ msgid "In this field, you would need to provide Mailgun API Key"
+#~ msgstr "En este campo necesitaría proporcionar la clave API de Mailgun"
+
+#~ msgid "Domain Name"
+#~ msgstr "Nombre de Dominio"
+
+#~ msgid "In this field, you would need to provide Mailgun domain name"
+#~ msgstr "En este campo debe proporcionar el nombre de dominio Mailgun"
+
+#~ msgid "Please provide Mailgun Domain Name"
+#~ msgstr "Por favor proporcione el nombre de dominio Mailgun"
+
+#~ msgid "In this field, you need to provide SendGrid API Key"
+#~ msgstr "En este campo debe proporcionar la clave API SendGrid"
+
+#~ msgid "Please provide valid API key"
+#~ msgstr "Por favor proporcione clave API válida"
+
+#~ msgid ""
+#~ "A valid Email Address that will be used in the 'CC' field of the email. "
+#~ "Use Comma ',' for including multiple email addresses in the 'CC' field"
+#~ msgstr ""
+#~ "Una dirección de correo electrónico válida que se utilizará en el campo "
+#~ "'CC' del correo electrónico. Use coma ',' para incluir varias direcciones "
+#~ "de correo electrónico en el campo 'CC'"
+
+#~ msgid "Mailer Settings"
+#~ msgstr "Configuración de correo"
+
+#~ msgid "Choose among the variety of options for routing emails"
+#~ msgstr "Elija entre variedad de opciones para enrutar correos electrónicos"
+
+#~ msgid "Mailgun API"
+#~ msgstr "API Mailgun"
+
+#~ msgid "Get SendGrid API Key"
+#~ msgstr "Obtener clave de SendGrid API"
+
+#~ msgid "Use SMTP Authentication"
+#~ msgstr "Usar autenticación SMTP"
+
+#~ msgid "Don't Use SMTP Authentication"
+#~ msgstr "No usar autenticación SMTP"
+
+#~ msgid "Test Email Address"
+#~ msgstr "Probar dirección de correo electrónico"
+
+#~ msgid "Email Details"
+#~ msgstr "Detalles del correo electrónico"
+
+#~ msgid "Close"
+#~ msgstr "Cerrar"
+
+#~ msgid "Email Sent To"
+#~ msgstr "Correo electrónico enviado a"
+
+#~ msgid "From"
+#~ msgstr "De"
+
+#~ msgid "Back to Email Logs"
+#~ msgstr "Volver a los registros de correo electrónico"
+
+#~ msgid "Automatic Plugin Updates"
+#~ msgstr "Actualizaciones automáticas de Plugin"
+
+#~ msgid ""
+#~ "Please choose a specific option whether to allow Automatic Plugin Updates"
+#~ msgstr ""
+#~ "Elija una opción específica para permitir actualizaciones automáticas de "
+#~ "Plugin"
+
+#~ msgid "Monitoring Email Logs"
+#~ msgstr "Supervisión de registros de correo electrónico"
+
+#~ msgid "Thank You!"
+#~ msgstr "¡Gracias!"
+
+#~ msgid ""
+#~ "Kindly fill in the below form, if you would like to suggest some features "
+#~ "which are not in the Plugin"
+#~ msgstr ""
+#~ "Rellene el formulario a continuación si desea sugerir algunas funciones "
+#~ "que no están en el Plugin"
+
+#~ msgid ""
+#~ "If you also have any suggestion/complaint, you can use the same form below"
+#~ msgstr ""
+#~ "Si también tiene alguna sugerencia/queja, puede usar el mismo formulario "
+#~ "que aparece debajo"
+
+#~ msgid "You can also write us on"
+#~ msgstr "También puede escribirnos a"
+
+#~ msgid "Please provide your Name which will be sent along with your Feedback"
+#~ msgstr ""
+#~ "Por favor proporcione su Nombre, que se enviará junto con sus comentarios"
+
+#~ msgid "Your Email"
+#~ msgstr "Su correo electrónico"
+
+#~ msgid ""
+#~ "Please provide your Email Address which will be sent along with your "
+#~ "Feedback"
+#~ msgstr ""
+#~ "Por favor proporcione su dirección de correo electrónico, que se enviará "
+#~ "junto con sus comentarios"
+
+#~ msgid "Please provide your Email Address"
+#~ msgstr "Por favor proporcione su dirección de correo electrónico"
+
+#~ msgid "Please provide your Feedback which will be sent along"
+#~ msgstr ""
+#~ "Por favor proporcione sus comentarios, que se enviarán conjuntamente"
+
+#~ msgid "Please provide your Feedback"
+#~ msgstr "Por favor envíe sus comentarios"
+
+#~ msgid "Send Feedback"
+#~ msgstr "Enviar comentario"
+
+#~ msgid "Your request Email has been sent Successfully"
+#~ msgstr "Su correo electrónico de solicitud ha sido enviado con éxito"
+
+#~ msgid "Service Available"
+#~ msgstr "Servicio disponible"
+
+#~ msgid "Server ID"
+#~ msgstr "ID del Servidor"
+
+#~ msgid "Important Notice!"
+#~ msgstr "¡Aviso importante!"
+
+#~ msgid ""
+#~ "Congratulations! You have recently purchased Mail Bank and now you would "
+#~ "need to activate the license in order to unlock it!"
+#~ msgstr ""
+#~ "¡Felicidades! ¡Recientemente ha comprado Mail Bank y ahora necesitará "
+#~ "activar la licencia para desbloquearlo!"
+
+#~ msgid ""
+#~ "Kindly fill in the required details and click on Validate License to "
+#~ "unlock it"
+#~ msgstr ""
+#~ "Rellene los datos requeridos y haga clic en \"Validar licencia\" para "
+#~ "desbloquearlo"
+
+#~ msgid ""
+#~ "If you face any issues activating the license, you may contact us at "
+#~ msgstr "Si tiene problemas para activar la licencia puede contactarnos en"
+
+#~ msgid "Product Name"
+#~ msgstr "Nombre del producto"
+
+#~ msgid "Current Version"
+#~ msgstr "Versión actual"
+
+#~ msgid "Website URL"
+#~ msgstr "URL del sitio web"
+
+#~ msgid "Order ID"
+#~ msgstr "ID de pedido"
+
+#~ msgid "API KEY"
+#~ msgstr "Clave API"
+
+#~ msgid "Validate License"
+#~ msgstr "Validar Licencia"
+
+#~ msgid "This field shows your Installed Product"
+#~ msgstr "Este campo muestra su producto instalado"
+
+#~ msgid "This field shows your Installed Product Version"
+#~ msgstr "Este campo muestra la versión de su producto instalado"
+
+#~ msgid "This field shows your Website URL"
+#~ msgstr "Este campo muestra la URL de su sitio web"
+
+#~ msgid ""
+#~ "Please provide your Order ID  which you have received after purchasing "
+#~ "the Product. This will be used for Validating the License"
+#~ msgstr ""
+#~ "Por favor proporcione el ID de pedido que ha recibido después de comprar "
+#~ "el producto. Este se usará para validar la licencia"
+
+#~ msgid ""
+#~ "Please provide your API Key which you have received after purchasing the "
+#~ "Product. This will be used for Validating the License"
+#~ msgstr ""
+#~ "Por favor proporcione la clave API que ha recibido después de comprar el "
+#~ "producto. Esta se usará para validar la Licencia."
+
+#~ msgid "Please provide Order ID received after making the purchase"
+#~ msgstr ""
+#~ "Por favor proporcione el ID de pedido recibido después de realizar la "
+#~ "compra"
+
+#~ msgid "Please provide API Key received after making the purchase"
+#~ msgstr ""
+#~ "Por favor proporcione la clave API recibida después de realizar la compra"
+
+#~ msgid "If Mail Bank is not working for you, others also may not."
+#~ msgstr "Si Mail Bank no funciona para usted, otros puede que tampoco."

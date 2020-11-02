@@ -1,0 +1,1302 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mail Bank\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-22 14:19+0530\n"
+"PO-Revision-Date: 2018-06-22 14:23+0530\n"
+"Last-Translator: Tech Banker\n"
+"Language-Team: Turkish (Turkey)\n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Loco-Source-Locale: en-IN\n"
+"X-Loco-Project-Id: 38931\n"
+"X-Loco-Api-Version: 1.0.18 20180111-1\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+
+#: includes/translations.php:26
+msgid "Email Log has been deleted Successfully"
+msgstr "E-posta Günlüğü Başarıyla silindi"
+
+#: includes/translations.php:27
+msgid "Are you sure you want to delete Email Log?"
+msgstr "E-posta Günlüğünü silmek istediğinize emin misiniz?"
+
+#: includes/translations.php:28
+msgid "MailGun API"
+msgstr "MailGun API"
+
+#: includes/translations.php:29
+msgid ""
+"Your host may have installed a firewall between you and the server. Ask them "
+"to open the ports."
+msgstr ""
+"Sunucunuz, siz ve sunucu arasında güvenlik duvarı kurmuş olabilir. Port "
+"açmalarını isteyin."
+
+#: includes/translations.php:30
+msgid ""
+"You may have tried to (incorrectly) use SSL over port 587. Check your "
+"encryption and port settings."
+msgstr ""
+"587 portu üzerinde SLL kullanmayı (yanlış şekilde) denemiş olabilirsiniz. "
+"Şifreleme ve port ayarlarınızı kontrol edin."
+
+#: includes/translations.php:31
+msgid ""
+"Your host may have poor connectivity to the mail server. Try doubling the "
+"Read Timeout."
+msgstr ""
+"Sunucunuz, posta sunucusu ile zayıf bir bağlantıya sahip olabilir. Okuma "
+"Zaman Aşımı Süresini iki katına çıkarmayı deneyin."
+
+#: includes/translations.php:32
+msgid ""
+"Your host may have installed a firewall (DROP packets) between you and the "
+"server. Ask them to open the ports."
+msgstr ""
+"Sunucunuz, siz ve sunucu arasında güvenlik duvarı (DROP paketleri) kurmuş "
+"olabilir. Port açmalarını isteyin."
+
+#: includes/translations.php:33
+msgid ""
+"Your host may have tried to (incorrectly) use TLS over port 465. Check your "
+"encryption and port settings."
+msgstr ""
+"Sunucunuz, 465 portu üzerinde TLS kullanmayı (yanlış şekilde) denemiş "
+"olabilir. Şifreleme ve port ayarlarınızı kontrol edin."
+
+#: includes/translations.php:34
+msgid ""
+"Your host has likely installed a firewall (REJECT packets) between you and "
+"the server. Ask them to open the ports."
+msgstr ""
+"Sunucunuz, siz ve sunucu arasında muhtemelen bir güvenlik duvarı (REJECT "
+"paketleri) kurdu. Port açmalarını isteyin."
+
+#: includes/translations.php:35
+msgid ""
+"Your Web Host provider may have installed a firewall between you and the "
+"server."
+msgstr ""
+"Web Sunucu sağlayıcınız, siz ve sunucu arasında güvenlik duvarı kurmuş "
+"olabilir."
+
+#: includes/translations.php:36
+msgid ""
+"Contact the admin of the server and ask if they allow outgoing communication "
+"on port 25,465,587."
+msgstr ""
+"Sunucu yöneticisiyle iletişime geçin ve 25,465,587 portunda giden iletişime "
+"izin verip vermedikleri sorun. "
+
+#: includes/translations.php:37
+msgid ""
+"It seems like they are blocking certain traffic. Ask them to open the ports."
+msgstr ""
+"Görünüşe göre trafiği bloke ediyorlar. Port açmaları için talepte bulunun."
+
+#: includes/translations.php:38
+msgid ""
+"Your Web Host provider may have blocked the use of mail() function on your "
+"server."
+msgstr ""
+"Web Host sağlayıcınızın, sunucunuzda mail() fonksiyonunu kullanımı bloke "
+"edilmiş olabilir."
+
+#: includes/translations.php:39
+msgid "Ask them to enable the mail() function to start sending emails."
+msgstr ""
+"E-posta göndermeye başlamak için mail () işlevini etkinleştirmelerini "
+"isteyin."
+
+#: includes/translations.php:42
+msgid "Premium Edition"
+msgstr "Premium Versiyon"
+
+#: includes/translations.php:43
+msgid ""
+"This feature is available only in Premium Editions! <br> Kindly Purchase to "
+"unlock it!"
+msgstr ""
+"Bu özellik, sadece Premium Versiyonlarda mevcuttur! <br> Kilidi açmak için "
+"lütfen Satın Alın!"
+
+#: includes/translations.php:46
+msgid "Fetch Settings"
+msgstr "Getirme Ayarları"
+
+#: includes/translations.php:47
+msgid "Choose options for Fetch Settings"
+msgstr "Getirme Ayarları için seçenekler seçin"
+
+#: includes/translations.php:48
+msgid "Individual Site"
+msgstr "Bireysel Site"
+
+#: includes/translations.php:49
+msgid "Network Site"
+msgstr "Ağ Sitesi"
+
+#: includes/translations.php:52
+msgid "Basic Info"
+msgstr "Temel Bilgiler"
+
+#: includes/translations.php:53
+msgid "Account Setup"
+msgstr "Hesap Ayarları"
+
+#: includes/translations.php:54
+msgid "Confirm"
+msgstr "Onayla"
+
+#: includes/translations.php:58
+msgid "Email Setup"
+msgstr "E-posta Ayarları"
+
+#: includes/translations.php:59 lib/dashboard-widget.php:169
+msgid "Email Logs"
+msgstr "E-posta Günlükleri"
+
+#: includes/translations.php:60
+msgid "Test Email"
+msgstr "Test E-posta Adresi"
+
+#: includes/translations.php:61
+msgid "Plugin Settings"
+msgstr "Eklenti Ayarları"
+
+#: includes/translations.php:62
+msgid "System Information"
+msgstr "Sistem Bilgisi"
+
+#: includes/translations.php:63
+msgid "Ask For Help"
+msgstr "Yardım İste"
+
+#: includes/translations.php:64
+msgid "Roles & Capabilities"
+msgstr "Roller & Yetenekler"
+
+#: includes/translations.php:67
+msgid "Success!"
+msgstr "Başarı!"
+
+#: includes/translations.php:68
+msgid "Email Setup has been updated Successfully"
+msgstr "E-posta Ayarları Başarıyla güncellendi"
+
+#: includes/translations.php:69
+msgid "Test Email was sent Successfully!"
+msgstr "Test E-posta Adresi Başarıyla gönderildi!"
+
+#: includes/translations.php:70
+msgid "Test Email was not sent!"
+msgstr "Test E-posta Adresi gönderilmedi!"
+
+#: includes/translations.php:71
+msgid "Plugin Settings have been updated Successfully"
+msgstr "Eklenti Ayarları Başarıyla güncellendi"
+
+#: includes/translations.php:72
+msgid ""
+"The OAuth is not supported by providing SMTP Host, kindly provide username "
+"and password"
+msgstr ""
+"OAuth, SMTP Sunucu tarafından desteklenmemektedir, lütfen kullanıcı adı ve "
+"parolayı belirtin"
+
+#: includes/translations.php:73
+msgid "Your Name"
+msgstr "İsminiz"
+
+#: includes/translations.php:74
+msgid "Please provide your Name"
+msgstr "Lütfen İsminizi belirtin"
+
+#: includes/translations.php:75
+msgid "Roles & Capabilities have been updated Successfully"
+msgstr "Roller & Yetenekler Başarıyla güncellendi"
+
+#: includes/translations.php:78 lib/dashboard-widget.php:173
+msgid "Email Sent"
+msgstr "E-posta Gönderildi"
+
+#: includes/translations.php:79 lib/dashboard-widget.php:178
+msgid "Email Not Sent"
+msgstr "E-posta Gönderilmedi"
+
+#: includes/translations.php:80
+msgid ""
+"You don't have Sufficient Access to this Page. Kindly contact the "
+"Administrator for more Privileges"
+msgstr ""
+"Bu sayfa için Uygun Erişim Hakkına sahip değilsiniz. Lütfen daha fazla "
+"Ayrıcalık için Yönetici ile iletişime geçin"
+
+#: includes/translations.php:81
+msgid "Enable"
+msgstr "Etkinleştir"
+
+#: includes/translations.php:82
+msgid "Disable"
+msgstr "Devre Dışı Bırak"
+
+#: includes/translations.php:83
+msgid "Override"
+msgstr "Yoksay"
+
+#: includes/translations.php:84
+msgid "Don't Override"
+msgstr "Yoksayma"
+
+#: includes/translations.php:85
+msgid "Save Settings"
+msgstr "Ayarları Kaydet"
+
+#: includes/translations.php:86
+msgid "Subject"
+msgstr "Konu"
+
+#: includes/translations.php:87
+msgid "Next Step"
+msgstr "Sonraki Adım"
+
+#: includes/translations.php:88
+msgid "Previous Step"
+msgstr "Önceki Adım"
+
+#: includes/translations.php:89
+msgid "Know about Full Features"
+msgstr "Tüm Özellikleri Öğren"
+
+#: includes/translations.php:90
+msgid "or"
+msgstr "ya da"
+
+#: includes/translations.php:91
+msgid "Check our Online Demos"
+msgstr "Çevrim içi Deneme Sürümlerimizi inceleyin"
+
+#: includes/translations.php:92
+msgid "N/A"
+msgstr "N/A"
+
+#: includes/translations.php:97
+msgid ""
+"A valid Email Address that will be used in the \"CC\" field of the email. "
+"Use Comma \",\" for including multiple email addresses in the \"CC\" field"
+msgstr ""
+"E-postanın 'CC' alanında kullanılacak olan geçerli bir E-posta Adresi. 'CC' "
+"alanına birden fazla e-posta adresi eklemek için virgül kullanın"
+
+#: includes/translations.php:98
+msgid ""
+"A valid Email Address that will be used in the 'BCC' field of the email. Use "
+"Comma ',' for including multiple email addresses in the 'BCC' field"
+msgstr ""
+"E-postanın 'BCC' alanında kullanılacak olan geçerli bir E-posta Adresi. "
+"'BCC' alanına birden fazla e-posta adresi eklemek için virgül kullanın"
+
+#: includes/translations.php:99
+msgid "Please provide CC Email Address"
+msgstr "Lütfen CC E-posta Adresini belirtin"
+
+#: includes/translations.php:100
+msgid "Please provide BCC Email Address"
+msgstr "Lütfen BCC E-posta Adresini belirtin"
+
+#: includes/translations.php:101
+msgid "From Name"
+msgstr "İsimden"
+
+#: includes/translations.php:102
+msgid "Please provide From Name"
+msgstr "Lütfen Gönderici İsmini belirtin"
+
+#: includes/translations.php:103
+msgid "From Email"
+msgstr "E-postadan"
+
+#: includes/translations.php:104
+msgid "Please provide From Email Address"
+msgstr "Lütfen Gönderici E-posta Adresini belirtin"
+
+#: includes/translations.php:105
+msgid "Mailer Type"
+msgstr "Posta İstemci Türü"
+
+#: includes/translations.php:106
+msgid "Choose among the variety of options for routing emails."
+msgstr ""
+"E-postaları yönlendirmek için çeşitli seçenekler arasından tercihinizi yapın."
+
+#: includes/translations.php:107
+msgid "Send Email via SMTP"
+msgstr "SMTP aracılığıyla E-posta Gönder"
+
+#: includes/translations.php:108
+msgid "Use The PHP mail() Function"
+msgstr "PHP mail() Fonksiyonunu kullan"
+
+#: includes/translations.php:109 includes/translations.php:236
+msgid "SMTP Host"
+msgstr "SMTP Sunucusu"
+
+#: includes/translations.php:110
+msgid "Server that will send the email"
+msgstr "E-postayı gönderecek olan sunucu"
+
+#: includes/translations.php:111
+msgid "Please provide SMTP Host"
+msgstr "Lütfen SMTP Sunucuyu belirtin"
+
+#: includes/translations.php:112
+msgid "SMTP Port"
+msgstr "SMTP Portu"
+
+#: includes/translations.php:113
+msgid "Port to connect to the email server"
+msgstr "E-posta sunucusuna bağlanacak olan port"
+
+#: includes/translations.php:114
+msgid "Please provide SMTP Port"
+msgstr "Lütfen SMTP Portunu belirtin"
+
+#: includes/translations.php:115
+msgid "Encryption"
+msgstr "Şifreleme"
+
+#: includes/translations.php:116
+msgid ""
+"Encrypt the email when sent to the email server using the different methods "
+"available"
+msgstr ""
+"Mevcut durumdaki farklı metotları kullanan e-posta sunucusuna e-posta "
+"gönderildiğinde e-postayı şifrele"
+
+#: includes/translations.php:120
+msgid "Authentication"
+msgstr "Kimlik Doğrulaması"
+
+#: includes/translations.php:121
+msgid "Method for authentication (almost always Login)"
+msgstr "Kimlik Doğrulama için metot (neredeyse her zaman Giriş Yapın)"
+
+#: includes/translations.php:122 includes/translations.php:157
+msgid "Email Address"
+msgstr "E-posta Adresi"
+
+#: includes/translations.php:123
+msgid "A valid Email Address on which you would like to send a Test Email"
+msgstr "Test E-postasını göndermek istediğiniz geçerli bir E-posta Adresi"
+
+#: includes/translations.php:124
+msgid "Please provide Email Address"
+msgstr "Lütfen E-posta Adresini belirtin"
+
+#: includes/translations.php:125
+msgid "Subject Line for your Test Email"
+msgstr "Test E-postanız için Konu Satırı"
+
+#: includes/translations.php:126
+msgid "Please provide Subject"
+msgstr "Lütfen Konuyu belirtin"
+
+#: includes/translations.php:127 includes/translations.php:187
+msgid "Email Content"
+msgstr "E-posta İçeriği"
+
+#: includes/translations.php:128
+msgid "Email Content for your Test Email"
+msgstr "Test E-postanız için E-posta İçeriği"
+
+#: includes/translations.php:129
+msgid "Send Test Email"
+msgstr "Test E-postasını Gönder"
+
+#: includes/translations.php:130
+msgid "Checking your settings"
+msgstr "Ayarlarınız kontrol ediliyor"
+
+#: includes/translations.php:131
+msgid "Result"
+msgstr "Sonuç"
+
+#: includes/translations.php:132
+msgid "Send Another Test Email"
+msgstr "Başka Bir Test E-postası Gönder"
+
+#: includes/translations.php:133
+msgid "From Name Configuration"
+msgstr "İsim Yapılandırmasından"
+
+#: includes/translations.php:134
+msgid ""
+"Do you want to override the Default Name that tells email recipient about "
+"who sent the email?"
+msgstr ""
+"E-posta alıcısına, e-postayı gönderen hakkında bilgiler sunan Varsayılan "
+"İsmi yok saymak istiyor musunuz?"
+
+#: includes/translations.php:135
+msgid "From Email Configuration"
+msgstr "E-posta Yapılandırmasından"
+
+#: includes/translations.php:136
+msgid ""
+"Do you want to override the Default Email Address that tells email recipient "
+"about the sender?"
+msgstr ""
+"E-posta alıcısına, e-postayı gönderen hakkında bilgiler sunan Varsayılan E-"
+"posta Adresini yok saymak istiyor musunuz?"
+
+#: includes/translations.php:137
+msgid "Username"
+msgstr "Kullanıcı Adı"
+
+#: includes/translations.php:138
+msgid ""
+" Login is typically the full email address (Example: mailbox@yourdomain.com)"
+msgstr "Giriş adresi, tam e-posta adresidir (Örnek: mailbox@yourdomain.com)"
+
+#: includes/translations.php:139
+msgid "Please provide username"
+msgstr "Lütfen kullanıcı adınızı belirtin"
+
+#: includes/translations.php:140
+msgid "Password"
+msgstr "Parola"
+
+#: includes/translations.php:141
+msgid "Password is typically the same as the password to retrieve the email"
+msgstr "Parola, e-postayı almak için kullandığınız parola ile aynıdır"
+
+#: includes/translations.php:142
+msgid "Please provide password"
+msgstr "Lütfen parolayı belirtin"
+
+#: includes/translations.php:143
+msgid "Redirect URI"
+msgstr "Yönlendirmeli URI"
+
+#: includes/translations.php:144
+msgid ""
+"Please copy this Redirect URI and Paste into Redirect URI field when "
+"creating your app"
+msgstr ""
+"Lütfen bu Yönlendirmeli URI'ı kopyalayın ve uygulamayı kurarken "
+"Yönlendirmeli URI alanına yapıştırın"
+
+#: includes/translations.php:150
+msgid "Client Id"
+msgstr "İstemci Kimliği"
+
+#: includes/translations.php:151
+msgid "Secret Key"
+msgstr "Gizli Anahtar"
+
+#: includes/translations.php:152
+msgid "Client Id issued by your SMTP Host"
+msgstr "SMTP Sunucunuz tarafından verilen İstemci Kimliği"
+
+#: includes/translations.php:153
+msgid "Secret Key issued by your SMTP Host"
+msgstr "SMTP Sunucunuz tarafından verilen Gizli Anahtar"
+
+#: includes/translations.php:154
+msgid "Please provide Client Id"
+msgstr "Lütfen İstemci Kimliğini belirtin"
+
+#: includes/translations.php:155
+msgid "Please provide Secret Key"
+msgstr "Lütfen Gizli Anahtarı belirtin"
+
+#: includes/translations.php:156
+msgid ""
+"Yes, automatically send a Test Email upon clicking on the Next Step Button "
+"to verify settings"
+msgstr ""
+"Evet, ayarları doğrulamak için Sonraki Adım Butonuna tıkladığımda bir Test E-"
+"postasını otomatik olarak gönder"
+
+#: includes/translations.php:158
+msgid "A valid Email Address account from which you would like to send Emails"
+msgstr "E-postaları göndermek istediğiniz geçerli bir E-posta Adresi hesabı"
+
+#: includes/translations.php:159
+msgid "Please provide valid Email Address"
+msgstr "Lütfen geçerli E-posta Adresi belirtin"
+
+#: includes/translations.php:160
+msgid "Reply To"
+msgstr "Yanıtla"
+
+#: includes/translations.php:161
+msgid ""
+"A valid Email Address that will be used in the 'Reply-To' field of the email"
+msgstr "E-postanın 'Yanıtla' alanında kullanılacak geçerli bir E-posta Adresi"
+
+#: includes/translations.php:162
+msgid "Please provide Reply To Email Address"
+msgstr "Lütfen E-posta Adresine Yanıt verin"
+
+#: includes/translations.php:163
+msgid "Get API Key"
+msgstr "API Anahtarını Al"
+
+#: includes/translations.php:164
+msgid "How to setup?"
+msgstr "Nasıl kurulur?"
+
+#: includes/translations.php:165
+msgid "SendGrid API"
+msgstr "SendGrid API"
+
+#: includes/translations.php:167
+msgid "Start Date"
+msgstr "Başlangıç Tarihi"
+
+#: includes/translations.php:168 includes/translations.php:183
+msgid "Resend Email"
+msgstr "E-postayı Yeniden Gönder"
+
+#: includes/translations.php:169
+msgid "Please provide Start Date"
+msgstr "Lütfen Başlangıç Tarihini belirtin"
+
+#: includes/translations.php:170
+msgid "Start Date for Email Logs"
+msgstr "E-posta Günkükleri için Başlangıç Tarihi"
+
+#: includes/translations.php:171
+msgid "End Date"
+msgstr "Bitiş Tarihi"
+
+#: includes/translations.php:172
+msgid "Limit Records"
+msgstr "Kayıtları Sınırla"
+
+#: includes/translations.php:173
+msgid "Number of Logs to view"
+msgstr "Görüntülenecek Günlük Sayısı"
+
+#: includes/translations.php:178
+msgid "Please provide End Date"
+msgstr "Lütfen Bitiş Tarihini belirtin"
+
+#: includes/translations.php:179
+msgid "End Date for Email Logs"
+msgstr "E-posta Günlükleri için Bitiş Tarihi"
+
+#: includes/translations.php:180
+msgid "Submit"
+msgstr "Gönder"
+
+#: includes/translations.php:181
+msgid "Bulk Action"
+msgstr "Toplu Eylem"
+
+#: includes/translations.php:182
+msgid "Delete"
+msgstr "Sil"
+
+#: includes/translations.php:184
+msgid "Apply"
+msgstr "Uygula"
+
+#: includes/translations.php:185
+msgid "Email To"
+msgstr "Buna E-posta gönder"
+
+#: includes/translations.php:186
+msgid "Action"
+msgstr "Eylem"
+
+#: includes/translations.php:188
+msgid "Debug Output"
+msgstr "Hata Ayıklama Çıktısı"
+
+#: includes/translations.php:189
+msgid "Date/Time"
+msgstr "Tarih / Zaman"
+
+#: includes/translations.php:192
+msgid "Debug Mode"
+msgstr "Hata Ayıklama Modu"
+
+#: includes/translations.php:193
+msgid "Do you want to see Debugging Output for your emails?"
+msgstr "E-postalarınız için Hata Ayıklama Çıktısını görmek istiyor musunuz?"
+
+#: includes/translations.php:194
+msgid "Remove Database at Uninstall"
+msgstr "Kaldırma İşleminde Veri Tabanını Sil"
+
+#: includes/translations.php:195
+msgid "Do you want to remove database at Uninstall of the Plugin?"
+msgstr "Eklenti Kaldırılırken veri tabanının silinmesini istiyor musunuz?"
+
+#: includes/translations.php:196
+msgid "Monitor Email Logs"
+msgstr "E-posta Günlüklerini Görüntüle"
+
+#: includes/translations.php:197
+msgid "Do you want to monitor your all Outgoing Emails?"
+msgstr "Giden tüm E-postalarınızı görüntülemek istiyor musunuz?"
+
+#: includes/translations.php:200
+msgid "Show Mail Bank Menu"
+msgstr "Mail Bank Menüsünü Göster"
+
+#: includes/translations.php:201
+msgid ""
+"Choose among the following roles who would be able to see the Mail Bank Menu?"
+msgstr ""
+"Mail Bank Menüsünü aşağıdaki rollerden hangilerinin görebileceğini seçmek "
+"ister misiniz?"
+
+#: includes/translations.php:202
+msgid "Administrator"
+msgstr "Yönetici"
+
+#: includes/translations.php:203
+msgid "Author"
+msgstr "Yazar"
+
+#: includes/translations.php:204
+msgid "Editor"
+msgstr "Editör"
+
+#: includes/translations.php:205
+msgid "Contributor"
+msgstr "Katkıda Bulunan"
+
+#: includes/translations.php:206
+msgid "Subscriber"
+msgstr "Abone"
+
+#: includes/translations.php:207
+msgid "Others"
+msgstr "Diğerleri"
+
+#: includes/translations.php:208
+msgid "Show Mail Bank Top Bar Menu"
+msgstr "Mail Bank Üst Çubuk Menüsünü Göster"
+
+#: includes/translations.php:209
+msgid "Do you want to show Mail Bank menu in Top Bar?"
+msgstr "Üst Çubuk'ta Mail Bank menüsünü göstermek istiyor musunuz?"
+
+#: includes/translations.php:210
+msgid "An Administrator Role can do the following "
+msgstr "Yönetici Rolü şunları yapabilir"
+
+#: includes/translations.php:211
+msgid ""
+"Choose what pages would be visible to the users having Administrator Access"
+msgstr ""
+"Yönetici Erişim hakkında sahip kullanıcılar için görünür olacak olan "
+"sayfaları seçin"
+
+#: includes/translations.php:212
+msgid "Full Control"
+msgstr "Tam Denetim"
+
+#: includes/translations.php:213
+msgid "An Author Role can do the following "
+msgstr "Yazar Rolü şunları yapabilir"
+
+#: includes/translations.php:214
+msgid "Choose what pages would be visible to the users having Author Access"
+msgstr ""
+"Yazar Erişim hakkında sahip kullanıcılar için görünür olacak olan sayfaları "
+"seçin"
+
+#: includes/translations.php:215
+msgid "An Editor Role can do the following "
+msgstr "Editör Rolü şunları yapabilir"
+
+#: includes/translations.php:216
+msgid "Choose what pages would be visible to the users having Editor Access"
+msgstr ""
+"Editör Erişim hakkında sahip kullanıcılar için görünür olacak olan sayfaları "
+"seçin"
+
+#: includes/translations.php:217
+msgid "A Contributor Role can do the following "
+msgstr "Katkı Sağlayan Kişiler şunları yapabilir"
+
+#: includes/translations.php:218
+msgid ""
+"Choose what pages would be visible to the users having Contributor Access"
+msgstr ""
+"Katkı Sağlayan Erişim hakkında sahip kullanıcılar için görünür olacak olan "
+"sayfaları seçin"
+
+#: includes/translations.php:219
+msgid "Other Roles can do the following "
+msgstr "Diğer Roller şunları yapabilir"
+
+#: includes/translations.php:220
+msgid ""
+"Choose what pages would be visible to the users having Others Role Access"
+msgstr ""
+"Diğerleri Rolünde Erişim hakkında sahip kullanıcılar için görünür olacak "
+"olan sayfaları seçin"
+
+#: includes/translations.php:221
+msgid "Please tick the appropriate capabilities for security purposes "
+msgstr "Güvenlik nedeniyle lütfen uygun yetenekleri işaretleyin"
+
+#: includes/translations.php:222
+msgid "Only users with these capabilities can access Mail Bank"
+msgstr ""
+"Yalnızca bu yeteneklere sahip olan kullanıcılar, Mail Bank'e erişebilirler"
+
+#: includes/translations.php:223
+msgid "A Subscriber Role can do the following"
+msgstr "Abone Rolü şunları yapabilir"
+
+#: includes/translations.php:224
+msgid ""
+"Choose what pages would be visible to the users having Subscriber Access"
+msgstr ""
+"Abone Erişim hakkında sahip kullanıcılar için görünür olacak olan sayfaları "
+"seçin"
+
+#: includes/translations.php:227
+msgid "Sending Test Email to"
+msgstr "Test E-postası gönderiliyor"
+
+#: includes/translations.php:228
+msgid "Email Status"
+msgstr "E-posta Durumu"
+
+#: includes/translations.php:231
+msgid "Connectivity Test"
+msgstr "Bağlantı Testi"
+
+#: includes/translations.php:232
+msgid "Transport"
+msgstr "İletim"
+
+#: includes/translations.php:233
+msgid "Socket"
+msgstr "Soket"
+
+#: includes/translations.php:234
+msgid "Status"
+msgstr "Durum"
+
+#: includes/translations.php:235
+msgid "SMTP"
+msgstr "SMTP"
+
+#: includes/translations.php:237
+msgid "Begin Test"
+msgstr "Teste Başla"
+
+#: includes/translations.php:239
+msgid "SMTP Server that will be used for a Connectivity Test"
+msgstr "Bağlantı Testi için SMTP Sunucusu kullanılacaktır"
+
+#: includes/translations.php:242
+msgid "Additional Headers"
+msgstr "Ek Bilgiler"
+
+#: includes/translations.php:243
+msgid ""
+"You also can insert additional headers in this optional field in order to "
+"include in your email"
+msgstr ""
+"E-postanıza dahil etmek için bu isteğe bağlı alanda ek bilgiler ilave "
+"edebilirsiniz"
+
+#: lib/dashboard-widget.php:78
+msgid "to"
+msgstr "kime"
+
+#: lib/dashboard-widget.php:79
+msgid "using"
+msgstr "kullanarak"
+
+#: lib/dashboard-widget.php:167
+msgid "is configured"
+msgstr "yapılandırılmıştır"
+
+#: lib/dashboard-widget.php:168
+msgid "will send mail through "
+msgstr "posta gönderecek"
+
+#: lib/dashboard-widget.php:169
+msgid "Email Configuration"
+msgstr "E-posta Yapılandırma"
+
+#: lib/dashboard-widget.php:183
+msgid "Upgrade Now to Premium Editions"
+msgstr "Şimdi Premium Versiyonlara Yükselt"
+
+#: views/wizard/wizard.php:52
+msgid "Hi there!"
+msgstr "Merhaba!"
+
+#: views/wizard/wizard.php:53
+msgid ""
+"Don't ever miss an opportunity to opt in for Email Notifications / "
+"Announcements about exciting New Features and Update Releases."
+msgstr ""
+"Heyecan verici Yeni Özellikler ve Güncellemeler hakkında E-posta "
+"Bildirimleri / Duyuruları almak için dahil olma fırsatını asla kaçırmayın."
+
+#: views/wizard/wizard.php:54
+msgid ""
+"Contribute in helping us making our plugin compatible with most plugins and "
+"themes by allowing to share non-sensitive information about your website."
+msgstr ""
+"Sitenizdeki özel olmayan bilgilerin paylaşılmasına izin vererek, "
+"eklentimizin pek çok eklenti ve temayla uyumlu olmasına yardımcı olarak "
+"bizlere katkıda bulunun."
+
+#: views/wizard/wizard.php:55
+msgid ""
+"If you opt in, some data about your usage of Mail Bank Plugin will be sent "
+"to our servers for Compatiblity Testing Purposes and email notifications."
+msgstr ""
+"Kabul ederseniz, Posta Bankası Eklentisi kullanımınızla ilgili bazı veriler, "
+"Uyumluluk Test Amaçları ve e-posta bildirimleri için sunucularımıza "
+"gönderilecektir."
+
+#: views/wizard/wizard.php:62
+msgid "Email Address for Notifications"
+msgstr "Bildirimler için E-posta Adresi"
+
+#: views/wizard/wizard.php:68
+msgid "If you're not ready to Opt-In, that's ok too!"
+msgstr "Eğer dahil olmaya hazır değilsiniz, bu da problem değil!"
+
+#: views/wizard/wizard.php:69
+msgid "Mail Bank will still work fine."
+msgstr "Mail Bank, iyi şekilde çalışmaya devam edecek."
+
+#: views/wizard/wizard.php:73
+msgid "What permissions are being granted?"
+msgstr "Hangi izinler verilmiştir?"
+
+#: views/wizard/wizard.php:81
+msgid "User Details"
+msgstr "Kullanıcı Bilgileri"
+
+#: views/wizard/wizard.php:82
+msgid "Name and Email Address"
+msgstr "İsim ve E-posta Adresi"
+
+#: views/wizard/wizard.php:92
+msgid "Current Plugin Status"
+msgstr "Mevcut Eklenti Durumu"
+
+#: views/wizard/wizard.php:93
+msgid "Activation, Deactivation and Uninstall"
+msgstr "Etkinleştirme, Devre Dışı Bırakma ve Kaldırma"
+
+#: views/wizard/wizard.php:103
+msgid "Notifications"
+msgstr "Bildirimler"
+
+#: views/wizard/wizard.php:104
+msgid "Updates &amp; Announcements"
+msgstr "Güncellemeler & Duyurular"
+
+#: views/wizard/wizard.php:114
+msgid "Website Overview"
+msgstr "İnternet Sitesi Genel Bakış"
+
+#: views/wizard/wizard.php:115
+msgid "Site URL, WP Version, PHP Info, Plugins &amp; Themes Info"
+msgstr "Site Adresi, WP Versiyonu, PHP Bilgisi, Eklenti & Tema Bilgisi"
+
+#: views/wizard/wizard.php:124
+msgid "Opt-In &amp; Continue"
+msgstr "Opt-In & amp; Devam et"
+
+#: views/wizard/wizard.php:128
+msgid "Skip &amp; Continue"
+msgstr "& Amp; Devam et"
+
+#: views/wizard/wizard.php:135
+msgid "Privacy Policy"
+msgstr "Gizlilik Politikası"
+
+#: views/wizard/wizard.php:137
+msgid "Terms &amp; Conditions"
+msgstr "Hükümler &amp; Koşullar"
+
+#: wp-mail-bank.php:912
+msgid "Sure! I'd love to!"
+msgstr "Elbette! İstiyorum!"
+
+#: wp-mail-bank.php:913
+msgid "I've already left a review"
+msgstr "Bir yorum yaptım"
+
+#: wp-mail-bank.php:914
+msgid "Maybe Later"
+msgstr "Belki Daha Sonra"
+
+#: wp-mail-bank.php:916
+msgid "Leave A Review For Mail Bank ?"
+msgstr "Mail Bank için Yorum Yapmak ister misiniz?"
+
+#: wp-mail-bank.php:917
+msgid ""
+"We love and care about you. Mail Bank Team is putting our maximum efforts to "
+"provide you the best functionalities.<br> We would really appreciate if you "
+"could spend a couple of seconds to give a Nice Review to the plugin for "
+"motivating us!"
+msgstr ""
+"Sizi seviyor ve umursuyoruz. Mail Bank Takımımız, en iyi fonksiyonları size "
+"sunmak için maksimum gayret ile çalışıyor. <br> Bizi motive etmek için bir "
+"kaç saniyenizi ayırarak bize İyi Bir Yorum yaparsanız gerçekten mutluluk "
+"duyacağız!"
+
+#: wp-mail-bank.php:1074
+msgid "We feel guilty when anyone stop using Mail Bank."
+msgstr ""
+"Birisi Mail Bank'ı kullanmayı bıraktığında kendimizi suçlu hissediyoruz."
+
+#: wp-mail-bank.php:1075
+msgid "If Mail Bank isn't working for you, others also may not."
+msgstr "Eğer Mail Bank sizin için çalışmıyor ise, diğerleri de çalışmayabilir."
+
+#: wp-mail-bank.php:1076
+msgid "We would love to hear your feedback about what went wrong."
+msgstr "Sorun ile ilgili geri bildiriminizi duymaktan mutluluk duyacağız."
+
+#: wp-mail-bank.php:1077
+msgid "We would like to help you in fixing the issue."
+msgstr "Sorunu çözmek için size yardım etmek istiyoruz."
+
+#: wp-mail-bank.php:1078
+msgid ""
+"If you click Continue, some data would be sent to our servers for "
+"Compatiblity Testing Purposes."
+msgstr ""
+"Devam'ı tıklatırsanız, Uyumluluk Test Amaçları için sunucularımıza bazı "
+"veriler gönderilir."
+
+#: wp-mail-bank.php:1079
+msgid "If you Skip, no data would be shared with our servers."
+msgstr "Atlarsanız, sunucularımızla hiçbir veri paylaşılmaz."
+
+#: wp-mail-bank.php:1086
+msgid "The Plugin didn't work"
+msgstr "Eklenti çalışmadı"
+
+#: wp-mail-bank.php:1092
+msgid "I found a better Plugin"
+msgstr "Daha iyi bir Eklenti buldum"
+
+#: wp-mail-bank.php:1098
+msgid "It's a temporary deactivation. I'm just debugging an issue."
+msgstr ""
+"Geçici bir süre için devre dışı bıraktım. Sadece bir sorunu çözmeye "
+"çalışıyorum."
+
+#: wp-mail-bank.php:1104
+msgid "Open a Support Ticket for me."
+msgstr "Benim için bir Destek Talebi aç."
+
+#: wp-mail-bank.php:1174
+msgid "WP Mail Bank Compatibility Warning"
+msgstr "WP Mail Bank Uyumluluk Uyarısı"
+
+#: wp-mail-bank.php:1175
+msgid ""
+"The following plugins are not compatible with Mail Bank and may lead to "
+"unexpected results: "
+msgstr ""
+"Aşağıdaki eklentiler Mail Bank ile uyumlu değildir ve beklenmedik sonuçlara "
+"yol açabilir:"
+
+#: wp-mail-bank.php:1181
+msgid "Deactivate"
+msgstr "Devre dışı bırakmak"
+
+#~ msgid "SMTP Debugging Output"
+#~ msgstr "SMTP Hata Ayıklama Çıktısı"
+
+#~ msgid "Get Google Client Id and Secret Key"
+#~ msgstr "Google İstemci Kimliğini ve Gizli Anahtarı Al"
+
+#~ msgid "Get Microsoft Client Id and Secret Key"
+#~ msgstr "Microsoft İstemci Kimliğini ve Gizli Anahtarı Al"
+
+#~ msgid "Get Yahoo Client Id and Secret Key"
+#~ msgstr "Yahoo İstemci Kimliğini ve Gizli Anahtarı Al"
+
+#~ msgid "Use OAuth (Client Id and Secret Key required)"
+#~ msgstr "OAuth Kullan (İstemci Kimliği ve Gizli Anahtar gerekli)"
+
+#~ msgid "Email Log Details"
+#~ msgstr "E-posta Günlük Detayları"
+
+#~ msgid "Feedback"
+#~ msgstr "Geribildirim"
+
+#~ msgid "Your Feedback has been sent Successfully"
+#~ msgstr "Geri bildiriminiz Başarıyla gönderildi"
+
+#~ msgid "Please choose an Action from Dropdown!"
+#~ msgstr "Lütfen Açılır menüden bir Eylem seçiniz!"
+
+#~ msgid "Please choose at least 1 record to delete!"
+#~ msgstr "Silmek için lütfen en az 1 kayıt seçiniz!"
+
+#~ msgid "Are you sure you want to delete Email Logs?"
+#~ msgstr "E-posta Günlüklerini silmek istediğinize emin misiniz?"
+
+#~ msgid "Selected Logs have been deleted Successfully"
+#~ msgstr "Seçili Günlükler Başarıyla silinmiştir"
+
+#~ msgid "Are you sure you want to Resend Emails?"
+#~ msgstr "E-postaları Yeniden Göndermek istediğinize emin misiniz?"
+
+#~ msgid "Invalid Secret Key. Please rectify and try again!"
+#~ msgstr "Geçersiz Gizli Anahtar. Lütfen düzeltin ve tekrar deneyin!"
+
+#~ msgid "Licensing"
+#~ msgstr "Lisanslama"
+
+#~ msgid "Your Email has been Resent Successfully"
+#~ msgstr "E-postanız Başarıyla Tekrar gönderildi"
+
+#~ msgid "Your Emails have been Resent Successfully"
+#~ msgstr "E-postalarınız Başarıyla Tekrar gönderildi"
+
+#~ msgid "Unfortunately, Your Email has not been Sent"
+#~ msgstr "Maalesef, E-postanız gönderilemedi"
+
+#~ msgid "Are you sure you want to Resend Email?"
+#~ msgstr "E-postayı Yeniden göndermek istediğinize emin misiniz?"
+
+#~ msgid "Your License has been activated Successfully"
+#~ msgstr "Lisansınız Başarıyla aktif edildi."
+
+#~ msgid ""
+#~ "The following php extensions are not found on your server or are "
+#~ "currently disabled. These might create few problems in configuring Mail "
+#~ "Bank. Please contact your WebHost to setup these extensions on your server"
+#~ msgstr ""
+#~ "Aşağıda yer alan php eklentileri, sunucunuzda bulunamadı ya da şuan da "
+#~ "devre dışı durumda. Bu durum, Mail Bank yapılandırılırken problemlere yol "
+#~ "açabilir. Bu eklentileri sunucunuza kurmak için lütfen WebHost'unuz ile "
+#~ "iletişime geçin"
+
+#~ msgid "In this field, you would need to provide Mailgun API Key"
+#~ msgstr "Bu alanda, Mailgun API Anahtarını bildirmeniz gerekir"
+
+#~ msgid "Domain Name"
+#~ msgstr "Alan Adı"
+
+#~ msgid "In this field, you would need to provide Mailgun domain name"
+#~ msgstr "Bu alanda, Mailgun alan adını bildirmeniz gerekir"
+
+#~ msgid "Please provide Mailgun Domain Name"
+#~ msgstr "Lütfen Mailgun Alan Adını belirtin"
+
+#~ msgid "In this field, you need to provide SendGrid API Key"
+#~ msgstr "Bu alanda, SendGrid API Anahtarını bildirmeniz gerekir"
+
+#~ msgid "Please provide valid API key"
+#~ msgstr "Lütfen geçerli API anahtarını belirtin"
+
+#~ msgid ""
+#~ "A valid Email Address that will be used in the 'CC' field of the email. "
+#~ "Use Comma ',' for including multiple email addresses in the 'CC' field"
+#~ msgstr ""
+#~ "E-postanın 'CC' alanında kullanılacak olan geçerli bir E-posta Adresi. "
+#~ "'CC' alanına birden fazla e-posta adresi eklemek için virgül kullanın"
+
+#~ msgid "Mailer Settings"
+#~ msgstr "Posta İstemcisi Ayarları"
+
+#~ msgid "Choose among the variety of options for routing emails"
+#~ msgstr ""
+#~ "E-postaları yönlendirmek için çeşitli seçenekler arasından tercihinizi "
+#~ "yapın"
+
+#~ msgid "Mailgun API"
+#~ msgstr "Mailgun API"
+
+#~ msgid "Get SendGrid API Key"
+#~ msgstr "SendGrid API Anahtarını Al"
+
+#~ msgid "Use SMTP Authentication"
+#~ msgstr "SMTP Kimlik Doğrulamasını Kullan"
+
+#~ msgid "Don't Use SMTP Authentication"
+#~ msgstr "SMTP Kimlik Doğrulamasını Kullanma"
+
+#~ msgid "Test Email Address"
+#~ msgstr "E-posta Adresini Test Et"
+
+#~ msgid "Email Details"
+#~ msgstr "E-posta Detayları"
+
+#~ msgid "Close"
+#~ msgstr "Kapat"
+
+#~ msgid "Email Sent To"
+#~ msgstr "Kime"
+
+#~ msgid "From"
+#~ msgstr "Kimden"
+
+#~ msgid "Back to Email Logs"
+#~ msgstr "E-posta Günlüklerine Geri Dön"
+
+#~ msgid "Automatic Plugin Updates"
+#~ msgstr "Otomatik Eklenti Güncellemeleri"
+
+#~ msgid ""
+#~ "Please choose a specific option whether to allow Automatic Plugin Updates"
+#~ msgstr ""
+#~ "Otomatik Eklenti Güncellemelerine izin vermek ya da vermemek için lütfen "
+#~ "belirli bir seçeneği belirleyin"
+
+#~ msgid "Monitoring Email Logs"
+#~ msgstr "E-posta Günlükleri Görüntüleniyor"
+
+#~ msgid "Thank You!"
+#~ msgstr "Teşekkürler!"
+
+#~ msgid ""
+#~ "Kindly fill in the below form, if you would like to suggest some features "
+#~ "which are not in the Plugin"
+#~ msgstr ""
+#~ "Eğer Eklentide yer almayan bazı özelliklerle ilgili öneride bulunmak "
+#~ "isterseniz, lütfen aşağıdaki formu doldurun"
+
+#~ msgid ""
+#~ "If you also have any suggestion/complaint, you can use the same form below"
+#~ msgstr ""
+#~ "Eğer herhangi bir öneriniz / şikayetiniz var ise, aşağıdaki aynı formu "
+#~ "kullanabilirsiniz"
+
+#~ msgid "You can also write us on"
+#~ msgstr "Ayrıca bize yazabilirsiniz"
+
+#~ msgid "Please provide your Name which will be sent along with your Feedback"
+#~ msgstr "Lütfen Geri bildiriminiz ile beraber gönderilecek İsminizi belirtin"
+
+#~ msgid "Your Email"
+#~ msgstr "E-posta Adresiniz"
+
+#~ msgid ""
+#~ "Please provide your Email Address which will be sent along with your "
+#~ "Feedback"
+#~ msgstr ""
+#~ "Lütfen Geri bildiriminiz ile beraber gönderilecek E-posta Adresinizi "
+#~ "belirtin"
+
+#~ msgid "Please provide your Email Address"
+#~ msgstr "Lütfen E-posta Adresinizi belirtin"
+
+#~ msgid "Please provide your Feedback which will be sent along"
+#~ msgstr "Lütfen gönderilecek olan Geri Bildiriminizi belirtin"
+
+#~ msgid "Please provide your Feedback"
+#~ msgstr "Lütfen Geri Bildiriminizi belirtin"
+
+#~ msgid "Send Feedback"
+#~ msgstr "Geri Bildirim Gönder"
+
+#~ msgid "Your request Email has been sent Successfully"
+#~ msgstr "Talep e-postanız, başarıyla gönderilmiştir"
+
+#~ msgid "Service Available"
+#~ msgstr "Hizmet Kullanıma Hazır"
+
+#~ msgid "Server ID"
+#~ msgstr "Sunucu No"
+
+#~ msgid "Important Notice!"
+#~ msgstr "Önemli Bildirim!"
+
+#~ msgid ""
+#~ "Congratulations! You have recently purchased Mail Bank and now you would "
+#~ "need to activate the license in order to unlock it!"
+#~ msgstr ""
+#~ "Tebrikler! Mail Bank satın aldınız ve kilidi açmak için lisansı aktive "
+#~ "etmeniz gerekmektedir!"
+
+#~ msgid ""
+#~ "Kindly fill in the required details and click on Validate License to "
+#~ "unlock it"
+#~ msgstr ""
+#~ "Lütfen gerekli bilgileri doldurun ve kilidi açmak için Lisansı Doğrula'ya "
+#~ "tıklayın"
+
+#~ msgid ""
+#~ "If you face any issues activating the license, you may contact us at "
+#~ msgstr ""
+#~ "Eğer lisansı aktive etme aşamasında sorunlar ile karşılaşırsanız, bizimle "
+#~ "iletişime geçebilirsiniz"
+
+#~ msgid "Product Name"
+#~ msgstr "Ürün Adı"
+
+#~ msgid "Current Version"
+#~ msgstr "Geçerli Versiyon"
+
+#~ msgid "Website URL"
+#~ msgstr "İnternet sitesi adresi"
+
+#~ msgid "Order ID"
+#~ msgstr "Sipariş No"
+
+#~ msgid "API KEY"
+#~ msgstr "API Anahtarı"
+
+#~ msgid "Validate License"
+#~ msgstr "Lisansı Doğrula"
+
+#~ msgid "This field shows your Installed Product"
+#~ msgstr "Bu alan, Yüklenmiş Ürününüzü gösterir"
+
+#~ msgid "This field shows your Installed Product Version"
+#~ msgstr "Bu alan, Yüklenmiş Ürününüzün Versiyonunu gösterir"
+
+#~ msgid "This field shows your Website URL"
+#~ msgstr "Bu alan, İnternet sitenizin adresini göstermektedir"
+
+#~ msgid ""
+#~ "Please provide your Order ID  which you have received after purchasing "
+#~ "the Product. This will be used for Validating the License"
+#~ msgstr ""
+#~ "Ürün satın alma işleminden sonra gelen Sipariş Numaranızı lütfen "
+#~ "belirtin. Bu numara, Lisansın Doğrulanması için kullanılacaktır"
+
+#~ msgid ""
+#~ "Please provide your API Key which you have received after purchasing the "
+#~ "Product. This will be used for Validating the License"
+#~ msgstr ""
+#~ "Ürün satın alma işleminden sonra gelen API Anahtarınızı lütfen belirtin. "
+#~ "Bu anahtar, Lisansın Doğrulanması için kullanılacaktır"
+
+#~ msgid "Please provide Order ID received after making the purchase"
+#~ msgstr ""
+#~ "Satın alma işleminden sonra gelen Sipariş Numarasını lütfen belirtin"
+
+#~ msgid "Please provide API Key received after making the purchase"
+#~ msgstr "Satın alma işleminden sonra gelen API Anahtarını lütfen belirtin"
+
+#~ msgid "If Mail Bank is not working for you, others also may not."
+#~ msgstr ""
+#~ "Eğer Mail Bank, sizin için çalışmıyorsa, diğerleri de çalışmayabilir."

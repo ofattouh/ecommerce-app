@@ -1,0 +1,1756 @@
+[08-07-2015 19:07:43] Product #:21633 with start date: 02/09/2015 status is changed to draft for Post #:21633
+[08-07-2015 19:07:45] Product #:21563 with start date: 02/09/2015 status is changed to draft for Post #:21563
+[08-07-2015 19:07:47] Product #:21431 with start date: 07/07/2015 status is changed to draft for Post #:21431
+[08-07-2015 19:07:48] Product #:21265 with start date: 07/07/2015 status is changed to draft for Post #:21265
+[08-07-2015 19:07:50] Product #:19481 with start date: 07/07/2015 status is changed to draft for Post #:19481
+[08-07-2015 19:07:52] Product #:16060 with start date: 07/07/2015 status is changed to draft for Post #:16060
+[08-07-2015 19:07:55] Email sent successfully to PSHSA CC team
+[09-07-2015 19:09:00] Product #:21313 with start date: 07/08/2015 status is changed to draft for Post #:21313
+[09-07-2015 19:09:03] Email sent successfully to PSHSA CC team
+[14-07-2015 19:10:18] Product #:20131 with start date: 07/13/2015 status is changed to draft for Post #:20131
+[14-07-2015 19:10:21] Email sent successfully to PSHSA CC team
+[15-07-2015 19:08:04] Product #:21281 with start date: 07/14/2015 status is changed to draft for Post #:21281
+[15-07-2015 19:08:05] Product #:21128 with start date: 07/14/2015 status is changed to draft for Post #:21128
+[15-07-2015 19:08:05] Product #:17267 with start date: 07/14/2015 status is changed to draft for Post #:17267
+[15-07-2015 19:08:09] Email sent successfully to PSHSA CC team
+[20-07-2015 19:08:41] Product #:19481 with start date: 07/07/2015 status is changed to draft for Post #:19481
+[20-07-2015 19:08:44] Email sent successfully to PSHSA CC team
+[28-07-2015 19:07:38] Product #:21221 with start date: 07/27/2015 status is changed to draft for Post #:21221
+[28-07-2015 19:07:41] Email sent successfully to PSHSA CC team
+[29-07-2015 19:07:56] Product #:21470 with start date: 07/28/2015 status is changed to draft for Post #:21470
+[29-07-2015 19:08:00] Product #:16064 with start date: 07/28/2015 status is changed to draft for Post #:16064
+[29-07-2015 19:08:04] Email sent successfully to PSHSA CC team
+[31-07-2015 19:10:01] Product #:22075 with start date: 07/30/2015 status is changed to draft for Post #:22075
+[31-07-2015 19:10:04] Email sent successfully to PSHSA CC team
+[06-08-2015 19:07:42] Product #:21229 with start date: 08/05/2015 status is changed to draft for Post #:21229
+[06-08-2015 19:07:46] Email sent successfully to PSHSA CC team
+[12-08-2015 19:07:46] Product #:22997 with start date: 08/11/2015 status is changed to draft for Post #:22997
+[12-08-2015 19:07:54] Product #:17689 with start date: 08/11/2015 status is changed to draft for Post #:17689
+[12-08-2015 19:07:56] Email sent successfully to PSHSA CC team
+[19-08-2015 19:07:43] Product #:16066 with start date: 08/18/2015 status is changed to draft for Post #:16066
+[19-08-2015 19:07:46] Email sent successfully to PSHSA CC team
+[25-08-2015 19:07:59] Product #:22633 with start date: 08/24/2015 status is changed to draft for Post #:22633
+[25-08-2015 19:08:03] Email sent successfully to PSHSA CC team
+[27-08-2015 19:07:44] Product #:21231 with start date: 08/26/2015 status is changed to draft for Post #:21231
+[27-08-2015 19:07:47] Email sent successfully to PSHSA CC team
+[03-09-2015 19:07:42] Product #:21633 with start date: 09/02/2015 status is changed to draft for Post #:21633
+[03-09-2015 19:07:47] Product #:21234 with start date: 09/02/2015 status is changed to draft for Post #:21234
+[03-09-2015 19:07:50] Email sent successfully to PSHSA CC team
+[04-09-2015 19:07:42] Product #:24301 with start date: 09/03/2015 status is changed to draft for Post #:24301
+[04-09-2015 19:07:46] Email sent successfully to PSHSA CC team
+[09-09-2015 19:07:44] Product #:14239 with start date: 09/08/2015 status is changed to draft for Post #:14239
+[09-09-2015 19:07:46] Email sent successfully to PSHSA CC team
+[10-09-2015 19:07:47] Product #:16068 with start date: 09/09/2015 status is changed to draft for Post #:16068
+[10-09-2015 19:07:50] Email sent successfully to PSHSA CC team
+[11-09-2015 19:09:01] Product #:22440 with start date: 09/10/2015 status is changed to draft for Post #:22440
+[11-09-2015 19:09:06] Email sent successfully to PSHSA CC team
+[13-09-2015 19:07:58] Product #:24464 with start date: 09/12/2015 status is changed to draft for Post #:24464
+[13-09-2015 19:08:01] Email sent successfully to PSHSA CC team
+[16-09-2015 19:07:45] Product #:18837 with start date: 09/15/2015 status is changed to draft for Post #:18837
+[16-09-2015 19:07:51] Product #:18777 with start date: 09/15/2015 status is changed to draft for Post #:18777
+[16-09-2015 19:07:57] Product #:16074 with start date: 09/15/2015 status is changed to draft for Post #:16074
+[16-09-2015 19:08:04] Product #:14252 with start date: 09/15/2015 status is changed to draft for Post #:14252
+[16-09-2015 19:08:07] Email sent successfully to PSHSA CC team
+[17-09-2015 19:07:43] Product #:22618 with start date: 09/16/2015 status is changed to draft for Post #:22618
+[17-09-2015 19:07:50] Product #:16075 with start date: 09/16/2015 status is changed to draft for Post #:16075
+[17-09-2015 19:07:53] Email sent successfully to PSHSA CC team
+[18-09-2015 19:07:48] Product #:16082 with start date: 09/17/2015 status is changed to draft for Post #:16082
+[18-09-2015 19:07:51] Email sent successfully to PSHSA CC team
+[22-09-2015 19:08:56] Product #:21158 with start date: 09/21/2015 status is changed to draft for Post #:21158
+[22-09-2015 19:08:59] Email sent successfully to PSHSA CC team
+[23-09-2015 19:07:45] Product #:18838 with start date: 09/22/2015 status is changed to draft for Post #:18838
+[23-09-2015 19:07:48] Email sent successfully to PSHSA CC team
+[25-09-2015 19:08:58] Product #:24194 with start date: 09/24/2015 status is changed to draft for Post #:24194
+[25-09-2015 19:09:06] Product #:20740 with start date: 09/24/2015 status is changed to draft for Post #:20740
+[25-09-2015 19:09:09] Email sent successfully to PSHSA CC team
+[26-09-2015 19:07:42] Product #:18847 with start date: 09/25/2015 status is changed to draft for Post #:18847
+[26-09-2015 19:07:44] Email sent successfully to PSHSA CC team
+[29-09-2015 19:12:00] Product #:19275 with start date: 09/28/2015 status is changed to draft for Post #:19275
+[29-09-2015 19:12:03] Email sent successfully to PSHSA CC team
+[30-09-2015 19:07:46] Product #:22841 with start date: 09/29/2015 status is changed to draft for Post #:22841
+[30-09-2015 19:07:51] Product #:22634 with start date: 09/29/2015 status is changed to draft for Post #:22634
+[30-09-2015 19:07:56] Product #:22620 with start date: 09/29/2015 status is changed to draft for Post #:22620
+[30-09-2015 19:08:03] Product #:21246 with start date: 09/29/2015 status is changed to draft for Post #:21246
+[30-09-2015 19:08:09] Product #:14254 with start date: 09/29/2015 status is changed to draft for Post #:14254
+[30-09-2015 19:08:15] Product #:17720 with start date: 09/29/2015 status is changed to draft for Post #:17720
+[30-09-2015 19:08:17] Email sent successfully to PSHSA CC team
+[03-10-2015 19:08:59] Product #:24726 with start date: 10/02/2015 status is changed to draft for Post #:24726
+[03-10-2015 19:09:06] Product #:19289 with start date: 10/02/2015 status is changed to draft for Post #:19289
+[03-10-2015 19:09:09] Email sent successfully to PSHSA CC team
+[06-10-2015 19:07:44] Product #:25197 with start date: 10/05/2015 status is changed to draft for Post #:25197
+[06-10-2015 19:07:48] Email sent successfully to PSHSA CC team
+[07-10-2015 19:09:10] Product #:23057 with start date: 10/06/2015 status is changed to draft for Post #:23057
+[07-10-2015 19:09:16] Product #:19812 with start date: 10/06/2015 status is changed to draft for Post #:19812
+[07-10-2015 19:09:23] Product #:19490 with start date: 10/06/2015 status is changed to draft for Post #:19490
+[07-10-2015 19:09:29] Product #:19488 with start date: 10/06/2015 status is changed to draft for Post #:19488
+[07-10-2015 19:09:35] Product #:16086 with start date: 10/06/2015 status is changed to draft for Post #:16086
+[07-10-2015 19:09:41] Product #:16083 with start date: 10/06/2015 status is changed to draft for Post #:16083
+[07-10-2015 19:09:47] Product #:14258 with start date: 10/06/2015 status is changed to draft for Post #:14258
+[07-10-2015 19:09:49] Email sent successfully to PSHSA CC team
+[08-10-2015 19:08:50] Product #:21283 with start date: 10/07/2015 status is changed to draft for Post #:21283
+[08-10-2015 19:08:57] Product #:21250 with start date: 10/07/2015 status is changed to draft for Post #:21250
+[08-10-2015 19:09:00] Email sent successfully to PSHSA CC team
+[09-10-2015 19:07:48] Product #:19961 with start date: 10/08/2015 status is changed to draft for Post #:19961
+[09-10-2015 19:07:54] Product #:19959 with start date: 10/08/2015 status is changed to draft for Post #:19959
+[09-10-2015 19:07:56] Email sent successfully to PSHSA CC team
+[14-10-2015 19:07:44] Product #:19962 with start date: 10/13/2015 status is changed to draft for Post #:19962
+[14-10-2015 19:07:47] Email sent successfully to PSHSA CC team
+[15-10-2015 19:07:59] Product #:22922 with start date: 10/14/2015 status is changed to draft for Post #:22922
+[15-10-2015 19:08:05] Product #:22650 with start date: 10/14/2015 status is changed to draft for Post #:22650
+[15-10-2015 19:08:13] Product #:21471 with start date: 10/14/2015 status is changed to draft for Post #:21471
+[15-10-2015 19:08:16] Email sent successfully to PSHSA CC team
+[16-10-2015 19:07:42] Product #:24501 with start date: 10/15/2015 status is changed to draft for Post #:24501
+[16-10-2015 19:07:46] Product #:21640 with start date: 10/15/2015 status is changed to draft for Post #:21640
+[16-10-2015 19:07:52] Product #:20487 with start date: 10/15/2015 status is changed to draft for Post #:20487
+[16-10-2015 19:07:57] Product #:20407 with start date: 10/15/2015 status is changed to draft for Post #:20407
+[16-10-2015 19:08:00] Email sent successfully to PSHSA CC team
+[17-10-2015 19:13:29] Product #:23937 with start date: 10/16/2015 status is changed to draft for Post #:23937
+[17-10-2015 19:13:36] Product #:20490 with start date: 10/16/2015 status is changed to draft for Post #:20490
+[17-10-2015 19:13:42] Product #:20395 with start date: 10/16/2015 status is changed to draft for Post #:20395
+[17-10-2015 19:13:50] Email sent successfully to PSHSA CC team
+[21-10-2015 19:09:06] Product #:25202 with start date: 10/20/2015 status is changed to draft for Post #:25202
+[21-10-2015 19:09:16] Product #:24420 with start date: 10/20/2015 status is changed to draft for Post #:24420
+[21-10-2015 19:09:17] Product #:24420 with start date: 10/20/2015 status is changed to draft for Post #:24420
+[21-10-2015 19:09:30] Product #:16089 with start date: 10/20/2015 status is changed to draft for Post #:16089
+[21-10-2015 19:09:30] Product #:16089 with start date: 10/20/2015 status is changed to draft for Post #:16089
+[21-10-2015 19:09:37] Email sent successfully to PSHSA CC team
+[21-10-2015 19:09:37] Email sent successfully to PSHSA CC team
+[22-10-2015 19:15:22] Product #:24590 with start date: 10/21/2015 status is changed to draft for Post #:24590
+[22-10-2015 19:15:29] Product #:16090 with start date: 10/21/2015 status is changed to draft for Post #:16090
+[22-10-2015 19:15:37] Email sent successfully to PSHSA CC team
+[27-10-2015 19:07:48] Product #:23929 with start date: 10/26/2015 status is changed to draft for Post #:23929
+[27-10-2015 19:07:51] Email sent successfully to PSHSA CC team
+[28-10-2015 19:07:47] Product #:24793 with start date: 10/27/2015 status is changed to draft for Post #:24793
+[28-10-2015 19:07:55] Product #:24466 with start date: 10/27/2015 status is changed to draft for Post #:24466
+[28-10-2015 19:08:01] Product #:23939 with start date: 10/27/2015 status is changed to draft for Post #:23939
+[28-10-2015 19:08:08] Product #:23074 with start date: 10/27/2015 status is changed to draft for Post #:23074
+[28-10-2015 19:08:18] Product #:21282 with start date: 10/27/2015 status is changed to draft for Post #:21282
+[28-10-2015 19:08:24] Product #:21263 with start date: 10/27/2015 status is changed to draft for Post #:21263
+[28-10-2015 19:08:30] Product #:21262 with start date: 10/27/2015 status is changed to draft for Post #:21262
+[28-10-2015 19:08:37] Product #:21261 with start date: 10/27/2015 status is changed to draft for Post #:21261
+[28-10-2015 19:08:40] Email sent successfully to PSHSA CC team
+[30-10-2015 19:07:50] Product #:25673 with start date: 10/29/2015 status is changed to draft for Post #:25673
+[30-10-2015 19:07:57] Product #:25252 with start date: 10/29/2015 status is changed to draft for Post #:25252
+[30-10-2015 19:08:00] Email sent successfully to PSHSA CC team
+[01-11-2015 19:07:54] Product #:24741 with start date: 10/31/2015 status is changed to draft for Post #:24741
+[01-11-2015 19:07:57] Email sent successfully to PSHSA CC team
+[04-11-2015 19:08:54] Product #:25496 with start date: 11/03/2015 status is changed to draft for Post #:25496
+[04-11-2015 19:09:01] Product #:24547 with start date: 11/03/2015 status is changed to draft for Post #:24547
+[04-11-2015 19:09:10] Product #:21290 with start date: 11/03/2015 status is changed to draft for Post #:21290
+[04-11-2015 19:09:16] Product #:21289 with start date: 11/03/2015 status is changed to draft for Post #:21289
+[04-11-2015 19:09:23] Product #:16100 with start date: 11/03/2015 status is changed to draft for Post #:16100
+[04-11-2015 19:09:30] Product #:16094 with start date: 11/03/2015 status is changed to draft for Post #:16094
+[04-11-2015 19:09:32] Email sent successfully to PSHSA CC team
+[06-11-2015 19:07:43] Product #:25440 with start date: 11/05/2015 status is changed to draft for Post #:25440
+[06-11-2015 19:07:49] Product #:24564 with start date: 11/05/2015 status is changed to draft for Post #:24564
+[06-11-2015 19:07:52] Email sent successfully to PSHSA CC team
+[10-11-2015 19:07:46] Product #:25444 with start date: 11/09/2015 status is changed to draft for Post #:25444
+[10-11-2015 19:07:49] Email sent successfully to PSHSA CC team
+[11-11-2015 19:09:10] Product #:23709 with start date: 11/10/2015 status is changed to draft for Post #:23709
+[11-11-2015 19:09:14] Product #:23611 with start date: 11/10/2015 status is changed to draft for Post #:23611
+[11-11-2015 19:09:21] Product #:21296 with start date: 11/10/2015 status is changed to draft for Post #:21296
+[11-11-2015 19:09:24] Email sent successfully to PSHSA CC team
+[13-11-2015 19:07:42] Product #:25684 with start date: 11/12/2015 status is changed to draft for Post #:25684
+[13-11-2015 19:07:49] Product #:21303 with start date: 11/12/2015 status is changed to draft for Post #:21303
+[13-11-2015 19:07:51] Email sent successfully to PSHSA CC team
+[14-11-2015 19:07:52] Product #:25699 with start date: 11/13/2015 status is changed to draft for Post #:25699
+[14-11-2015 19:07:55] Email sent successfully to PSHSA CC team
+[17-11-2015 19:07:50] Product #:25884 with start date: 11/16/2015 status is changed to draft for Post #:25884
+[17-11-2015 19:07:58] Product #:23947 with start date: 11/16/2015 status is changed to draft for Post #:23947
+[17-11-2015 19:08:01] Email sent successfully to PSHSA CC team
+[18-11-2015 19:07:50] Product #:24467 with start date: 11/17/2015 status is changed to draft for Post #:24467
+[18-11-2015 19:08:00] Product #:21308 with start date: 11/17/2015 status is changed to draft for Post #:21308
+[18-11-2015 19:08:10] Product #:19491 with start date: 11/17/2015 status is changed to draft for Post #:19491
+[18-11-2015 19:08:21] Product #:16108 with start date: 11/17/2015 status is changed to draft for Post #:16108
+[18-11-2015 19:08:30] Product #:16102 with start date: 11/17/2015 status is changed to draft for Post #:16102
+[18-11-2015 19:08:41] Product #:16113 with start date: 11/17/2015 status is changed to draft for Post #:16113
+[18-11-2015 19:08:44] Email sent successfully to PSHSA CC team
+[20-11-2015 19:07:50] Product #:24796 with start date: 11/19/2015 status is changed to draft for Post #:24796
+[20-11-2015 19:07:50] Product #:24796 with start date: 11/19/2015 status is changed to draft for Post #:24796
+[20-11-2015 19:07:53] Email sent successfully to PSHSA CC team
+[20-11-2015 19:07:53] Email sent successfully to PSHSA CC team
+[22-11-2015 19:07:53] Product #:25681 with start date: 11/21/2015 status is changed to draft for Post #:25681
+[22-11-2015 19:07:56] Email sent successfully to PSHSA CC team
+[24-11-2015 19:07:46] Product #:25869 with start date: 11/23/2015 status is changed to draft for Post #:25869
+[24-11-2015 19:07:54] Product #:25848 with start date: 11/23/2015 status is changed to draft for Post #:25848
+[24-11-2015 19:08:03] Product #:24730 with start date: 11/23/2015 status is changed to draft for Post #:24730
+[24-11-2015 19:08:06] Email sent successfully to PSHSA CC team
+[25-11-2015 22:19:13] Product #:25683 with start date: 11/24/2015 status is changed to draft for Post #:25683
+[25-11-2015 22:19:20] Product #:16097 with start date: 11/24/2015 status is changed to draft for Post #:16097
+[25-11-2015 22:19:26] Product #:16115 with start date: 11/24/2015 status is changed to draft for Post #:16115
+[25-11-2015 22:19:29] Email sent successfully to PSHSA CC team
+[26-11-2015 19:07:43] Product #:24737 with start date: 11/25/2015 status is changed to draft for Post #:24737
+[26-11-2015 19:07:46] Email sent successfully to PSHSA CC team
+[27-11-2015 19:07:51] Product #:25870 with start date: 11/26/2015 status is changed to draft for Post #:25870
+[27-11-2015 19:07:57] Product #:25701 with start date: 11/26/2015 status is changed to draft for Post #:25701
+[27-11-2015 19:08:00] Email sent successfully to PSHSA CC team
+[28-11-2015 19:09:28] Product #:25871 with start date: 11/27/2015 status is changed to draft for Post #:25871
+[28-11-2015 19:09:31] Email sent successfully to PSHSA CC team
+[29-11-2015 19:07:48] Product #:25705 with start date: 11/28/2015 status is changed to draft for Post #:25705
+[29-11-2015 19:07:51] Email sent successfully to PSHSA CC team
+[30-11-2015 19:07:44] Product #:25748 with start date: 11/29/2015 status is changed to draft for Post #:25748
+[30-11-2015 19:07:47] Email sent successfully to PSHSA CC team
+[01-12-2015 19:07:57] Product #:25275 with start date: 11/30/2015 status is changed to draft for Post #:25275
+[01-12-2015 19:08:01] Email sent successfully to PSHSA CC team
+[02-12-2015 19:07:46] Product #:25151 with start date: 12/01/2015 status is changed to draft for Post #:25151
+[02-12-2015 19:07:53] Product #:24930 with start date: 12/01/2015 status is changed to draft for Post #:24930
+[02-12-2015 19:08:00] Product #:21328 with start date: 12/01/2015 status is changed to draft for Post #:21328
+[02-12-2015 19:08:08] Product #:16148 with start date: 12/01/2015 status is changed to draft for Post #:16148
+[02-12-2015 19:08:10] Email sent successfully to PSHSA CC team
+[03-12-2015 19:07:52] Product #:25606 with start date: 12/02/2015 status is changed to draft for Post #:25606
+[03-12-2015 19:07:56] Email sent successfully to PSHSA CC team
+[04-12-2015 19:09:06] Product #:26052 with start date: 12/03/2015 status is changed to draft for Post #:26052
+[04-12-2015 19:09:13] Product #:25888 with start date: 12/03/2015 status is changed to draft for Post #:25888
+[04-12-2015 19:09:16] Email sent successfully to PSHSA CC team
+[08-12-2015 19:10:48] Product #:26119 with start date: 12/07/2015 status is changed to draft for Post #:26119
+[08-12-2015 19:10:55] Product #:25740 with start date: 12/07/2015 status is changed to draft for Post #:25740
+[08-12-2015 19:10:59] Email sent successfully to PSHSA CC team
+[09-12-2015 19:07:50] Product #:25173 with start date: 12/08/2015 status is changed to draft for Post #:25173
+[09-12-2015 19:07:57] Product #:23753 with start date: 12/08/2015 status is changed to draft for Post #:23753
+[09-12-2015 19:08:02] Product #:23711 with start date: 12/08/2015 status is changed to draft for Post #:23711
+[09-12-2015 19:08:10] Product #:22088 with start date: 12/08/2015 status is changed to draft for Post #:22088
+[09-12-2015 19:08:18] Product #:21994 with start date: 12/08/2015 status is changed to draft for Post #:21994
+[09-12-2015 19:08:21] Email sent successfully to PSHSA CC team
+[10-12-2015 19:07:45] Product #:24492 with start date: 12/09/2015 status is changed to draft for Post #:24492
+[10-12-2015 19:07:50] Product #:23743 with start date: 12/09/2015 status is changed to draft for Post #:23743
+[10-12-2015 19:07:54] Email sent successfully to PSHSA CC team
+[11-12-2015 19:07:48] Product #:26123 with start date: 12/10/2015 status is changed to draft for Post #:26123
+[11-12-2015 19:07:51] Email sent successfully to PSHSA CC team
+[16-12-2015 19:07:53] Product #:25887 with start date: 12/15/2015 status is changed to draft for Post #:25887
+[16-12-2015 19:08:00] Email sent successfully to PSHSA CC team
+[19-12-2015 19:07:45] Product #:26942 with start date: 12/18/2015 status is changed to draft for Post #:26942
+[19-12-2015 19:07:48] Email sent successfully to PSHSA CC team
+[07-01-2016 19:07:47] Product #:26637 with start date: 01/06/2016 status is changed to draft for Post #:26637
+[07-01-2016 19:08:01] Product #:25864 with start date: 01/06/2016 status is changed to draft for Post #:25864
+[07-01-2016 19:08:06] Email sent successfully to PSHSA CC team
+[13-01-2016 19:07:47] Product #:25997 with start date: 01/12/2016 status is changed to draft for Post #:25997
+[13-01-2016 19:07:56] Product #:25893 with start date: 01/12/2016 status is changed to draft for Post #:25893
+[13-01-2016 19:08:05] Product #:25752 with start date: 01/12/2016 status is changed to draft for Post #:25752
+[13-01-2016 19:08:15] Product #:24943 with start date: 01/12/2016 status is changed to draft for Post #:24943
+[13-01-2016 19:08:20] Email sent successfully to PSHSA CC team
+[15-01-2016 19:07:56] Product #:26288 with start date: 01/14/2016 status is changed to draft for Post #:26288
+[15-01-2016 19:08:02] Email sent successfully to PSHSA CC team
+[16-01-2016 19:07:45] Product #:27137 with start date: 01/15/2016 status is changed to draft for Post #:27137
+[16-01-2016 19:07:48] Email sent successfully to PSHSA CC team
+[19-01-2016 19:08:50] Product #:26902 with start date: 01/18/2016 status is changed to draft for Post #:26902
+[19-01-2016 19:09:03] Product #:26187 with start date: 01/18/2016 status is changed to draft for Post #:26187
+[19-01-2016 19:09:15] Email sent successfully to PSHSA CC team
+[20-01-2016 19:08:24] Product #:26566 with start date: 01/19/2016 status is changed to draft for Post #:26566
+[20-01-2016 19:08:48] Product #:26339 with start date: 01/19/2016 status is changed to draft for Post #:26339
+[20-01-2016 19:08:55] Product #:26339 with start date: 01/19/2016 status is changed to draft for Post #:26339
+[20-01-2016 19:09:23] Product #:26202 with start date: 01/19/2016 status is changed to draft for Post #:26202
+[20-01-2016 19:09:25] Product #:26202 with start date: 01/19/2016 status is changed to draft for Post #:26202
+[20-01-2016 19:09:50] Product #:26183 with start date: 01/19/2016 status is changed to draft for Post #:26183
+[20-01-2016 19:09:51] Product #:26183 with start date: 01/19/2016 status is changed to draft for Post #:26183
+[20-01-2016 19:10:18] Product #:25906 with start date: 01/19/2016 status is changed to draft for Post #:25906
+[20-01-2016 19:10:19] Product #:25906 with start date: 01/19/2016 status is changed to draft for Post #:25906
+[20-01-2016 19:10:48] Product #:25754 with start date: 01/19/2016 status is changed to draft for Post #:25754
+[20-01-2016 19:10:49] Product #:25754 with start date: 01/19/2016 status is changed to draft for Post #:25754
+[20-01-2016 19:11:14] Product #:24811 with start date: 01/19/2016 status is changed to draft for Post #:24811
+[20-01-2016 19:11:15] Product #:24811 with start date: 01/19/2016 status is changed to draft for Post #:24811
+[20-01-2016 19:11:27] Email sent successfully to PSHSA CC team
+[20-01-2016 19:11:27] Email sent successfully to PSHSA CC team
+[21-01-2016 19:08:13] Product #:25946 with start date: 01/20/2016 status is changed to draft for Post #:25946
+[21-01-2016 19:08:26] Product #:25770 with start date: 01/20/2016 status is changed to draft for Post #:25770
+[21-01-2016 19:08:38] Product #:25498 with start date: 01/20/2016 status is changed to draft for Post #:25498
+[21-01-2016 19:08:47] Email sent successfully to PSHSA CC team
+[22-01-2016 19:07:46] Product #:27453 with start date: 01/21/2016 status is changed to draft for Post #:27453
+[22-01-2016 19:07:56] Product #:26240 with start date: 01/21/2016 status is changed to draft for Post #:26240
+[22-01-2016 19:08:01] Email sent successfully to PSHSA CC team
+[24-01-2016 19:07:49] Product #:27159 with start date: 01/23/2016 status is changed to draft for Post #:27159
+[24-01-2016 19:07:53] Email sent successfully to PSHSA CC team
+[27-01-2016 19:07:49] Product #:27798 with start date: 01/26/2016 status is changed to draft for Post #:27798
+[27-01-2016 19:07:56] Product #:27597 with start date: 01/26/2016 status is changed to draft for Post #:27597
+[27-01-2016 19:08:07] Product #:27343 with start date: 01/26/2016 status is changed to draft for Post #:27343
+[27-01-2016 19:08:17] Product #:27162 with start date: 01/26/2016 status is changed to draft for Post #:27162
+[27-01-2016 19:08:27] Product #:26020 with start date: 01/26/2016 status is changed to draft for Post #:26020
+[27-01-2016 19:08:37] Product #:26014 with start date: 01/26/2016 status is changed to draft for Post #:26014
+[27-01-2016 19:08:49] Product #:25908 with start date: 01/26/2016 status is changed to draft for Post #:25908
+[27-01-2016 19:08:59] Product #:24993 with start date: 01/26/2016 status is changed to draft for Post #:24993
+[27-01-2016 19:09:11] Product #:24988 with start date: 01/26/2016 status is changed to draft for Post #:24988
+[27-01-2016 19:09:20] Email sent successfully to PSHSA CC team
+[28-01-2016 19:08:15] Product #:26876 with start date: 01/27/2016 status is changed to draft for Post #:26876
+[28-01-2016 19:08:30] Product #:26875 with start date: 01/27/2016 status is changed to draft for Post #:26875
+[28-01-2016 19:08:53] Product #:26244 with start date: 01/27/2016 status is changed to draft for Post #:26244
+[28-01-2016 19:09:18] Email sent successfully to PSHSA CC team
+[29-01-2016 19:51:34] Product #:27696 with start date: 01/28/2016 status is changed to draft for Post #:27696
+[29-01-2016 19:51:41] Product #:27467 with start date: 01/28/2016 status is changed to draft for Post #:27467
+[29-01-2016 19:51:50] Product #:27085 with start date: 01/28/2016 status is changed to draft for Post #:27085
+[29-01-2016 19:51:59] Product #:26273 with start date: 01/28/2016 status is changed to draft for Post #:26273
+[29-01-2016 19:52:08] Product #:26184 with start date: 01/28/2016 status is changed to draft for Post #:26184
+[29-01-2016 19:52:19] Product #:24811 with start date: 01/19/2016 status is changed to draft for Post #:24811
+[29-01-2016 19:52:27] Product #:24282 with start date: January 28, 2016 status is changed to draft for Post #:24282
+[29-01-2016 19:52:30] Email sent successfully to PSHSA CC team
+[30-01-2016 19:07:48] Product #:26790 with start date: 01/29/2016 status is changed to draft for Post #:26790
+[30-01-2016 19:07:53] Email sent successfully to PSHSA CC team
+[02-02-2016 19:07:47] Product #:28023 with start date: 02/01/2016 status is changed to draft for Post #:28023
+[02-02-2016 19:07:53] Product #:27697 with start date: 02/01/2016 status is changed to draft for Post #:27697
+[02-02-2016 19:08:03] Product #:25918 with start date: 02/01/2016 status is changed to draft for Post #:25918
+[02-02-2016 19:08:09] Email sent successfully to PSHSA CC team
+[03-02-2016 19:07:51] Product #:27938 with start date: 02/02/2016 status is changed to draft for Post #:27938
+[03-02-2016 19:07:59] Product #:27699 with start date: 02/02/2016 status is changed to draft for Post #:27699
+[03-02-2016 19:08:00] Product #:27699 with start date: 02/02/2016 status is changed to draft for Post #:27699
+[03-02-2016 19:08:12] Product #:26824 with start date: 02/02/2016 status is changed to draft for Post #:26824
+[03-02-2016 19:08:13] Product #:26824 with start date: 02/02/2016 status is changed to draft for Post #:26824
+[03-02-2016 19:08:33] Product #:26356 with start date: 02/02/2016 status is changed to draft for Post #:26356
+[03-02-2016 19:08:33] Product #:26356 with start date: 02/02/2016 status is changed to draft for Post #:26356
+[03-02-2016 19:08:38] Email sent successfully to PSHSA CC team
+[03-02-2016 19:08:39] Email sent successfully to PSHSA CC team
+[04-02-2016 19:09:00] Product #:27664 with start date: 02/03/2016 status is changed to draft for Post #:27664
+[04-02-2016 19:09:09] Product #:26639 with start date: 02/03/2016 status is changed to draft for Post #:26639
+[04-02-2016 19:09:12] Email sent successfully to PSHSA CC team
+[09-02-2016 19:07:49] Product #:26646 with start date: 02/08/2016 status is changed to draft for Post #:26646
+[09-02-2016 19:07:57] Product #:26002 with start date: 02/08/2016 status is changed to draft for Post #:26002
+[09-02-2016 19:08:03] Email sent successfully to PSHSA CC team
+[10-02-2016 19:07:47] Product #:27345 with start date: 02/09/2016 status is changed to draft for Post #:27345
+[10-02-2016 19:07:56] Product #:26780 with start date: 02/09/2016 status is changed to draft for Post #:26780
+[10-02-2016 19:08:05] Product #:26008 with start date: 02/09/2016 status is changed to draft for Post #:26008
+[10-02-2016 19:08:13] Product #:25789 with start date: 02/09/2016 status is changed to draft for Post #:25789
+[10-02-2016 19:08:22] Product #:25063 with start date: 02/09/2016 status is changed to draft for Post #:25063
+[10-02-2016 19:08:29] Product #:24999 with start date: 02/09/2016 status is changed to draft for Post #:24999
+[10-02-2016 19:08:34] Email sent successfully to PSHSA CC team
+[11-02-2016 19:07:59] Product #:25969 with start date: 02/10/2016 status is changed to draft for Post #:25969
+[11-02-2016 19:08:02] Email sent successfully to PSHSA CC team
+[17-02-2016 19:07:41] Product #:28262 with start date: 02/16/2016 status is changed to draft for Post #:28262
+[17-02-2016 19:07:42] Product #:28262 with start date: 02/16/2016 status is changed to draft for Post #:28262
+[17-02-2016 19:07:48] Product #:27681 with start date: 02/16/2016 status is changed to draft for Post #:27681
+[17-02-2016 19:07:49] Product #:27681 with start date: 02/16/2016 status is changed to draft for Post #:27681
+[17-02-2016 19:07:54] Product #:26650 with start date: 02/16/2016 status is changed to draft for Post #:26650
+[17-02-2016 19:07:55] Product #:26650 with start date: 02/16/2016 status is changed to draft for Post #:26650
+[17-02-2016 19:08:01] Product #:26640 with start date: 02/16/2016 status is changed to draft for Post #:26640
+[17-02-2016 19:08:01] Product #:26640 with start date: 02/16/2016 status is changed to draft for Post #:26640
+[17-02-2016 19:08:07] Product #:26461 with start date: 02/16/2016 status is changed to draft for Post #:26461
+[17-02-2016 19:08:08] Product #:26461 with start date: 02/16/2016 status is changed to draft for Post #:26461
+[17-02-2016 19:08:14] Product #:26054 with start date: 02/16/2016 status is changed to draft for Post #:26054
+[17-02-2016 19:08:14] Product #:26054 with start date: 02/16/2016 status is changed to draft for Post #:26054
+[17-02-2016 19:08:20] Product #:26051 with start date: 02/16/2016 status is changed to draft for Post #:26051
+[17-02-2016 19:08:20] Product #:26051 with start date: 02/16/2016 status is changed to draft for Post #:26051
+[17-02-2016 19:08:25] Product #:25490 with start date: 02/16/2016 status is changed to draft for Post #:25490
+[17-02-2016 19:08:26] Product #:25490 with start date: 02/16/2016 status is changed to draft for Post #:25490
+[17-02-2016 19:08:31] Product #:25189 with start date: 02/16/2016 status is changed to draft for Post #:25189
+[17-02-2016 19:08:32] Product #:25189 with start date: 02/16/2016 status is changed to draft for Post #:25189
+[17-02-2016 19:08:32] Email sent successfully to PSHSA CC team
+[17-02-2016 19:08:34] Email sent successfully to PSHSA CC team
+[18-02-2016 19:07:39] Product #:27754 with start date: 02/17/2016 status is changed to draft for Post #:27754
+[18-02-2016 19:07:43] Product #:27558 with start date: 02/17/2016 status is changed to draft for Post #:27558
+[18-02-2016 19:07:46] Product #:26470 with start date: 02/17/2016 status is changed to draft for Post #:26470
+[18-02-2016 19:07:50] Product #:26392 with start date: 02/17/2016 status is changed to draft for Post #:26392
+[18-02-2016 19:07:53] Product #:25975 with start date: 02/17/2016 status is changed to draft for Post #:25975
+[18-02-2016 19:07:56] Product #:25832 with start date: 02/17/2016 status is changed to draft for Post #:25832
+[18-02-2016 19:07:57] Email sent successfully to PSHSA CC team
+[19-02-2016 19:07:40] Product #:28625 with start date: 02/18/2016 status is changed to draft for Post #:28625
+[19-02-2016 19:07:43] Product #:27574 with start date: 02/18/2016 status is changed to draft for Post #:27574
+[19-02-2016 19:07:44] Email sent successfully to PSHSA CC team
+[23-02-2016 19:07:38] Product #:27684 with start date: 02/22/2016 status is changed to draft for Post #:27684
+[23-02-2016 19:07:42] Product #:27644 with start date: 02/22/2016 status is changed to draft for Post #:27644
+[23-02-2016 19:07:45] Product #:26373 with start date: 02/22/2016 status is changed to draft for Post #:26373
+[23-02-2016 19:07:49] Product #:26167 with start date: 02/22/2016 status is changed to draft for Post #:26167
+[23-02-2016 19:07:52] Product #:25977 with start date: 02/22/2016 status is changed to draft for Post #:25977
+[23-02-2016 19:07:53] Email sent successfully to PSHSA CC team
+[24-02-2016 19:07:39] Product #:28081 with start date: 02/23/2016 status is changed to draft for Post #:28081
+[24-02-2016 19:07:42] Product #:27686 with start date: 02/23/2016 status is changed to draft for Post #:27686
+[24-02-2016 19:07:46] Product #:27628 with start date: 02/23/2016 status is changed to draft for Post #:27628
+[24-02-2016 19:07:49] Product #:27087 with start date: 02/23/2016 status is changed to draft for Post #:27087
+[24-02-2016 19:07:52] Product #:26424 with start date: 02/23/2016 status is changed to draft for Post #:26424
+[24-02-2016 19:07:56] Product #:26364 with start date: 02/23/2016 status is changed to draft for Post #:26364
+[24-02-2016 19:07:59] Product #:26252 with start date: 02/23/2016 status is changed to draft for Post #:26252
+[24-02-2016 19:08:02] Product #:26192 with start date: 02/23/2016 status is changed to draft for Post #:26192
+[24-02-2016 19:08:06] Product #:26170 with start date: 02/23/2016 status is changed to draft for Post #:26170
+[24-02-2016 19:08:09] Product #:25116 with start date: 02/23/2016 status is changed to draft for Post #:25116
+[24-02-2016 19:08:10] Email sent successfully to PSHSA CC team
+[25-02-2016 19:07:43] Product #:28295 with start date: 02/24/2016 status is changed to draft for Post #:28295
+[25-02-2016 19:07:43] Email sent successfully to PSHSA CC team
+[26-02-2016 19:08:43] Product #:28377 with start date: 02/25/2016 status is changed to draft for Post #:28377
+[26-02-2016 19:08:45] Product #:27580 with start date: 02/25/2016 status is changed to draft for Post #:27580
+[26-02-2016 19:08:49] Product #:25492 with start date: 02/25/2016 status is changed to draft for Post #:25492
+[26-02-2016 19:08:49] Email sent successfully to PSHSA CC team
+[27-02-2016 19:07:44] Product #:27581 with start date: 02/26/2016 status is changed to draft for Post #:27581
+[27-02-2016 19:07:45] Email sent successfully to PSHSA CC team
+[08-03-2016 19:07:41] Product #:26219 with start date: 03/07/2016 status is changed to draft for Post #:26219
+[08-03-2016 19:07:42] Email sent successfully to PSHSA CC team
+[09-03-2016 19:07:42] Product #:25836 with start date: 03/08/2016 status is changed to draft for Post #:25836
+[09-03-2016 19:07:43] Email sent successfully to PSHSA CC team
+[10-03-2016 19:07:50] Product #:28823 with start date: 03/09/2016 status is changed to draft for Post #:28823
+[10-03-2016 19:07:54] Product #:27799 with start date: 03/09/2016 status is changed to draft for Post #:27799
+[10-03-2016 19:07:55] Email sent successfully to PSHSA CC team
+[11-03-2016 19:07:41] Product #:28684 with start date: 03/10/2016 status is changed to draft for Post #:28684
+[11-03-2016 19:07:45] Product #:26216 with start date: 03/10/2016 status is changed to draft for Post #:26216
+[11-03-2016 19:07:46] Email sent successfully to PSHSA CC team
+[30-03-2016 19:07:42] Product #:25306 with start date: 03/29/2016 status is changed to draft for Post #:25306
+[30-03-2016 19:07:42] Email sent successfully to PSHSA CC team
+[01-04-2016 19:07:39] Product #:29040 with start date: 03/31/2016 status is changed to draft for Post #:29040
+[01-04-2016 19:07:40] Email sent successfully to PSHSA CC team
+[07-04-2016 19:07:54] Product #:29610 with start date: 04/06/2016 status is changed to draft for Post #:29610
+[07-04-2016 19:07:55] Email sent successfully to PSHSA CC team
+[13-04-2016 19:07:52] Product #:29635 with start date: 04/12/2016 status is changed to draft for Post #:29635
+[13-04-2016 19:07:56] Product #:29624 with start date: 04/12/2016 status is changed to draft for Post #:29624
+[13-04-2016 19:08:00] Product #:28893 with start date: 04/12/2016 status is changed to draft for Post #:28893
+[13-04-2016 19:08:00] Email sent successfully to PSHSA CC team
+[14-04-2016 19:07:54] Product #:29308 with start date: 04/13/2016 status is changed to draft for Post #:29308
+[14-04-2016 19:07:55] Email sent successfully to PSHSA CC team
+[15-04-2016 19:07:43] Product #:29624 with start date: 04/12/2016 status is changed to draft for Post #:29624
+[15-04-2016 19:07:44] Email sent successfully to PSHSA CC team
+[20-04-2016 19:07:40] Product #:28480 with start date: 04/19/2016 status is changed to draft for Post #:28480
+[20-04-2016 19:07:40] Email sent successfully to PSHSA CC team
+[22-04-2016 19:07:44] Product #:27736 with start date: 04/21/2016 status is changed to draft for Post #:27736
+[22-04-2016 19:07:44] Email sent successfully to PSHSA CC team
+[27-04-2016 19:08:07] Product #:29134 with start date: 04/26/2016 status is changed to draft for Post #:29134
+[27-04-2016 19:08:10] Product #:26226 with start date: 04/26/2016 status is changed to draft for Post #:26226
+[27-04-2016 19:08:11] Email sent successfully to PSHSA CC team
+[28-04-2016 19:07:42] Product #:29746 with start date: 04/27/2016 status is changed to draft for Post #:29746
+[28-04-2016 19:07:43] Email sent successfully to PSHSA CC team
+[29-04-2016 19:07:40] Product #:27599 with start date: 04/28/2016 status is changed to draft for Post #:27599
+[29-04-2016 19:07:40] Email sent successfully to PSHSA CC team
+[03-05-2016 19:07:40] Product #:30063 with start date: 05/02/2016 status is changed to draft for Post #:30063
+[03-05-2016 19:07:44] Product #:28878 with start date: 05/02/2016 status is changed to draft for Post #:28878
+[03-05-2016 19:07:44] Email sent successfully to PSHSA CC team
+[04-05-2016 19:07:40] Product #:29132 with start date: 05/03/2016 status is changed to draft for Post #:29132
+[04-05-2016 19:07:43] Product #:28758 with start date: 05/03/2016 status is changed to draft for Post #:28758
+[04-05-2016 19:07:44] Email sent successfully to PSHSA CC team
+[05-05-2016 19:07:47] Product #:30050 with start date: 05/04/2016 status is changed to draft for Post #:30050
+[05-05-2016 19:07:48] Email sent successfully to PSHSA CC team
+[06-05-2016 19:07:53] Product #:29642 with start date: 05/05/2016 status is changed to draft for Post #:29642
+[06-05-2016 19:07:57] Product #:28874 with start date: 05/05/2016 status is changed to draft for Post #:28874
+[06-05-2016 19:07:58] Email sent successfully to PSHSA CC team
+[10-05-2016 19:08:48] Product #:30312 with start date: 05/09/2016 status is changed to draft for Post #:30312
+[10-05-2016 19:08:52] Product #:26235 with start date: 05/09/2016 status is changed to draft for Post #:26235
+[10-05-2016 19:08:53] Email sent successfully to PSHSA CC team
+[11-05-2016 19:07:38] Product #:28936 with start date: 05/10/2016 status is changed to draft for Post #:28936
+[11-05-2016 19:07:42] Product #:26235 with start date: 05/09/2016 status is changed to draft for Post #:26235
+[11-05-2016 19:07:42] Email sent successfully to PSHSA CC team
+[13-05-2016 19:07:50] Product #:30090 with start date: 05/12/2016 status is changed to draft for Post #:30090
+[13-05-2016 19:07:51] Email sent successfully to PSHSA CC team
+[18-05-2016 19:07:58] Product #:30273 with start date: 05/17/2016 status is changed to draft for Post #:30273
+[18-05-2016 19:08:01] Product #:29655 with start date: 05/17/2016 status is changed to draft for Post #:29655
+[18-05-2016 19:08:05] Product #:29625 with start date: 05/17/2016 status is changed to draft for Post #:29625
+[18-05-2016 19:08:08] Product #:28941 with start date: 05/17/2016 status is changed to draft for Post #:28941
+[18-05-2016 19:08:09] Email sent successfully to PSHSA CC team
+[19-05-2016 19:07:42] Product #:29625 with start date: 05/17/2016 status is changed to draft for Post #:29625
+[19-05-2016 19:07:46] Product #:26237 with start date: 05/18/2016 status is changed to draft for Post #:26237
+[19-05-2016 19:07:47] Email sent successfully to PSHSA CC team
+[25-05-2016 19:08:01] Product #:29751 with start date: 05/24/2016 status is changed to draft for Post #:29751
+[25-05-2016 19:08:04] Product #:29144 with start date: 05/24/2016 status is changed to draft for Post #:29144
+[25-05-2016 19:08:05] Email sent successfully to PSHSA CC team
+[26-05-2016 19:07:45] Product #:29844 with start date: 05/25/2016 status is changed to draft for Post #:29844
+[26-05-2016 19:07:46] Email sent successfully to PSHSA CC team
+[27-05-2016 19:08:05] Product #:30382 with start date: 05/26/2016 status is changed to draft for Post #:30382
+[27-05-2016 19:08:09] Product #:28981 with start date: 05/26/2016 status is changed to draft for Post #:28981
+[27-05-2016 19:08:09] Email sent successfully to PSHSA CC team
+[31-05-2016 19:07:39] Product #:30089 with start date: 05/30/2016 status is changed to draft for Post #:30089
+[31-05-2016 19:07:43] Product #:29709 with start date: 05/30/2016 status is changed to draft for Post #:29709
+[31-05-2016 19:07:44] Email sent successfully to PSHSA CC team
+[01-06-2016 19:07:45] Product #:30290 with start date: 05/31/2016 status is changed to draft for Post #:30290
+[01-06-2016 19:07:49] Product #:28982 with start date: 05/31/2016 status is changed to draft for Post #:28982
+[01-06-2016 19:07:49] Email sent successfully to PSHSA CC team
+[02-06-2016 19:07:39] Product #:29548 with start date: 06/01/2016 status is changed to draft for Post #:29548
+[02-06-2016 19:07:40] Email sent successfully to PSHSA CC team
+[03-06-2016 19:07:42] Product #:29711 with start date: 06/02/2016 status is changed to draft for Post #:29711
+[03-06-2016 19:07:43] Email sent successfully to PSHSA CC team
+[07-06-2016 19:07:45] Product #:29845 with start date: 06/06/2016 status is changed to draft for Post #:29845
+[07-06-2016 19:07:46] Email sent successfully to PSHSA CC team
+[08-06-2016 19:07:44] Product #:30091 with start date: 06/07/2016 status is changed to draft for Post #:30091
+[08-06-2016 19:07:48] Product #:29138 with start date: 06/07/2016 status is changed to draft for Post #:29138
+[08-06-2016 19:07:51] Product #:28997 with start date: 06/07/2016 status is changed to draft for Post #:28997
+[08-06-2016 19:07:52] Email sent successfully to PSHSA CC team
+[10-06-2016 19:07:37] Product #:29846 with start date: 06/09/2016 status is changed to draft for Post #:29846
+[10-06-2016 19:07:38] Email sent successfully to PSHSA CC team
+[11-06-2016 19:07:42] Product #:30603 with start date: 06/10/2016 status is changed to draft for Post #:30603
+[11-06-2016 19:07:43] Email sent successfully to PSHSA CC team
+[15-06-2016 19:07:39] Product #:30859 with start date: 06/14/2016 status is changed to draft for Post #:30859
+[15-06-2016 19:07:40] Product #:30581 with start date: 06/14/2016 status is changed to draft for Post #:30581
+[15-06-2016 19:07:41] Product #:30269 with start date: 06/14/2016 status is changed to draft for Post #:30269
+[15-06-2016 19:07:42] Email sent successfully to PSHSA CC team
+[17-06-2016 19:07:38] - Product #: 30939 with start date: 06/16/2016 status is changed to draft for Post #: 30939
+[17-06-2016 19:07:38] Email sent successfully to PSHSA CC team
+[21-06-2016 19:07:43] - Product #: 30383 with start date: 06/20/2016 status is changed to draft for Post #: 30383
+[21-06-2016 19:07:44] Email sent successfully to PSHSA CC team
+[22-06-2016 19:07:41] - Product #: 31112 with start date: 06/21/2016 status is changed to draft for Post #: 31112
+[22-06-2016 19:07:43] - Product #: 31083 with start date: 06/21/2016 status is changed to draft for Post #: 31083
+[22-06-2016 19:07:43] - Product #: 30983 with start date: 06/21/2016 status is changed to draft for Post #: 30983
+[22-06-2016 19:07:45] - Product #: 29037 with start date: 06/21/2016 status is changed to draft for Post #: 29037
+[22-06-2016 19:07:46] - Product #: 29035 with start date: 06/21/2016 status is changed to draft for Post #: 29035
+[22-06-2016 19:07:47] Email sent successfully to PSHSA CC team
+[23-06-2016 19:07:38] - Product #: 31084 with start date: 06/22/2016 status is changed to draft for Post #: 31084
+[23-06-2016 19:07:39] - Product #: 30988 with start date: 06/22/2016 status is changed to draft for Post #: 30988
+[23-06-2016 19:07:41] - Product #: 29677 with start date: 06/22/2016 status is changed to draft for Post #: 29677
+[23-06-2016 19:07:42] Email sent successfully to PSHSA CC team
+[24-06-2016 19:09:11] - Product #: 31087 with start date: 06/23/2016 status is changed to draft for Post #: 31087
+[24-06-2016 19:09:12] - Product #: 30982 with start date: 06/23/2016 status is changed to draft for Post #: 30982
+[24-06-2016 19:09:13] - Product #: 30271 with start date: 06/23/2016 status is changed to draft for Post #: 30271
+[24-06-2016 19:09:15] Email sent successfully to PSHSA CC team
+[28-06-2016 19:07:42] - Product #: 30981 with start date: 06/27/2016 status is changed to draft for Post #: 30981
+[28-06-2016 19:07:42] - Product #: 30959 with start date: 06/27/2016 status is changed to draft for Post #: 30959
+[28-06-2016 19:07:43] Email sent successfully to PSHSA CC team
+[29-06-2016 19:07:39] - Product #: 29145 with start date: 06/28/2016 status is changed to draft for Post #: 29145
+[29-06-2016 19:07:40] - Product #: 29039 with start date: 06/28/2016 status is changed to draft for Post #: 29039
+[29-06-2016 19:07:40] - Product #: 29038 with start date: 06/28/2016 status is changed to draft for Post #: 29038
+[29-06-2016 19:07:41] Email sent successfully to PSHSA CC team
+[30-06-2016 19:09:16] - Product #: 31322 with start date: 06/29/2016 status is changed to draft for Post #: 31322
+[30-06-2016 19:09:17] - Product #: 29041 with start date: 06/29/2016 status is changed to draft for Post #: 29041
+[30-06-2016 19:09:17] Email sent successfully to PSHSA CC team
+[05-07-2016 19:07:42] - Product #: 29142 with start date: 07/04/2016 status is changed to draft for Post #: 29142
+[05-07-2016 19:07:43] Email sent successfully to PSHSA CC team
+[06-07-2016 19:08:37] - Product #: 30886 with start date: 07/05/2016 status is changed to draft for Post #: 30886
+[06-07-2016 19:08:38] - Product #: 29051 with start date: 07/05/2016 status is changed to draft for Post #: 29051
+[06-07-2016 19:08:38] Email sent successfully to PSHSA CC team
+[07-07-2016 19:08:40] - Product #: 29736 with start date: 07/06/2016 status is changed to draft for Post #: 29736
+[07-07-2016 19:08:41] Email sent successfully to PSHSA CC team
+[13-07-2016 19:07:40] - Product #: 30591 with start date: 07/12/2016 status is changed to draft for Post #: 30591
+[13-07-2016 19:07:41] - Product #: 30584 with start date: 07/12/2016 status is changed to draft for Post #: 30584
+[13-07-2016 19:07:42] - Product #: 30292 with start date: 07/12/2016 status is changed to draft for Post #: 30292
+[13-07-2016 19:07:43] Email sent successfully to PSHSA CC team
+[14-07-2016 19:07:41] - Product #: 31323 with start date: 07/13/2016 status is changed to draft for Post #: 31323
+[14-07-2016 19:07:41] - Product #: 30592 with start date: 07/13/2016 status is changed to draft for Post #: 30592
+[14-07-2016 19:07:42] Email sent successfully to PSHSA CC team
+[21-07-2016 19:07:37] - Product #: 29847 with start date: 07/20/2016 status is changed to draft for Post #: 29847
+[21-07-2016 19:07:38] Email sent successfully to PSHSA CC team
+[27-07-2016 19:07:36] - Product #: 31024 with start date: 07/26/2016 status is changed to draft for Post #: 31024
+[27-07-2016 19:07:37] Email sent successfully to PSHSA CC team
+[12-08-2016 15:07:54] - Product #: 30316 with start date: 08/11/2016 status is changed to draft for Post #: 30316
+[12-08-2016 15:07:55] Email sent successfully to PSHSA CC team
+[17-08-2016 15:07:43] - Product #: 29688 with start date: 08/16/2016 status is changed to draft for Post #: 29688
+[17-08-2016 15:07:44] - Product #: 29058 with start date: 08/16/2016 status is changed to draft for Post #: 29058
+[17-08-2016 15:07:45] Email sent successfully to PSHSA CC team
+[18-08-2016 15:07:38] - Product #: 29848 with start date: 08/17/2016 status is changed to draft for Post #: 29848
+[18-08-2016 15:07:39] Email sent successfully to PSHSA CC team
+[19-08-2016 15:07:47] - Product #: 31324 with start date: 08/18/2016 status is changed to draft for Post #: 31324
+[19-08-2016 15:07:48] Email sent successfully to PSHSA CC team
+[24-08-2016 15:07:39] - Product #: 30594 with start date: 08/23/2016 status is changed to draft for Post #: 30594
+[24-08-2016 15:07:40] - Product #: 29078 with start date: 08/23/2016 status is changed to draft for Post #: 29078
+[24-08-2016 15:07:40] Email sent successfully to PSHSA CC team
+[26-08-2016 15:07:54] - Product #: 30613 with start date: 08/25/2016 status is changed to draft for Post #: 30613
+[26-08-2016 15:07:54] Email sent successfully to PSHSA CC team
+[30-08-2016 15:07:52] - Product #: 31129 with start date: 08/29/2016 status is changed to draft for Post #: 31129
+[30-08-2016 15:07:54] Email sent successfully to PSHSA CC team
+[31-08-2016 15:07:40] - Product #: 31581 with start date: 08/30/2016 status is changed to draft for Post #: 31581
+[31-08-2016 15:07:41] Email sent successfully to PSHSA CC team
+[02-09-2016 15:07:49] - Product #: 31581 with start date: 08/30/2016 status is changed to draft for Post #: 31581
+[02-09-2016 15:07:50] Email sent successfully to PSHSA CC team
+[08-09-2016 15:07:39] - Product #: 30860 with start date: 09/07/2016 status is changed to draft for Post #: 30860
+[08-09-2016 15:07:40] - Product #: 29737 with start date: 09/07/2016 status is changed to draft for Post #: 29737
+[08-09-2016 15:07:41] Email sent successfully to PSHSA CC team
+[09-09-2016 15:07:41] - Product #: 29148 with start date: 09/08/2016 status is changed to draft for Post #: 29148
+[09-09-2016 15:07:42] Email sent successfully to PSHSA CC team
+[12-09-2016 15:07:37] - Product #: 32124 with start date: 09/11/2016 status is changed to draft for Post #: 32124
+[12-09-2016 15:07:37] - Product #: 32124 with start date: 09/11/2016 status is changed to draft for Post #: 32124
+[12-09-2016 15:07:38] Email sent successfully to PSHSA CC team
+[12-09-2016 15:07:38] Email sent successfully to PSHSA CC team
+[13-09-2016 15:07:35] - Product #: 32640 with start date: 09/12/2016 status is changed to draft for Post #: 32640
+[13-09-2016 15:07:36] Email sent successfully to PSHSA CC team
+[14-09-2016 15:07:37] - Product #: 31956 with start date: 09/13/2016 status is changed to draft for Post #: 31956
+[14-09-2016 15:07:37] - Product #: 31940 with start date: 09/13/2016 status is changed to draft for Post #: 31940
+[14-09-2016 15:07:39] - Product #: 29120 with start date: 09/13/2016 status is changed to draft for Post #: 29120
+[14-09-2016 15:07:40] - Product #: 29112 with start date: 09/13/2016 status is changed to draft for Post #: 29112
+[14-09-2016 15:07:40] - Product #: 29101 with start date: 09/13/2016 status is changed to draft for Post #: 29101
+[14-09-2016 15:07:41] Email sent successfully to PSHSA CC team
+[15-09-2016 15:07:44] - Product #: 32749 with start date: 09/14/2016 status is changed to draft for Post #: 32749
+[15-09-2016 15:07:46] Email sent successfully to PSHSA CC team
+[16-09-2016 15:07:36] - Product #: 32641 with start date: 09/15/2016 status is changed to draft for Post #: 32641
+[16-09-2016 15:07:37] - Product #: 32388 with start date: 09/15/2016 status is changed to draft for Post #: 32388
+[16-09-2016 15:07:38] Email sent successfully to PSHSA CC team
+[20-09-2016 15:08:39] - Product #: 32584 with start date: 09/19/2016 status is changed to draft for Post #: 32584
+[20-09-2016 15:08:40] - Product #: 32547 with start date: 09/19/2016 status is changed to draft for Post #: 32547
+[20-09-2016 15:08:40] - Product #: 31502 with start date: 09/19/2016 status is changed to draft for Post #: 31502
+[20-09-2016 15:08:41] - Product #: 26846 with start date: 09/19/2016 status is changed to draft for Post #: 26846
+[20-09-2016 15:08:42] Email sent successfully to PSHSA CC team
+[21-09-2016 15:07:41] - Product #: 29713 with start date: 09/20/2016 status is changed to draft for Post #: 29713
+[21-09-2016 15:07:42] - Product #: 29151 with start date: 09/20/2016 status is changed to draft for Post #: 29151
+[21-09-2016 15:07:43] - Product #: 29149 with start date: 09/20/2016 status is changed to draft for Post #: 29149
+[21-09-2016 15:07:43] - Product #: 29113 with start date: 09/20/2016 status is changed to draft for Post #: 29113
+[21-09-2016 15:07:44] Email sent successfully to PSHSA CC team
+[23-09-2016 15:07:39] - Product #: 29309 with start date: 09/22/2016 status is changed to draft for Post #: 29309
+[23-09-2016 15:07:40] - Product #: 27737 with start date: 09/22/2016 status is changed to draft for Post #: 27737
+[23-09-2016 15:07:41] Email sent successfully to PSHSA CC team
+[28-09-2016 15:08:41] - Product #: 31025 with start date: 09/27/2016 status is changed to draft for Post #: 31025
+[28-09-2016 15:08:42] - Product #: 29156 with start date: 09/27/2016 status is changed to draft for Post #: 29156
+[28-09-2016 15:08:42] Email sent successfully to PSHSA CC team
+[29-09-2016 15:07:41] - Product #: 32647 with start date: 09/28/2016 status is changed to draft for Post #: 32647
+[29-09-2016 15:07:42] - Product #: 31131 with start date: 09/28/2016 status is changed to draft for Post #: 31131
+[29-09-2016 15:07:43] Email sent successfully to PSHSA CC team
+[30-09-2016 15:07:45] - Product #: 30861 with start date: 09/29/2016 status is changed to draft for Post #: 30861
+[30-09-2016 15:07:45] - Product #: 27791 with start date: 09/29/2016 status is changed to draft for Post #: 27791
+[30-09-2016 15:07:46] Email sent successfully to PSHSA CC team
+[04-10-2016 15:07:35] - Product #: 32884 with start date: 10/03/2016 status is changed to draft for Post #: 32884
+[04-10-2016 15:07:37] - Product #: 29153 with start date: 10/03/2016 status is changed to draft for Post #: 29153
+[04-10-2016 15:07:38] Email sent successfully to PSHSA CC team
+[05-10-2016 15:07:50] - Product #: 29158 with start date: 10/04/2016 status is changed to draft for Post #: 29158
+[05-10-2016 15:07:51] Email sent successfully to PSHSA CC team
+[06-10-2016 15:07:39] - Product #: 32586 with start date: 10/05/2016 status is changed to draft for Post #: 32586
+[06-10-2016 15:07:40] - Product #: 32468 with start date: 10/05/2016 status is changed to draft for Post #: 32468
+[06-10-2016 15:07:41] Email sent successfully to PSHSA CC team
+[20-10-2016 16:07:14] - Product #: 33665 with start date: 03/07/2016 status is changed to draft for Post #: 33665
+[20-10-2016 16:07:14] - Product #: 33480 with start date: 10/17/2016 status is changed to draft for Post #: 33480
+[20-10-2016 16:07:15] - Product #: 33247 with start date: 10/13/2016 status is changed to draft for Post #: 33247
+[20-10-2016 16:07:16] - Product #: 33234 with start date: 10/06/2016 status is changed to draft for Post #: 33234
+[20-10-2016 16:07:16] - Product #: 32878 with start date: 10/19/2016 status is changed to draft for Post #: 32878
+[20-10-2016 16:07:17] - Product #: 32873 with start date: 10/17/2016 status is changed to draft for Post #: 32873
+[20-10-2016 16:07:18] - Product #: 32261 with start date: 10/19/2016 status is changed to draft for Post #: 32261
+[20-10-2016 16:07:19] - Product #: 31877 with start date: 10/12/2016 status is changed to draft for Post #: 31877
+[20-10-2016 16:07:20] - Product #: 31579 with start date: 10/12/2016 status is changed to draft for Post #: 31579
+[20-10-2016 16:07:20] - Product #: 31139 with start date: 10/13/2016 status is changed to draft for Post #: 31139
+[20-10-2016 16:07:21] - Product #: 30862 with start date: 10/11/2016 status is changed to draft for Post #: 30862
+[20-10-2016 16:07:22] - Product #: 29549 with start date: 10/12/2016 status is changed to draft for Post #: 29549
+[20-10-2016 16:07:23] - Product #: 29195 with start date: 10/11/2016 status is changed to draft for Post #: 29195
+[20-10-2016 16:07:23] - Product #: 29193 with start date: 10/11/2016 status is changed to draft for Post #: 29193
+[20-10-2016 16:07:24] - Product #: 29165 with start date: 10/11/2016 status is changed to draft for Post #: 29165
+[20-10-2016 16:07:24] - Product #: 29163 with start date: 10/06/2016 status is changed to draft for Post #: 29163
+[20-10-2016 16:07:25] Email sent successfully to PSHSA CC team
+[21-10-2016 15:07:38] - Product #: 33446 with start date: 10/20/2016 status is changed to draft for Post #: 33446
+[21-10-2016 15:07:39] - Product #: 31833 with start date: 10/20/2016 status is changed to draft for Post #: 31833
+[21-10-2016 15:07:40] Email sent successfully to PSHSA CC team
+[23-10-2016 15:07:43] - Product #: 31228 with start date: 10/22/2016 status is changed to draft for Post #: 31228
+[23-10-2016 15:07:44] Email sent successfully to PSHSA CC team
+[25-10-2016 15:07:37] - Product #: 33052 with start date: 10/24/2016 status is changed to draft for Post #: 33052
+[25-10-2016 15:07:38] - Product #: 32877 with start date: 10/24/2016 status is changed to draft for Post #: 32877
+[25-10-2016 15:07:39] - Product #: 31027 with start date: 10/24/2016 status is changed to draft for Post #: 31027
+[25-10-2016 15:07:40] Email sent successfully to PSHSA CC team
+[26-10-2016 15:11:37] - Product #: 32807 with start date: 10/25/2016 status is changed to draft for Post #: 32807
+[26-10-2016 15:11:38] - Product #: 29734 with start date: 10/25/2016 status is changed to draft for Post #: 29734
+[26-10-2016 15:11:39] - Product #: 29360 with start date: 10/25/2016 status is changed to draft for Post #: 29360
+[26-10-2016 15:11:40] - Product #: 29359 with start date: 10/25/2016 status is changed to draft for Post #: 29359
+[26-10-2016 15:11:41] - Product #: 29358 with start date: 10/25/2016 status is changed to draft for Post #: 29358
+[26-10-2016 15:11:42] - Product #: 29357 with start date: 10/25/2016 status is changed to draft for Post #: 29357
+[26-10-2016 15:11:42] - Product #: 29198 with start date: 10/25/2016 status is changed to draft for Post #: 29198
+[26-10-2016 15:11:43] Email sent successfully to PSHSA CC team
+[27-10-2016 15:08:40] - Product #: 33254 with start date: 10/26/2016 status is changed to draft for Post #: 33254
+[27-10-2016 15:08:40] - Product #: 31143 with start date: 10/26/2016 status is changed to draft for Post #: 31143
+[27-10-2016 15:08:41] Email sent successfully to PSHSA CC team
+[28-10-2016 15:07:42] - Product #: 31149 with start date: 10/27/2016 status is changed to draft for Post #: 31149
+[28-10-2016 15:07:43] Email sent successfully to PSHSA CC team
+[29-10-2016 15:07:45] - Product #: 33019 with start date: 10/28/2016 status is changed to draft for Post #: 33019
+[29-10-2016 15:07:45] - Product #: 32992 with start date: 10/28/2016 status is changed to draft for Post #: 32992
+[29-10-2016 15:07:46] - Product #: 32896 with start date: 10/28/2016 status is changed to draft for Post #: 32896
+[29-10-2016 15:07:47] Email sent successfully to PSHSA CC team
+[02-11-2016 15:08:05] - Product #: 33255 with start date: 11/01/2016 status is changed to draft for Post #: 33255
+[02-11-2016 15:08:06] - Product #: 32395 with start date: 11/01/2016 status is changed to draft for Post #: 32395
+[02-11-2016 15:08:07] - Product #: 29182 with start date: 11/01/2016 status is changed to draft for Post #: 29182
+[02-11-2016 15:08:07] Email sent successfully to PSHSA CC team
+[03-11-2016 15:07:46] - Product #: 33264 with start date: 11/01/2016 status is changed to draft for Post #: 33264
+[03-11-2016 15:07:46] - Product #: 33255 with start date: 11/01/2016 status is changed to draft for Post #: 33255
+[03-11-2016 15:07:47] - Product #: 32399 with start date: 11/02/2016 status is changed to draft for Post #: 32399
+[03-11-2016 15:07:47] Email sent successfully to PSHSA CC team
+[04-11-2016 15:07:40] - Product #: 31154 with start date: 11/03/2016 status is changed to draft for Post #: 31154
+[04-11-2016 15:07:41] Email sent successfully to PSHSA CC team
+[09-11-2016 14:07:37] - Product #: 30863 with start date: 11/08/2016 status is changed to draft for Post #: 30863
+[09-11-2016 14:07:38] - Product #: 29188 with start date: 11/08/2016 status is changed to draft for Post #: 29188
+[09-11-2016 14:07:38] Email sent successfully to PSHSA CC team
+[11-11-2016 14:08:04] - Product #: 33053 with start date: 11/10/2016 status is changed to draft for Post #: 33053
+[11-11-2016 14:08:05] - Product #: 33027 with start date: 11/10/2016 status is changed to draft for Post #: 33027
+[11-11-2016 14:08:05] - Product #: 31960 with start date: 11/10/2016 status is changed to draft for Post #: 31960
+[11-11-2016 14:08:06] Email sent successfully to PSHSA CC team
+[13-11-2016 14:07:37] - Product #: 32474 with start date: 11/12/2016 status is changed to draft for Post #: 32474
+[13-11-2016 14:07:38] Email sent successfully to PSHSA CC team
+[15-11-2016 14:07:55] - Product #: 33493 with start date: 11/14/2016 status is changed to draft for Post #: 33493
+[15-11-2016 14:07:55] - Product #: 33029 with start date: 11/14/2016 status is changed to draft for Post #: 33029
+[15-11-2016 14:07:56] - Product #: 29217 with start date: 11/14/2016 status is changed to draft for Post #: 29217
+[15-11-2016 14:07:57] Email sent successfully to PSHSA CC team
+[16-11-2016 14:07:45] - Product #: 33346 with start date: 11/15/2016 status is changed to draft for Post #: 33346
+[16-11-2016 14:07:46] - Product #: 31962 with start date: 11/15/2016 status is changed to draft for Post #: 31962
+[16-11-2016 14:07:47] - Product #: 29850 with start date: 11/15/2016 status is changed to draft for Post #: 29850
+[16-11-2016 14:07:48] - Product #: 29216 with start date: 11/15/2016 status is changed to draft for Post #: 29216
+[16-11-2016 14:07:48] - Product #: 29194 with start date: 11/15/2016 status is changed to draft for Post #: 29194
+[16-11-2016 14:07:49] - Product #: 29192 with start date: 11/15/2016 status is changed to draft for Post #: 29192
+[16-11-2016 14:07:49] Email sent successfully to PSHSA CC team
+[17-11-2016 14:07:37] - Product #: 33031 with start date: 11/16/2016 status is changed to draft for Post #: 33031
+[17-11-2016 14:07:37] Email sent successfully to PSHSA CC team
+[18-11-2016 14:07:40] - Product #: 33290 with start date: 11/17/2016 status is changed to draft for Post #: 33290
+[18-11-2016 14:07:40] - Product #: 33285 with start date: 11/17/2016 status is changed to draft for Post #: 33285
+[18-11-2016 14:07:41] - Product #: 33268 with start date: 11/17/2016 status is changed to draft for Post #: 33268
+[18-11-2016 14:07:41] - Product #: 33265 with start date: 11/17/2016 status is changed to draft for Post #: 33265
+[18-11-2016 14:07:42] - Product #: 27792 with start date: 11/17/2016 status is changed to draft for Post #: 27792
+[18-11-2016 14:07:43] Email sent successfully to PSHSA CC team
+[19-11-2016 14:08:23] - Product #: 33428 with start date: 11/18/2016 status is changed to draft for Post #: 33428
+[19-11-2016 14:08:24] Email sent successfully to PSHSA CC team
+[22-11-2016 14:07:36] - Product #: 31964 with start date: 11/21/2016 status is changed to draft for Post #: 31964
+[22-11-2016 14:07:37] Email sent successfully to PSHSA CC team
+[23-11-2016 14:07:56] - Product #: 30865 with start date: 11/22/2016 status is changed to draft for Post #: 30865
+[23-11-2016 14:07:56] - Product #: 29854 with start date: 11/22/2016 status is changed to draft for Post #: 29854
+[23-11-2016 14:07:57] - Product #: 29851 with start date: 11/22/2016 status is changed to draft for Post #: 29851
+[23-11-2016 14:07:58] - Product #: 29218 with start date: 11/22/2016 status is changed to draft for Post #: 29218
+[23-11-2016 14:07:58] Email sent successfully to PSHSA CC team
+[24-11-2016 14:08:39] - Product #: 30616 with start date: 11/23/2016 status is changed to draft for Post #: 30616
+[24-11-2016 14:08:40] Email sent successfully to PSHSA CC team
+[26-11-2016 14:08:43] - Product #: 33990 with start date: 11/25/2016 status is changed to draft for Post #: 33990
+[26-11-2016 14:08:45] Email sent successfully to PSHSA CC team
+[29-11-2016 14:07:50] - Product #: 33792 with start date: 11/28/2016 status is changed to draft for Post #: 33792
+[29-11-2016 14:07:51] - Product #: 33032 with start date: 11/28/2016 status is changed to draft for Post #: 33032
+[29-11-2016 14:07:52] Email sent successfully to PSHSA CC team
+[30-11-2016 14:07:38] - Product #: 29225 with start date: 11/29/2016 status is changed to draft for Post #: 29225
+[30-11-2016 14:07:39] Email sent successfully to PSHSA CC team
+[01-12-2016 14:07:59] - Product #: 32089 with start date: 11/30/2016 status is changed to draft for Post #: 32089
+[01-12-2016 14:08:00] - Product #: 29855 with start date: 11/30/2016 status is changed to draft for Post #: 29855
+[01-12-2016 14:08:01] Email sent successfully to PSHSA CC team
+[02-12-2016 14:07:36] - Product #: 29229 with start date: 12/01/2016 status is changed to draft for Post #: 29229
+[02-12-2016 14:07:37] Email sent successfully to PSHSA CC team
+[06-12-2016 14:07:36] - Product #: 33033 with start date: 12/05/2016 status is changed to draft for Post #: 33033
+[06-12-2016 14:07:37] Email sent successfully to PSHSA CC team
+[07-12-2016 14:07:41] - Product #: 34380 with start date: 12/06/2016 status is changed to draft for Post #: 34380
+[07-12-2016 14:07:42] - Product #: 32400 with start date: 12/06/2016 status is changed to draft for Post #: 32400
+[07-12-2016 14:07:42] - Product #: 29860 with start date: 12/06/2016 status is changed to draft for Post #: 29860
+[07-12-2016 14:07:43] - Product #: 29859 with start date: 12/06/2016 status is changed to draft for Post #: 29859
+[07-12-2016 14:07:44] - Product #: 29310 with start date: 12/06/2016 status is changed to draft for Post #: 29310
+[07-12-2016 14:07:44] Email sent successfully to PSHSA CC team
+[08-12-2016 14:07:53] - Product #: 33432 with start date: 12/07/2016 status is changed to draft for Post #: 33432
+[08-12-2016 14:07:54] - Product #: 29861 with start date: 12/07/2016 status is changed to draft for Post #: 29861
+[08-12-2016 14:07:54] Email sent successfully to PSHSA CC team
+[11-12-2016 14:07:39] - Product #: 21576 with start date: 12/10/2016 status is changed to draft for Post #: 21576
+[11-12-2016 14:07:40] Email sent successfully to PSHSA CC team
+[13-12-2016 14:07:45] - Product #: 34381 with start date: 12/12/2016 status is changed to draft for Post #: 34381
+[13-12-2016 14:07:46] - Product #: 33589 with start date: 12/12/2016 status is changed to draft for Post #: 33589
+[13-12-2016 14:07:46] - Product #: 33475 with start date: 12/12/2016 status is changed to draft for Post #: 33475
+[13-12-2016 14:07:47] Email sent successfully to PSHSA CC team
+[14-12-2016 14:07:39] - Product #: 33603 with start date: 12/13/2016 status is changed to draft for Post #: 33603
+[14-12-2016 14:07:40] - Product #: 33597 with start date: 12/13/2016 status is changed to draft for Post #: 33597
+[14-12-2016 14:07:41] - Product #: 29863 with start date: 12/13/2016 status is changed to draft for Post #: 29863
+[14-12-2016 14:07:41] Email sent successfully to PSHSA CC team
+[15-12-2016 14:07:47] - Product #: 34232 with start date: 12/14/2016 status is changed to draft for Post #: 34232
+[15-12-2016 14:07:47] - Product #: 29865 with start date: 12/14/2016 status is changed to draft for Post #: 29865
+[15-12-2016 14:07:48] Email sent successfully to PSHSA CC team
+[16-12-2016 14:07:46] - Product #: 34635 with start date: 12/15/2016 status is changed to draft for Post #: 34635
+[16-12-2016 14:07:47] - Product #: 33588 with start date: 12/15/2016 status is changed to draft for Post #: 33588
+[16-12-2016 14:07:48] - Product #: 33476 with start date: 12/15/2016 status is changed to draft for Post #: 33476
+[16-12-2016 14:07:49] Email sent successfully to PSHSA CC team
+[26-12-2016 14:07:40] - Product #: 35230 with start date: 03/08/2016 status is changed to draft for Post #: 35230
+[26-12-2016 14:07:41] Email sent successfully to PSHSA CC team
+[10-01-2017 14:07:41] - Product #: 34831 with start date: 01/09/2017 status is changed to draft for Post #: 34831
+[10-01-2017 14:07:42] Email sent successfully to PSHSA CC team
+[11-01-2017 14:07:38] - Product #: 33350 with start date: 01/10/2017 status is changed to draft for Post #: 33350
+[11-01-2017 14:07:39] - Product #: 30867 with start date: 01/10/2017 status is changed to draft for Post #: 30867
+[11-01-2017 14:07:40] - Product #: 30866 with start date: 01/10/2017 status is changed to draft for Post #: 30866
+[11-01-2017 14:07:40] Email sent successfully to PSHSA CC team
+[12-01-2017 14:08:54] - Product #: 34706 with start date: 01/11/2017 status is changed to draft for Post #: 34706
+[12-01-2017 14:08:55] Email sent successfully to PSHSA CC team
+[14-01-2017 14:08:04] - Product #: 34685 with start date: 01/13/2017 status is changed to draft for Post #: 34685
+[14-01-2017 14:08:05] Email sent successfully to PSHSA CC team
+[17-01-2017 14:07:49] - Product #: 34790 with start date: 01/16/2017 status is changed to draft for Post #: 34790
+[17-01-2017 14:07:50] Email sent successfully to PSHSA CC team
+[18-01-2017 14:07:37] - Product #: 34237 with start date: 01/17/2017 status is changed to draft for Post #: 34237
+[18-01-2017 14:07:38] - Product #: 34065 with start date: 01/17/2017 status is changed to draft for Post #: 34065
+[18-01-2017 14:07:39] - Product #: 31180 with start date: 01/17/2017 status is changed to draft for Post #: 31180
+[18-01-2017 14:07:39] - Product #: 31177 with start date: 01/17/2017 status is changed to draft for Post #: 31177
+[18-01-2017 14:07:40] Email sent successfully to PSHSA CC team
+[19-01-2017 14:07:40] - Product #: 31260 with start date: 01/18/2017 status is changed to draft for Post #: 31260
+[19-01-2017 14:07:40] Email sent successfully to PSHSA CC team
+[21-01-2017 14:07:48] - Product #: 34694 with start date: 01/20/2017 status is changed to draft for Post #: 34694
+[21-01-2017 14:07:50] Email sent successfully to PSHSA CC team
+[24-01-2017 14:07:41] - Product #: 34720 with start date: 01/23/2017 status is changed to draft for Post #: 34720
+[24-01-2017 14:07:41] Email sent successfully to PSHSA CC team
+[25-01-2017 14:07:51] - Product #: 35163 with start date: 01/24/2017 status is changed to draft for Post #: 35163
+[25-01-2017 14:07:51] - Product #: 34069 with start date: 01/24/2017 status is changed to draft for Post #: 34069
+[25-01-2017 14:07:52] - Product #: 31298 with start date: 01/24/2017 status is changed to draft for Post #: 31298
+[25-01-2017 14:07:53] - Product #: 31269 with start date: 01/24/2017 status is changed to draft for Post #: 31269
+[25-01-2017 14:07:54] Email sent successfully to PSHSA CC team
+[27-01-2017 14:07:41] - Product #: 35161 with start date: 01/26/2017 status is changed to draft for Post #: 35161
+[27-01-2017 14:07:42] Email sent successfully to PSHSA CC team
+[28-01-2017 14:07:48] - Product #: 35539 with start date: 01/27/2017 status is changed to draft for Post #: 35539
+[28-01-2017 14:07:49] - Product #: 34695 with start date: 01/27/2017 status is changed to draft for Post #: 34695
+[28-01-2017 14:07:50] Email sent successfully to PSHSA CC team
+[31-01-2017 14:07:45] - Product #: 35184 with start date: 01/30/2017 status is changed to draft for Post #: 35184
+[31-01-2017 14:07:46] - Product #: 35164 with start date: 01/30/2017 status is changed to draft for Post #: 35164
+[31-01-2017 14:07:47] - Product #: 34226 with start date: 01/30/2017 status is changed to draft for Post #: 34226
+[31-01-2017 14:07:47] - Product #: 31400 with start date: 01/30/2017 status is changed to draft for Post #: 31400
+[31-01-2017 14:07:48] Email sent successfully to PSHSA CC team
+[01-02-2017 14:07:41] - eLearning Blended Product #: 36131 status is changed to draft for Post #: 36131
+[01-02-2017 14:07:42] - Product #: 32548 with start date: 01/31/2017 status is changed to draft for Post #: 32548
+[01-02-2017 14:07:43] - Product #: 31540 with start date: 01/31/2017 status is changed to draft for Post #: 31540
+[01-02-2017 14:07:43] Email sent successfully to PSHSA CC team
+[02-02-2017 14:07:43] - Product #: 35188 with start date: 02/01/2017 status is changed to draft for Post #: 35188
+[02-02-2017 14:07:44] - Product #: 33351 with start date: 02/01/2017 status is changed to draft for Post #: 33351
+[02-02-2017 14:07:45] Email sent successfully to PSHSA CC team
+[03-02-2017 14:07:36] - Product #: 35715 with start date: 02/02/2017 status is changed to draft for Post #: 35715
+[03-02-2017 14:07:37] Email sent successfully to PSHSA CC team
+[04-02-2017 14:07:42] - Product #: 34696 with start date: 02/03/2017 status is changed to draft for Post #: 34696
+[04-02-2017 14:07:43] Email sent successfully to PSHSA CC team
+[07-02-2017 14:07:54] - Product #: 34309 with start date: 02/06/2017 status is changed to draft for Post #: 34309
+[07-02-2017 14:07:55] Email sent successfully to PSHSA CC team
+[08-02-2017 14:07:51] - Product #: 34229 with start date: 02/07/2017 status is changed to draft for Post #: 34229
+[08-02-2017 14:07:51] Email sent successfully to PSHSA CC team
+[09-02-2017 14:07:36] - Product #: 33359 with start date: 02/08/2017 status is changed to draft for Post #: 33359
+[09-02-2017 14:07:36] Email sent successfully to PSHSA CC team
+[10-02-2017 14:07:45] - Product #: 35190 with start date: 02/09/2017 status is changed to draft for Post #: 35190
+[10-02-2017 14:07:46] - Product #: 34621 with start date: 02/09/2017 status is changed to draft for Post #: 34621
+[10-02-2017 14:07:46] Email sent successfully to PSHSA CC team
+[11-02-2017 14:07:45] - Product #: 36721 with start date: 01/09/2017 status is changed to draft for Post #: 36721
+[11-02-2017 14:07:46] - Product #: 35193 with start date: 02/10/2017 status is changed to draft for Post #: 35193
+[11-02-2017 14:07:47] Email sent successfully to PSHSA CC team
+[15-02-2017 14:07:44] - Product #: 34242 with start date: 02/14/2017 status is changed to draft for Post #: 34242
+[15-02-2017 14:07:45] - Product #: 33354 with start date: 02/14/2017 status is changed to draft for Post #: 33354
+[15-02-2017 14:07:45] - Product #: 33353 with start date: 02/14/2017 status is changed to draft for Post #: 33353
+[15-02-2017 14:07:46] Email sent successfully to PSHSA CC team
+[16-02-2017 14:07:45] - Product #: 34244 with start date: 02/15/2017 status is changed to draft for Post #: 34244
+[16-02-2017 14:07:45] - Product #: 33355 with start date: 02/15/2017 status is changed to draft for Post #: 33355
+[16-02-2017 14:07:46] Email sent successfully to PSHSA CC team
+[17-02-2017 14:07:47] - Product #: 35194 with start date: 02/16/2017 status is changed to draft for Post #: 35194
+[17-02-2017 14:07:48] Email sent successfully to PSHSA CC team
+[18-02-2017 14:07:39] - Product #: 36511 with start date: 02/17/2017 status is changed to draft for Post #: 36511
+[18-02-2017 14:07:41] Email sent successfully to PSHSA CC team
+[22-02-2017 14:07:41] - Product #: 33356 with start date: 02/21/2017 status is changed to draft for Post #: 33356
+[22-02-2017 14:07:42] Email sent successfully to PSHSA CC team
+[23-02-2017 14:07:37] - Product #: 35229 with start date: 02/22/2017 status is changed to draft for Post #: 35229
+[23-02-2017 14:07:37] - Product #: 35195 with start date: 02/22/2017 status is changed to draft for Post #: 35195
+[23-02-2017 14:07:38] Email sent successfully to PSHSA CC team
+[24-02-2017 14:07:45] - Product #: 35196 with start date: 02/23/2017 status is changed to draft for Post #: 35196
+[24-02-2017 14:07:45] - Product #: 34246 with start date: 02/23/2017 status is changed to draft for Post #: 34246
+[24-02-2017 14:07:46] Email sent successfully to PSHSA CC team
+[25-02-2017 14:07:55] - Product #: 36740 with start date: 02/24/2017 status is changed to draft for Post #: 36740
+[25-02-2017 14:07:56] - Product #: 35197 with start date: 02/24/2017 status is changed to draft for Post #: 35197
+[25-02-2017 14:07:57] Email sent successfully to PSHSA CC team
+[28-02-2017 14:07:36] - Product #: 34311 with start date: 02/27/2017 status is changed to draft for Post #: 34311
+[28-02-2017 14:07:37] Email sent successfully to PSHSA CC team
+[01-03-2017 14:07:44] - Product #: 36090 with start date: 02/28/2017 status is changed to draft for Post #: 36090
+[01-03-2017 14:07:45] - Product #: 34310 with start date: 02/28/2017 status is changed to draft for Post #: 34310
+[01-03-2017 14:07:46] Email sent successfully to PSHSA CC team
+[07-03-2017 14:08:19] - Product #: 34622 with start date: 03/06/2017 status is changed to draft for Post #: 34622
+[07-03-2017 14:08:20] - Product #: 34248 with start date: 03/06/2017 status is changed to draft for Post #: 34248
+[07-03-2017 14:08:21] Email sent successfully to PSHSA CC team
+[08-03-2017 14:07:38] - Product #: 36680 with start date: 03/07/2017 status is changed to draft for Post #: 36680
+[08-03-2017 14:07:39] - Product #: 36551 with start date: 03/07/2017 status is changed to draft for Post #: 36551
+[08-03-2017 14:07:40] - Product #: 35784 with start date: 03/07/2017 status is changed to draft for Post #: 35784
+[08-03-2017 14:07:41] - Product #: 33665 with start date: 03/07/2017 status is changed to draft for Post #: 33665
+[08-03-2017 14:07:42] - Product #: 33358 with start date: 03/07/2017 status is changed to draft for Post #: 33358
+[08-03-2017 14:07:42] Email sent successfully to PSHSA CC team
+[09-03-2017 14:07:40] - Product #: 35230 with start date: 03/08/2017 status is changed to draft for Post #: 35230
+[09-03-2017 14:07:41] - Product #: 34256 with start date: 03/08/2017 status is changed to draft for Post #: 34256
+[09-03-2017 14:07:41] - Product #: 34255 with start date: 03/08/2017 status is changed to draft for Post #: 34255
+[09-03-2017 14:07:42] - Product #: 33360 with start date: 03/08/2017 status is changed to draft for Post #: 33360
+[09-03-2017 14:07:43] Email sent successfully to PSHSA CC team
+[10-03-2017 14:08:00] - Product #: 36559 with start date: 03/09/2017 status is changed to draft for Post #: 36559
+[10-03-2017 14:08:01] Email sent successfully to PSHSA CC team
+[15-03-2017 15:07:37] - Product #: 34257 with start date: 03/14/2017 status is changed to draft for Post #: 34257
+[15-03-2017 15:07:37] - Product #: 33361 with start date: 03/14/2017 status is changed to draft for Post #: 33361
+[15-03-2017 15:07:38] Email sent successfully to PSHSA CC team
+[20-03-2017 15:07:40] - eLearning Blended Product #: 31053 status is changed to draft for Post #: 31053
+[20-03-2017 15:07:41] Email sent successfully to PSHSA CC team
+[21-03-2017 15:07:39] - Product #: 34282 with start date: 03/20/2017 status is changed to draft for Post #: 34282
+[21-03-2017 15:07:40] - Product #: 34281 with start date: 03/20/2017 status is changed to draft for Post #: 34281
+[21-03-2017 15:07:40] Email sent successfully to PSHSA CC team
+[22-03-2017 15:07:37] - Product #: 36807 with start date: 03/21/2017 status is changed to draft for Post #: 36807
+[22-03-2017 15:07:38] - Product #: 36596 with start date: 03/21/2017 status is changed to draft for Post #: 36596
+[22-03-2017 15:07:39] - Product #: 35234 with start date: 03/21/2017 status is changed to draft for Post #: 35234
+[22-03-2017 15:07:39] - Product #: 35232 with start date: 03/21/2017 status is changed to draft for Post #: 35232
+[22-03-2017 15:07:40] Email sent successfully to PSHSA CC team
+[23-03-2017 15:07:39] - Product #: 34288 with start date: 03/22/2017 status is changed to draft for Post #: 34288
+[23-03-2017 15:07:40] Email sent successfully to PSHSA CC team
+[24-03-2017 15:07:50] - Product #: 34285 with start date: 03/23/2017 status is changed to draft for Post #: 34285
+[24-03-2017 15:07:51] - Product #: 34278 with start date: 03/23/2017 status is changed to draft for Post #: 34278
+[24-03-2017 15:07:51] Email sent successfully to PSHSA CC team
+[25-03-2017 15:08:22] - Product #: 36729 with start date: 03/24/2017 status is changed to draft for Post #: 36729
+[25-03-2017 15:08:23] Email sent successfully to PSHSA CC team
+[26-03-2017 15:07:38] - Product #: 37007 with start date: 03/25/2017 status is changed to draft for Post #: 37007
+[26-03-2017 15:07:39] Email sent successfully to PSHSA CC team
+[29-03-2017 15:07:35] - Product #: 36808 with start date: 03/28/2017 status is changed to draft for Post #: 36808
+[29-03-2017 15:07:36] - Product #: 36733 with start date: 03/28/2017 status is changed to draft for Post #: 36733
+[29-03-2017 15:07:36] - Product #: 36564 with start date: 03/28/2017 status is changed to draft for Post #: 36564
+[29-03-2017 15:07:37] - Product #: 35764 with start date: 03/28/2017 status is changed to draft for Post #: 35764
+[29-03-2017 15:07:38] - Product #: 35236 with start date: 03/28/2017 status is changed to draft for Post #: 35236
+[29-03-2017 15:07:38] - Product #: 34276 with start date: 03/28/2017 status is changed to draft for Post #: 34276
+[29-03-2017 15:07:39] Email sent successfully to PSHSA CC team
+[31-03-2017 15:07:45] - Product #: 36733 with start date: 03/28/2017 status is changed to draft for Post #: 36733
+[31-03-2017 15:07:47] Email sent successfully to PSHSA CC team
+[04-04-2017 15:07:41] - Product #: 37844 with start date: 04/03/2017 status is changed to draft for Post #: 37844
+[04-04-2017 15:07:42] - Product #: 36923 with start date: 04/03/2017 status is changed to draft for Post #: 36923
+[04-04-2017 15:07:42] - Product #: 36742 with start date: 04/03/2017 status is changed to draft for Post #: 36742
+[04-04-2017 15:07:43] Email sent successfully to PSHSA CC team
+[05-04-2017 15:07:46] - Product #: 36782 with start date: 04/04/2017 status is changed to draft for Post #: 36782
+[05-04-2017 15:07:47] - Product #: 35239 with start date: 04/04/2017 status is changed to draft for Post #: 35239
+[05-04-2017 15:07:47] - Product #: 34292 with start date: 04/04/2017 status is changed to draft for Post #: 34292
+[05-04-2017 15:07:48] - Product #: 33977 with start date: 04/04/2017 status is changed to draft for Post #: 33977
+[05-04-2017 15:07:49] - Product #: 33363 with start date: 04/04/2017 status is changed to draft for Post #: 33363
+[05-04-2017 15:07:49] Email sent successfully to PSHSA CC team
+[06-04-2017 15:07:45] - Product #: 37339 with start date: 04/05/2017 status is changed to draft for Post #: 37339
+[06-04-2017 15:07:46] - Product #: 35240 with start date: 04/05/2017 status is changed to draft for Post #: 35240
+[06-04-2017 15:07:46] Email sent successfully to PSHSA CC team
+[07-04-2017 15:07:39] - Product #: 36924 with start date: 04/06/2017 status is changed to draft for Post #: 36924
+[07-04-2017 15:07:39] - Product #: 36848 with start date: 04/06/2017 status is changed to draft for Post #: 36848
+[07-04-2017 15:07:40] - Product #: 36787 with start date: 04/06/2017 status is changed to draft for Post #: 36787
+[07-04-2017 15:07:41] - Product #: 35105 with start date: 04/06/2017 status is changed to draft for Post #: 35105
+[07-04-2017 15:07:41] Email sent successfully to PSHSA CC team
+[08-04-2017 15:08:24] - Product #: 36782 with start date: 04/04/2017 status is changed to draft for Post #: 36782
+[08-04-2017 15:08:25] Email sent successfully to PSHSA CC team
+[12-04-2017 15:07:40] - Product #: 36849 with start date: 04/11/2017 status is changed to draft for Post #: 36849
+[12-04-2017 15:07:41] - Product #: 35785 with start date: 04/11/2017 status is changed to draft for Post #: 35785
+[12-04-2017 15:07:41] - Product #: 35242 with start date: 04/11/2017 status is changed to draft for Post #: 35242
+[12-04-2017 15:07:42] Email sent successfully to PSHSA CC team
+[13-04-2017 15:07:41] - Product #: 35785 with start date: 04/11/2017 status is changed to draft for Post #: 35785
+[13-04-2017 15:07:42] Email sent successfully to PSHSA CC team
+[19-04-2017 15:07:56] - Product #: 36850 with start date: 04/18/2017 status is changed to draft for Post #: 36850
+[19-04-2017 15:07:57] Email sent successfully to PSHSA CC team
+[20-04-2017 15:07:38] - Product #: 38090 with start date: 04/19/2017 status is changed to draft for Post #: 38090
+[20-04-2017 15:07:39] - Product #: 36851 with start date: 04/19/2017 status is changed to draft for Post #: 36851
+[20-04-2017 15:07:40] Email sent successfully to PSHSA CC team
+[21-04-2017 15:07:39] - Product #: 37869 with start date: 04/20/2017 status is changed to draft for Post #: 37869
+[21-04-2017 15:07:40] - Product #: 36891 with start date: 04/20/2017 status is changed to draft for Post #: 36891
+[21-04-2017 15:07:41] Email sent successfully to PSHSA CC team
+[25-04-2017 15:07:38] - Product #: 38267 with start date: 04/24/2017 status is changed to draft for Post #: 38267
+[25-04-2017 15:07:39] - Product #: 37781 with start date: 04/24/2017 status is changed to draft for Post #: 37781
+[25-04-2017 15:07:39] - Product #: 37780 with start date: 04/24/2017 status is changed to draft for Post #: 37780
+[25-04-2017 15:07:40] - Product #: 34293 with start date: 04/24/2017 status is changed to draft for Post #: 34293
+[25-04-2017 15:07:41] Email sent successfully to PSHSA CC team
+[26-04-2017 15:07:45] - Product #: 34294 with start date: 04/25/2017 status is changed to draft for Post #: 34294
+[26-04-2017 15:07:46] Email sent successfully to PSHSA CC team
+[27-04-2017 15:07:39] - Product #: 35244 with start date: 04/26/2017 status is changed to draft for Post #: 35244
+[27-04-2017 15:07:40] - Product #: 34295 with start date: 04/26/2017 status is changed to draft for Post #: 34295
+[27-04-2017 15:07:41] Email sent successfully to PSHSA CC team
+[28-04-2017 15:07:39] - Product #: 37787 with start date: 04/27/2017 status is changed to draft for Post #: 37787
+[28-04-2017 15:07:39] - Product #: 37786 with start date: 04/27/2017 status is changed to draft for Post #: 37786
+[28-04-2017 15:07:40] - Product #: 34297 with start date: 04/27/2017 status is changed to draft for Post #: 34297
+[28-04-2017 15:07:41] Email sent successfully to PSHSA CC team
+[02-05-2017 15:07:39] - Product #: 37775 with start date: 05/01/2017 status is changed to draft for Post #: 37775
+[02-05-2017 15:07:40] - Product #: 36855 with start date: 05/01/2017 status is changed to draft for Post #: 36855
+[02-05-2017 15:07:40] - Product #: 36853 with start date: 05/01/2017 status is changed to draft for Post #: 36853
+[02-05-2017 15:07:41] Email sent successfully to PSHSA CC team
+[03-05-2017 15:08:25] - Product #: 38428 with start date: 05/02/2017 status is changed to draft for Post #: 38428
+[03-05-2017 15:08:26] - Product #: 38091 with start date: 05/02/2017 status is changed to draft for Post #: 38091
+[03-05-2017 15:08:27] - Product #: 36893 with start date: 05/02/2017 status is changed to draft for Post #: 36893
+[03-05-2017 15:08:28] - Product #: 35246 with start date: 05/02/2017 status is changed to draft for Post #: 35246
+[03-05-2017 15:08:28] - Product #: 35245 with start date: 05/02/2017 status is changed to draft for Post #: 35245
+[03-05-2017 15:08:29] - Product #: 34222 with start date: 05/02/2017 status is changed to draft for Post #: 34222
+[03-05-2017 15:08:30] Email sent successfully to PSHSA CC team
+[04-05-2017 15:07:46] - Product #: 38294 with start date: 05/03/2017 status is changed to draft for Post #: 38294
+[04-05-2017 15:07:47] - Product #: 34299 with start date: 05/03/2017 status is changed to draft for Post #: 34299
+[04-05-2017 15:07:48] Email sent successfully to PSHSA CC team
+[05-05-2017 15:08:19] - Product #: 38142 with start date: 05/04/2017 status is changed to draft for Post #: 38142
+[05-05-2017 15:08:19] - Product #: 36925 with start date: 05/04/2017 status is changed to draft for Post #: 36925
+[05-05-2017 15:08:20] - Product #: 36925 with start date: 05/04/2017 status is changed to draft for Post #: 36925
+[05-05-2017 15:08:20] - Product #: 36856 with start date: 05/04/2017 status is changed to draft for Post #: 36856
+[05-05-2017 15:08:20] - Product #: 36856 with start date: 05/04/2017 status is changed to draft for Post #: 36856
+[05-05-2017 15:08:21] Email sent successfully to PSHSA CC team
+[05-05-2017 15:08:21] Email sent successfully to PSHSA CC team
+[09-05-2017 15:07:36] - Product #: 34300 with start date: 05/08/2017 status is changed to draft for Post #: 34300
+[09-05-2017 15:07:37] Email sent successfully to PSHSA CC team
+[10-05-2017 15:07:36] - Product #: 38422 with start date: 05/09/2017 status is changed to draft for Post #: 38422
+[10-05-2017 15:07:37] - Product #: 38182 with start date: 05/09/2017 status is changed to draft for Post #: 38182
+[10-05-2017 15:07:37] - Product #: 37947 with start date: 05/09/2017 status is changed to draft for Post #: 37947
+[10-05-2017 15:07:39] Email sent successfully to PSHSA CC team
+[11-05-2017 15:08:20] - Product #: 38248 with start date: 05/10/2017 status is changed to draft for Post #: 38248
+[11-05-2017 15:08:21] - Product #: 35249 with start date: 05/10/2017 status is changed to draft for Post #: 35249
+[11-05-2017 15:08:22] - Product #: 34760 with start date: 05/10/2017 status is changed to draft for Post #: 34760
+[11-05-2017 15:08:22] Email sent successfully to PSHSA CC team
+[12-05-2017 15:07:40] - Product #: 38466 with start date: 05/11/2017 status is changed to draft for Post #: 38466
+[12-05-2017 15:07:41] Email sent successfully to PSHSA CC team
+[16-05-2017 15:07:40] - Product #: 35250 with start date: 05/15/2017 status is changed to draft for Post #: 35250
+[16-05-2017 15:07:41] Email sent successfully to PSHSA CC team
+[17-05-2017 15:07:41] - Product #: 38384 with start date: 05/16/2017 status is changed to draft for Post #: 38384
+[17-05-2017 15:07:43] - Product #: 35252 with start date: 05/16/2017 status is changed to draft for Post #: 35252
+[17-05-2017 15:07:43] - Product #: 34301 with start date: 05/16/2017 status is changed to draft for Post #: 34301
+[17-05-2017 15:07:44] Email sent successfully to PSHSA CC team
+[18-05-2017 15:07:38] - Product #: 36858 with start date: 05/17/2017 status is changed to draft for Post #: 36858
+[18-05-2017 15:07:39] Email sent successfully to PSHSA CC team
+[19-05-2017 15:07:43] - Product #: 38295 with start date: 05/18/2017 status is changed to draft for Post #: 38295
+[19-05-2017 15:07:45] Email sent successfully to PSHSA CC team
+[20-05-2017 15:08:26] - Product #: 38298 with start date: 05/19/2017 status is changed to draft for Post #: 38298
+[20-05-2017 15:08:28] Email sent successfully to PSHSA CC team
+[24-05-2017 15:07:43] - Product #: 38725 with start date: 05/23/2017 status is changed to draft for Post #: 38725
+[24-05-2017 15:07:44] - Product #: 38468 with start date: 05/23/2017 status is changed to draft for Post #: 38468
+[24-05-2017 15:07:45] - Product #: 38426 with start date: 05/23/2017 status is changed to draft for Post #: 38426
+[24-05-2017 15:07:45] - Product #: 38331 with start date: 05/23/2017 status is changed to draft for Post #: 38331
+[24-05-2017 15:07:46] - Product #: 38220 with start date: 05/23/2017 status is changed to draft for Post #: 38220
+[24-05-2017 15:07:47] - Product #: 37674 with start date: 05/23/2017 status is changed to draft for Post #: 37674
+[24-05-2017 15:07:48] - Product #: 36892 with start date: 05/23/2017 status is changed to draft for Post #: 36892
+[24-05-2017 15:07:48] - Product #: 36859 with start date: 05/23/2017 status is changed to draft for Post #: 36859
+[24-05-2017 15:07:49] Email sent successfully to PSHSA CC team
+[25-05-2017 15:07:39] - Product #: 38300 with start date: 05/24/2017 status is changed to draft for Post #: 38300
+[25-05-2017 15:07:39] - Product #: 38221 with start date: 05/24/2017 status is changed to draft for Post #: 38221
+[25-05-2017 15:07:40] Email sent successfully to PSHSA CC team
+[26-05-2017 15:07:46] - Product #: 36744 with start date: 05/25/2017 status is changed to draft for Post #: 36744
+[26-05-2017 15:07:47] Email sent successfully to PSHSA CC team
+[27-05-2017 15:08:10] - Product #: 39037 with start date: 05/26/2017 status is changed to draft for Post #: 39037
+[27-05-2017 15:08:13] Email sent successfully to PSHSA CC team
+[29-05-2017 15:07:41] - Product #: 36892 with start date: 05/23/2017 status is changed to draft for Post #: 36892
+[29-05-2017 15:07:43] Email sent successfully to PSHSA CC team
+[30-05-2017 15:07:40] - Product #: 38675 with start date: 05/29/2017 status is changed to draft for Post #: 38675
+[30-05-2017 15:07:42] - Product #: 35253 with start date: 05/29/2017 status is changed to draft for Post #: 35253
+[30-05-2017 15:07:42] - Product #: 34302 with start date: 05/29/2017 status is changed to draft for Post #: 34302
+[30-05-2017 15:07:43] Email sent successfully to PSHSA CC team
+[31-05-2017 15:07:40] - Product #: 39428 with start date: 05/30/2017 status is changed to draft for Post #: 39428
+[31-05-2017 15:07:41] - Product #: 38728 with start date: 05/30/2017 status is changed to draft for Post #: 38728
+[31-05-2017 15:07:42] - Product #: 38441 with start date: 05/30/2017 status is changed to draft for Post #: 38441
+[31-05-2017 15:07:43] - Product #: 38396 with start date: 05/30/2017 status is changed to draft for Post #: 38396
+[31-05-2017 15:07:43] - Product #: 38379 with start date: 05/30/2017 status is changed to draft for Post #: 38379
+[31-05-2017 15:07:44] - Product #: 38299 with start date: 05/30/2017 status is changed to draft for Post #: 38299
+[31-05-2017 15:07:46] - Product #: 34303 with start date: 05/30/2017 status is changed to draft for Post #: 34303
+[31-05-2017 15:07:47] Email sent successfully to PSHSA CC team
+[01-06-2017 15:07:38] - Product #: 37956 with start date: 05/31/2017 status is changed to draft for Post #: 37956
+[01-06-2017 15:07:39] Email sent successfully to PSHSA CC team
+[03-06-2017 15:07:37] - Product #: 38795 with start date: 06/02/2017 status is changed to draft for Post #: 38795
+[03-06-2017 15:07:39] Email sent successfully to PSHSA CC team
+[06-06-2017 15:07:38] - Product #: 38729 with start date: 06/05/2017 status is changed to draft for Post #: 38729
+[06-06-2017 15:07:39] - Product #: 37841 with start date: 06/05/2017 status is changed to draft for Post #: 37841
+[06-06-2017 15:07:41] Email sent successfully to PSHSA CC team
+[07-06-2017 15:07:39] - Product #: 38443 with start date: 06/06/2017 status is changed to draft for Post #: 38443
+[07-06-2017 15:07:40] Email sent successfully to PSHSA CC team
+[13-06-2017 15:07:41] - Product #: 39479 with start date: 06/12/2017 status is changed to draft for Post #: 39479
+[13-06-2017 15:07:42] - Product #: 38997 with start date: 06/12/2017 status is changed to draft for Post #: 38997
+[13-06-2017 15:07:42] - Product #: 38996 with start date: 06/12/2017 status is changed to draft for Post #: 38996
+[13-06-2017 15:07:51] - Product #: 34304 with start date: 06/12/2017 status is changed to draft for Post #: 34304
+[13-06-2017 15:07:55] Email sent successfully to PSHSA CC team
+[14-06-2017 15:07:51] - Product #: 39480 with start date: 06/13/2017 status is changed to draft for Post #: 39480
+[14-06-2017 15:07:58] - Product #: 38195 with start date: 06/13/2017 status is changed to draft for Post #: 38195
+[14-06-2017 15:07:58] - Product #: 38194 with start date: 06/13/2017 status is changed to draft for Post #: 38194
+[14-06-2017 15:08:00] - Product #: 36863 with start date: 06/13/2017 status is changed to draft for Post #: 36863
+[14-06-2017 15:08:02] - Product #: 35370 with start date: 06/13/2017 status is changed to draft for Post #: 35370
+[14-06-2017 15:08:02] - Product #: 35369 with start date: 06/13/2017 status is changed to draft for Post #: 35369
+[14-06-2017 15:08:03] - Product #: 35368 with start date: 06/13/2017 status is changed to draft for Post #: 35368
+[14-06-2017 15:08:04] - Product #: 34304 with start date: 06/12/2017 status is changed to draft for Post #: 34304
+[14-06-2017 15:08:10] Email sent successfully to PSHSA CC team
+[15-06-2017 15:07:39] - Product #: 38799 with start date: 06/14/2017 status is changed to draft for Post #: 38799
+[15-06-2017 15:07:42] - Product #: 38301 with start date: 06/14/2017 status is changed to draft for Post #: 38301
+[15-06-2017 15:07:43] - Product #: 37847 with start date: 06/14/2017 status is changed to draft for Post #: 37847
+[15-06-2017 15:07:49] Email sent successfully to PSHSA CC team
+[16-06-2017 15:07:40] - Product #: 39648 with start date: 06/15/2017 status is changed to draft for Post #: 39648
+[16-06-2017 15:07:53] Email sent successfully to PSHSA CC team
+[18-06-2017 15:08:52] - eLearning Blended Product #: 31053 status is changed to draft for Post #: 31053
+[18-06-2017 15:08:57] Email sent successfully to PSHSA CC team
+[21-06-2017 15:07:43] - Product #: 39886 with start date: 06/20/2017 status is changed to draft for Post #: 39886
+[21-06-2017 15:07:49] - Product #: 38302 with start date: 06/20/2017 status is changed to draft for Post #: 38302
+[21-06-2017 15:07:51] - Product #: 38201 with start date: 06/20/2017 status is changed to draft for Post #: 38201
+[21-06-2017 15:07:51] - Product #: 38199 with start date: 06/20/2017 status is changed to draft for Post #: 38199
+[21-06-2017 15:07:58] Email sent successfully to PSHSA CC team
+[22-06-2017 15:07:43] - Product #: 38265 with start date: 06/21/2017 status is changed to draft for Post #: 38265
+[22-06-2017 15:07:43] - Product #: 38227 with start date: 06/21/2017 status is changed to draft for Post #: 38227
+[22-06-2017 15:07:50] Email sent successfully to PSHSA CC team
+[23-06-2017 15:07:41] - Product #: 39978 with start date: 06/22/2017 status is changed to draft for Post #: 39978
+[23-06-2017 15:07:50] Email sent successfully to PSHSA CC team
+[27-06-2017 15:07:47] - Product #: 39888 with start date: 06/26/2017 status is changed to draft for Post #: 39888
+[27-06-2017 15:07:50] - Product #: 38269 with start date: 06/26/2017 status is changed to draft for Post #: 38269
+[27-06-2017 15:07:55] Email sent successfully to PSHSA CC team
+[28-06-2017 15:08:40] - Product #: 39484 with start date: 06/27/2017 status is changed to draft for Post #: 39484
+[28-06-2017 15:08:48] - Product #: 29121 with start date: 06/27/2017 status is changed to draft for Post #: 29121
+[28-06-2017 15:08:51] Email sent successfully to PSHSA CC team
+[29-06-2017 15:07:40] - Product #: 39343 with start date: 06/28/2017 status is changed to draft for Post #: 39343
+[29-06-2017 15:07:41] - Product #: 39342 with start date: 06/28/2017 status is changed to draft for Post #: 39342
+[29-06-2017 15:07:47] - Product #: 35371 with start date: 06/28/2017 status is changed to draft for Post #: 35371
+[29-06-2017 15:07:53] Email sent successfully to PSHSA CC team
+[30-06-2017 15:08:21] - Product #: 39923 with start date: 06/29/2017 status is changed to draft for Post #: 39923
+[30-06-2017 15:08:28] - Product #: 29121 with start date: 06/27/2017 status is changed to draft for Post #: 29121
+[30-06-2017 15:08:31] Email sent successfully to PSHSA CC team
+[01-07-2017 15:07:40] - Product #: 39958 with start date: 06/30/2017 status is changed to draft for Post #: 39958
+[01-07-2017 15:07:40] - Product #: 39957 with start date: 06/30/2017 status is changed to draft for Post #: 39957
+[01-07-2017 15:07:49] Email sent successfully to PSHSA CC team
+[05-07-2017 15:07:44] - Product #: 38303 with start date: 07/04/2017 status is changed to draft for Post #: 38303
+[05-07-2017 15:07:51] Email sent successfully to PSHSA CC team
+[06-07-2017 15:07:45] - Product #: 39858 with start date: 07/05/2017 status is changed to draft for Post #: 39858
+[06-07-2017 15:07:50] - Product #: 36867 with start date: 07/05/2017 status is changed to draft for Post #: 36867
+[06-07-2017 15:07:51] - Product #: 35805 with start date: 07/05/2017 status is changed to draft for Post #: 35805
+[06-07-2017 15:07:55] Email sent successfully to PSHSA CC team
+[07-07-2017 15:07:41] - Product #: 39829 with start date: 07/06/2017 status is changed to draft for Post #: 39829
+[07-07-2017 15:07:52] Email sent successfully to PSHSA CC team
+[08-07-2017 15:07:44] - Product #: 39979 with start date: 07/07/2017 status is changed to draft for Post #: 39979
+[08-07-2017 15:07:57] Email sent successfully to PSHSA CC team
+[12-07-2017 15:07:48] - Product #: 36868 with start date: 07/11/2017 status is changed to draft for Post #: 36868
+[12-07-2017 15:07:54] Email sent successfully to PSHSA CC team
+[13-07-2017 15:08:00] - Product #: 40014 with start date: 07/12/2017 status is changed to draft for Post #: 40014
+[13-07-2017 15:08:10] Email sent successfully to PSHSA CC team
+[14-07-2017 15:07:59] - Product #: 40385 with start date: 07/13/2017 status is changed to draft for Post #: 40385
+[14-07-2017 15:08:01] - Product #: 39485 with start date: 07/13/2017 status is changed to draft for Post #: 39485
+[14-07-2017 15:08:08] Email sent successfully to PSHSA CC team
+[19-07-2017 15:07:43] - Product #: 35818 with start date: 07/18/2017 status is changed to draft for Post #: 35818
+[19-07-2017 15:07:47] Email sent successfully to PSHSA CC team
+[20-07-2017 15:07:38] - Product #: 40158 with start date: 07/19/2017 status is changed to draft for Post #: 40158
+[20-07-2017 15:07:41] - Product #: 38465 with start date: 07/19/2017 status is changed to draft for Post #: 38465
+[20-07-2017 15:07:46] Email sent successfully to PSHSA CC team
+[25-07-2017 15:07:44] - Product #: 39868 with start date: 07/24/2017 status is changed to draft for Post #: 39868
+[25-07-2017 15:07:54] Email sent successfully to PSHSA CC team
+[26-07-2017 15:07:58] - Product #: 36865 with start date: 07/25/2017 status is changed to draft for Post #: 36865
+[26-07-2017 15:08:05] Email sent successfully to PSHSA CC team
+[02-08-2017 15:07:50] - Product #: 35815 with start date: 08/01/2017 status is changed to draft for Post #: 35815
+[02-08-2017 15:07:54] Email sent successfully to PSHSA CC team
+[04-08-2017 15:07:50] - Product #: 39859 with start date: 08/03/2017 status is changed to draft for Post #: 39859
+[04-08-2017 15:08:02] Email sent successfully to PSHSA CC team
+[09-08-2017 15:07:57] - Product #: 36871 with start date: 08/08/2017 status is changed to draft for Post #: 36871
+[09-08-2017 15:08:03] Email sent successfully to PSHSA CC team
+[10-08-2017 15:07:54] - Product #: 39063 with start date: 08/09/2017 status is changed to draft for Post #: 39063
+[10-08-2017 15:08:00] - Product #: 36872 with start date: 08/09/2017 status is changed to draft for Post #: 36872
+[10-08-2017 15:08:07] Email sent successfully to PSHSA CC team
+[16-08-2017 15:08:05] - Product #: 40620 with start date: 08/15/2017 status is changed to draft for Post #: 40620
+[16-08-2017 15:08:07] - Product #: 40340 with start date: 08/15/2017 status is changed to draft for Post #: 40340
+[16-08-2017 15:08:08] - Product #: 39885 with start date: 08/15/2017 status is changed to draft for Post #: 39885
+[16-08-2017 15:08:19] Email sent successfully to PSHSA CC team
+[17-08-2017 15:07:38] - Product #: 40942 with start date: 08/16/2017 status is changed to draft for Post #: 40942
+[17-08-2017 15:07:38] - Product #: 40941 with start date: 08/16/2017 status is changed to draft for Post #: 40941
+[17-08-2017 15:07:50] Email sent successfully to PSHSA CC team
+[22-08-2017 15:07:40] - Product #: 40770 with start date: 08/21/2017 status is changed to draft for Post #: 40770
+[22-08-2017 15:07:53] Email sent successfully to PSHSA CC team
+[23-08-2017 15:07:57] - Product #: 40358 with start date: 08/22/2017 status is changed to draft for Post #: 40358
+[23-08-2017 15:08:05] - Product #: 36875 with start date: 08/22/2017 status is changed to draft for Post #: 36875
+[23-08-2017 15:08:10] Email sent successfully to PSHSA CC team
+[24-08-2017 15:07:56] - Product #: 36895 with start date: 08/23/2017 status is changed to draft for Post #: 36895
+[24-08-2017 15:08:02] Email sent successfully to PSHSA CC team
+[29-08-2017 15:07:46] - Product #: 40680 with start date: 08/28/2017 status is changed to draft for Post #: 40680
+[29-08-2017 15:08:00] Email sent successfully to PSHSA CC team
+[30-08-2017 15:07:52] - Product #: 39970 with start date: 08/29/2017 status is changed to draft for Post #: 39970
+[30-08-2017 15:07:58] - Product #: 36896 with start date: 08/29/2017 status is changed to draft for Post #: 36896
+[30-08-2017 15:08:04] Email sent successfully to PSHSA CC team
+[06-09-2017 15:07:54] - Product #: 39971 with start date: 09/05/2017 status is changed to draft for Post #: 39971
+[06-09-2017 15:07:56] - Product #: 38511 with start date: 09/05/2017 status is changed to draft for Post #: 38511
+[06-09-2017 15:08:03] Email sent successfully to PSHSA CC team
+[07-09-2017 15:07:46] - Product #: 40079 with start date: 09/06/2017 status is changed to draft for Post #: 40079
+[07-09-2017 15:07:47] - Product #: 39486 with start date: 09/06/2017 status is changed to draft for Post #: 39486
+[07-09-2017 15:07:54] Email sent successfully to PSHSA CC team
+[12-09-2017 15:07:54] - Product #: 41364 with start date: 09/11/2017 status is changed to draft for Post #: 41364
+[12-09-2017 15:07:54] - Product #: 41363 with start date: 09/11/2017 status is changed to draft for Post #: 41363
+[12-09-2017 15:07:55] - Product #: 41182 with start date: 09/11/2017 status is changed to draft for Post #: 41182
+[12-09-2017 15:08:08] Email sent successfully to PSHSA CC team
+[13-09-2017 15:07:42] - Product #: 40928 with start date: 09/12/2017 status is changed to draft for Post #: 40928
+[13-09-2017 15:07:45] - Product #: 40519 with start date: 09/12/2017 status is changed to draft for Post #: 40519
+[13-09-2017 15:07:51] - Product #: 38287 with start date: 09/12/2017 status is changed to draft for Post #: 38287
+[13-09-2017 15:07:52] - Product #: 38285 with start date: 09/12/2017 status is changed to draft for Post #: 38285
+[13-09-2017 15:07:53] - Product #: 37021 with start date: 09/12/2017 status is changed to draft for Post #: 37021
+[13-09-2017 15:07:54] - Product #: 36909 with start date: 09/12/2017 status is changed to draft for Post #: 36909
+[13-09-2017 15:08:00] Email sent successfully to PSHSA CC team
+[14-09-2017 15:07:48] - Product #: 38288 with start date: 09/13/2017 status is changed to draft for Post #: 38288
+[14-09-2017 15:07:49] - Product #: 36909 with start date: 09/12/2017 status is changed to draft for Post #: 36909
+[14-09-2017 15:07:54] Email sent successfully to PSHSA CC team
+[16-09-2017 15:07:48] - Product #: 40556 with start date: 09/15/2017 status is changed to draft for Post #: 40556
+[16-09-2017 15:08:02] Email sent successfully to PSHSA CC team
+[17-09-2017 15:08:04] - Product #: 38797 with start date: 09/16/2017 status is changed to draft for Post #: 38797
+[17-09-2017 15:08:12] Email sent successfully to PSHSA CC team
+[19-09-2017 15:07:43] - Product #: 40619 with start date: 09/18/2017 status is changed to draft for Post #: 40619
+[19-09-2017 15:07:44] - Product #: 40615 with start date: 09/18/2017 status is changed to draft for Post #: 40615
+[19-09-2017 15:07:45] - Product #: 40414 with start date: 09/18/2017 status is changed to draft for Post #: 40414
+[19-09-2017 15:07:49] - Product #: 38291 with start date: 09/18/2017 status is changed to draft for Post #: 38291
+[19-09-2017 15:07:54] Email sent successfully to PSHSA CC team
+[20-09-2017 15:07:42] - Product #: 40923 with start date: 09/19/2017 status is changed to draft for Post #: 40923
+[20-09-2017 15:07:44] - Product #: 40415 with start date: 09/19/2017 status is changed to draft for Post #: 40415
+[20-09-2017 15:07:47] - Product #: 38512 with start date: 09/19/2017 status is changed to draft for Post #: 38512
+[20-09-2017 15:07:52] Email sent successfully to PSHSA CC team
+[21-09-2017 15:08:35] - Product #: 39270 with start date: 09/20/2017 status is changed to draft for Post #: 39270
+[21-09-2017 15:08:38] - Product #: 38314 with start date: 09/20/2017 status is changed to draft for Post #: 38314
+[21-09-2017 15:08:39] - Product #: 38309 with start date: 09/20/2017 status is changed to draft for Post #: 38309
+[21-09-2017 15:08:46] Email sent successfully to PSHSA CC team
+[22-09-2017 15:07:52] - Product #: 41363 with start date: 09/11/2017 status is changed to draft for Post #: 41363
+[22-09-2017 15:07:56] - Product #: 39481 with start date: 09/21/2017 status is changed to draft for Post #: 39481
+[22-09-2017 15:08:00] - Product #: 38274 with start date: 09/21/2017 status is changed to draft for Post #: 38274
+[22-09-2017 15:08:04] Email sent successfully to PSHSA CC team
+[26-09-2017 15:07:41] - Product #: 41558 with start date: 09/25/2017 status is changed to draft for Post #: 41558
+[26-09-2017 15:07:42] - Product #: 41557 with start date: 09/25/2017 status is changed to draft for Post #: 41557
+[26-09-2017 15:07:44] - Product #: 40947 with start date: 09/25/2017 status is changed to draft for Post #: 40947
+[26-09-2017 15:07:44] - Product #: 40701 with start date: 09/25/2017 status is changed to draft for Post #: 40701
+[26-09-2017 15:07:52] Email sent successfully to PSHSA CC team
+[27-09-2017 15:09:31] - Product #: 39972 with start date: 09/26/2017 status is changed to draft for Post #: 39972
+[27-09-2017 15:09:38] Email sent successfully to PSHSA CC team
+[03-10-2017 15:08:15] - Product #: 41981 with start date: 10/02/2017 status is changed to draft for Post #: 41981
+[03-10-2017 15:08:31] Email sent successfully to PSHSA CC team
+[04-10-2017 15:07:45] - Product #: 40097 with start date: 10/03/2017 status is changed to draft for Post #: 40097
+[04-10-2017 15:07:49] - Product #: 38397 with start date: 10/03/2017 status is changed to draft for Post #: 38397
+[04-10-2017 15:07:50] - Product #: 38343 with start date: 10/03/2017 status is changed to draft for Post #: 38343
+[04-10-2017 15:07:56] Email sent successfully to PSHSA CC team
+[05-10-2017 15:07:37] - Product #: 42014 with start date: 10/04/2017 status is changed to draft for Post #: 42014
+[05-10-2017 15:07:55] Email sent successfully to PSHSA CC team
+[06-10-2017 15:07:46] - Product #: 40413 with start date: 10/05/2017 status is changed to draft for Post #: 40413
+[06-10-2017 15:07:56] Email sent successfully to PSHSA CC team
+[11-10-2017 15:07:49] - Product #: 41476 with start date: 10/10/2017 status is changed to draft for Post #: 41476
+[11-10-2017 15:07:56] - Product #: 38344 with start date: 10/10/2017 status is changed to draft for Post #: 38344
+[11-10-2017 15:08:01] Email sent successfully to PSHSA CC team
+[12-10-2017 15:07:49] - Product #: 42364 with start date: 10/11/2017 status is changed to draft for Post #: 42364
+[12-10-2017 15:08:09] Email sent successfully to PSHSA CC team
+[17-10-2017 15:07:38] - Product #: 42211 with start date: 10/16/2017 status is changed to draft for Post #: 42211
+[17-10-2017 15:07:44] - Product #: 41579 with start date: 10/16/2017 status is changed to draft for Post #: 41579
+[17-10-2017 15:07:52] Email sent successfully to PSHSA CC team
+[18-10-2017 15:07:47] - Product #: 40559 with start date: 10/17/2017 status is changed to draft for Post #: 40559
+[18-10-2017 15:07:48] - Product #: 40330 with start date: 10/17/2017 status is changed to draft for Post #: 40330
+[18-10-2017 15:07:48] - Product #: 40315 with start date: 10/17/2017 status is changed to draft for Post #: 40315
+[18-10-2017 15:07:50] - Product #: 39179 with start date: 10/17/2017 status is changed to draft for Post #: 39179
+[18-10-2017 15:07:53] - Product #: 38351 with start date: 10/17/2017 status is changed to draft for Post #: 38351
+[18-10-2017 15:07:54] - Product #: 38350 with start date: 10/17/2017 status is changed to draft for Post #: 38350
+[18-10-2017 15:07:55] - Product #: 38348 with start date: 10/17/2017 status is changed to draft for Post #: 38348
+[18-10-2017 15:08:00] Email sent successfully to PSHSA CC team
+[20-10-2017 15:07:38] - Product #: 42212 with start date: 10/19/2017 status is changed to draft for Post #: 42212
+[20-10-2017 15:07:44] - Product #: 41581 with start date: 10/19/2017 status is changed to draft for Post #: 41581
+[20-10-2017 15:07:45] - Product #: 41433 with start date: 10/19/2017 status is changed to draft for Post #: 41433
+[20-10-2017 15:07:56] Email sent successfully to PSHSA CC team
+[21-10-2017 15:08:35] - Product #: 41867 with start date: 10/20/2017 status is changed to draft for Post #: 41867
+[21-10-2017 15:08:56] Email sent successfully to PSHSA CC team
+[24-10-2017 15:07:42] - Product #: 41414 with start date: 10/23/2017 status is changed to draft for Post #: 41414
+[24-10-2017 15:07:44] - Product #: 40193 with start date: 10/23/2017 status is changed to draft for Post #: 40193
+[24-10-2017 15:07:45] - Product #: 40192 with start date: 10/23/2017 status is changed to draft for Post #: 40192
+[24-10-2017 15:07:46] - Product #: 40055 with start date: 10/23/2017 status is changed to draft for Post #: 40055
+[24-10-2017 15:07:52] Email sent successfully to PSHSA CC team
+[25-10-2017 15:07:37] - Product #: 42305 with start date: 10/24/2017 status is changed to draft for Post #: 42305
+[25-10-2017 15:07:46] - Product #: 40056 with start date: 10/24/2017 status is changed to draft for Post #: 40056
+[25-10-2017 15:07:49] - Product #: 38484 with start date: 10/24/2017 status is changed to draft for Post #: 38484
+[25-10-2017 15:07:49] - Product #: 38477 with start date: 10/24/2017 status is changed to draft for Post #: 38477
+[25-10-2017 15:07:50] - Product #: 38471 with start date: 10/24/2017 status is changed to draft for Post #: 38471
+[25-10-2017 15:07:50] - Product #: 38444 with start date: 10/24/2017 status is changed to draft for Post #: 38444
+[25-10-2017 15:07:58] Email sent successfully to PSHSA CC team
+[26-10-2017 15:07:42] - Product #: 42157 with start date: 10/25/2017 status is changed to draft for Post #: 42157
+[26-10-2017 15:07:49] - Product #: 40359 with start date: 10/25/2017 status is changed to draft for Post #: 40359
+[26-10-2017 15:07:51] - Product #: 38486 with start date: 10/25/2017 status is changed to draft for Post #: 38486
+[26-10-2017 15:07:57] Email sent successfully to PSHSA CC team
+[27-10-2017 15:07:37] - Product #: 42298 with start date: 10/26/2017 status is changed to draft for Post #: 42298
+[27-10-2017 15:07:44] - Product #: 40197 with start date: 10/26/2017 status is changed to draft for Post #: 40197
+[27-10-2017 15:07:44] - Product #: 40196 with start date: 10/26/2017 status is changed to draft for Post #: 40196
+[27-10-2017 15:07:47] - Product #: 38487 with start date: 10/26/2017 status is changed to draft for Post #: 38487
+[27-10-2017 15:07:52] Email sent successfully to PSHSA CC team
+[31-10-2017 15:07:44] - Product #: 40689 with start date: 10/30/2017 status is changed to draft for Post #: 40689
+[31-10-2017 15:07:51] Email sent successfully to PSHSA CC team
+[01-11-2017 15:08:07] - Product #: 42462 with start date: 10/31/2017 status is changed to draft for Post #: 42462
+[01-11-2017 15:08:23] Email sent successfully to PSHSA CC team
+[02-11-2017 15:07:40] - Product #: 41874 with start date: 11/01/2017 status is changed to draft for Post #: 41874
+[02-11-2017 15:07:45] - Product #: 39487 with start date: 11/01/2017 status is changed to draft for Post #: 39487
+[02-11-2017 15:07:49] - Product #: 38603 with start date: 11/01/2017 status is changed to draft for Post #: 38603
+[02-11-2017 15:07:49] - Product #: 38600 with start date: 11/01/2017 status is changed to draft for Post #: 38600
+[02-11-2017 15:07:50] - Product #: 38599 with start date: 11/01/2017 status is changed to draft for Post #: 38599
+[02-11-2017 15:07:59] Email sent successfully to PSHSA CC team
+[03-11-2017 15:07:52] - Product #: 38682 with start date: 11/02/2017 status is changed to draft for Post #: 38682
+[03-11-2017 15:07:58] Email sent successfully to PSHSA CC team
+[08-11-2017 14:07:43] - Product #: 41511 with start date: 11/07/2017 status is changed to draft for Post #: 41511
+[08-11-2017 14:07:48] - Product #: 38694 with start date: 11/07/2017 status is changed to draft for Post #: 38694
+[08-11-2017 14:07:50] - Product #: 38684 with start date: 11/07/2017 status is changed to draft for Post #: 38684
+[08-11-2017 14:07:57] Email sent successfully to PSHSA CC team
+[09-11-2017 14:07:43] - Product #: 40948 with start date: 11/08/2017 status is changed to draft for Post #: 40948
+[09-11-2017 14:07:46] - Product #: 38702 with start date: 11/08/2017 status is changed to draft for Post #: 38702
+[09-11-2017 14:07:47] - Product #: 38699 with start date: 11/08/2017 status is changed to draft for Post #: 38699
+[09-11-2017 14:07:53] Email sent successfully to PSHSA CC team
+[10-11-2017 14:07:42] - Product #: 39768 with start date: 11/09/2017 status is changed to draft for Post #: 39768
+[10-11-2017 14:07:47] Email sent successfully to PSHSA CC team
+[12-11-2017 14:08:11] - Product #: 42588 with start date: 11/11/2017 status is changed to draft for Post #: 42588
+[12-11-2017 14:08:12] - Product #: 42587 with start date: 11/11/2017 status is changed to draft for Post #: 42587
+[12-11-2017 14:08:31] Email sent successfully to PSHSA CC team
+[14-11-2017 14:07:40] - Product #: 42479 with start date: 11/13/2017 status is changed to draft for Post #: 42479
+[14-11-2017 14:07:40] - Product #: 42478 with start date: 11/13/2017 status is changed to draft for Post #: 42478
+[14-11-2017 14:07:56] Email sent successfully to PSHSA CC team
+[15-11-2017 14:07:39] - Product #: 41045 with start date: 11/14/2017 status is changed to draft for Post #: 41045
+[15-11-2017 14:07:42] - Product #: 38706 with start date: 11/14/2017 status is changed to draft for Post #: 38706
+[15-11-2017 14:07:43] - Product #: 38704 with start date: 11/14/2017 status is changed to draft for Post #: 38704
+[15-11-2017 14:07:44] - Product #: 38304 with start date: 11/14/2017 status is changed to draft for Post #: 38304
+[15-11-2017 14:07:49] Email sent successfully to PSHSA CC team
+[17-11-2017 14:07:40] - Product #: 41512 with start date: 11/16/2017 status is changed to draft for Post #: 41512
+[17-11-2017 14:07:44] - Product #: 38710 with start date: 11/16/2017 status is changed to draft for Post #: 38710
+[17-11-2017 14:07:51] Email sent successfully to PSHSA CC team
+[21-11-2017 14:07:44] - Product #: 41474 with start date: 11/20/2017 status is changed to draft for Post #: 41474
+[21-11-2017 14:07:46] - Product #: 40470 with start date: 11/20/2017 status is changed to draft for Post #: 40470
+[21-11-2017 14:07:53] Email sent successfully to PSHSA CC team
+[22-11-2017 14:08:29] - Product #: 40566 with start date: 11/21/2017 status is changed to draft for Post #: 40566
+[22-11-2017 14:08:30] - Product #: 38715 with start date: 11/21/2017 status is changed to draft for Post #: 38715
+[22-11-2017 14:08:31] - Product #: 38714 with start date: 11/21/2017 status is changed to draft for Post #: 38714
+[22-11-2017 14:08:39] Email sent successfully to PSHSA CC team
+[23-11-2017 14:07:41] - Product #: 42672 with start date: 11/22/2017 status is changed to draft for Post #: 42672
+[23-11-2017 14:07:47] - Product #: 41166 with start date: 11/22/2017 status is changed to draft for Post #: 41166
+[23-11-2017 14:07:48] - Product #: 40762 with start date: 11/22/2017 status is changed to draft for Post #: 40762
+[23-11-2017 14:07:56] Email sent successfully to PSHSA CC team
+[28-11-2017 14:07:43] - Product #: 42488 with start date: 11/27/2017 status is changed to draft for Post #: 42488
+[28-11-2017 14:07:58] Email sent successfully to PSHSA CC team
+[29-11-2017 14:07:42] - Product #: 42304 with start date: 11/28/2017 status is changed to draft for Post #: 42304
+[29-11-2017 14:07:47] - Product #: 41508 with start date: 11/28/2017 status is changed to draft for Post #: 41508
+[29-11-2017 14:07:48] - Product #: 41202 with start date: 11/28/2017 status is changed to draft for Post #: 41202
+[29-11-2017 14:07:53] - eLearning Blended Product #: 31053 status is changed to draft for Post #: 31053
+[29-11-2017 14:07:57] Email sent successfully to PSHSA CC team
+[30-11-2017 14:07:39] - Product #: 41582 with start date: 11/29/2017 status is changed to draft for Post #: 41582
+[30-11-2017 14:07:41] - Product #: 38743 with start date: 11/29/2017 status is changed to draft for Post #: 38743
+[30-11-2017 14:07:46] Email sent successfully to PSHSA CC team
+[01-12-2017 14:07:49] - Product #: 42487 with start date: 11/30/2017 status is changed to draft for Post #: 42487
+[01-12-2017 14:08:02] Email sent successfully to PSHSA CC team
+[06-12-2017 14:07:37] - Product #: 42535 with start date: 12/05/2017 status is changed to draft for Post #: 42535
+[06-12-2017 14:07:39] - Product #: 42068 with start date: 12/05/2017 status is changed to draft for Post #: 42068
+[06-12-2017 14:07:43] - Product #: 41095 with start date: 12/05/2017 status is changed to draft for Post #: 41095
+[06-12-2017 14:07:46] - Product #: 38811 with start date: 12/05/2017 status is changed to draft for Post #: 38811
+[06-12-2017 14:07:54] Email sent successfully to PSHSA CC team
+[07-12-2017 14:07:47] - Product #: 43153 with start date: 12/06/2017 status is changed to draft for Post #: 43153
+[07-12-2017 14:07:54] - Product #: 38815 with start date: 12/06/2017 status is changed to draft for Post #: 38815
+[07-12-2017 14:07:55] - Product #: 38813 with start date: 12/06/2017 status is changed to draft for Post #: 38813
+[07-12-2017 14:07:55] - Product #: 38786 with start date: 12/06/2017 status is changed to draft for Post #: 38786
+[07-12-2017 14:08:03] Email sent successfully to PSHSA CC team
+[08-12-2017 14:07:51] - Product #: 43769 with start date: 12/07/2017 status is changed to draft for Post #: 43769
+[08-12-2017 14:07:52] - Product #: 43720 with start date: 12/07/2017 status is changed to draft for Post #: 43720
+[08-12-2017 14:08:08] Email sent successfully to PSHSA CC team
+[09-12-2017 14:08:11] - Product #: 44111 with start date: 12/08/2017 status is changed to draft for Post #: 44111
+[09-12-2017 14:08:12] - Product #: 44110 with start date: 12/08/2017 status is changed to draft for Post #: 44110
+[09-12-2017 14:08:15] - Product #: 42068 with start date: 12/05/2017 status is changed to draft for Post #: 42068
+[09-12-2017 14:08:26] Email sent successfully to PSHSA CC team
+[12-12-2017 14:07:38] - Product #: 44342 with start date: 12/11/2017 status is changed to draft for Post #: 44342
+[12-12-2017 14:07:43] - Product #: 40567 with start date: 12/11/2017 status is changed to draft for Post #: 40567
+[12-12-2017 14:07:49] Email sent successfully to PSHSA CC team
+[13-12-2017 14:07:55] - Product #: 40569 with start date: 12/12/2017 status is changed to draft for Post #: 40569
+[13-12-2017 14:07:56] - Product #: 38819 with start date: 12/12/2017 status is changed to draft for Post #: 38819
+[13-12-2017 14:08:03] Email sent successfully to PSHSA CC team
+[14-12-2017 14:07:36] - Product #: 44029 with start date: 12/13/2017 status is changed to draft for Post #: 44029
+[14-12-2017 14:07:37] - Product #: 44015 with start date: 12/13/2017 status is changed to draft for Post #: 44015
+[14-12-2017 14:07:42] - Product #: 38822 with start date: 12/13/2017 status is changed to draft for Post #: 38822
+[14-12-2017 14:07:47] Email sent successfully to PSHSA CC team
+[15-12-2017 14:07:54] - Product #: 38762 with start date: 12/14/2017 status is changed to draft for Post #: 38762
+[15-12-2017 14:08:02] Email sent successfully to PSHSA CC team
+[20-12-2017 14:07:40] - Product #: 42310 with start date: 12/19/2017 status is changed to draft for Post #: 42310
+[20-12-2017 14:07:53] Email sent successfully to PSHSA CC team
+[10-01-2018 14:07:54] - Product #: 43165 with start date: 01/09/2018 status is changed to draft for Post #: 43165
+[10-01-2018 14:07:55] - Product #: 43164 with start date: 01/09/2018 status is changed to draft for Post #: 43164
+[10-01-2018 14:08:00] - Product #: 41602 with start date: 01/09/2018 status is changed to draft for Post #: 41602
+[10-01-2018 14:08:01] - Product #: 41601 with start date: 01/09/2018 status is changed to draft for Post #: 41601
+[10-01-2018 14:08:01] - Product #: 41600 with start date: 01/09/2018 status is changed to draft for Post #: 41600
+[10-01-2018 14:08:08] Email sent successfully to PSHSA CC team
+[12-01-2018 14:07:53] - Product #: 40594 with start date: 01/11/2018 status is changed to draft for Post #: 40594
+[12-01-2018 14:08:00] Email sent successfully to PSHSA CC team
+[13-01-2018 14:07:57] - Product #: 40660 with start date: 01/12/2018 status is changed to draft for Post #: 40660
+[13-01-2018 14:08:07] Email sent successfully to PSHSA CC team
+[16-01-2018 14:07:49] - Product #: 41604 with start date: 01/15/2018 status is changed to draft for Post #: 41604
+[16-01-2018 14:07:58] Email sent successfully to PSHSA CC team
+[17-01-2018 14:07:56] - Product #: 40764 with start date: 01/16/2018 status is changed to draft for Post #: 40764
+[17-01-2018 14:08:05] Email sent successfully to PSHSA CC team
+[18-01-2018 14:07:54] - Product #: 42138 with start date: 01/17/2018 status is changed to draft for Post #: 42138
+[18-01-2018 14:07:58] - Product #: 41603 with start date: 01/17/2018 status is changed to draft for Post #: 41603
+[18-01-2018 14:07:59] - Product #: 40663 with start date: 01/17/2018 status is changed to draft for Post #: 40663
+[18-01-2018 14:08:06] Email sent successfully to PSHSA CC team
+[23-01-2018 14:08:03] - Product #: 45587 with start date: 01/22/2018 status is changed to draft for Post #: 45587
+[23-01-2018 14:08:28] - Product #: 41609 with start date: 01/22/2018 status is changed to draft for Post #: 41609
+[23-01-2018 14:08:37] Email sent successfully to PSHSA CC team
+[24-01-2018 14:07:52] - Product #: 40629 with start date: 01/23/2018 status is changed to draft for Post #: 40629
+[24-01-2018 14:08:01] Email sent successfully to PSHSA CC team
+[25-01-2018 14:07:53] - Product #: 44229 with start date: 01/24/2018 status is changed to draft for Post #: 44229
+[25-01-2018 14:08:05] Email sent successfully to PSHSA CC team
+[26-01-2018 14:07:43] - Product #: 45676 with start date: 01/25/2018 status is changed to draft for Post #: 45676
+[26-01-2018 14:08:17] Email sent successfully to PSHSA CC team
+[31-01-2018 14:07:37] - Product #: 45925 with start date: 01/30/2018 status is changed to draft for Post #: 45925
+[31-01-2018 14:07:54] - Product #: 40784 with start date: 01/30/2018 status is changed to draft for Post #: 40784
+[31-01-2018 14:08:00] Email sent successfully to PSHSA CC team
+[02-02-2018 14:07:42] - Product #: 45909 with start date: 02/01/2018 status is changed to draft for Post #: 45909
+[02-02-2018 14:08:12] Email sent successfully to PSHSA CC team
+[07-02-2018 14:08:05] - Product #: 45924 with start date: 02/06/2018 status is changed to draft for Post #: 45924
+[07-02-2018 14:08:06] - Product #: 45907 with start date: 02/06/2018 status is changed to draft for Post #: 45907
+[07-02-2018 14:08:08] - Product #: 45717 with start date: 02/06/2018 status is changed to draft for Post #: 45717
+[07-02-2018 14:08:28] - Product #: 41616 with start date: 02/06/2018 status is changed to draft for Post #: 41616
+[07-02-2018 14:08:29] - Product #: 41615 with start date: 02/06/2018 status is changed to draft for Post #: 41615
+[07-02-2018 14:08:39] Email sent successfully to PSHSA CC team
+[08-02-2018 14:07:57] - Product #: 45616 with start date: 02/07/2018 status is changed to draft for Post #: 45616
+[08-02-2018 14:08:28] Error sending email. Contact your system admin!
+[09-02-2018 14:08:36] - Product #: 45718 with start date: 02/08/2018 status is changed to draft for Post #: 45718
+[09-02-2018 14:08:53] - Product #: 44261 with start date: 02/08/2018 status is changed to draft for Post #: 44261
+[09-02-2018 14:08:54] - Product #: 42131 with start date: 02/08/2018 status is changed to draft for Post #: 42131
+[09-02-2018 14:09:01] Error sending email. Contact your system admin!
+[14-02-2018 14:07:44] - Product #: 46307 with start date: 02/13/2018 status is changed to draft for Post #: 46307
+[14-02-2018 14:08:04] - Product #: 41627 with start date: 02/13/2018 status is changed to draft for Post #: 41627
+[14-02-2018 14:08:05] - Product #: 41626 with start date: 02/13/2018 status is changed to draft for Post #: 41626
+[14-02-2018 14:08:06] - Product #: 41624 with start date: 02/13/2018 status is changed to draft for Post #: 41624
+[14-02-2018 14:08:07] - Product #: 40786 with start date: 02/13/2018 status is changed to draft for Post #: 40786
+[14-02-2018 14:08:16] Error sending email. Contact your system admin!
+[15-02-2018 14:07:46] - Product #: 46206 with start date: 02/14/2018 status is changed to draft for Post #: 46206
+[15-02-2018 14:08:05] - Product #: 44404 with start date: 02/14/2018 status is changed to draft for Post #: 44404
+[15-02-2018 14:08:06] - Product #: 42537 with start date: 02/14/2018 status is changed to draft for Post #: 42537
+[15-02-2018 14:08:17] Error sending email. Contact your system admin!
+[16-02-2018 14:08:10] - Product #: 46281 with start date: 02/15/2018 status is changed to draft for Post #: 46281
+[16-02-2018 14:08:13] - Product #: 45799 with start date: 02/15/2018 status is changed to draft for Post #: 45799
+[16-02-2018 14:08:33] Error sending email. Contact your system admin!
+[21-02-2018 14:07:40] - Product #: 46325 with start date: 02/20/2018 status is changed to draft for Post #: 46325
+[21-02-2018 14:08:07] - Product #: 41628 with start date: 02/20/2018 status is changed to draft for Post #: 41628
+[21-02-2018 14:08:16] Error sending email. Contact your system admin!
+[22-02-2018 14:07:40] - Product #: 46478 with start date: 02/21/2018 status is changed to draft for Post #: 46478
+[22-02-2018 14:07:59] - Product #: 41629 with start date: 02/21/2018 status is changed to draft for Post #: 41629
+[22-02-2018 14:08:07] Error sending email. Contact your system admin!
+[23-02-2018 14:07:46] - Product #: 46369 with start date: 02/22/2018 status is changed to draft for Post #: 46369
+[23-02-2018 14:08:09] Error sending email. Contact your system admin!
+[24-02-2018 14:07:43] - Product #: 46054 with start date: 02/23/2018 status is changed to draft for Post #: 46054
+[24-02-2018 14:08:11] Error sending email. Contact your system admin!
+[28-02-2018 14:07:44] - Product #: 41646 with start date: 02/27/2018 status is changed to draft for Post #: 41646
+[28-02-2018 14:07:45] - Product #: 41640 with start date: 02/27/2018 status is changed to draft for Post #: 41640
+[28-02-2018 14:07:46] - Product #: 41638 with start date: 02/27/2018 status is changed to draft for Post #: 41638
+[28-02-2018 14:07:57] - Product #: 41637 with start date: 02/27/2018 status is changed to draft for Post #: 41637
+[28-02-2018 14:08:07] - Product #: 41636 with start date: 02/27/2018 status is changed to draft for Post #: 41636
+[28-02-2018 14:08:18] - Product #: 41635 with start date: 02/27/2018 status is changed to draft for Post #: 41635
+[28-02-2018 14:08:29] - Product #: 41634 with start date: 02/27/2018 status is changed to draft for Post #: 41634
+[28-02-2018 14:08:30] - Product #: 41633 with start date: 02/27/2018 status is changed to draft for Post #: 41633
+[28-02-2018 14:08:35] Error sending email. Contact your system admin!
+[02-03-2018 14:07:38] - Product #: 46700 with start date: 03/01/2018 status is changed to draft for Post #: 46700
+[02-03-2018 14:07:39] - Product #: 46699 with start date: 03/01/2018 status is changed to draft for Post #: 46699
+[02-03-2018 14:07:41] - Product #: 46415 with start date: 03/01/2018 status is changed to draft for Post #: 46415
+[02-03-2018 14:07:43] - Product #: 46055 with start date: 03/01/2018 status is changed to draft for Post #: 46055
+[02-03-2018 14:08:04] - Product #: 41254 with start date: 03/01/2018 status is changed to draft for Post #: 41254
+[02-03-2018 14:08:13] Error sending email. Contact your system admin!
+[06-03-2018 14:07:44] - Product #: 45400 with start date: 03/05/2018 status is changed to draft for Post #: 45400
+[06-03-2018 14:07:45] - Product #: 45398 with start date: 03/05/2018 status is changed to draft for Post #: 45398
+[06-03-2018 14:08:15] Error sending email. Contact your system admin!
+[07-03-2018 14:08:10] - Product #: 41644 with start date: 03/06/2018 status is changed to draft for Post #: 41644
+[07-03-2018 14:08:17] Error sending email. Contact your system admin!
+[09-03-2018 14:07:58] - Product #: 46057 with start date: 03/08/2018 status is changed to draft for Post #: 46057
+[09-03-2018 14:08:01] - Product #: 45407 with start date: 03/08/2018 status is changed to draft for Post #: 45407
+[09-03-2018 14:08:02] - Product #: 45402 with start date: 03/08/2018 status is changed to draft for Post #: 45402
+[09-03-2018 14:08:29] Error sending email. Contact your system admin!
+[10-03-2018 14:07:43] - Product #: 46843 with start date: 03/09/2018 status is changed to draft for Post #: 46843
+[10-03-2018 14:07:45] - Product #: 46083 with start date: 03/09/2018 status is changed to draft for Post #: 46083
+[10-03-2018 14:08:13] Error sending email. Contact your system admin!
+[12-03-2018 15:07:40] - Product #: 45398 with start date: 03/05/2018 status is changed to draft for Post #: 45398
+[12-03-2018 15:08:02] Error sending email. Contact your system admin!
+[14-03-2018 15:07:40] - Product #: 46991 with start date: 03/13/2018 status is changed to draft for Post #: 46991
+[14-03-2018 15:07:41] - Product #: 46922 with start date: 03/13/2018 status is changed to draft for Post #: 46922
+[14-03-2018 15:08:01] - Product #: 41655 with start date: 03/13/2018 status is changed to draft for Post #: 41655
+[14-03-2018 15:08:02] - Product #: 41652 with start date: 03/13/2018 status is changed to draft for Post #: 41652
+[14-03-2018 15:08:03] - Product #: 41650 with start date: 03/13/2018 status is changed to draft for Post #: 41650
+[14-03-2018 15:08:04] - Product #: 41649 with start date: 03/13/2018 status is changed to draft for Post #: 41649
+[14-03-2018 15:08:05] - Product #: 41642 with start date: 03/13/2018 status is changed to draft for Post #: 41642
+[14-03-2018 15:08:06] - Product #: 41639 with start date: 03/13/2018 status is changed to draft for Post #: 41639
+[14-03-2018 15:08:14] Error sending email. Contact your system admin!
+[16-03-2018 15:07:50] - Product #: 46059 with start date: 03/15/2018 status is changed to draft for Post #: 46059
+[16-03-2018 15:08:16] Error sending email. Contact your system admin!
+[20-03-2018 15:07:39] - Product #: 45419 with start date: 03/19/2018 status is changed to draft for Post #: 45419
+[20-03-2018 15:08:02] Error sending email. Contact your system admin!
+[21-03-2018 15:07:41] - Product #: 46602 with start date: 03/20/2018 status is changed to draft for Post #: 46602
+[21-03-2018 15:07:42] - Product #: 46601 with start date: 03/20/2018 status is changed to draft for Post #: 46601
+[21-03-2018 15:07:58] - Product #: 41667 with start date: 03/20/2018 status is changed to draft for Post #: 41667
+[21-03-2018 15:07:59] - Product #: 41660 with start date: 03/20/2018 status is changed to draft for Post #: 41660
+[21-03-2018 15:08:01] - Product #: 41658 with start date: 03/20/2018 status is changed to draft for Post #: 41658
+[21-03-2018 15:08:02] - Product #: 41657 with start date: 03/20/2018 status is changed to draft for Post #: 41657
+[21-03-2018 15:08:03] - Product #: 41656 with start date: 03/20/2018 status is changed to draft for Post #: 41656
+[21-03-2018 15:08:09] Error sending email. Contact your system admin!
+[23-03-2018 15:07:43] - Product #: 46060 with start date: 03/22/2018 status is changed to draft for Post #: 46060
+[23-03-2018 15:07:46] - Product #: 45422 with start date: 03/22/2018 status is changed to draft for Post #: 45422
+[23-03-2018 15:08:18] Error sending email. Contact your system admin!
+[27-03-2018 15:07:48] - Product #: 41662 with start date: 03/26/2018 status is changed to draft for Post #: 41662
+[27-03-2018 15:07:56] Error sending email. Contact your system admin!
+[28-03-2018 15:08:07] - Product #: 41670 with start date: 03/27/2018 status is changed to draft for Post #: 41670
+[28-03-2018 15:08:08] - Product #: 41666 with start date: 03/27/2018 status is changed to draft for Post #: 41666
+[28-03-2018 15:08:10] - Product #: 41665 with start date: 03/27/2018 status is changed to draft for Post #: 41665
+[28-03-2018 15:08:11] - Product #: 41664 with start date: 03/27/2018 status is changed to draft for Post #: 41664
+[28-03-2018 15:08:12] - Product #: 41641 with start date: 03/27/2018 status is changed to draft for Post #: 41641
+[28-03-2018 15:08:14] - Product #: 36731 with start date: 03/27/2018 status is changed to draft for Post #: 36731
+[28-03-2018 15:08:20] Error sending email. Contact your system admin!
+[29-03-2018 15:07:40] - Product #: 47368 with start date: 03/28/2018 status is changed to draft for Post #: 47368
+[29-03-2018 15:07:41] - Product #: 47066 with start date: 03/28/2018 status is changed to draft for Post #: 47066
+[29-03-2018 15:07:44] - Product #: 45960 with start date: 03/28/2018 status is changed to draft for Post #: 45960
+[29-03-2018 15:08:08] Error sending email. Contact your system admin!
+[30-03-2018 15:08:20] - Product #: 46553 with start date: 03/29/2018 status is changed to draft for Post #: 46553
+[30-03-2018 15:08:43] Error sending email. Contact your system admin!
+[04-04-2018 15:07:46] - Product #: 45545 with start date: 04/03/2018 status is changed to draft for Post #: 45545
+[04-04-2018 15:07:47] - Product #: 45544 with start date: 04/03/2018 status is changed to draft for Post #: 45544
+[04-04-2018 15:08:05] - Product #: 44764 with start date: 04/03/2018 status is changed to draft for Post #: 44764
+[04-04-2018 15:08:06] - Product #: 44754 with start date: 04/03/2018 status is changed to draft for Post #: 44754
+[04-04-2018 15:08:16] Error sending email. Contact your system admin!
+[05-04-2018 15:07:41] - Product #: 48152 with start date: 04/04/2018 status is changed to draft for Post #: 48152
+[05-04-2018 15:07:42] - Product #: 47994 with start date: 04/04/2018 status is changed to draft for Post #: 47994
+[05-04-2018 15:08:04] - Product #: 44778 with start date: 04/04/2018 status is changed to draft for Post #: 44778
+[05-04-2018 15:08:12] Error sending email. Contact your system admin!
+[10-04-2018 15:07:40] - Product #: 48329 with start date: 04/09/2018 status is changed to draft for Post #: 48329
+[10-04-2018 15:07:56] - Product #: 44790 with start date: 04/09/2018 status is changed to draft for Post #: 44790
+[10-04-2018 15:07:57] - Product #: 44788 with start date: 04/09/2018 status is changed to draft for Post #: 44788
+[10-04-2018 15:08:08] Error sending email. Contact your system admin!
+[11-04-2018 15:07:49] - Product #: 44898 with start date: 04/10/2018 status is changed to draft for Post #: 44898
+[11-04-2018 15:07:53] - Product #: 44798 with start date: 04/10/2018 status is changed to draft for Post #: 44798
+[11-04-2018 15:07:54] - Product #: 44796 with start date: 04/10/2018 status is changed to draft for Post #: 44796
+[11-04-2018 15:08:02] Error sending email. Contact your system admin!
+[13-04-2018 15:08:00] - Product #: 47571 with start date: 04/12/2018 status is changed to draft for Post #: 47571
+[13-04-2018 15:08:01] - Product #: 47569 with start date: 04/12/2018 status is changed to draft for Post #: 47569
+[13-04-2018 15:08:02] - Product #: 47351 with start date: 04/12/2018 status is changed to draft for Post #: 47351
+[13-04-2018 15:08:03] - Product #: 46876 with start date: 04/12/2018 status is changed to draft for Post #: 46876
+[13-04-2018 15:08:04] - Product #: 46537 with start date: 04/12/2018 status is changed to draft for Post #: 46537
+[13-04-2018 15:08:24] Error sending email. Contact your system admin!
+[17-04-2018 15:07:43] - Product #: 45806 with start date: 04/16/2018 status is changed to draft for Post #: 45806
+[17-04-2018 15:08:00] Error sending email. Contact your system admin!
+[18-04-2018 15:07:37] - Product #: 46954 with start date: 04/17/2018 status is changed to draft for Post #: 46954
+[18-04-2018 15:07:39] - Product #: 46466 with start date: 04/17/2018 status is changed to draft for Post #: 46466
+[18-04-2018 15:07:40] - Product #: 46459 with start date: 04/17/2018 status is changed to draft for Post #: 46459
+[18-04-2018 15:07:52] - Product #: 44904 with start date: 04/17/2018 status is changed to draft for Post #: 44904
+[18-04-2018 15:08:03] Error sending email. Contact your system admin!
+[19-04-2018 15:07:51] - Product #: 47822 with start date: 04/18/2018 status is changed to draft for Post #: 47822
+[19-04-2018 15:07:55] - Product #: 45189 with start date: 04/18/2018 status is changed to draft for Post #: 45189
+[19-04-2018 15:08:00] - Product #: 45044 with start date: 04/18/2018 status is changed to draft for Post #: 45044
+[19-04-2018 15:08:04] - Product #: 44910 with start date: 04/18/2018 status is changed to draft for Post #: 44910
+[19-04-2018 15:08:08] - Product #: 44796 with start date: 04/10/2018 status is changed to draft for Post #: 44796
+[19-04-2018 15:08:16] Error sending email. Contact your system admin!
+[20-04-2018 15:07:58] - Product #: 41625 with start date: 04/19/2018 status is changed to draft for Post #: 41625
+[20-04-2018 15:08:05] Error sending email. Contact your system admin!
+[24-04-2018 15:07:38] - Product #: 47652 with start date: 04/23/2018 status is changed to draft for Post #: 47652
+[24-04-2018 15:07:39] - Product #: 47648 with start date: 04/23/2018 status is changed to draft for Post #: 47648
+[24-04-2018 15:07:40] - Product #: 47014 with start date: 04/23/2018 status is changed to draft for Post #: 47014
+[24-04-2018 15:08:07] Error sending email. Contact your system admin!
+[25-04-2018 15:08:21] - Product #: 45650 with start date: 04/24/2018 status is changed to draft for Post #: 45650
+[25-04-2018 15:08:23] - Product #: 45193 with start date: 04/24/2018 status is changed to draft for Post #: 45193
+[25-04-2018 15:08:45] Error sending email. Contact your system admin!
+[26-04-2018 15:07:46] - Product #: 45054 with start date: 04/25/2018 status is changed to draft for Post #: 45054
+[26-04-2018 15:07:53] - Product #: 44914 with start date: 04/25/2018 status is changed to draft for Post #: 44914
+[26-04-2018 15:08:06] Error sending email. Contact your system admin!
+[27-04-2018 15:07:49] - Product #: 47654 with start date: 04/26/2018 status is changed to draft for Post #: 47654
+[27-04-2018 15:07:49] - Product #: 47650 with start date: 04/26/2018 status is changed to draft for Post #: 47650
+[27-04-2018 15:08:06] Error sending email. Contact your system admin!
+[02-05-2018 15:07:42] - Product #: 45197 with start date: 05/01/2018 status is changed to draft for Post #: 45197
+[02-05-2018 15:07:50] - Product #: 44926 with start date: 05/01/2018 status is changed to draft for Post #: 44926
+[02-05-2018 15:07:51] - Product #: 44922 with start date: 05/01/2018 status is changed to draft for Post #: 44922
+[02-05-2018 15:07:52] - Product #: 44918 with start date: 05/01/2018 status is changed to draft for Post #: 44918
+[02-05-2018 15:07:57] - Product #: 44830 with start date: 05/01/2018 status is changed to draft for Post #: 44830
+[02-05-2018 15:08:06] Error sending email. Contact your system admin!
+[03-05-2018 15:07:39] - Product #: 48432 with start date: 05/02/2018 status is changed to draft for Post #: 48432
+[03-05-2018 15:07:41] - Product #: 48225 with start date: 05/02/2018 status is changed to draft for Post #: 48225
+[03-05-2018 15:08:07] Error sending email. Contact your system admin!
+[04-05-2018 15:07:41] - Product #: 45882 with start date: 05/03/2018 status is changed to draft for Post #: 45882
+[04-05-2018 15:08:03] Error sending email. Contact your system admin!
+[08-05-2018 15:07:51] - Product #: 45806 with start date: 05/07/2018 status is changed to draft for Post #: 45806
+[08-05-2018 15:07:53] - Product #: 45199 with start date: 05/07/2018 status is changed to draft for Post #: 45199
+[08-05-2018 15:08:09] Error sending email. Contact your system admin!
+[09-05-2018 15:07:52] - Product #: 44990 with start date: 05/08/2018 status is changed to draft for Post #: 44990
+[09-05-2018 15:07:55] - Product #: 44930 with start date: 05/08/2018 status is changed to draft for Post #: 44930
+[09-05-2018 15:08:00] - Product #: 44756 with start date: 05/08/2018 status is changed to draft for Post #: 44756
+[09-05-2018 15:08:10] Error sending email. Contact your system admin!
+[10-05-2018 15:07:42] - Product #: 46045 with start date: 05/09/2018 status is changed to draft for Post #: 46045
+[10-05-2018 15:08:04] Error sending email. Contact your system admin!
+[11-05-2018 15:07:37] - Product #: 47390 with start date: 05/10/2018 status is changed to draft for Post #: 47390
+[11-05-2018 15:07:38] - Product #: 48144 with start date: 05/10/2018 status is changed to draft for Post #: 48144
+[11-05-2018 15:07:54] Error sending email. Contact your system admin!
+[15-05-2018 15:07:38] - Product #: 48282 with start date: 05/14/2018 status is changed to draft for Post #: 48282
+[15-05-2018 15:07:40] - Product #: 46904 with start date: 05/14/2018 status is changed to draft for Post #: 46904
+[15-05-2018 15:07:54] - Product #: 44938 with start date: 05/14/2018 status is changed to draft for Post #: 44938
+[15-05-2018 15:08:06] Error sending email. Contact your system admin!
+[16-05-2018 15:07:42] - Product #: 48979 with start date: 05/15/2018 status is changed to draft for Post #: 48979
+[16-05-2018 15:07:44] - Product #: 45895 with start date: 05/15/2018 status is changed to draft for Post #: 45895
+[16-05-2018 15:07:52] - Product #: 45008 with start date: 05/15/2018 status is changed to draft for Post #: 45008
+[16-05-2018 15:07:54] - Product #: 45006 with start date: 05/15/2018 status is changed to draft for Post #: 45006
+[16-05-2018 15:07:55] - Product #: 45000 with start date: 05/15/2018 status is changed to draft for Post #: 45000
+[16-05-2018 15:07:58] - Product #: 44946 with start date: 05/15/2018 status is changed to draft for Post #: 44946
+[16-05-2018 15:08:11] Error sending email. Contact your system admin!
+[17-05-2018 15:08:31] - Product #: 44760 with start date: 05/16/2018 status is changed to draft for Post #: 44760
+[17-05-2018 15:08:38] Error sending email. Contact your system admin!
+[18-05-2018 15:07:49] - Product #: 48523 with start date: 05/17/2018 status is changed to draft for Post #: 48523
+[18-05-2018 15:07:50] - Product #: 47556 with start date: 05/17/2018 status is changed to draft for Post #: 47556
+[18-05-2018 15:08:11] Error sending email. Contact your system admin!
+[23-05-2018 15:07:42] - Product #: 46098 with start date: 05/22/2018 status is changed to draft for Post #: 46098
+[23-05-2018 15:07:50] - Product #: 44948 with start date: 05/22/2018 status is changed to draft for Post #: 44948
+[23-05-2018 15:07:53] - Product #: 44649 with start date: 05/22/2018 status is changed to draft for Post #: 44649
+[23-05-2018 15:07:59] Error sending email. Contact your system admin!
+[24-05-2018 15:07:44] - Product #: 49100 with start date: 05/23/2018 status is changed to draft for Post #: 49100
+[24-05-2018 15:07:46] - Product #: 48249 with start date: 05/23/2018 status is changed to draft for Post #: 48249
+[24-05-2018 15:07:50] - Product #: 45208 with start date: 05/23/2018 status is changed to draft for Post #: 45208
+[24-05-2018 15:07:52] - Product #: 45143 with start date: 05/23/2018 status is changed to draft for Post #: 45143
+[24-05-2018 15:08:09] Error sending email. Contact your system admin!
+[25-05-2018 15:07:39] - Product #: 48983 with start date: 05/24/2018 status is changed to draft for Post #: 48983
+[25-05-2018 15:08:00] Error sending email. Contact your system admin!
+[29-05-2018 15:07:42] - Product #: 47397 with start date: 05/28/2018 status is changed to draft for Post #: 47397
+[29-05-2018 15:07:45] - Product #: 45210 with start date: 05/28/2018 status is changed to draft for Post #: 45210
+[29-05-2018 15:08:00] Error sending email. Contact your system admin!
+[30-05-2018 15:07:58] - Product #: 48981 with start date: 05/29/2018 status is changed to draft for Post #: 48981
+[30-05-2018 15:08:02] - Product #: 45212 with start date: 05/29/2018 status is changed to draft for Post #: 45212
+[30-05-2018 15:08:05] - Product #: 45151 with start date: 05/29/2018 status is changed to draft for Post #: 45151
+[30-05-2018 15:08:12] - Product #: 44950 with start date: 05/29/2018 status is changed to draft for Post #: 44950
+[30-05-2018 15:08:23] Error sending email. Contact your system admin!
+[31-05-2018 15:07:42] - Product #: 45214 with start date: 05/30/2018 status is changed to draft for Post #: 45214
+[31-05-2018 15:07:56] Error sending email. Contact your system admin!
+[05-06-2018 15:08:14] - Product #: 51202 with start date: 06/04/2018 status is changed to draft for Post #: 51202
+[05-06-2018 15:08:15] - Product #: 51199 with start date: 06/04/2018 status is changed to draft for Post #: 51199
+[05-06-2018 15:08:27] - Product #: 44952 with start date: 06/04/2018 status is changed to draft for Post #: 44952
+[05-06-2018 15:08:40] Error sending email. Contact your system admin!
+[06-06-2018 15:07:41] - Product #: 44958 with start date: 06/05/2018 status is changed to draft for Post #: 44958
+[06-06-2018 15:07:51] Error sending email. Contact your system admin!
+[07-06-2018 15:07:48] - Product #: 51136 with start date: 06/06/2018 status is changed to draft for Post #: 51136
+[07-06-2018 15:07:58] - Product #: 44958 with start date: 06/05/2018 status is changed to draft for Post #: 44958
+[07-06-2018 15:08:11] Error sending email. Contact your system admin!
+[08-06-2018 15:07:42] - Product #: 51206 with start date: 06/07/2018 status is changed to draft for Post #: 51206
+[08-06-2018 15:07:43] - Product #: 51204 with start date: 06/07/2018 status is changed to draft for Post #: 51204
+[08-06-2018 15:07:47] - Product #: 46207 with start date: 06/07/2018 status is changed to draft for Post #: 46207
+[08-06-2018 15:08:06] Error sending email. Contact your system admin!
+[09-06-2018 15:08:02] - Product #: 49984 with start date: 06/08/2018 status is changed to draft for Post #: 49984
+[09-06-2018 15:08:24] Error sending email. Contact your system admin!
+[12-06-2018 15:07:55] - Product #: 44962 with start date: 06/11/2018 status is changed to draft for Post #: 44962
+[12-06-2018 15:08:05] Error sending email. Contact your system admin!
+[13-06-2018 15:07:40] - Product #: 49558 with start date: 06/12/2018 status is changed to draft for Post #: 49558
+[13-06-2018 15:07:42] - Product #: 49406 with start date: 06/12/2018 status is changed to draft for Post #: 49406
+[13-06-2018 15:07:44] - Product #: 45226 with start date: 06/12/2018 status is changed to draft for Post #: 45226
+[13-06-2018 15:07:45] - Product #: 45224 with start date: 06/12/2018 status is changed to draft for Post #: 45224
+[13-06-2018 15:07:46] - Product #: 45220 with start date: 06/12/2018 status is changed to draft for Post #: 45220
+[13-06-2018 15:07:48] - Product #: 45155 with start date: 06/12/2018 status is changed to draft for Post #: 45155
+[13-06-2018 15:07:55] - Product #: 44974 with start date: 06/12/2018 status is changed to draft for Post #: 44974
+[13-06-2018 15:07:56] - Product #: 44968 with start date: 06/12/2018 status is changed to draft for Post #: 44968
+[13-06-2018 15:08:08] Error sending email. Contact your system admin!
+[14-06-2018 15:07:55] - Product #: 45228 with start date: 06/13/2018 status is changed to draft for Post #: 45228
+[14-06-2018 15:08:18] Error sending email. Contact your system admin!
+[19-06-2018 15:07:39] - Product #: 48352 with start date: 06/18/2018 status is changed to draft for Post #: 48352
+[19-06-2018 15:07:46] - Product #: 44976 with start date: 06/18/2018 status is changed to draft for Post #: 44976
+[19-06-2018 15:07:57] Error sending email. Contact your system admin!
+[20-06-2018 15:07:50] - Product #: 51549 with start date: 06/19/2018 status is changed to draft for Post #: 51549
+[20-06-2018 15:07:54] - Product #: 45568 with start date: 06/19/2018 status is changed to draft for Post #: 45568
+[20-06-2018 15:08:02] - Product #: 44978 with start date: 06/19/2018 status is changed to draft for Post #: 44978
+[20-06-2018 15:08:13] Error sending email. Contact your system admin!
+[21-06-2018 15:07:44] - Product #: 51315 with start date: June 20, 2018 status is changed to draft for Post #: 51315
+[21-06-2018 15:07:45] - Product #: 51310 with start date: June 20, 2018 status is changed to draft for Post #: 51310
+[21-06-2018 15:07:49] - Product #: 45887 with start date: 06/20/2018 status is changed to draft for Post #: 45887
+[21-06-2018 15:07:50] - Product #: 45230 with start date: 06/20/2018 status is changed to draft for Post #: 45230
+[21-06-2018 15:07:51] - Product #: 45222 with start date: 06/20/2018 status is changed to draft for Post #: 45222
+[21-06-2018 15:08:08] Error sending email. Contact your system admin!
+[22-06-2018 15:07:39] - Product #: 51736 with start date: 06/21/2018 status is changed to draft for Post #: 51736
+[22-06-2018 15:07:41] - Product #: 51315 with start date: June 20, 2018 status is changed to draft for Post #: 51315
+[22-06-2018 15:07:42] - Product #: 51204 with start date: 06/07/2018 status is changed to draft for Post #: 51204
+[22-06-2018 15:07:43] - Product #: 51199 with start date: 06/04/2018 status is changed to draft for Post #: 51199
+[22-06-2018 15:07:44] - Product #: 50240 with start date: 06/21/2018 status is changed to draft for Post #: 50240
+[22-06-2018 15:07:45] - Product #: 49794 with start date: 06/21/18 status is changed to draft for Post #: 49794
+[22-06-2018 15:08:00] Error sending email. Contact your system admin!
+[23-06-2018 15:08:04] - Product #: 51617 with start date: 06/22/2018 status is changed to draft for Post #: 51617
+[23-06-2018 15:08:06] - Product #: 51315 with start date: June 20, 2018 status is changed to draft for Post #: 51315
+[23-06-2018 15:08:28] Error sending email. Contact your system admin!
+[25-06-2018 15:07:37] - Product #: 51315 with start date: June 20, 2018 status is changed to draft for Post #: 51315
+[25-06-2018 15:07:59] Error sending email. Contact your system admin!
+[26-06-2018 15:07:43] - Product #: 51802 with start date: 06/25/2018 status is changed to draft for Post #: 51802
+[26-06-2018 15:07:45] - Product #: 51445 with start date: 06/25/2018 status is changed to draft for Post #: 51445
+[26-06-2018 15:07:46] - Product #: 51315 with start date: June 20, 2018 status is changed to draft for Post #: 51315
+[26-06-2018 15:07:48] - Product #: 49551 with start date: 06/25/2018 status is changed to draft for Post #: 49551
+[26-06-2018 15:08:06] Error sending email. Contact your system admin!
+[27-06-2018 15:07:50] - Product #: 50024 with start date: 06/26/2018 status is changed to draft for Post #: 50024
+[27-06-2018 15:07:52] - Product #: 49406 with start date: 06/12/2018 status is changed to draft for Post #: 49406
+[27-06-2018 15:08:05] Error sending email. Contact your system admin!
+[28-06-2018 15:07:48] - Product #: 51625 with start date: June 27, 2018 status is changed to draft for Post #: 51625
+[28-06-2018 15:07:52] - Product #: 45954 with start date: 06/27/2018 status is changed to draft for Post #: 45954
+[28-06-2018 15:08:08] Error sending email. Contact your system admin!
+[29-06-2018 15:08:12] - Product #: 51017 with start date: 06/28/2018 status is changed to draft for Post #: 51017
+[29-06-2018 15:08:31] Error sending email. Contact your system admin!
+[04-07-2018 15:07:39] - Product #: 51611 with start date: 07/03/2018 status is changed to draft for Post #: 51611
+[04-07-2018 15:08:00] Error sending email. Contact your system admin!
+[11-07-2018 15:09:05] - Product #: 45060 with start date: 07/10/2018 status is changed to draft for Post #: 45060
+[11-07-2018 15:09:06] - Product #: 45058 with start date: 07/10/2018 status is changed to draft for Post #: 45058
+[11-07-2018 15:09:10] - Product #: 44882 with start date: 07/10/2018 status is changed to draft for Post #: 44882
+[11-07-2018 15:09:14] - Product #: 44780 with start date: 07/10/2018 status is changed to draft for Post #: 44780
+[11-07-2018 15:09:24] Error sending email. Contact your system admin!
+[12-07-2018 15:08:07] - Product #: 45105 with start date: 07/11/2018 status is changed to draft for Post #: 45105
+[12-07-2018 15:08:24] Error sending email. Contact your system admin!
+[14-07-2018 23:47:33] - Product #: 51535 with start date: 07/12/2018 status is changed to draft for Post #: 51535
+[14-07-2018 23:47:58] Error sending email. Contact your system admin!
+[26-07-2018 16:02:51] - Product #: 45064 with start date: 07/18/2018 status is changed to draft for Post #: 45064
+[26-07-2018 16:02:55] - Product #: 44888 with start date: 07/24/2018 status is changed to draft for Post #: 44888
+[26-07-2018 16:02:55] - Product #: 44888 with start date: 07/24/2018 status is changed to draft for Post #: 44888
+[26-07-2018 16:02:57] - Product #: 44860 with start date: 07/24/2018 status is changed to draft for Post #: 44860
+[26-07-2018 16:02:57] - Product #: 44860 with start date: 07/24/2018 status is changed to draft for Post #: 44860
+[26-07-2018 16:03:00] - Product #: 44814 with start date: 07/17/2018 status is changed to draft for Post #: 44814
+[26-07-2018 16:03:00] - Product #: 44814 with start date: 07/17/2018 status is changed to draft for Post #: 44814
+[26-07-2018 16:03:01] - Product #: 44800 with start date: 07/17/2018 status is changed to draft for Post #: 44800
+[26-07-2018 16:03:01] - Product #: 44800 with start date: 07/17/2018 status is changed to draft for Post #: 44800
+[26-07-2018 16:03:12] Error sending email. Contact your system admin!
+[26-07-2018 16:03:12] Error sending email. Contact your system admin!
+[14-09-2018 14:47:58] - Product #: 52288 with start date: 08/28/2018 status is changed to draft for Post #: 52288
+[14-09-2018 14:47:59] - Product #: 52134 with start date: 08/08/2018 status is changed to draft for Post #: 52134
+[14-09-2018 14:48:01] - Product #: 51675 with start date: 09/05/2018 status is changed to draft for Post #: 51675
+[14-09-2018 14:48:02] - Product #: 51603 with start date: 07/27/2018 status is changed to draft for Post #: 51603
+[14-09-2018 14:48:03] - Product #: 51348 with start date: 09/13/2018 status is changed to draft for Post #: 51348
+[14-09-2018 14:48:04] - Product #: 51346 with start date: 09/10/2018 status is changed to draft for Post #: 51346
+[14-09-2018 14:48:14] - Product #: 45100 with start date: 09/10/2018 status is changed to draft for Post #: 45100
+[14-09-2018 14:48:16] - Product #: 45092 with start date: 08/28/2018 status is changed to draft for Post #: 45092
+[14-09-2018 14:48:17] - Product #: 45090 with start date: 07/31/2018 status is changed to draft for Post #: 45090
+[14-09-2018 14:48:18] - Product #: 45082 with start date: 09/11/2018 status is changed to draft for Post #: 45082
+[14-09-2018 14:48:19] - Product #: 45080 with start date: 09/11/2018 status is changed to draft for Post #: 45080
+[14-09-2018 14:48:21] - Product #: 45078 with start date: 09/05/2018 status is changed to draft for Post #: 45078
+[14-09-2018 14:48:22] - Product #: 45076 with start date: 08/21/2018 status is changed to draft for Post #: 45076
+[14-09-2018 14:48:23] - Product #: 45074 with start date: 08/21/2018 status is changed to draft for Post #: 45074
+[14-09-2018 14:48:24] - Product #: 45072 with start date: 08/21/2018 status is changed to draft for Post #: 45072
+[14-09-2018 14:48:25] - Product #: 45070 with start date: 09/05/2018 status is changed to draft for Post #: 45070
+[14-09-2018 14:48:26] - Product #: 45068 with start date: 08/15/2018 status is changed to draft for Post #: 45068
+[14-09-2018 14:48:27] - Product #: 45066 with start date: 08/14/2018 status is changed to draft for Post #: 45066
+[14-09-2018 14:48:32] - Product #: 44894 with start date: 08/14/2018 status is changed to draft for Post #: 44894
+[14-09-2018 14:48:34] - Product #: 44892 with start date: 08/21/2018 status is changed to draft for Post #: 44892
+[14-09-2018 14:48:36] - Product #: 44874 with start date: 09/11/2018 status is changed to draft for Post #: 44874
+[14-09-2018 14:48:39] - Product #: 44866 with start date: 07/31/2018 status is changed to draft for Post #: 44866
+[14-09-2018 14:48:41] - Product #: 44836 with start date: 09/10/2018 status is changed to draft for Post #: 44836
+[14-09-2018 14:48:42] - Product #: 44832 with start date: 09/11/2018 status is changed to draft for Post #: 44832
+[14-09-2018 14:48:44] - Product #: 44828 with start date: 09/11/2018 status is changed to draft for Post #: 44828
+[14-09-2018 14:48:45] - Product #: 44818 with start date: 08/21/2018 status is changed to draft for Post #: 44818
+[14-09-2018 14:48:46] - Product #: 44816 with start date: 09/10/2018 status is changed to draft for Post #: 44816
+[14-09-2018 14:48:47] - Product #: 44812 with start date: 08/21/2018 status is changed to draft for Post #: 44812
+[14-09-2018 14:48:49] - Product #: 44804 with start date: 09/11/2018 status is changed to draft for Post #: 44804
+[14-09-2018 14:48:50] - Product #: 44782 with start date: 08/14/2018 status is changed to draft for Post #: 44782
+[14-09-2018 14:49:04] Error sending email. Contact your system admin!
+[16-10-2018 15:54:29] - Product #: 52303 with start date: 09/24/2018 status is changed to draft for Post #: 52303
+[16-10-2018 15:54:30] - Product #: 52278 with start date: 09/26/2018 status is changed to draft for Post #: 52278
+[16-10-2018 15:54:32] - Product #: 51680 with start date: 09/20/2018 status is changed to draft for Post #: 51680
+[16-10-2018 15:54:33] - Product #: 51594 with start date: 09/18/2018 status is changed to draft for Post #: 51594
+[16-10-2018 15:54:34] - Product #: 50245 with start date: 09/17/2018 status is changed to draft for Post #: 50245
+[16-10-2018 15:54:36] - Product #: 49725 with start date: 09/18/2018 status is changed to draft for Post #: 49725
+[16-10-2018 15:54:37] - Product #: 48987 with start date: 09/17/2018 status is changed to draft for Post #: 48987
+[16-10-2018 15:54:38] - Product #: 47011 with start date: 10/04/2018 status is changed to draft for Post #: 47011
+[16-10-2018 15:54:39] - Product #: 47005 with start date: 10/01/2018 status is changed to draft for Post #: 47005
+[16-10-2018 15:54:40] - Product #: 46182 with start date: 10/04/2018 status is changed to draft for Post #: 46182
+[16-10-2018 15:54:41] - Product #: 46180 with start date: 10/01/2018 status is changed to draft for Post #: 46180
+[16-10-2018 15:54:42] - Product #: 46170 with start date: 09/27/2018 status is changed to draft for Post #: 46170
+[16-10-2018 15:54:43] - Product #: 46168 with start date: 09/24/2018 status is changed to draft for Post #: 46168
+[16-10-2018 15:54:47] - Product #: 45131 with start date: 10/15/2018 status is changed to draft for Post #: 45131
+[16-10-2018 15:54:48] - Product #: 45129 with start date: 10/01/2018 status is changed to draft for Post #: 45129
+[16-10-2018 15:54:49] - Product #: 45127 with start date: 10/09/2018 status is changed to draft for Post #: 45127
+[16-10-2018 15:54:50] - Product #: 45123 with start date: 10/02/2018 status is changed to draft for Post #: 45123
+[16-10-2018 15:54:51] - Product #: 45121 with start date: 10/02/2018 status is changed to draft for Post #: 45121
+[16-10-2018 15:54:52] - Product #: 45119 with start date: 10/02/2018 status is changed to draft for Post #: 45119
+[16-10-2018 15:54:54] - Product #: 45098 with start date: 09/18/2018 status is changed to draft for Post #: 45098
+[16-10-2018 15:54:55] - Product #: 45096 with start date: 09/24/2018 status is changed to draft for Post #: 45096
+[16-10-2018 15:54:56] - Product #: 45094 with start date: 09/26/2018 status is changed to draft for Post #: 45094
+[16-10-2018 15:54:57] - Product #: 45086 with start date: 09/26/2018 status is changed to draft for Post #: 45086
+[16-10-2018 15:55:00] - Product #: 45084 with start date: 09/20/2018 status is changed to draft for Post #: 45084
+[16-10-2018 15:55:02] - Product #: 45034 with start date: 10/10/2018 status is changed to draft for Post #: 45034
+[16-10-2018 15:55:06] - Product #: 44920 with start date: 10/10/2018 status is changed to draft for Post #: 44920
+[16-10-2018 15:55:07] - Product #: 44908 with start date: 10/10/2018 status is changed to draft for Post #: 44908
+[16-10-2018 15:55:08] - Product #: 44902 with start date: 10/03/2018 status is changed to draft for Post #: 44902
+[16-10-2018 15:55:10] - Product #: 44896 with start date: 10/04/2018 status is changed to draft for Post #: 44896
+[16-10-2018 15:55:11] - Product #: 44878 with start date: 09/18/2018 status is changed to draft for Post #: 44878
+[16-10-2018 15:55:12] - Product #: 44864 with start date: 09/18/2018 status is changed to draft for Post #: 44864
+[16-10-2018 15:55:14] - Product #: 44862 with start date: 10/03/2018 status is changed to draft for Post #: 44862
+[16-10-2018 15:55:15] - Product #: 44842 with start date: 10/10/2018 status is changed to draft for Post #: 44842
+[16-10-2018 15:55:16] - Product #: 44840 with start date: 10/02/2018 status is changed to draft for Post #: 44840
+[16-10-2018 15:55:17] - Product #: 44806 with start date: 09/18/2018 status is changed to draft for Post #: 44806
+[16-10-2018 15:55:18] - Product #: 44802 with start date: 09/25/2018 status is changed to draft for Post #: 44802
+[16-10-2018 15:55:19] - Product #: 44784 with start date: 09/17/2018 status is changed to draft for Post #: 44784
+[16-10-2018 15:55:30] Error sending email. Contact your system admin!
+[10-12-2018 12:59:33] - Product #: 51472 with start date: 10/23/2018 status is changed to draft for Post #: 51472
+[10-12-2018 12:59:34] - Product #: 51456 with start date: 11/02/2018 status is changed to draft for Post #: 51456
+[10-12-2018 12:59:35] - Product #: 50567 with start date: 10/25/2018 status is changed to draft for Post #: 50567
+[10-12-2018 12:59:36] - Product #: 50565 with start date: 10/22/2018 status is changed to draft for Post #: 50565
+[10-12-2018 12:59:37] - Product #: 50300 with start date: 11/20/2018 status is changed to draft for Post #: 50300
+[10-12-2018 12:59:38] - Product #: 50062 with start date: 10/23/2018 status is changed to draft for Post #: 50062
+[10-12-2018 12:59:39] - Product #: 49835 with start date: 11/22/2018 status is changed to draft for Post #: 49835
+[10-12-2018 12:59:40] - Product #: 49825 with start date: 11/19/2018 status is changed to draft for Post #: 49825
+[10-12-2018 12:59:42] - Product #: 49707 with start date: 11/19/2018 status is changed to draft for Post #: 49707
+[10-12-2018 12:59:43] - Product #: 49500 with start date: 11/22/2018 status is changed to draft for Post #: 49500
+[10-12-2018 12:59:49] - Product #: 48989 with start date: 10/17/2018 status is changed to draft for Post #: 48989
+[10-12-2018 12:59:50] - Product #: 48985 with start date: 10/29/2018 status is changed to draft for Post #: 48985
+[10-12-2018 12:59:51] - Product #: 45680 with start date: 10/23/2018 status is changed to draft for Post #: 45680
+[10-12-2018 12:59:53] - Product #: 45678 with start date: 10/29/2018 status is changed to draft for Post #: 45678
+[10-12-2018 12:59:54] - Product #: 45549 with start date: 11/19/2018 status is changed to draft for Post #: 45549
+[10-12-2018 12:59:55] - Product #: 45548 with start date: 11/06/2018 status is changed to draft for Post #: 45548
+[10-12-2018 12:59:56] - Product #: 45547 with start date: 10/23/2018 status is changed to draft for Post #: 45547
+[10-12-2018 12:59:58] - Product #: 45175 with start date: 12/04/2018 status is changed to draft for Post #: 45175
+[10-12-2018 12:59:59] - Product #: 45173 with start date: 12/04/2018 status is changed to draft for Post #: 45173
+[10-12-2018 13:00:00] - Product #: 45171 with start date: 11/27/2018 status is changed to draft for Post #: 45171
+[10-12-2018 13:00:01] - Product #: 45169 with start date: 11/20/2018 status is changed to draft for Post #: 45169
+[10-12-2018 13:00:02] - Product #: 45167 with start date: 11/20/2018 status is changed to draft for Post #: 45167
+[10-12-2018 13:00:03] - Product #: 45165 with start date: 11/20/2018 status is changed to draft for Post #: 45165
+[10-12-2018 13:00:04] - Product #: 45163 with start date: 11/13/2018 status is changed to draft for Post #: 45163
+[10-12-2018 13:00:05] - Product #: 45161 with start date: 11/06/2018 status is changed to draft for Post #: 45161
+[10-12-2018 13:00:06] - Product #: 45159 with start date: 11/06/2018 status is changed to draft for Post #: 45159
+[10-12-2018 13:00:08] - Product #: 45157 with start date: 11/06/2018 status is changed to draft for Post #: 45157
+[10-12-2018 13:00:09] - Product #: 45153 with start date: 11/05/2018 status is changed to draft for Post #: 45153
+[10-12-2018 13:00:10] - Product #: 45149 with start date: 10/30/2018 status is changed to draft for Post #: 45149
+[10-12-2018 13:00:11] - Product #: 45147 with start date: 10/23/2018 status is changed to draft for Post #: 45147
+[10-12-2018 13:00:12] - Product #: 45145 with start date: 10/30/2018 status is changed to draft for Post #: 45145
+[10-12-2018 13:00:14] - Product #: 45141 with start date: 10/24/2018 status is changed to draft for Post #: 45141
+[10-12-2018 13:00:15] - Product #: 45139 with start date: 10/23/2018 status is changed to draft for Post #: 45139
+[10-12-2018 13:00:16] - Product #: 45137 with start date: 10/16/2018 status is changed to draft for Post #: 45137
+[10-12-2018 13:00:17] - Product #: 45135 with start date: 10/16/2018 status is changed to draft for Post #: 45135
+[10-12-2018 13:00:18] - Product #: 45133 with start date: 10/16/2018 status is changed to draft for Post #: 45133
+[10-12-2018 13:00:21] - Product #: 45088 with start date: 10/17/2018 status is changed to draft for Post #: 45088
+[10-12-2018 13:00:22] - Product #: 45052 with start date: 12/05/2018 status is changed to draft for Post #: 45052
+[10-12-2018 13:00:23] - Product #: 45050 with start date: 11/27/2018 status is changed to draft for Post #: 45050
+[10-12-2018 13:00:25] - Product #: 45048 with start date: 11/21/2018 status is changed to draft for Post #: 45048
+[10-12-2018 13:00:26] - Product #: 45046 with start date: 11/20/2018 status is changed to draft for Post #: 45046
+[10-12-2018 13:00:27] - Product #: 45042 with start date: 11/13/2018 status is changed to draft for Post #: 45042
+[10-12-2018 13:00:28] - Product #: 45040 with start date: 11/07/2018 status is changed to draft for Post #: 45040
+[10-12-2018 13:00:29] - Product #: 45038 with start date: 10/29/2018 status is changed to draft for Post #: 45038
+[10-12-2018 13:00:30] - Product #: 45036 with start date: 10/22/2018 status is changed to draft for Post #: 45036
+[10-12-2018 13:00:32] - Product #: 45028 with start date: 12/06/2018 status is changed to draft for Post #: 45028
+[10-12-2018 13:00:33] - Product #: 45026 with start date: 12/05/2018 status is changed to draft for Post #: 45026
+[10-12-2018 13:00:34] - Product #: 45024 with start date: 12/05/2018 status is changed to draft for Post #: 45024
+[10-12-2018 13:00:35] - Product #: 45022 with start date: 12/03/2018 status is changed to draft for Post #: 45022
+[10-12-2018 13:00:37] - Product #: 44996 with start date: 11/27/2018 status is changed to draft for Post #: 44996
+[10-12-2018 13:00:38] - Product #: 44994 with start date: 11/27/2018 status is changed to draft for Post #: 44994
+[10-12-2018 13:00:39] - Product #: 44992 with start date: 11/27/2018 status is changed to draft for Post #: 44992
+[10-12-2018 13:00:40] - Product #: 44988 with start date: 11/27/2018 status is changed to draft for Post #: 44988
+[10-12-2018 13:00:42] - Product #: 44986 with start date: 11/27/2018 status is changed to draft for Post #: 44986
+[10-12-2018 13:00:43] - Product #: 44984 with start date: 11/22/2018 status is changed to draft for Post #: 44984
+[10-12-2018 13:00:44] - Product #: 44982 with start date: 11/14/2018 status is changed to draft for Post #: 44982
+[10-12-2018 13:00:46] - Product #: 44980 with start date: 11/14/2018 status is changed to draft for Post #: 44980
+[10-12-2018 13:00:47] - Product #: 44972 with start date: 11/13/2018 status is changed to draft for Post #: 44972
+[10-12-2018 13:00:49] - Product #: 44970 with start date: 11/08/2018 status is changed to draft for Post #: 44970
+[10-12-2018 13:00:50] - Product #: 44966 with start date: 11/07/2018 status is changed to draft for Post #: 44966
+[10-12-2018 13:00:51] - Product #: 44960 with start date: 10/30/2018 status is changed to draft for Post #: 44960
+[10-12-2018 13:00:52] - Product #: 44954 with start date: 10/23/2018 status is changed to draft for Post #: 44954
+[10-12-2018 13:00:54] - Product #: 44934 with start date: 10/23/2018 status is changed to draft for Post #: 44934
+[10-12-2018 13:00:55] - Product #: 44928 with start date: 10/17/2018 status is changed to draft for Post #: 44928
+[10-12-2018 13:00:57] - Product #: 44890 with start date: 10/31/2018 status is changed to draft for Post #: 44890
+[10-12-2018 13:00:58] - Product #: 44884 with start date: 12/05/2018 status is changed to draft for Post #: 44884
+[10-12-2018 13:00:59] - Product #: 44880 with start date: 11/28/2018 status is changed to draft for Post #: 44880
+[10-12-2018 13:01:00] - Product #: 44876 with start date: 11/20/2018 status is changed to draft for Post #: 44876
+[10-12-2018 13:01:01] - Product #: 44872 with start date: 11/15/2018 status is changed to draft for Post #: 44872
+[10-12-2018 13:01:02] - Product #: 44870 with start date: 10/23/2018 status is changed to draft for Post #: 44870
+[10-12-2018 13:01:03] - Product #: 44868 with start date: 10/16/2018 status is changed to draft for Post #: 44868
+[10-12-2018 13:01:04] - Product #: 44854 with start date: 12/03/2018 status is changed to draft for Post #: 44854
+[10-12-2018 13:01:05] - Product #: 44852 with start date: 11/27/2018 status is changed to draft for Post #: 44852
+[10-12-2018 13:01:07] - Product #: 44850 with start date: 11/20/2018 status is changed to draft for Post #: 44850
+[10-12-2018 13:01:07] - Product #: 44848 with start date: 11/20/2018 status is changed to draft for Post #: 44848
+[10-12-2018 13:01:09] - Product #: 44846 with start date: 11/06/2018 status is changed to draft for Post #: 44846
+[10-12-2018 13:01:10] - Product #: 44844 with start date: 11/05/2018 status is changed to draft for Post #: 44844
+[10-12-2018 13:01:20] - eLearning Blended Product #: 32108 status is changed to draft for Post #: 32108
+[10-12-2018 13:01:28] Error sending email. Contact your system admin!

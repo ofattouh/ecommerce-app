@@ -1,0 +1,27 @@
+// woo commerce message blocks
+.woocommerce-message,
+.woocommerce-info {
+  background: none !important;
+  border-radius: 0 !important;
+  border: 2px solid @psMaroon !important;
+  &:before {
+    background: none !important;
+    color: @psMaroon !important;
+    .fontStyle(16,
+    100,
+    700) !important;
+  }
+}
+
+.woocommerce-error {
+  background: none !important;
+  border-radius: 0 !important;
+  border: 2px solid red !important;
+  &:before {
+    background: none !important;
+    color: red !important;
+    .fontStyle(16,
+    100,
+    700) !important;
+  }
+}

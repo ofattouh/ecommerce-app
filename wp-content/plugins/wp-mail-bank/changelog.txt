@@ -1,0 +1,639 @@
+== Changelog ==
+
+= 3.0.56 =
+
+* FIX: Ecwid Bug
+* FIX: Oauth Confliction with Other Plugins
+
+= 3.0.55 =
+
+* FIX: Database Charset Bug & Database Collate Bug
+
+= 3.0.53 =
+
+* FIX: Compatibility with Ecwid
+
+= 3.0.52 =
+
+* FIX: Major Bug with Password Encryptions
+
+= 3.0.51 =
+
+* FIX: wp_mail Function Parameters Bug
+
+= 3.0.50 =
+
+* FIX: Reply-To Email Address Bug
+
+= 3.0.49 =
+
+* TRANSLATIONS: Indonesian Language
+
+= 3.0.48 =
+
+* FIX: From Name Bug
+
+= 3.0.47 =
+
+* FIX: Minor Bugs
+* TRANSLATIONS: Persian (Farsi) Language
+* TRANSLATIONS: Portuguese Language
+
+= 3.0.46 =
+
+* FIX: Minor Bugs
+* FIX: 100% PHP Compatibility
+* FIX: 100% WP Tide Compliance
+
+= 3.0.45 =
+
+* TRANSLATIONS: Arabic Language
+* FIX: Office 365 & Outlook Connectivity Issues
+* FIX: PHP Compatibility Issues
+* FIX: WordPress Compatibility Issues
+
+= 3.0.44 =
+
+* TRANSLATIONS: Polish Language
+* TRANSLATIONS: Vietnamese Language
+
+= 3.0.43 =
+
+* TRANSLATIONS: Japanese Language
+* FIX: Dashboard Widget Bugs
+
+= 3.0.42 =
+
+* FIX: Dashboard Widget Bugs
+
+= 3.0.41 =
+
+* TRANSLATIONS: French Language
+* TRANSLATIONS: German Language
+* TRANSLATIONS: Italian Language
+
+= 3.0.40 =
+
+* FIX: Major Bugs
+* FIX: PHP Compatibility Issues
+* FIX: WordPress Compatibility Issues
+* TWEAK: Compliance with WP Tide
+* TRANSLATIONS: Dutch Language
+* TRANSLATIONS: French Language
+* TRANSLATIONS: Brazilian Portuguese Language
+* TRANSLATIONS: Russian Language
+* TRANSLATIONS: Spanish Language
+* TRANSLATIONS: Simplified Chinese Language
+* TRANSLATIONS: Turkish Language
+
+= 3.0.38 =
+
+* FIX: Bug with Jet Pack Contact Forms
+* FIX: Wrong Mime Types
+
+= 3.0.37 =
+
+* FIX: Timeout Issue
+* FIX: Memory Exception
+
+= 3.0.36 =
+
+* TWEAK: Strict Compliance in Mail Bank as per PHP Standards.
+* TWEAK: Strict Compliance in WordPress SMTP Plugin as per WordPress Standards.
+* TWEAK: Obsolete Code Removed
+
+= 3.0.33 =
+
+* TWEAK: Feedback Request on De-Activation of Plugin
+
+= 3.0.32 =
+
+* TWEAK: Minor Changes in Plugin Translation
+* TWEAK: Bulk Resend Email in Premium Editions
+
+= 3.0.31 =
+
+* FIX: Changes in Admin Notices
+
+= 3.0.29 =
+
+* FEATURE: Message to Recommend Gallery Bank & Contact Bank plugins
+
+= 3.0.28 =
+
+* FEATURE: Import Email Settings from POSTMAN plugin if already installed.
+* FEATURE: Import Authentication Settings from POSTMAN plugin if already installed.
+* FEATURE: Add Additional Headers Feature Added
+* FEATURE: Email Address Textbox for User Input at Wizard Page
+* FIX: Minor Bugs
+
+= 3.0.27 =
+
+* FIX: Multipart Mime Email were not sent.
+
+= 3.0.26 =
+
+* FIX: Email Logs Missing from MyISAM Databases.
+
+= 3.0.25 =
+
+* TWEAK: Improved Messages for Errors when configuring Mail Bank
+
+= 3.0.24 =
+
+* TWEAK: Ability to remove Mail Bank from Top Admin Bar Menu
+
+= 3.0.23 =
+
+* FIX: Uninstall Bug for Dropping of Tables in case of a Multisite
+
+= 3.0.22 =
+
+* TWEAK: Database Optimized to reduce Query Execution Time
+* FIX: Minor Bugs
+
+= 3.0.19 =
+
+* FIX: Security Vulnerability Issues
+
+= 3.0.18 =
+
+* FIX: Major Confliction with Admin Menu Editor Plugin
+* FIX: Broken Links
+* FIX: Pricing Page Removed from Page
+* FIX: Minor Bugs
+* TWEAK: CSS Optimized
+
+= 3.0.17 =
+
+* FIX: Broken Link
+* FIX: Confliction with Admin Menu Editor Plugin
+
+= 3.0.16 =
+
+* TWEAK: Pricing Tables Changed
+* TWEAK: Feedback Removed
+* TWEAK: WordPress.org Support Forum Link Added
+
+= 3.0.15 =
+
+* TWEAK: Could Not Open Socket Solution Provided
+* TWEAK: Connection Timeout Solution Provided
+* TWEAK: Could No Inititate mail() Function Solution Provided
+
+= 3.0.14 =
+
+* FIX: Wizard Bugs
+* FIX: Uninstall PLugin Bugs
+
+= 3.0.13 =
+
+* TWEAK: Freemius Code Removed
+* TWEAK: Wizard Page Added
+* TWEAK: Support Forum Link Added
+
+= 3.0.12 =
+
+* FIX: CSS Conflictions
+* TWEAK: New & Easy Gallery UI
+* TWEAK: Premium Version Links Removed
+* TWEAK: Banners Removed
+* TWEAK: Unwanted JS/CSS Files Removed
+
+= 3.0.11 =
+
+* FIX: Confliction with JetPack Contact Module Fixed
+* FIX: Major Bugs
+* TWEAK: Code Optimized
+
+= 3.0.10 =
+
+* FIX: Major Bugs
+* TWEAK: Code Optimized
+* TWEAK: Overview Page Added
+* TWEAK: Wizard Page Removed
+
+= 3.0.9 =
+
+* FIX: Already Sent Headers Bug Fixed
+* TWEAK: Code Optimized
+
+= 3.0.8 =
+
+* TWEAK: Links Added
+* FIX: unserialize changed to maybe_unserialize
+* TWEAK: Code Optimized
+* TRANSLATIONS: Language Updated - Vietnamese
+
+= 3.0.7 =
+
+* TWEAK: Unused Files Removed
+* TWEAK: Code Optimized
+
+= 3.0.6 =
+
+* FIX: Proper Sanitization, Escaping, Validation of all Post Calls
+* TWEAK: Unused Files Removed
+* TWEAK: Code Optimized
+* TRANSLATIONS: New Language Added - Hungarian
+* TRANSLATIONS: New Language Added - Swedish
+* TRANSLATIONS: New Language Added - Vietnamese
+
+= 3.0.5 =
+
+* FIX: Proper Sanitization, Escaping, Validation of all Post Calls
+* FIX: Uninstall File Fatal Error
+* FIX: Error Reporting in file Removed
+* FIX: Auto Updates Removed from Translations
+
+
+= 3.0.4 =
+
+* FIX: Proper Sanitization, Escaping, Validation of all Post Calls
+* FIX: Removal of all function_exists, class_exists, typeof from all the files.
+* FIX: Uninstall File moved to root folder and changes done as per wordpress guidelines.
+* FIX: Error Reporting in file Removed
+* FIX: Auto Updates Removed
+* FIX: Curl Calls Removed
+
+= 3.0.3 =
+
+* FIX: Code Removed from Skip Action Hook on Wizard Page
+* FIX: Code Removed from De-activation Hook in case of Skipped Wizard Page
+* FIX: Code Removed from Uninstall Hook in case of Skipped Wizard Page
+* FIX: Obsolete Code Removed
+* FIX: Obsolete Code Removed
+
+= 3.0.1 =
+
+* TWEAK: Translations File updated
+* FIX: Major Bugs Fixed
+* FIX: Obsolete Code Removed
+
+= 3.0.0 =
+
+* Major Version Release
+* TWEAK: Database Optimized
+* TWEAK: Layouts Changed
+* TWEAK: Email Logs Modified
+* TWEAK: Email Logs Filters Data for 1 Month now
+* TWEAK: Authentication type 'None' added
+* TWEAK: Install Script Modified
+* TWEAK: Code optimized
+* TWEAK: Screenshots Changed
+* TWEAK: CSS Improved
+* TWEAK: Screenshots Added
+* TWEAK: Translations File updated
+* TWEAK: Wizard Page Added
+
+
+= 2.0.18 =
+
+* TWEAK: Translations File updated
+* TRANSLATIONS: New Language Added - German
+* TRANSLATIONS: New Language Added - Hebrew
+
+= 2.0.17 =
+
+* TRANSLATIONS: Language Translation Bugs Fixed
+* TWEAK: Translation File Updated
+
+= 2.0.16 =
+
+* TWEAK: Obsolete Code removed
+* TWEAK: Unused Files removed
+* TWEAK: Code Optimized
+* FIX: Major Bugs Fixed
+* TWEAK: Translation File Updated
+
+= 2.0.15 =
+
+* TWEAK: Translations File updated
+* TRANSLATIONS: New Language Added - Portuguese
+
+= 2.0.14 =
+
+* TWEAK: Obsolete Code removed
+* TWEAK: Unused Files removed
+* TWEAK: Code Optimized
+* TWEAK: Translation File Updated
+
+= 2.0.13 =
+
+* TWEAK: Translations File updated
+* TRANSLATIONS: New Language Added - Czech
+
+= 2.0.12 =
+
+* FIX: Gmail oAuth Refresh Token Bug Fixed
+* FIX: oAuth 2.0 Refresh Token Bug Fixed
+* Translations File updated
+* TRANSLATIONS: New Language Added - Danish
+* TRANSLATIONS: New Language Added - Norwegian
+
+= 2.0.11 =
+
+* TRANSLATIONS: New Language Added - Turkish
+* TWEAK: Translations File updated
+* FIX: iThemes Security Compatibility Issue Fixed
+* FIX: Compatibility Issues with Major Plugins Fixed for Wrong Content Type
+
+= 2.0.10 =
+
+* TRANSLATIONS: New Language Added - Portuguese
+* TRANSLATIONS: New Language Added - Russian
+* TWEAK: Translations File updated
+
+= 2.0.9 =
+
+* FIX: Major Bug Fixed for Multisite Installations
+* FIX: Major Bug Fixed for Uninstall Script
+* FIX: Minor Bugs Related to DB Version
+
+= 2.0.8 =
+
+* TWEAK: Js Code Optimized
+* TRANSLATIONS: New Language Added - Dutch
+* TRANSLATIONS: New Language Added - French
+* FIX: Minor Bugs Related to DB Version
+
+= 2.0.7 =
+
+* FIX: Major Bug Fixed Related to Email Mime Types
+* TWEAK: Js Code Optimized
+* TRANSLATIONS: New Language Added - Chinese
+* TRANSLATIONS: New Language Added - Romanian
+* TRANSLATIONS: New Language Added - Arabic
+* TRANSLATIONS: New Language Added - English(Australian)
+
+= 2.0.6 =
+
+* TWEAK: Security Patch Added
+* FIX: Modified JS & CSS Functions to only call on own Plugin Page
+* TWEAK: Obsolete Code Deleted
+* TWEAK: Database Updated
+* TWEAK: Translations Updated
+* TRANSLATIONS: New Language Added - Spanish(Mexican)
+* TRANSLATIONS: New Language Added - Ukrainian
+* TRANSLATIONS: New Language Added - Greek
+* TWEAK: Disclaimers Changed
+* TWEAK: Screenshots Changed
+
+= 2.0.5 =
+
+* FIX: Major Bugs Fixed
+* FIX: Problem Fixed with Email Mime Types
+
+= 2.0.4 =
+
+* FIX: Major Bugs Fixed
+* FIX: CSS Confliction Fixed with Other Plugins
+* TWEAK: Roles & Capabilities Bug Fixed
+* TWEAK: Obsolete Code Removed
+* TWEAK: Database Updated
+* TWEAK: Improved Plugin Security
+
+= 2.0.3 =
+
+* FIX: Major Bug Fixed Related to Warning/Error Messages on Plugin Upgrade
+* FIX: Login Authentication set as Default Authentication under SMTP
+
+= 2.0.2 =
+
+* Major Version Release
+* FIX: Major Bugs Fixed
+* FIX: SS Confliction Fixed with Advanced Custom Fields Plugin
+* FIX: CSS Code Optimized
+* FIX: Code Confliction Fixed with Word Fence
+* FIX: Code Confliction Fixed with Woo Commerce
+* FIX: Code Confliction Fixed with Other Major Plugins
+* TWEAK: Obsolete Code Removed
+* TWEAK: Added New Authentication Types Login & Crammd5
+* TWEAK: Added New Option to turn off Email Logs
+* TWEAK: Database Updated
+* TWEAK: Added Support for WordPress Multisite Installation
+* TWEAK: Added Security Patch
+
+= 2.0.1 =
+
+* FIX: Major Bugs Fixed
+* FIX: CSS Confliction Fixed with Advanced Custom Fields Plugin
+
+= 2.0.0 =
+
+* Major Version Release
+* TWEAK: Database Optimized
+* TWEAK: Layouts Changed
+* TWEAK: Email Logs Added
+* TWEAK: Passwords Encrypted
+* TWEAK: Install Script Modified
+* TWEAK: OAuth 2.0 Protocol Added for Security
+* TWEAK: Screenshots Changed
+* TWEAK: CSS Improved
+* TWEAK: Screenshots Added
+
+= 1.47 =
+
+* FIX: Security Patch Fixed
+* FIX: Few Urgent Bugs Fixed
+
+= 1.46 =
+
+* FIX: Compatibility with 4.6
+* FIX: Security Issue Fixed
+* FIX: Few Urgent Bugs Fixed
+
+= 1.45 =
+
+* FIX: Security Issue Fixed
+* FIX: Few Urgent Bugs Fixed
+
+= 1.44 =
+
+* TWEAK: Compatibility with 4.5.3
+* FIX: Few Urgent Bugs Fixed
+
+= 1.43 =
+
+* FIX: From Name Special Characters Bug Fixed
+
+= 1.42 =
+
+* FIX: Added New Checkbox to confirm whether to Override "From Name" Property while sending Mails.
+* FIX: Added New Checkbox to confirm whether to Override "From Email" Property while sending Mails.
+
+= 1.41 =
+
+* FIX: Few Urgent Bugs Fixed
+
+= 1.40 =
+
+* TWEAK: Compatibility with 4.5
+* FIX: Few Urgent Bugs Fixed
+
+= 1.39 =
+
+* TWEAK: Rolling Back Changes made in 1.38
+* FIX: Few Urgent Bugs Fixed
+
+= 1.0.36 =
+
+* TWEAK: Compatibility with 4.4.2
+* FIX: Few Urgent Bugs Fixed
+
+= 1.0.35 =
+
+* TWEAK: Compatibility with 4.4.1
+* FIX: Few Urgent Bugs Fixed
+
+= 1.0.34 =
+
+* TWEAK: Compatibility with 4.4
+* FIX: Few Urgent Bugs Fixed
+
+= 1.0.33 =
+
+* FIX: Few Urgent Bugs Fixed
+
+= 1.0.32 =
+
+* FIX: CSS Issue Fixed.
+
+= 1.0.31 =
+
+* FIX: Few Urgent Bugs Fixed
+
+= 1.0.30 =
+
+* TWEAK: Compatibility with 4.3.1
+* FIX: Few Urgent Bugs Fixed
+
+= 1.0.29 =
+
+* FIX: Few Urgent Bugs Fixed
+
+= 1.0.28 =
+
+* FIX: Php Mailer function updated.
+
+= 1.0.27 =
+
+* FIX: Few Urgent Bugs Fixed
+
+= 1.0.26 =
+
+* TWEAK: Compatibility with 4.3
+
+= 1.0.25 =
+
+* FIX: Few Urgent Bugs Fixed
+
+= 1.0.24 =
+
+* TWEAK: Compatibility with 4.2.3
+
+= 1.0.23 =
+
+* FIX: Few Bugs Fixed
+
+= 1.0.22 =
+
+* FIX: Few Urgent Bugs Fixed
+
+= 1.21 =
+
+* FIX: Few Bugs Fixed
+
+= 1.20 =
+
+* FIX: Few Bugs Fixed
+* FIX: Removed Unwanted Js Files
+
+= 1.19 =
+
+* FIX: Auto Updation Bug Fixed. (Will not update from next release, if updates are off.)
+
+= 1.18 =
+
+* FIX: Minor Bugs Fixed.
+
+= 1.17 =
+
+* TWEAK: Added Compatibility with WordPress 4.2.2
+
+= 1.16 =
+
+* TWEAK: Added Compatibility with WordPress 4.2.1
+
+= 1.15 =
+
+* TWEAK: Added Compatibility with WordPress 4.2
+
+= 1.14 =
+
+* TWEAK: Added Compatibility with WordPress 4.1.2
+
+= 1.13 =
+
+* FIX: Minor Bugs Fixed.
+
+= 1.12 =
+
+* FIX: Formatting Issue Fixed.
+
+= 1.11 =
+
+* FIX: Minor Bugs Fixed.
+* TWEAK: Other Services Section Updated.
+* TWEAK: Premium Editions Section Updated.
+
+= 1.10 =
+
+* TWEAK: Added new feature of Feature Request.
+
+= 1.9 =
+
+* TWEAK: Implemented New Feature - Automatic Mail Bank Plugin Update Enable/Disable.
+* FIX: Bug Fix From From name Field.
+
+= 1.8 =
+
+* FIX: Bug Fixed in WP Mail Bank
+
+= 1.7 =
+
+* TWEAK: Recommendation Section Changed
+
+= 1.6 =
+
+* TWEAK: Pricing Change.
+
+= 1.5 =
+
+* FIX: CSS Issue Fixed.
+* TWEAK: Added Compatibility with 4.1 WordPress
+
+= 1.4 =
+
+* TWEAK: Added Update Message for New Version
+
+= 1.3 =
+
+* TWEAK: Multisite Compatibility Added.
+* TWEAK: Added Compatibility with 4.0.1 WordPress
+* TWEAK: Recommended Section Added
+* TWEAK: Other Services Section Added
+
+= 1.2 =
+
+* TWEAK: Light Weight CSS Framework
+* FIX: Fixed Bugs with PHP Version Prior to 5.3
+* TWEAK: Added System Status
+
+= 1.1 =
+
+* FIX: SMTP Password Saving Bug Fixed
+
+= 1.0 =
+
+* Initial Release

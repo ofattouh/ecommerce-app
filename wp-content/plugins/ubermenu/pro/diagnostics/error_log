@@ -1,0 +1,4 @@
+[09-Jun-2016 19:15:46 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/pshsa/public_html/wp-content/plugins/ubermenu/pro/diagnostics/diagnostics.php on line 3
+[17-Jul-2016 14:53:48 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/pshsa/public_html/wp-content/plugins/ubermenu/pro/diagnostics/diagnostics.php on line 3
+[09-Aug-2016 04:51:43 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/pshsa/public_html/wp-content/plugins/ubermenu/pro/diagnostics/diagnostics.php on line 3
+[30-Aug-2016 15:22:00 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/pshsa/public_html/wp-content/plugins/ubermenu/pro/diagnostics/diagnostics.php on line 3

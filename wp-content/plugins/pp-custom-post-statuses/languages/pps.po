@@ -1,0 +1,518 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PP Custom Post Statuses 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-09-09 22:36-0500\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Kevin Behrens <kevin@agapetry.net>\n"
+"Language-Team: Agapetry Creations LLC <kevin@agapetry.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: E:\\wwwsubs\\wp-content\\plugins\\pp-custom-post-statuses\\\n"
+"X-Poedit-KeywordsList: __;_e;_c;__ngettext;_n;pp_po_trigger;_x\n"
+"X-Poedit-SearchPath-0: E:\\wwwsubs\\wp-content\\plugins\\pp-custom-post-statuses\n"
+"X-Poedit-SearchPath-1: E:\\wwwsubs\\wp-content\\plugins\\pp-custom-post-statuses\\admin\n"
+"X-Poedit-SearchPath-2: E:\\wwwsubs\\wp-content\\plugins\\pp-custom-post-statuses\\admin\\includes\n"
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/pp-custom-post-statuses.php:54
+msgid "PP Custom Post Statuses"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/pps-load.php:38
+msgid "Member"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/pps-load.php:45
+msgid "Premium"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/pps-load.php:52
+msgid "Staff"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/pps-load.php:69
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/pps-load.php:70
+#, php-format
+msgid "%s <span class=\"count\">()</span>"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/pps-load.php:212
+msgid "Submitters"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/pps-load.php:212
+msgid "Submitter"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/pps-load.php:251
+msgid "Force Visibility"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/pps-load.php:254
+msgid "Post Status"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/admin-load_pps.php:115
+msgid "Add New Status"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/admin-load_pps.php:116
+msgid "Edit Status"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/admin-load_pps.php:129
+msgid "Post Statuses"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/admin_pps.php:59
+msgid "Privacy"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/ajax-ui_pps.php:16
+msgid "Custom Moderation: "
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/ajax-ui_pps.php:17
+msgid "Custom Visibility: "
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/options_pps.php:18
+msgid "Custom Statuses"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/options_pps.php:30
+msgid "Custom Privacy Statuses require status-specific editing capabilities"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/options_pps.php:33
+msgid "Supplemental Editor Role for \"standard statuses\" also grants capabilities for Moderation statuses"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/options_pps.php:63
+msgid "For example, should pages with custom privacy status \"member\" require the set_pages_member and edit_member_pages capabilities (to be supplied by a supplemental status-specific Page Editor role)?"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/options_pps.php:68
+msgid "Note that this applies only applies if the role definition includes the pp_moderate_any capability"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/options_pps.php:75
+msgid "Create or edit custom Privacy or Moderation statuses"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/options_pps.php:76
+msgid "Create or edit custom Moderation statuses"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/options_pps.php:77
+msgid "Create or edit custom Privacy statuses"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/options_pps.php:78
+msgid "Pertains to assignment of a custom privacy or moderation status. This capability in a WP role enables PP to assign a type-specific supplemental role with custom capabilities such as \"set_pages_approved\""
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/options_pps.php:79
+msgid "Editors can edit posts having a moderation status (i.e. Approved) without a supplemental status-specific role"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/permits-ui_pps.php:26
+#, php-format
+msgid "%s: "
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/permits-ui_pps.php:26
+#, php-format
+msgid "Custom %s: "
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/permits-ui_pps.php:87
+msgid "Draft"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/post-edit-ui_pps.php:79
+#, php-format
+msgid "force visibility of all sub%s"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/post-edit-ui_pps.php:95
+#, php-format
+msgid "Your site is configured to keep only the last %s revisions."
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/post-edit-ui_pps.php:97
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/post-edit-ui_pps.php:100
+#, php-format
+msgid "Revisions: %s"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/post-edit-ui_pps.php:210
+msgid "Define Permission Groups"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/post-edit-ui_pps.php:210
+msgid "groups"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/post-edit-ui_pps.php:238
+msgid "add moderation status"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/post-edit-ui_pps.php:285
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/post-ui_pps.php:60
+#, php-format
+msgid "%s, Sticky"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/post-edit-ui_pps.php:350
+msgid "define privacy types"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/post-edit-ui_pps.php:361
+#, php-format
+msgid "mirror selection to %1$s sub%2$s%3$s"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/post-edit-ui_pps.php:378
+#, php-format
+msgid "Sub%1$s %2$s: "
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/post-edit-ui_pps.php:384
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/post-edit-ui_pps.php:394
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/post-listing-ui_pps.php:143
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/post-ui_pps.php:55
+msgid "(manual)"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/post-edit-ui_pps.php:394
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/post-edit-ui_pps.php:396
+msgid "visibility of subpages set individually"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/post-edit-ui_pps.php:559
+#, php-format
+msgid "Post set as %s"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/post-edit-ui_pps.php:560
+#, php-format
+msgid "Page set as %s"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/post-edit-ui_pps.php:644
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/post-ui_pps.php:119
+msgid "Public"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/post-edit-ui_pps.php:652
+#, php-format
+msgid "Visibility forced to %1$s"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/post-listing-ui_pps.php:134
+msgid "Subpage Vis."
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/post-listing-ui_pps.php:134
+#, php-format
+msgid "Force visibility of sub-%s"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/post-listing-ui_pps.php:134
+#, php-format
+msgid "existing sub-%s"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/post-listing-ui_pps.php:144
+msgid "&mdash; No Change &mdash;"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/post-listing-ui_pps.php:147
+msgid "Status may also be altered by category or term"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/post-listing-ui_pps.php:238
+msgid "Visibility locked"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/post-ui_pps.php:112
+#, php-format
+msgid "Set %s"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/post-ui_pps.php:115
+#, php-format
+msgid "Save as %s"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/post-ui_pps.php:121
+#, php-format
+msgid "Public (%s)"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/pp-stati.php:27
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/pp-status-edit-handler.php:18
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/pp-status-edit.php:43
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/pp-status-handler.php:28
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/pp-status-handler.php:66
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/pp-status-handler.php:81
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/pp-status-new.php:43
+msgid "You are not permitted to do that."
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/pp-stati.php:78
+msgid "Delete Statuses"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/pp-stati.php:79
+msgid "You have specified this status for deletion:"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/pp-stati.php:96
+msgid "Confirm Deletion"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/pp-stati.php:98
+msgid "There are no valid statuses selected for deletion."
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/pp-stati.php:111
+msgid "Post Status Created."
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/pp-stati.php:124
+#, php-format
+msgid "%s status deleted"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/pp-stati.php:127
+msgid "Status edited."
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/pp-stati.php:130
+msgid "New status created."
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/pp-stati.php:159
+msgid "Define Post Privacy Statuses"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/pp-stati.php:160
+msgid "Statuses enabled here are available as Visibility options for post publishing. Affected posts become inaccessable without a corresponding status-specific role assignment."
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/pp-stati.php:162
+msgid "Define Post Moderation Statuses"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/pp-stati.php:163
+msgid "Statuses enabled here are available as pre-publication Moderation statuses - additional steps in between 'Pending Review' and 'Published'.  Affected posts become uneditable without a corresponding status-specific role assignment."
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/pp-stati.php:165
+msgid "Define Post Statuses"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/pp-stati.php:167
+#, php-format
+msgid "Define Statuses: %s"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/pp-stati.php:168
+msgid "Statuses alter your content's accessibility by imposing additional capability requirements."
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/pp-stati.php:221
+msgid "show capability mapping"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/pp-stati.php:221
+msgid "<strong>Note</strong>: Capabilities are also mapped uniquely per post type"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/pp-stati.php:228
+msgid "To define moderation statuses, activate the PP Compatibility Pack plugin."
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/pp-stati.php:230
+#, php-format
+msgid "To define moderation statuses, %1$sinstall%2$s the PP Compatibility Pack plugin."
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/pp-stati.php:232
+#, php-format
+msgid "To define moderation statuses, %1$spurchase a support key%2$s and install the PP Compatibility Pack plugin."
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/pp-status-edit.php:62
+msgid "Status updated."
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/pp-status-edit.php:64
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/pp-status-new.php:51
+msgid "Back to Statuses"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/pp-status-edit.php:76
+msgid "Edit Post Status"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/pp-status-handler.php:48
+msgid "You can&#8217;t delete that status."
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/pp-status-new.php:49
+msgid "Status created."
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/pp-status-new.php:63
+msgid "Create Post Moderation Status"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/pp-status-new.php:63
+msgid "Create Post Privacy Status"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/pp-status-new.php:86
+msgid "Create"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/status-save_ppp.php:12
+msgid "<strong>ERROR</strong>: That status name is already registered. Please choose another one."
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/status-save_ppp.php:20
+msgid "<strong>ERROR</strong>: Please enter a label for the status."
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/status-save_ppp.php:72
+msgid "<strong>ERROR</strong>: The specified status does not exist."
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/status-ui_ppp.php:27
+msgid "Label"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/status-ui_ppp.php:35
+msgid "Submit Button Label (optional)"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/status-ui_ppp.php:40
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/includes/class-pp-stati-list-table.php:67
+msgid "Order"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/status-ui_ppp.php:46
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/includes/class-pp-stati-list-table.php:71
+msgid "Post Types"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/status-ui_ppp.php:73
+msgid "(All Types)"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/status-ui_ppp.php:89
+#, php-format
+msgid "Note: Post Types must also be enabled in %1$sEdit Flow settings%2$s"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/wp-ajax-support_pps.php:25
+msgid "No items found."
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/wp-ajax-support_pps.php:27
+msgid "Title"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/wp-ajax-support_pps.php:27
+msgid "Type"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/wp-ajax-support_pps.php:27
+msgid "Date"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/wp-ajax-support_pps.php:27
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/includes/class-pp-stati-list-table.php:63
+msgid "Status"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/wp-ajax-support_pps.php:29
+msgid "(no title)"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/wp-ajax-support_pps.php:34
+msgid "Published"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/wp-ajax-support_pps.php:37
+msgid "Scheduled"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/wp-ajax-support_pps.php:40
+msgid "Pending Review"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/wp-ajax-support_pps.php:53
+msgid "Y/m/d"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/includes/class-pp-stati-list-table.php:49
+msgid "No matching statuses were found."
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/includes/class-pp-stati-list-table.php:70
+msgid "Capability Mapping"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/includes/class-pp-stati-list-table.php:72
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/includes/class-pp-stati-list-table.php:214
+msgid "Enabled"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/includes/class-pp-stati-list-table.php:135
+msgid "Custom Capabilities"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/includes/class-pp-stati-list-table.php:136
+msgid "Standard Capabilities"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/includes/class-pp-stati-list-table.php:138
+msgid "Enable"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/includes/class-pp-stati-list-table.php:139
+msgid "Disable"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/includes/class-pp-stati-list-table.php:144
+msgid "Delete"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/includes/class-pp-stati-list-table.php:192
+#, php-format
+msgid "%s, more..."
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/includes/class-pp-stati-list-table.php:194
+msgid "All"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/includes/class-pp-stati-list-table.php:212
+msgid "Enabled (custom capabilities)"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/includes/class-pp-stati-list-table.php:212
+msgid "Enabled (standard capabilities)"
+msgstr ""
+
+#: E:\wwwsubs\wp-content\plugins\pp-custom-post-statuses/admin/includes/class-pp-stati-list-table.php:214
+msgid "Disabled"
+msgstr ""
+

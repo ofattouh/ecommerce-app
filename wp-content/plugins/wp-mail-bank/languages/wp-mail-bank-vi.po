@@ -1,0 +1,1299 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mail Bank\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-22 14:27+0530\n"
+"PO-Revision-Date: 2018-06-22 14:28+0530\n"
+"Last-Translator: Tech Banker\n"
+"Language-Team: Vietnamese (Vietnam)\n"
+"Language: vi_VN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Loco-Source-Locale: en-IN\n"
+"X-Loco-Project-Id: 38931\n"
+"X-Loco-Api-Version: 1.0.18 20180126-1\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+
+#: includes/translations.php:26
+msgid "Email Log has been deleted Successfully"
+msgstr "Nhật ký Email đã được xóa Thành Công"
+
+#: includes/translations.php:27
+msgid "Are you sure you want to delete Email Log?"
+msgstr "Bạn có chắc muốn xóa Nhật ký Email?"
+
+#: includes/translations.php:28
+msgid "MailGun API"
+msgstr "MailGun API"
+
+#: includes/translations.php:29
+msgid ""
+"Your host may have installed a firewall between you and the server. Ask them "
+"to open the ports."
+msgstr ""
+"Máy chủ của bạn có thể đã cài đặt một tường lửa chặn giữa bạn và máy chủ. "
+"Hãy yêu cầu họ mở các cổng."
+
+#: includes/translations.php:30
+msgid ""
+"You may have tried to (incorrectly) use SSL over port 587. Check your "
+"encryption and port settings."
+msgstr ""
+"Có thể bạn đã cố gắng sử dụng (sai) SSL trên cổng 587. Hãy kiểm tra cài đặt "
+"mã hóa và cổng của bạn."
+
+#: includes/translations.php:31
+msgid ""
+"Your host may have poor connectivity to the mail server. Try doubling the "
+"Read Timeout."
+msgstr ""
+"Máy chủ của bạn có thể kết nối kém với máy chủ thư điện tử. Hãy yêu cầu họ "
+"mở các cổng."
+
+#: includes/translations.php:32
+msgid ""
+"Your host may have installed a firewall (DROP packets) between you and the "
+"server. Ask them to open the ports."
+msgstr ""
+"Máy chủ của bạn có thể đã cài đặt một tường lửa (THẢ gói) giữa bạn và máy "
+"chủ. Hãy yêu cầu họ mở các cổng."
+
+#: includes/translations.php:33
+msgid ""
+"Your host may have tried to (incorrectly) use TLS over port 465. Check your "
+"encryption and port settings."
+msgstr ""
+"Máy chủ của bạn có thể đã cố gắng sử dụng (sai) TLS trên cổng 465. Hãy kiểm "
+"tra cài đặt mã hóa và cổng của bạn."
+
+#: includes/translations.php:34
+msgid ""
+"Your host has likely installed a firewall (REJECT packets) between you and "
+"the server. Ask them to open the ports."
+msgstr ""
+"Máy chủ của bạn có thể đã cài đặt một tường lửa (LOẠI BỎ gói) giữa bạn và "
+"máy chủ. Hãy yêu cầu họ mở các cổng."
+
+#: includes/translations.php:35
+msgid ""
+"Your Web Host provider may have installed a firewall between you and the "
+"server."
+msgstr ""
+"Máy Chủ của Trang Web của bạn có thể đã cài đặt một tường lửa chặn giữa bạn "
+"và máy chủ."
+
+#: includes/translations.php:36
+msgid ""
+"Contact the admin of the server and ask if they allow outgoing communication "
+"on port 25,465,587."
+msgstr ""
+"Liên hệ admin của máy chủ và hỏi liệu họ có cho phép truyền tin ra ngoài qua "
+"cổng 25,465,587 không."
+
+#: includes/translations.php:37
+msgid ""
+"It seems like they are blocking certain traffic. Ask them to open the ports."
+msgstr ""
+"Có vẻ như họ đang chặn đường truyền nào đó. Hãy yêu cầu họ mở các cổng."
+
+#: includes/translations.php:38
+msgid ""
+"Your Web Host provider may have blocked the use of mail() function on your "
+"server."
+msgstr ""
+"Máy Chủ của Trang Web của bạn có thể đã chặn chức năng thư() trên máy chủ "
+"của bạn."
+
+#: includes/translations.php:39
+msgid "Ask them to enable the mail() function to start sending emails."
+msgstr "Yêu cầu họ kích hoạt hàm mail() để bắt đầu gửi email."
+
+#: includes/translations.php:42
+msgid "Premium Edition"
+msgstr "Bản Premium"
+
+#: includes/translations.php:43
+msgid ""
+"This feature is available only in Premium Editions! <br> Kindly Purchase to "
+"unlock it!"
+msgstr ""
+"Tính năng này chỉ có sẵn ở Bản Premium! <br> Bạn hãy Mua để mở khóa nó!"
+
+#: includes/translations.php:46
+msgid "Fetch Settings"
+msgstr "Cài đặt tìm nạp"
+
+#: includes/translations.php:47
+msgid "Choose options for Fetch Settings"
+msgstr "Chọn tùy chọn cho Cài đặt tìm nạp"
+
+#: includes/translations.php:48
+msgid "Individual Site"
+msgstr "Trang web riêng lẻ"
+
+#: includes/translations.php:49
+msgid "Network Site"
+msgstr "Trang mạng"
+
+#: includes/translations.php:52
+msgid "Basic Info"
+msgstr "Thông tin cơ bản"
+
+#: includes/translations.php:53
+msgid "Account Setup"
+msgstr "Thiết lập tài khoản"
+
+#: includes/translations.php:54
+msgid "Confirm"
+msgstr "Xác nhận"
+
+#: includes/translations.php:58
+msgid "Email Setup"
+msgstr "Thiết lập Email"
+
+#: includes/translations.php:59 lib/dashboard-widget.php:169
+msgid "Email Logs"
+msgstr "Các Nhật ký Email"
+
+#: includes/translations.php:60
+msgid "Test Email"
+msgstr "Email Kiểm tra"
+
+#: includes/translations.php:61
+msgid "Plugin Settings"
+msgstr "Cài Đặt Plugin"
+
+#: includes/translations.php:62
+msgid "System Information"
+msgstr "Thông Tin Hệ Thống"
+
+#: includes/translations.php:63
+msgid "Ask For Help"
+msgstr "Yêu Cầu Trợ Giúp"
+
+#: includes/translations.php:64
+msgid "Roles & Capabilities"
+msgstr "Các Vai trò & Khả năng"
+
+#: includes/translations.php:67
+msgid "Success!"
+msgstr "Thành công!"
+
+#: includes/translations.php:68
+msgid "Email Setup has been updated Successfully"
+msgstr "Thiết lập Email đã được cập nhật Thành Công"
+
+#: includes/translations.php:69
+msgid "Test Email was sent Successfully!"
+msgstr "Email Kiểm tra được gửi Thành Công!"
+
+#: includes/translations.php:70
+msgid "Test Email was not sent!"
+msgstr "Email Kiểm tra chưa được gửi!"
+
+#: includes/translations.php:71
+msgid "Plugin Settings have been updated Successfully"
+msgstr "Cài Đặt Plugin đã được cập nhật Thành Công"
+
+#: includes/translations.php:72
+msgid ""
+"The OAuth is not supported by providing SMTP Host, kindly provide username "
+"and password"
+msgstr ""
+"OAuth không được hỗ trợ bằng cách cung cấp Máy chủ SMTP, hãy cung cấp tên "
+"người dùng và mật khẩu"
+
+#: includes/translations.php:73
+msgid "Your Name"
+msgstr "Tên của bạn"
+
+#: includes/translations.php:74
+msgid "Please provide your Name"
+msgstr "Vui lòng cung cấp Tên của bạn"
+
+#: includes/translations.php:75
+msgid "Roles & Capabilities have been updated Successfully"
+msgstr "Các Vai trò & Khả năng đã được cập nhật Thành Công"
+
+#: includes/translations.php:78 lib/dashboard-widget.php:173
+msgid "Email Sent"
+msgstr "Email Đã Được Gửi"
+
+#: includes/translations.php:79 lib/dashboard-widget.php:178
+msgid "Email Not Sent"
+msgstr "Email Chưa Được Gửi"
+
+#: includes/translations.php:80
+msgid ""
+"You don't have Sufficient Access to this Page. Kindly contact the "
+"Administrator for more Privileges"
+msgstr ""
+"Bạn không có Quyền Truy Cập vào Trang này. Hãy liên hệ Admin để được Trao "
+"Quyền"
+
+#: includes/translations.php:81
+msgid "Enable"
+msgstr "Kích hoạt"
+
+#: includes/translations.php:82
+msgid "Disable"
+msgstr "Vô hiệu hoá"
+
+#: includes/translations.php:83
+msgid "Override"
+msgstr "Ghi đè"
+
+#: includes/translations.php:84
+msgid "Don't Override"
+msgstr "Đừng Ghi đè"
+
+#: includes/translations.php:85
+msgid "Save Settings"
+msgstr "Lưu Cài đặt"
+
+#: includes/translations.php:86
+msgid "Subject"
+msgstr "Tiêu đề"
+
+#: includes/translations.php:87
+msgid "Next Step"
+msgstr "Bước Tiếp theo"
+
+#: includes/translations.php:88
+msgid "Previous Step"
+msgstr "Bước Kề trước"
+
+#: includes/translations.php:89
+msgid "Know about Full Features"
+msgstr "Biết về Toàn bộ các Tính năng"
+
+#: includes/translations.php:90
+msgid "or"
+msgstr "hoặc"
+
+#: includes/translations.php:91
+msgid "Check our Online Demos"
+msgstr "Kiểm tra các Bản Thử nghiệm Trực tuyến của chúng tôi"
+
+#: includes/translations.php:92
+msgid "N/A"
+msgstr "Không có sẵn"
+
+#: includes/translations.php:97
+msgid ""
+"A valid Email Address that will be used in the \"CC\" field of the email. "
+"Use Comma \",\" for including multiple email addresses in the \"CC\" field"
+msgstr ""
+"Một Địa chỉ Email hợp lệ sẽ được dùng trong mục 'CC' của email. Hãy dùng Dấu "
+"phẩy ',' để thêm nhiều địa chỉ email trong mục 'CC'"
+
+#: includes/translations.php:98
+msgid ""
+"A valid Email Address that will be used in the 'BCC' field of the email. Use "
+"Comma ',' for including multiple email addresses in the 'BCC' field"
+msgstr ""
+"Một Địa chỉ Email hợp lệ sẽ được dùng trong mục 'BCC' của email. Hãy dùng "
+"Dấu phẩy ',' để thêm nhiều địa chỉ email trong mục 'BCC'"
+
+#: includes/translations.php:99
+msgid "Please provide CC Email Address"
+msgstr "Vui lòng cung cấp Địa chỉ Email được CC"
+
+#: includes/translations.php:100
+msgid "Please provide BCC Email Address"
+msgstr "Vui lòng cung cấp Địa chỉ Email được BCC"
+
+#: includes/translations.php:101
+msgid "From Name"
+msgstr "Từ Tên"
+
+#: includes/translations.php:102
+msgid "Please provide From Name"
+msgstr "Vui lòng cung cấp Từ Tên"
+
+#: includes/translations.php:103
+msgid "From Email"
+msgstr "Từ Email"
+
+#: includes/translations.php:104
+msgid "Please provide From Email Address"
+msgstr "Vui lòng cung cấp Từ Địa chỉ Email"
+
+#: includes/translations.php:105
+msgid "Mailer Type"
+msgstr "Loại hình Chuyển thư"
+
+#: includes/translations.php:106
+msgid "Choose among the variety of options for routing emails."
+msgstr "Chọn trong số các tùy chọn để định tuyến các email."
+
+#: includes/translations.php:107
+msgid "Send Email via SMTP"
+msgstr "Gửi Email thông qua SMTP"
+
+#: includes/translations.php:108
+msgid "Use The PHP mail() Function"
+msgstr "Sử dụng hàm mail() của PHP"
+
+#: includes/translations.php:109 includes/translations.php:236
+msgid "SMTP Host"
+msgstr "Máy chủ SMTP"
+
+#: includes/translations.php:110
+msgid "Server that will send the email"
+msgstr "Máy chủ để gửi email"
+
+#: includes/translations.php:111
+msgid "Please provide SMTP Host"
+msgstr "Vui lòng cung cấp Máy Chủ SMTP"
+
+#: includes/translations.php:112
+msgid "SMTP Port"
+msgstr "Cổng SMTP"
+
+#: includes/translations.php:113
+msgid "Port to connect to the email server"
+msgstr "Cổng để kết nối với máy chủ email"
+
+#: includes/translations.php:114
+msgid "Please provide SMTP Port"
+msgstr "Vui lòng cung cấp Cổng SMTP"
+
+#: includes/translations.php:115
+msgid "Encryption"
+msgstr "Mã hóa"
+
+#: includes/translations.php:116
+msgid ""
+"Encrypt the email when sent to the email server using the different methods "
+"available"
+msgstr ""
+"Mã hóa email khi được gửi đến máy chủ email bằng cách sử dụng các phương "
+"thức có sẵn khác nhau"
+
+#: includes/translations.php:120
+msgid "Authentication"
+msgstr "Xác minh"
+
+#: includes/translations.php:121
+msgid "Method for authentication (almost always Login)"
+msgstr "Phương thức xác thực (gần như luôn là Đăng nhập)"
+
+#: includes/translations.php:122 includes/translations.php:157
+msgid "Email Address"
+msgstr "Địa chỉ Email"
+
+#: includes/translations.php:123
+msgid "A valid Email Address on which you would like to send a Test Email"
+msgstr "Một Địa chỉ Email hợp lệ mà bạn muốn dùng để gửi một Email Thử"
+
+#: includes/translations.php:124
+msgid "Please provide Email Address"
+msgstr "Vui lòng cung cấp Địa chỉ Email"
+
+#: includes/translations.php:125
+msgid "Subject Line for your Test Email"
+msgstr "Dòng Tiêu đề cho Email Kiểm tra của bạn"
+
+#: includes/translations.php:126
+msgid "Please provide Subject"
+msgstr "Vui lòng cung cấp Tiêu đề"
+
+#: includes/translations.php:127 includes/translations.php:187
+msgid "Email Content"
+msgstr "Nội dung Email"
+
+#: includes/translations.php:128
+msgid "Email Content for your Test Email"
+msgstr "Nội dung cho Email Kiểm tra của bạn"
+
+#: includes/translations.php:129
+msgid "Send Test Email"
+msgstr "Gửi Email Kiểm tra"
+
+#: includes/translations.php:130
+msgid "Checking your settings"
+msgstr "Đang kiểm tra các cài đặt của bạn"
+
+#: includes/translations.php:131
+msgid "Result"
+msgstr "Kết quả"
+
+#: includes/translations.php:132
+msgid "Send Another Test Email"
+msgstr "Gửi Email Kiểm tra Khác"
+
+#: includes/translations.php:133
+msgid "From Name Configuration"
+msgstr "Từ Định Dạng Tên"
+
+#: includes/translations.php:134
+msgid ""
+"Do you want to override the Default Name that tells email recipient about "
+"who sent the email?"
+msgstr ""
+"Bạn có muốn ghi đè lên Địa chỉ Email Mặc định mà nó cho người nhận email "
+"biết về người đã gửi email không?"
+
+#: includes/translations.php:135
+msgid "From Email Configuration"
+msgstr "Từ Định Dạng Email"
+
+#: includes/translations.php:136
+msgid ""
+"Do you want to override the Default Email Address that tells email recipient "
+"about the sender?"
+msgstr ""
+"Bạn có muốn ghi đè lên Địa chỉ Email Mặc định mà nó cho người nhận email "
+"biết về người gửi không?"
+
+#: includes/translations.php:137
+msgid "Username"
+msgstr "Tên người dùng"
+
+#: includes/translations.php:138
+msgid ""
+" Login is typically the full email address (Example: mailbox@yourdomain.com)"
+msgstr "Đăng nhập bằng địa chỉ email đầy đủ (Ví dụ: mailbox@yourdomain.com)"
+
+#: includes/translations.php:139
+msgid "Please provide username"
+msgstr "Vui lòng cung cấp tên người dùng"
+
+#: includes/translations.php:140
+msgid "Password"
+msgstr "Mật khẩu"
+
+#: includes/translations.php:141
+msgid "Password is typically the same as the password to retrieve the email"
+msgstr "Mật khẩu cũng giống như mật khẩu dùng để khôi phục lại email"
+
+#: includes/translations.php:142
+msgid "Please provide password"
+msgstr "Vui lòng cung cấp mật khẩu"
+
+#: includes/translations.php:143
+msgid "Redirect URI"
+msgstr "Chuyển tiếp URI"
+
+#: includes/translations.php:144
+msgid ""
+"Please copy this Redirect URI and Paste into Redirect URI field when "
+"creating your app"
+msgstr ""
+"Vui lòng sao chép Chuyển tiếp URI này và Dán vào mục Chuyển tiếp URI khi tạo "
+"ứng dụng của bạn"
+
+#: includes/translations.php:150
+msgid "Client Id"
+msgstr "Id Khách hàng"
+
+#: includes/translations.php:151
+msgid "Secret Key"
+msgstr "Mã Bí mật"
+
+#: includes/translations.php:152
+msgid "Client Id issued by your SMTP Host"
+msgstr "Id Khách hàng được cấp bởi Máy chủ SMTP của bạn"
+
+#: includes/translations.php:153
+msgid "Secret Key issued by your SMTP Host"
+msgstr "Mã Bí mật được cấp bởi Máy chủ SMTP của bạn"
+
+#: includes/translations.php:154
+msgid "Please provide Client Id"
+msgstr "Vui lòng cung cấp Id Khách hàng"
+
+#: includes/translations.php:155
+msgid "Please provide Secret Key"
+msgstr "Vui lòng cung cấp Mã Bí Mật"
+
+#: includes/translations.php:156
+msgid ""
+"Yes, automatically send a Test Email upon clicking on the Next Step Button "
+"to verify settings"
+msgstr ""
+"Vâng, tự động gửi một Email Kiểm tra khi bạn nhấp chuột vào Nút Bước Tiếp "
+"Theo để xác nhận cài đặt"
+
+#: includes/translations.php:158
+msgid "A valid Email Address account from which you would like to send Emails"
+msgstr "Một tài khoản Địa chỉ Email hợp lệ mà bạn muốn dùng để gửi Email"
+
+#: includes/translations.php:159
+msgid "Please provide valid Email Address"
+msgstr "Vui lòng cung cấp Địa chỉ Email hợp lệ"
+
+#: includes/translations.php:160
+msgid "Reply To"
+msgstr "Trả Lời Đến"
+
+#: includes/translations.php:161
+msgid ""
+"A valid Email Address that will be used in the 'Reply-To' field of the email"
+msgstr ""
+"Một Địa chỉ Email hợp lệ sẽ được dùng trong mục 'Trả lời-Đến' của email"
+
+#: includes/translations.php:162
+msgid "Please provide Reply To Email Address"
+msgstr "Vui lòng cung cấp Trả Lời Đến Địa Chỉ Email"
+
+#: includes/translations.php:163
+msgid "Get API Key"
+msgstr "Nhận khóa API"
+
+#: includes/translations.php:164
+msgid "How to setup?"
+msgstr "Làm thế nào để thiết lập?"
+
+#: includes/translations.php:165
+msgid "SendGrid API"
+msgstr "SendGrid API"
+
+#: includes/translations.php:167
+msgid "Start Date"
+msgstr "Ngày Bắt đầu"
+
+#: includes/translations.php:168 includes/translations.php:183
+msgid "Resend Email"
+msgstr "Gửi lại Email"
+
+#: includes/translations.php:169
+msgid "Please provide Start Date"
+msgstr "Vui lòng cung cấp Ngày Bắt Đầu"
+
+#: includes/translations.php:170
+msgid "Start Date for Email Logs"
+msgstr "Ngày Bắt Đầu của các Nhật ký Email"
+
+#: includes/translations.php:171
+msgid "End Date"
+msgstr "Ngày Kết thúc"
+
+#: includes/translations.php:172
+msgid "Limit Records"
+msgstr "Giới hạn Thư"
+
+#: includes/translations.php:173
+msgid "Number of Logs to view"
+msgstr "Số lượng Nhật ký phải xem"
+
+#: includes/translations.php:178
+msgid "Please provide End Date"
+msgstr "Vui lòng cung cấp Ngày Kết Thúc"
+
+#: includes/translations.php:179
+msgid "End Date for Email Logs"
+msgstr "Ngày kết thúc các Nhật ký Email"
+
+#: includes/translations.php:180
+msgid "Submit"
+msgstr "Gửi đi"
+
+#: includes/translations.php:181
+msgid "Bulk Action"
+msgstr "Tác Vụ"
+
+#: includes/translations.php:182
+msgid "Delete"
+msgstr "Xóa"
+
+#: includes/translations.php:184
+msgid "Apply"
+msgstr "Áp dụng"
+
+#: includes/translations.php:185
+msgid "Email To"
+msgstr "Email Đến"
+
+#: includes/translations.php:186
+msgid "Action"
+msgstr "Thao tác"
+
+#: includes/translations.php:188
+msgid "Debug Output"
+msgstr "Đầu ra Debug"
+
+#: includes/translations.php:189
+msgid "Date/Time"
+msgstr "Ngày/Giờ"
+
+#: includes/translations.php:192
+msgid "Debug Mode"
+msgstr "Chế Độ Debug"
+
+#: includes/translations.php:193
+msgid "Do you want to see Debugging Output for your emails?"
+msgstr "Bạn có muốn thấy Đầu ra Debugging trong email của bạn không?"
+
+#: includes/translations.php:194
+msgid "Remove Database at Uninstall"
+msgstr "Xóa Cơ sở dữ liệu khi Gỡ cài đặt"
+
+#: includes/translations.php:195
+msgid "Do you want to remove database at Uninstall of the Plugin?"
+msgstr "Bạn có muốn xóa cơ sở dữ liệu khi Gỡ Cài Đặt của Plugin không?"
+
+#: includes/translations.php:196
+msgid "Monitor Email Logs"
+msgstr "Giám sát Nhật ký Email"
+
+#: includes/translations.php:197
+msgid "Do you want to monitor your all Outgoing Emails?"
+msgstr "Bạn có muốn giám sát tất cả các Email Đầu Ra của mình không?"
+
+#: includes/translations.php:200
+msgid "Show Mail Bank Menu"
+msgstr "Hiện Menu Mail Bank"
+
+#: includes/translations.php:201
+msgid ""
+"Choose among the following roles who would be able to see the Mail Bank Menu?"
+msgstr "Chọn người có thể nhìn thấy Menu Mail Bank trong số các vai trò sau?"
+
+#: includes/translations.php:202
+msgid "Administrator"
+msgstr "Admin"
+
+#: includes/translations.php:203
+msgid "Author"
+msgstr "Tác giả"
+
+#: includes/translations.php:204
+msgid "Editor"
+msgstr "Người soạn thảo"
+
+#: includes/translations.php:205
+msgid "Contributor"
+msgstr "Người đóng góp"
+
+#: includes/translations.php:206
+msgid "Subscriber"
+msgstr "Người theo dõi"
+
+#: includes/translations.php:207
+msgid "Others"
+msgstr "Khác"
+
+#: includes/translations.php:208
+msgid "Show Mail Bank Top Bar Menu"
+msgstr "Hiện Thanh Menu Mail Bank Trên Cùng"
+
+#: includes/translations.php:209
+msgid "Do you want to show Mail Bank menu in Top Bar?"
+msgstr "Bạn có muốn hiện menu Mail Bank ở Thanh Trên cùng không?"
+
+#: includes/translations.php:210
+msgid "An Administrator Role can do the following "
+msgstr "Một Admin có thể làm các việc sau"
+
+#: includes/translations.php:211
+msgid ""
+"Choose what pages would be visible to the users having Administrator Access"
+msgstr ""
+"Chọn các trang nào mà người dùng có Quyền Truy Cập của Admin có thể nhìn "
+"thấy được"
+
+#: includes/translations.php:212
+msgid "Full Control"
+msgstr "Toàn Quyền Quản Lý"
+
+#: includes/translations.php:213
+msgid "An Author Role can do the following "
+msgstr "Một Tác giả có thể làm các việc sau"
+
+#: includes/translations.php:214
+msgid "Choose what pages would be visible to the users having Author Access"
+msgstr ""
+"Chọn các trang nào mà người dùng có Quyền Truy Cập của Tác giả có thể nhìn "
+"thấy được"
+
+#: includes/translations.php:215
+msgid "An Editor Role can do the following "
+msgstr "Một Người soạn thảo có thể làm các việc sau"
+
+#: includes/translations.php:216
+msgid "Choose what pages would be visible to the users having Editor Access"
+msgstr ""
+"Chọn các trang nào mà người dùng có Quyền Truy Cập của Người soạn thảo có "
+"thể nhìn thấy được"
+
+#: includes/translations.php:217
+msgid "A Contributor Role can do the following "
+msgstr "Một Người đóng góp có thể làm các việc sau"
+
+#: includes/translations.php:218
+msgid ""
+"Choose what pages would be visible to the users having Contributor Access"
+msgstr ""
+"Chọn các trang nào mà người dùng có Quyền Truy Cập của Người đóng góp có thể "
+"nhìn thấy được"
+
+#: includes/translations.php:219
+msgid "Other Roles can do the following "
+msgstr "Các Vai Trò khác có thể làm những điều sau"
+
+#: includes/translations.php:220
+msgid ""
+"Choose what pages would be visible to the users having Others Role Access"
+msgstr ""
+"Chọn các trang nào mà người dùng có Quyền Truy Cập của các Vai Trò Khác có "
+"thể nhìn thấy được"
+
+#: includes/translations.php:221
+msgid "Please tick the appropriate capabilities for security purposes "
+msgstr "Vui lòng đánh dấu các khả năng thích hợp cho mục đích bảo mật"
+
+#: includes/translations.php:222
+msgid "Only users with these capabilities can access Mail Bank"
+msgstr ""
+"Chỉ những người dùng với các khả năng này mới có thể truy cập Mail Bank"
+
+#: includes/translations.php:223
+msgid "A Subscriber Role can do the following"
+msgstr "Một Người theo dõi có thể làm các việc sau"
+
+#: includes/translations.php:224
+msgid ""
+"Choose what pages would be visible to the users having Subscriber Access"
+msgstr ""
+"Chọn các trang nào mà người dùng có Quyền Truy Cập của Người theo dõi có thể "
+"nhìn thấy được"
+
+#: includes/translations.php:227
+msgid "Sending Test Email to"
+msgstr "Gửi Email Kiểm tra đến"
+
+#: includes/translations.php:228
+msgid "Email Status"
+msgstr "Trạng thái Email"
+
+#: includes/translations.php:231
+msgid "Connectivity Test"
+msgstr "Kiểm Tra Kết Nối"
+
+#: includes/translations.php:232
+msgid "Transport"
+msgstr "Vận chuyển thư"
+
+#: includes/translations.php:233
+msgid "Socket"
+msgstr "Socket"
+
+#: includes/translations.php:234
+msgid "Status"
+msgstr "Trạng thái"
+
+#: includes/translations.php:235
+msgid "SMTP"
+msgstr "SMTP"
+
+#: includes/translations.php:237
+msgid "Begin Test"
+msgstr "Bắt đầu Kiểm tra"
+
+#: includes/translations.php:239
+msgid "SMTP Server that will be used for a Connectivity Test"
+msgstr "Máy chủ SMTP sẽ được dùng để Kiểm Tra Kết Nối"
+
+#: includes/translations.php:242
+msgid "Additional Headers"
+msgstr "Các Đầu Trang thêm vào"
+
+#: includes/translations.php:243
+msgid ""
+"You also can insert additional headers in this optional field in order to "
+"include in your email"
+msgstr ""
+"Bạn cũng có thể chèn các đầu trang thêm vào trong mục không bắt buộc này để "
+"thêm vào email của bạn"
+
+#: lib/dashboard-widget.php:78
+msgid "to"
+msgstr "đến"
+
+#: lib/dashboard-widget.php:79
+msgid "using"
+msgstr "sử dụng"
+
+#: lib/dashboard-widget.php:167
+msgid "is configured"
+msgstr "được định dạng"
+
+#: lib/dashboard-widget.php:168
+msgid "will send mail through "
+msgstr "sẽ gửi email qua"
+
+#: lib/dashboard-widget.php:169
+msgid "Email Configuration"
+msgstr "Định dạng Email"
+
+#: lib/dashboard-widget.php:183
+msgid "Upgrade Now to Premium Editions"
+msgstr "Nâng cấp lên Bản Premium Ngay"
+
+#: views/wizard/wizard.php:52
+msgid "Hi there!"
+msgstr "Xin chào!"
+
+#: views/wizard/wizard.php:53
+msgid ""
+"Don't ever miss an opportunity to opt in for Email Notifications / "
+"Announcements about exciting New Features and Update Releases."
+msgstr ""
+"Đừng bỏ lỡ cơ hội nào để opt in Thông báo/ Thông cáo qua Email về các Tính "
+"Năng mới hấp dấn và Bản Cập nhật Mới."
+
+#: views/wizard/wizard.php:54
+msgid ""
+"Contribute in helping us making our plugin compatible with most plugins and "
+"themes by allowing to share non-sensitive information about your website."
+msgstr ""
+"Hãy giúp chúng tôi làm cho plugin của mình tương thích với hầu hết các "
+"plugin và theme bằng cách cho phép chia sẻ các thông tin không nhạy cảm về "
+"trang web của bạn."
+
+#: views/wizard/wizard.php:55
+msgid ""
+"If you opt in, some data about your usage of Mail Bank Plugin will be sent "
+"to our servers for Compatiblity Testing Purposes and email notifications."
+msgstr ""
+"Nếu bạn chọn tham gia, một số dữ liệu về việc sử dụng Plugin Ngân hàng Thư "
+"của bạn sẽ được gửi đến máy chủ của chúng tôi cho Mục đích Thử nghiệm Tương "
+"thích và thông báo qua email."
+
+#: views/wizard/wizard.php:62
+msgid "Email Address for Notifications"
+msgstr "Địa chỉ Email nhận Thông báo"
+
+#: views/wizard/wizard.php:68
+msgid "If you're not ready to Opt-In, that's ok too!"
+msgstr "Nếu bạn chưa sẵn sàng để Opt-In, cũng không sao cả!"
+
+#: views/wizard/wizard.php:69
+msgid "Mail Bank will still work fine."
+msgstr "Mail Bank vẫn hoạt động tốt."
+
+#: views/wizard/wizard.php:73
+msgid "What permissions are being granted?"
+msgstr "Những quyền nào đang được cấp?"
+
+#: views/wizard/wizard.php:81
+msgid "User Details"
+msgstr "Chi tiết Người dùng"
+
+#: views/wizard/wizard.php:82
+msgid "Name and Email Address"
+msgstr "Tên và Địa chỉ Email"
+
+#: views/wizard/wizard.php:92
+msgid "Current Plugin Status"
+msgstr "Trạng thái Plugin hiện tại"
+
+#: views/wizard/wizard.php:93
+msgid "Activation, Deactivation and Uninstall"
+msgstr "Kích hoạt, Vô hiệu hóa và Gỡ Cài đặt"
+
+#: views/wizard/wizard.php:103
+msgid "Notifications"
+msgstr "Thông báo"
+
+#: views/wizard/wizard.php:104
+msgid "Updates &amp; Announcements"
+msgstr "Các Cập nhật &amp; Thông báo"
+
+#: views/wizard/wizard.php:114
+msgid "Website Overview"
+msgstr "Tổng quan Trang Web"
+
+#: views/wizard/wizard.php:115
+msgid "Site URL, WP Version, PHP Info, Plugins &amp; Themes Info"
+msgstr "URL Trang, Phiên bản WP, Thông tin PHP, Thông tin Plugins &amp; Themes"
+
+#: views/wizard/wizard.php:124
+msgid "Opt-In &amp; Continue"
+msgstr "Opt-In &amp; Tiếp tục"
+
+#: views/wizard/wizard.php:128
+msgid "Skip &amp; Continue"
+msgstr "Bỏ qua &amp; Tiếp tục"
+
+#: views/wizard/wizard.php:135
+msgid "Privacy Policy"
+msgstr "Chính sách Riêng tư"
+
+#: views/wizard/wizard.php:137
+msgid "Terms &amp; Conditions"
+msgstr "Điều khoản &amp; Điều kiện"
+
+#: wp-mail-bank.php:912
+msgid "Sure! I'd love to!"
+msgstr "Chắc chắn rồi! Tôi rất muốn!"
+
+#: wp-mail-bank.php:913
+msgid "I've already left a review"
+msgstr "Tôi đã đánh giá rồi"
+
+#: wp-mail-bank.php:914
+msgid "Maybe Later"
+msgstr "Có lẽ Để sau"
+
+#: wp-mail-bank.php:916
+msgid "Leave A Review For Mail Bank ?"
+msgstr "Để lại Một Đánh Giá Cho Mail Bank?"
+
+#: wp-mail-bank.php:917
+msgid ""
+"We love and care about you. Mail Bank Team is putting our maximum efforts to "
+"provide you the best functionalities.<br> We would really appreciate if you "
+"could spend a couple of seconds to give a Nice Review to the plugin for "
+"motivating us!"
+msgstr ""
+"Chúng tôi yêu và quan tâm đến bạn. Đội ngũ Mail Bank đang cố gắng hết mình "
+"để đem đến cho bạn các chức năng tốt nhất.<br> Chúng tôi sẽ rất cảm kích nếu "
+"bạn có thể dành vài giây để viết một Đánh Giá Hay cho plugin để động viên "
+"chúng tôi!"
+
+#: wp-mail-bank.php:1074
+msgid "We feel guilty when anyone stop using Mail Bank."
+msgstr "Chúng tôi cảm thấy có lỗi khi ai đó ngừng sử dụng Mail Bank."
+
+#: wp-mail-bank.php:1075
+msgid "If Mail Bank isn't working for you, others also may not."
+msgstr "Nếu Mail Bank không có hiệu quả với bạn, các cái khác cũng vậy."
+
+#: wp-mail-bank.php:1076
+msgid "We would love to hear your feedback about what went wrong."
+msgstr "Chúng tôi muốn nghe phản hồi của bạn về những điều chưa tốt."
+
+#: wp-mail-bank.php:1077
+msgid "We would like to help you in fixing the issue."
+msgstr "Chúng tôi muốn giúp bạn sửa lỗi."
+
+#: wp-mail-bank.php:1078
+msgid ""
+"If you click Continue, some data would be sent to our servers for "
+"Compatiblity Testing Purposes."
+msgstr ""
+"Nếu bạn nhấp vào Tiếp tục, một số dữ liệu sẽ được gửi đến máy chủ của chúng "
+"tôi cho Mục đích kiểm tra tương thích."
+
+#: wp-mail-bank.php:1079
+msgid "If you Skip, no data would be shared with our servers."
+msgstr ""
+"Nếu bạn Bỏ qua, sẽ không có dữ liệu nào được chia sẻ với các máy chủ của "
+"chúng tôi."
+
+#: wp-mail-bank.php:1086
+msgid "The Plugin didn't work"
+msgstr "Plugin không hoạt động"
+
+#: wp-mail-bank.php:1092
+msgid "I found a better Plugin"
+msgstr "Tôi đã tìm thấy một Plugin hay hơn"
+
+#: wp-mail-bank.php:1098
+msgid "It's a temporary deactivation. I'm just debugging an issue."
+msgstr "Nó chỉ bị vô hiệu hóa tạm thời. Tôi chỉ đang gỡ lỗi."
+
+#: wp-mail-bank.php:1104
+msgid "Open a Support Ticket for me."
+msgstr "Tạo một Vé Yêu cầu Hỗ trợ cho tôi."
+
+#: wp-mail-bank.php:1174
+msgid "WP Mail Bank Compatibility Warning"
+msgstr "Cảnh báo tương thích với WP Mail Bank"
+
+#: wp-mail-bank.php:1175
+msgid ""
+"The following plugins are not compatible with Mail Bank and may lead to "
+"unexpected results: "
+msgstr ""
+"Các plugin sau không tương thích với Mail Bank và có thể dẫn đến kết quả "
+"không mong muốn:"
+
+#: wp-mail-bank.php:1181
+msgid "Deactivate"
+msgstr "Hủy kích hoạt"
+
+#~ msgid "SMTP Debugging Output"
+#~ msgstr "Đầu ra Debugging SMTP"
+
+#~ msgid "Get Google Client Id and Secret Key"
+#~ msgstr "Lấy Id Khách hàng Google và Mã Bí mật"
+
+#~ msgid "Get Microsoft Client Id and Secret Key"
+#~ msgstr "Lấy Id Khách hàng Microsoft và Mã Bí mật"
+
+#~ msgid "Get Yahoo Client Id and Secret Key"
+#~ msgstr "Lấy Id Khách hàng Yahoo và Mã Bí mật"
+
+#~ msgid "Email Log Details"
+#~ msgstr "Chi tiết Nhật ký Email"
+
+#~ msgid "Feedback"
+#~ msgstr "Phản hồi"
+
+#~ msgid "Your Feedback has been sent Successfully"
+#~ msgstr "Phản hồi của bạn đã được gửi Thành Công"
+
+#~ msgid "Please choose an Action from Dropdown!"
+#~ msgstr "Vui lòng chọn một Thao tác từ Dropdown!"
+
+#~ msgid "Please choose at least 1 record to delete!"
+#~ msgstr "Vui lòng chọn ít nhất 1 thư để xóa!"
+
+#~ msgid "Are you sure you want to delete Email Logs?"
+#~ msgstr "Bạn có chắc muốn xóa các Nhật ký Email?"
+
+#~ msgid "Selected Logs have been deleted Successfully"
+#~ msgstr "Các Nhật ký được chọn đã được xóa Thành Công"
+
+#~ msgid "Are you sure you want to Resend Emails?"
+#~ msgstr "Bạn có chắc muốn Gửi Lại các Email?"
+
+#~ msgid "Invalid Secret Key. Please rectify and try again!"
+#~ msgstr "Mã Bí Mật không hợp lệ. Vui lòng sửa và thử lại!"
+
+#~ msgid "Licensing"
+#~ msgstr "Giấy phép"
+
+#~ msgid "Your Email has been Resent Successfully"
+#~ msgstr "Email của bạn đã được Gửi Lại Thành Công"
+
+#~ msgid "Your Emails have been Resent Successfully"
+#~ msgstr "Các Email của bạn đã được Gửi Lại Thành Công"
+
+#~ msgid "Unfortunately, Your Email has not been Sent"
+#~ msgstr "Rất tiếc, Email của Bạn chưa được Gửi"
+
+#~ msgid "Are you sure you want to Resend Email?"
+#~ msgstr "Bạn có chắc muốn Gửi Lại Email?"
+
+#~ msgid "Your License has been activated Successfully"
+#~ msgstr "Giấy Phép của bạn đã được kích hoạt Thành Công"
+
+#~ msgid ""
+#~ "The following php extensions are not found on your server or are "
+#~ "currently disabled. These might create few problems in configuring Mail "
+#~ "Bank. Please contact your WebHost to setup these extensions on your server"
+#~ msgstr ""
+#~ "Các phần mở rộng php sau đây không được tìm thấy trên máy chủ của bạn "
+#~ "hoặc hiện đang bị vô hiệu hóa. Điều này có thể gây ra một số vấn đề trong "
+#~ "việc định dạng Mail Bank. Vui lòng liên hệ WebHost của bạn để thiết lập "
+#~ "những phần mở rộng này trên máy chủ của bạn"
+
+#~ msgid "In this field, you would need to provide Mailgun API Key"
+#~ msgstr "Ở mục này, bạn sẽ cần cung cấp Mailgun API Key"
+
+#~ msgid "Domain Name"
+#~ msgstr "Tên Miền"
+
+#~ msgid "In this field, you would need to provide Mailgun domain name"
+#~ msgstr "Ở mục này, bạn sẽ cần cung cấp tên miền Mailgun"
+
+#~ msgid "Please provide Mailgun Domain Name"
+#~ msgstr "Vui lòng cung cấp Tên Miền Mailgun"
+
+#~ msgid "In this field, you need to provide SendGrid API Key"
+#~ msgstr "Ở mục này, bạn cần cung cấp SendGrid API Key"
+
+#~ msgid "Please provide valid API key"
+#~ msgstr "Vui lòng cung cấp API key hợp lệ"
+
+#~ msgid ""
+#~ "A valid Email Address that will be used in the 'CC' field of the email. "
+#~ "Use Comma ',' for including multiple email addresses in the 'CC' field"
+#~ msgstr ""
+#~ "Một Địa chỉ Email hợp lệ sẽ được dùng trong mục 'CC' của email. Hãy dùng "
+#~ "Dấu phẩy ',' để thêm nhiều địa chỉ email trong mục 'CC'"
+
+#~ msgid "Mailer Settings"
+#~ msgstr "Cài đặt Chuyển thư"
+
+#~ msgid "Choose among the variety of options for routing emails"
+#~ msgstr "Chọn trong số các tùy chọn để định tuyến các email"
+
+#~ msgid "Mailgun API"
+#~ msgstr "Mailgun API"
+
+#~ msgid "Get SendGrid API Key"
+#~ msgstr "Lấy SendGrid API Key"
+
+#~ msgid "Use SMTP Authentication"
+#~ msgstr "Sử dụng Xác minh SMTP"
+
+#~ msgid "Don't Use SMTP Authentication"
+#~ msgstr "Đừng Sử Dụng Xác Minh SMTP"
+
+#~ msgid "Email Details"
+#~ msgstr "Chi tiết Email"
+
+#~ msgid "Close"
+#~ msgstr "Đóng"
+
+#~ msgid "Email Sent To"
+#~ msgstr "Email Được Gửi Đến"
+
+#~ msgid "From"
+#~ msgstr "Từ"
+
+#~ msgid "Back to Email Logs"
+#~ msgstr "Trở về Nhật ký Email"
+
+#~ msgid "Automatic Plugin Updates"
+#~ msgstr "Tự Động Cập Nhật Plugin"
+
+#~ msgid ""
+#~ "Please choose a specific option whether to allow Automatic Plugin Updates"
+#~ msgstr ""
+#~ "Vui lòng chọn một tùy chọn cụ thể có cho phép Tự động Cập nhật Plugin hay "
+#~ "không"
+
+#~ msgid "Monitoring Email Logs"
+#~ msgstr "Giám sát các Nhật ký Email"
+
+#~ msgid "An Administrator Role can do the following"
+#~ msgstr "Một Admin có thể làm các việc sau"
+
+#~ msgid "An Author Role can do the following"
+#~ msgstr "Một Tác giả có thể làm các việc sau"
+
+#~ msgid "An Editor Role can do the following"
+#~ msgstr "Một Người soạn thảo có thể làm các việc sau"
+
+#~ msgid "A Contributor Role can do the following"
+#~ msgstr "Một Người đóng góp có thể làm các việc sau"
+
+#~ msgid "Other Roles can do the following"
+#~ msgstr "Các Vai Trò khác có thể làm những điều sau"
+
+#~ msgid "Please tick the appropriate capabilities for security purposes"
+#~ msgstr "Vui lòng đánh dấu các khả năng thích hợp cho mục đích bảo mật"
+
+#~ msgid "Thank You!"
+#~ msgstr "Cảm Ơn!"
+
+#~ msgid ""
+#~ "Kindly fill in the below form, if you would like to suggest some features "
+#~ "which are not in the Plugin"
+#~ msgstr ""
+#~ "Hãy điền thông tin vào mẫu bên dưới, nếu bạn muốn đề xuất một vài tính "
+#~ "năng không có trong Plugin"
+
+#~ msgid ""
+#~ "If you also have any suggestion/complaint, you can use the same form below"
+#~ msgstr "Nếu bạn có đề xuất/than phiền, bạn có thể sử dụng cùng mẫu bên dưới"
+
+#~ msgid "You can also write us on"
+#~ msgstr "Bạn cũng có thể viết cho chúng tôi trên"
+
+#~ msgid "Please provide your Name which will be sent along with your Feedback"
+#~ msgstr ""
+#~ "Vui lòng cung cấp Tên của bạn mà sẽ được gửi kèm theo Phản hồi của bạn"
+
+#~ msgid "Your Email"
+#~ msgstr "Email của bạn"
+
+#~ msgid ""
+#~ "Please provide your Email Address which will be sent along with your "
+#~ "Feedback"
+#~ msgstr ""
+#~ "Vui lòng cung cấp Địa chỉ Email mà bạn sẽ dùng để gửi Phản hồi của mình"
+
+#~ msgid "Please provide your Email Address"
+#~ msgstr "Vui lòng cung cấp Địa chỉ Email của bạn"
+
+#~ msgid "Please provide your Feedback which will be sent along"
+#~ msgstr "Vui lòng cung cấp Phản hồi của bạn mà sẽ được gửi kèm theo"
+
+#~ msgid "Please provide your Feedback"
+#~ msgstr "Vui lòng cung cấp Phản hồi của bạn"
+
+#~ msgid "Send Feedback"
+#~ msgstr "Gửi Phản hồi"
+
+#~ msgid "Your request Email has been sent Successfully"
+#~ msgstr "Email yêu cầu của bạn đã được gửi Thành Công"
+
+#~ msgid "Service Available"
+#~ msgstr "Dịch vụ Có sẵn"
+
+#~ msgid "Server ID"
+#~ msgstr "ID Máy chủ"
+
+#~ msgid "Important Notice!"
+#~ msgstr "Thông Báo Quan Trọng!"
+
+#~ msgid ""
+#~ "Congratulations! You have recently purchased Mail Bank and now you would "
+#~ "need to activate the license in order to unlock it!"
+#~ msgstr ""
+#~ "Xin chúc mừng! Bạn vừa mua Mail Bank và giờ bạn cần phải kích hoạt giấy "
+#~ "phép để mở khóa nó!"
+
+#~ msgid ""
+#~ "Kindly fill in the required details and click on Validate License to "
+#~ "unlock it"
+#~ msgstr ""
+#~ "Hãy điền thông tin theo yêu cầu và nhấp chuột vào Hiệu lực hóa Giấy phép "
+#~ "để mở khóa nó"
+
+#~ msgid "If you face any issues activating the license, you may contact us at"
+#~ msgstr ""
+#~ "Nếu bạn gặp phải các vấn đề trong việc kích hoạt giấy phép, bạn có thể "
+#~ "liên hệ chúng tôi tại"
+
+#~ msgid "Product Name"
+#~ msgstr "Tên Sản phẩm"
+
+#~ msgid "Current Version"
+#~ msgstr "Phiên Bản hiện tại"
+
+#~ msgid "Website URL"
+#~ msgstr "URL Trang Web"
+
+#~ msgid "Order ID"
+#~ msgstr "Đặt ID"
+
+#~ msgid "API KEY"
+#~ msgstr "API KEY"
+
+#~ msgid "Validate License"
+#~ msgstr "Hiệu Lực Hóa Giấy Phép"
+
+#~ msgid "This field shows your Installed Product"
+#~ msgstr "Mục này hiển thị Sản Phẩm mà bạn Cài Đặt"
+
+#~ msgid "This field shows your Installed Product Version"
+#~ msgstr "Mục này hiển thị Phiên Bản Sản Phẩm mà bạn Cài Đặt"
+
+#~ msgid "This field shows your Website URL"
+#~ msgstr "Mục này hiển thị URL của Trang web của bạn"
+
+#~ msgid ""
+#~ "Please provide your Order ID  which you have received after purchasing "
+#~ "the Product."
+#~ msgstr ""
+#~ "Vui lòng cung cấp ID Đặt hàng mà bạn nhận được sau khi đặt mua Sản phẩm."
+
+#~ msgid ""
+#~ "Please provide your API Key which you have received after purchasing the "
+#~ "Product."
+#~ msgstr ""
+#~ "Vui lòng cung cấp mã API Key mà bạn nhận được sau khi đặt mua Sản phẩm."
+
+#~ msgid "Please provide Order ID received after making the purchase"
+#~ msgstr "Vui lòng cung cấp ID Đặt hàng mà bạn nhận được sau khi đặt mua"
+
+#~ msgid "Please provide API Key received after making the purchase"
+#~ msgstr "Vui lòng cung cấp mã API Key mà bạn nhận được sau khi đặt mua"
+
+#~ msgid "If Mail Bank is not working for you, others also may not."
+#~ msgstr "Nếu Mail Bank không có hiệu quả với bạn, các cái khác cũng vậy."

@@ -1,0 +1,546 @@
+# Copyright (C) 2017 SkyVerge
+# This file is distributed under the GNU General Public License v3.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Moneris Gateway 2.7.2\n"
+"Report-Msgid-Bugs-To: https://woocommerce.com/my-account/tickets/\n"
+"POT-Creation-Date: 2014-06-15 22:41:27+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/api/class-wc-moneris-api-interac-response.php:70
+#: includes/api/class-wc-moneris-api-interac-response.php:79
+msgid "Request-back data incomplete: order id signature could not be validated"
+msgstr ""
+
+#: includes/api/class-wc-moneris-api-interac-response.php:84
+msgid "Request-back order id signature validation failed"
+msgstr ""
+
+#: includes/api/class-wc-moneris-api-interac-response.php:177
+msgid "Interac idebit transaction funded"
+msgstr ""
+
+#: includes/api/class-wc-moneris-api-interac-response.php:179
+msgid "Interac idebit PAN number failed mod 10 check"
+msgstr ""
+
+#: includes/api/class-wc-moneris-api-interac-response.php:183
+msgid "Interac idebit transaction not funded"
+msgstr ""
+
+#: includes/api/class-wc-moneris-api-interac-response.php:185
+msgid "Interac idebit transaction response error"
+msgstr ""
+
+#: includes/api/class-wc-moneris-api-interac-response.php:526
+msgid "Invalid %1$s data: %2$s"
+msgstr ""
+
+#: includes/api/class-wc-moneris-api-response.php:169
+msgid ""
+"  Please enable CVD handling in your Moneris merchant profile, or contact "
+"your Moneris account rep to enable CVD handling for your account."
+msgstr ""
+
+#: includes/api/class-wc-moneris-api-response.php:173
+msgid "Transaction incomplete: %s"
+msgstr ""
+
+#: includes/api/class-wc-moneris-api-response.php:175
+msgid "Transaction incomplete"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-credit-card.php:107
+msgid "Moneris"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-credit-card.php:108
+msgid "Allow customers to securely check out using Moneris"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-credit-card.php:121
+#: includes/class-wc-gateway-moneris-interac.php:124
+msgid "Production"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-credit-card.php:122
+#: includes/class-wc-gateway-moneris-interac.php:125
+msgid "Sandbox"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-credit-card.php:146
+msgid "Integration Country"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-credit-card.php:148
+msgid "Is your Moneris account based in the US or Canada?"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-credit-card.php:151
+msgid "Canada"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-credit-card.php:152
+msgid "United States"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-credit-card.php:157
+#: includes/class-wc-gateway-moneris-credit-card.php:171
+#: includes/class-wc-gateway-moneris-credit-card.php:189
+#: includes/class-wc-gateway-moneris-interac.php:187
+#: includes/class-wc-gateway-moneris-interac.php:201
+msgid "Store ID"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-credit-card.php:160
+#: includes/class-wc-gateway-moneris-interac.php:190
+msgid "Your Moneris store ID"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-credit-card.php:164
+#: includes/class-wc-gateway-moneris-interac.php:194
+msgid "API Token"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-credit-card.php:167
+#: includes/class-wc-gateway-moneris-interac.php:197
+msgid ""
+"Your Moneris API token.  Find this by logging into your Moneris account and "
+"going to Admin &gt; store settings &gt; API Token"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-credit-card.php:184
+msgid ""
+"Moneris uses a set of shared test accounts, to view your transactions log "
+"in to the %smerchant center%s with the selected store id and password "
+"'abc1234'"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-credit-card.php:200
+#: includes/class-wc-gateway-moneris-interac.php:208
+msgid ""
+"Moneris uses a set of shared test accounts, to view your transactions log "
+"in to the %smerchant center%s with the selected store id and password "
+"'password'"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-credit-card.php:205
+msgid "Dynamic Decriptor"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-credit-card.php:207
+msgid "What your buyers will see on their credit card statement "
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-credit-card.php:208
+msgid ""
+"Twenty characters maximum allowed if the integration country is United "
+"States"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-credit-card.php:212
+msgid "Address Verification Service (AVS)"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-credit-card.php:213
+msgid "Perform an AVS check on customers billing addresses"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-credit-card.php:214
+msgid ""
+"This must first be enabled in your Moneris merchant profile and works only "
+"with Visa / MasterCard / Discover / JCB / American Express card types.  All "
+"other card types will not be declined due to AVS."
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-credit-card.php:220
+msgid "If neither street address nor zip code match"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-credit-card.php:224
+#: includes/class-wc-gateway-moneris-credit-card.php:237
+#: includes/class-wc-gateway-moneris-credit-card.php:250
+#: includes/class-wc-gateway-moneris-credit-card.php:263
+#: includes/class-wc-gateway-moneris-credit-card.php:310
+#: includes/class-wc-gateway-moneris-credit-card.php:323
+msgid "Accept Transaction"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-credit-card.php:225
+#: includes/class-wc-gateway-moneris-credit-card.php:238
+#: includes/class-wc-gateway-moneris-credit-card.php:251
+#: includes/class-wc-gateway-moneris-credit-card.php:264
+#: includes/class-wc-gateway-moneris-credit-card.php:311
+#: includes/class-wc-gateway-moneris-credit-card.php:324
+msgid "Reject Transaction"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-credit-card.php:226
+#: includes/class-wc-gateway-moneris-credit-card.php:239
+#: includes/class-wc-gateway-moneris-credit-card.php:252
+#: includes/class-wc-gateway-moneris-credit-card.php:265
+#: includes/class-wc-gateway-moneris-credit-card.php:312
+#: includes/class-wc-gateway-moneris-credit-card.php:325
+msgid "Hold Transaction"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-credit-card.php:229
+#: includes/class-wc-gateway-moneris-credit-card.php:242
+#: includes/class-wc-gateway-moneris-credit-card.php:255
+#: includes/class-wc-gateway-moneris-credit-card.php:268
+#: includes/class-wc-gateway-moneris-credit-card.php:315
+#: includes/class-wc-gateway-moneris-credit-card.php:328
+msgid ""
+"Use 'Accept' to automatically accept the transaction, 'Reject' to "
+"automatically decline the transaction, and 'Hold' to perform an "
+"authorization and hold the order for review."
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-credit-card.php:233
+msgid ""
+"If zip code matches but street address does not match or could not be "
+"verified"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-credit-card.php:246
+msgid ""
+"If street address matches but zip code does not match or could not be "
+"verified"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-credit-card.php:259
+msgid "If street address and zip code could not be verified"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-credit-card.php:302
+msgid "Collect a Card Security Code (CVD) on checkout and validate"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-credit-card.php:303
+msgid ""
+"This must first be enabled in your Moneris merchant profile and works only "
+"with Visa / MasterCard / Discover / JCB / American Express card types.  All "
+"other card types will not be declined due to CSC."
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-credit-card.php:306
+msgid "If CSC does not match"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-credit-card.php:319
+msgid "If CSC could not be verified"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-credit-card.php:332
+msgid "Require Card Verification"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-credit-card.php:334
+msgid "Require the Card Security Code for all transactions"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-credit-card.php:335
+msgid ""
+"Enabling this field will require the CSC even for tokenized transactions, "
+"and will disable support for WooCommerce Subscriptions and WooCommerce "
+"Pre-Orders."
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-credit-card.php:360
+msgid "Hosted Tokenization"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-credit-card.php:361
+msgid ""
+"Use a hosted form field to collect credit card information on checkout and "
+"reduce PCI-compliance assessment scope."
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-credit-card.php:367
+#: includes/class-wc-gateway-moneris-credit-card.php:379
+msgid "Hosted Tokenization Profile ID"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-credit-card.php:370
+#: includes/class-wc-gateway-moneris-credit-card.php:382
+msgid ""
+"Generate this by logging into your %sMerchant Resource Center%s &gt; Admin "
+"&gt; Hosted Tokenization - use %s%s%s as the source domain."
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-credit-card.php:408
+msgid ""
+"An error occurred with your payment, please try again or try another "
+"payment method"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-credit-card.php:409
+msgid "Card number is missing or invalid"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-credit-card.php:757
+#: includes/class-wc-gateway-moneris-credit-card.php:776
+msgid "AVS %s (result: %s)"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-credit-card.php:761
+#: includes/class-wc-gateway-moneris-credit-card.php:780
+msgid "CSC %s (result: %s)"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-credit-card.php:783
+msgid "Authorization"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-credit-card.php:868
+msgid "%s%s Authorization Reversed"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-credit-card.php:870
+#: includes/class-wc-gateway-moneris-credit-card.php:891
+#: includes/class-wc-gateway-moneris-credit-card.php:919
+msgid "Test"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-credit-card.php:875
+msgid "(Transaction ID %s)"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-credit-card.php:889
+msgid "%s%s Authorization Reversal Failed: %s - %s"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-credit-card.php:917
+msgid "%s%s Authorization Reversal Failed: %s"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-credit-card.php:1215
+msgid "postal code match, street address no match"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-credit-card.php:1218
+msgid "postal code no match, street address match"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-credit-card.php:1221
+msgid "postal code no match, street address no match"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-credit-card.php:1224
+#: includes/class-wc-gateway-moneris-credit-card.php:1271
+msgid "could not be verified"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-credit-card.php:1268
+msgid "no match"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-credit-card.php:1318
+msgid "Data Key"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-credit-card.php:1410
+msgid "token: %s"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-credit-card.php:1413
+msgid "hosted tokenization response error message: %s"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-interac.php:117
+msgid "Moneris Interac"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-interac.php:118
+msgid "Allow customers to securely check out with Interac"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-interac.php:163
+msgid "Use connection/authentication settings from Moneris credit card gateway"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-interac.php:213
+#: includes/class-wc-gateway-moneris-interac.php:224
+msgid "InteracOnline Merchant Number"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-interac.php:216
+#: includes/class-wc-gateway-moneris-interac.php:227
+msgid "IDEBIT_MERCHNUM value provided by Moneris"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-interac.php:217
+#: includes/class-wc-gateway-moneris-interac.php:228
+msgid ""
+"To receive your IDEBIT_MERCHNUM you will need to provide Moneris with your "
+"funded and non-funded URL: %1$s As well as your referrer URL: %2$s"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-interac.php:273
+msgid "INTERAC&reg; Online"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-interac.php:287
+msgid "Pay securely with INTERAC Online"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-interac.php:288
+msgid "&reg; Trade-mark of Interac Inc. Used under licence"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-interac.php:289
+msgid ""
+"Learn more at <a target=\"_blank\" "
+"href=\"http://www.interaconline.com/learn\">www.interaconline.com/learn</a>"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-interac.php:320
+msgid "All amounts shown are in Canadian Dollars."
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-interac.php:496
+msgid "Funded"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-interac.php:499
+msgid "Completed"
+msgstr ""
+
+#: includes/wc-gateway-moneris-template.php:59
+#: includes/wc-gateway-moneris-template.php:134
+msgid "TEST MODE ENABLED"
+msgstr ""
+
+#: includes/wc-gateway-moneris-template.php:135
+msgid "Sample Test Credit Card Number: %s"
+msgstr ""
+
+#: templates/checkout/moneris-hosted-tokenization-payment-fields.php:46
+#: templates/checkout/moneris-payment-fields.php:46
+msgid "Manage My Cards"
+msgstr ""
+
+#: templates/checkout/moneris-hosted-tokenization-payment-fields.php:49
+#: templates/checkout/moneris-payment-fields.php:49
+msgid "%1$s ending in %2$s (expires %3$s)"
+msgstr ""
+
+#: templates/checkout/moneris-hosted-tokenization-payment-fields.php:51
+#: templates/checkout/moneris-payment-fields.php:51
+msgid "Use a new credit card"
+msgstr ""
+
+#: templates/checkout/moneris-hosted-tokenization-payment-fields.php:59
+#: templates/checkout/moneris-payment-fields.php:57
+msgid "Credit Card Number"
+msgstr ""
+
+#: templates/checkout/moneris-hosted-tokenization-payment-fields.php:65
+#: templates/checkout/moneris-payment-fields.php:62
+msgid "Expiration Date"
+msgstr ""
+
+#: templates/checkout/moneris-hosted-tokenization-payment-fields.php:67
+#: templates/checkout/moneris-payment-fields.php:64
+msgid "Month"
+msgstr ""
+
+#: templates/checkout/moneris-hosted-tokenization-payment-fields.php:73
+#: templates/checkout/moneris-payment-fields.php:70
+msgid "Year"
+msgstr ""
+
+#: templates/checkout/moneris-hosted-tokenization-payment-fields.php:83
+#: templates/checkout/moneris-payment-fields.php:80
+msgid "Card Security Code"
+msgstr ""
+
+#: templates/checkout/moneris-hosted-tokenization-payment-fields.php:100
+#: templates/checkout/moneris-payment-fields.php:96
+msgid "Securely Save Card to Account"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Moneris Gateway"
+msgstr ""
+
+#: woocommerce-gateway-moneris.php:292
+msgid "Configure Moneris"
+msgstr ""
+
+#: woocommerce-gateway-moneris.php:292
+msgid "Configure Interac"
+msgstr ""
+
+#: woocommerce-gateway-moneris.php:329
+msgid ""
+"%1$sMoneris Gateway:%2$s US integration dynamic descriptor is too long.  "
+"You are recommended to %3$sshorten%4$s it to 20 characters or less as only "
+"the first 20 characters will be used."
+msgstr ""
+
+#: woocommerce-gateway-moneris.php:351
+msgid ""
+"%1$sMoneris Gateway:%2$s Hosted tokenization is enabled but will not be "
+"active until a %3$sProfile ID%4$s is configured."
+msgstr ""
+
+#: woocommerce-gateway-moneris.php:373
+msgid "Reverse Authorization"
+msgstr ""
+
+#: woocommerce-gateway-moneris.php:460 woocommerce-gateway-moneris.php:495
+#: woocommerce-gateway-moneris.php:502
+msgid "INTERAC Details"
+msgstr ""
+
+#: woocommerce-gateway-moneris.php:463 woocommerce-gateway-moneris.php:497
+#: woocommerce-gateway-moneris.php:504
+msgid "Issuer Confirmation:"
+msgstr ""
+
+#: woocommerce-gateway-moneris.php:464 woocommerce-gateway-moneris.php:498
+#: woocommerce-gateway-moneris.php:505
+msgid "Issuer Name:"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.woocommerce.com/products/moneris-gateway/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Accept credit cards and Interac Online in WooCommerce with the Moneris "
+"Gateway"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "SkyVerge"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.woocommerce.com/"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-credit-card.php:357
+msgctxt "Supports tokenization"
+msgid ""
+"Allow customers to securely save their payment details for future checkout. "
+" You must contact your Moneris account rep to enable the \"Vault\" option "
+"on your account before enabling this setting."
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-credit-card.php:1470
+msgctxt "Order Note: (Payment method) Payment failed (error)"
+msgid "%s Payment Failed (%s)"
+msgstr ""
+
+#: includes/class-wc-gateway-moneris-interac.php:365
+msgctxt "hash before order number"
+msgid "#"
+msgstr ""
